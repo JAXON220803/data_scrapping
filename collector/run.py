@@ -97,7 +97,7 @@ class Engine:
                                 continue
                             try:
                                 result = adapter.statistics(fixture)
-                            except ValueError as error:
+                            except (ValueError, Missing) as error:
                                 fixture.update(last_error=str(error)[:250], retry_at=self.now() + 86400)
                                 task['last_error'] = f'Match {fixture["id"]}: {str(error)[:180]}'
                                 self.store.write(self.fixture_path(target, source), fixtures)
@@ -114,7 +114,7 @@ class Engine:
                             task.pop('last_error', None)
                         elif all(f.get('statistics_status') for f in fixtures.values()):
                             task.update(phase='inventory', retry_at=task.get('inventory_retry_at', self.now() + 86400))
-                except ValueError as error:
+                except (ValueError, Missing) as error:
                     task.update(last_error=str(error)[:250], retry_at=self.now() + 86400,
                                 errors=task.get('errors', 0) + 1)
                     LOG.warning('%s %s needs review: %s', source, current, error)

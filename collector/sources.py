@@ -148,6 +148,8 @@ class Flashscore:
         try:
             response = page.goto(url, wait_until='domcontentloaded', timeout=120000)
             self._check()
+            if response is not None and response.status == 404:
+                raise Missing('Flashscore page returned HTTP 404')
             if response is None or response.status != 200:
                 raise Blocked('Archive did not return HTTP 200')
             page.wait_for_timeout(2000)

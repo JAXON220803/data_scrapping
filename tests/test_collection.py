@@ -3,7 +3,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from collector.common import Blocked, Budget, Deferred, Store, merge_rows
+from collector.common import Blocked, Budget, Deferred, Missing, Store, merge_rows
 from collector.parsers import flash_fixtures, flash_statistics, sofa_fixture, sofa_statistics, season_year
 from collector.run import Engine
 from collector.status import needs_work
@@ -229,6 +229,23 @@ class CollectionTests(unittest.TestCase):
             self.assertEqual(report['seasons'][0]['sources']['flashscore']['phase'], 'inventory')
         self.assertEqual(adapter.calls, 1)
         self.assertFalse(store.path('COMPLETE.json').exists())
+
+    def test_missing_season_page_does_not_stop_other_seasons(self):
+        store = self.make_repository()
+        manifest = store.read('targets.json')
+        extra = {**manifest['targets'][0], 'id': 'Test/N1/2011-2012', 'start_year': 2011}
+        manifest['targets'].append(extra)
+        store.write('targets.json', manifest)
+        class Fake:
+            def inventory_step(self, target, task, fixtures):
+                if target['start_year'] == 2011:
+                    raise Missing('HTTP 404')
+                task.update(phase='statistics', inventory_complete=True)
+            def close(self):
+                pass
+        report = Engine(self.root, adapters={'sofascore': Fake()}).run(('sofascore',))
+        self.assertEqual(report['source_tasks_done'], 1)
+        self.assertEqual(report['last_run']['sofascore']['status'], 'batch_processed')
 
 
 if __name__ == '__main__':
