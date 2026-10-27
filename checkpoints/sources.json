@@ -1,1 +1,8 @@
-{}
+{
+  "sofascore": {
+    "reason": "HTTP 403: source denied access",
+    "retry_at": 1793224711.122277,
+    "status": "Blocked",
+    "target": "Netherlands/N1/2016-2017"
+  }
+}
