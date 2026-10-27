@@ -1,0 +1,313 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+B1,27/07/2024,Anderlecht,St Truiden,1,0,H,11,2,3,0
+B1,27/07/2024,Beerschot VA,Oud-Heverlee Leuven,0,0,D,1,9,0,2
+B1,28/07/2024,Charleroi,Antwerp,0,1,A,12,12,5,4
+B1,26/07/2024,Club Brugge,Mechelen,1,1,D,28,5,7,2
+B1,27/07/2024,Dender,St. Gilloise,0,0,D,3,10,0,3
+B1,28/07/2024,Genk,Standard,0,0,D,21,4,3,1
+B1,28/07/2024,Kortrijk,Gent,0,1,A,15,8,5,2
+B1,28/07/2024,Westerlo,Cercle Brugge,3,0,H,10,12,6,4
+B1,02/08/2024,St. Gilloise,Beerschot VA,3,1,H,10,6,4,2
+B1,03/08/2024,Mechelen,Westerlo,2,4,A,12,14,4,9
+B1,03/08/2024,Oud-Heverlee Leuven,Genk,3,1,H,11,18,5,7
+B1,03/08/2024,St Truiden,Charleroi,1,4,A,3,15,2,7
+B1,04/08/2024,Antwerp,Anderlecht,1,2,A,17,10,7,4
+B1,04/08/2024,Cercle Brugge,Kortrijk,1,2,A,23,11,6,6
+B1,04/08/2024,Standard,Club Brugge,1,0,H,10,16,2,6
+B1,04/08/2024,Gent,Dender,1,2,A,15,17,3,5
+B1,09/08/2024,Standard,Mechelen,0,0,D,17,9,4,2
+B1,10/08/2024,Dender,Kortrijk,4,1,H,12,9,6,2
+B1,10/08/2024,Westerlo,St. Gilloise,4,3,H,24,14,9,7
+B1,10/08/2024,Anderlecht,Oud-Heverlee Leuven,1,1,D,19,10,2,4
+B1,11/08/2024,Genk,Club Brugge,3,2,H,14,17,7,7
+B1,11/08/2024,Antwerp,St Truiden,6,1,H,11,15,8,7
+B1,11/08/2024,Charleroi,Gent,1,0,H,17,7,5,0
+B1,11/08/2024,Cercle Brugge,Beerschot VA,4,1,H,22,4,8,3
+B1,16/08/2024,St. Gilloise,Charleroi,1,0,H,18,6,4,1
+B1,17/08/2024,Beerschot VA,Genk,3,4,A,15,11,7,6
+B1,17/08/2024,St Truiden,Dender,3,3,D,12,14,4,7
+B1,17/08/2024,Mechelen,Anderlecht,1,3,A,22,12,9,8
+B1,18/08/2024,Club Brugge,Antwerp,1,0,H,14,13,5,3
+B1,18/08/2024,Oud-Heverlee Leuven,Cercle Brugge,1,1,D,12,11,6,5
+B1,18/08/2024,Kortrijk,Standard,1,0,H,21,6,8,0
+B1,18/08/2024,Gent,Westerlo,4,1,H,15,15,8,8
+B1,24/08/2024,Westerlo,Oud-Heverlee Leuven,1,1,D,15,13,3,6
+B1,24/08/2024,Antwerp,Mechelen,0,1,A,19,13,4,4
+B1,25/08/2024,Dender,Club Brugge,1,2,A,11,13,5,4
+B1,25/08/2024,St Truiden,St. Gilloise,0,0,D,5,13,0,2
+B1,25/08/2024,Standard,Beerschot VA,1,0,H,12,11,3,2
+B1,25/08/2024,Charleroi,Kortrijk,1,0,H,12,5,3,1
+B1,30/08/2024,Genk,Westerlo,1,0,H,15,9,5,0
+B1,31/08/2024,Mechelen,Charleroi,5,2,H,11,25,7,6
+B1,31/08/2024,Beerschot VA,Dender,1,2,A,15,16,4,4
+B1,31/08/2024,Oud-Heverlee Leuven,Standard,2,0,H,13,4,4,0
+B1,01/09/2024,Club Brugge,Cercle Brugge,3,0,H,21,11,10,3
+B1,01/09/2024,Gent,Antwerp,1,1,D,15,15,8,10
+B1,01/09/2024,St. Gilloise,Anderlecht,0,0,D,22,10,6,5
+B1,01/09/2024,Kortrijk,St Truiden,1,1,D,15,8,4,3
+B1,13/09/2024,Dender,Standard,0,2,A,15,6,3,4
+B1,14/09/2024,Cercle Brugge,Genk,2,3,A,10,24,2,12
+B1,14/09/2024,Kortrijk,Club Brugge,0,3,A,6,19,2,6
+B1,14/09/2024,Anderlecht,Westerlo,2,2,D,25,17,8,8
+B1,15/09/2024,Antwerp,St. Gilloise,2,0,H,11,10,4,6
+B1,15/09/2024,St Truiden,Oud-Heverlee Leuven,2,1,H,7,21,4,8
+B1,15/09/2024,Charleroi,Beerschot VA,3,0,H,24,12,12,4
+B1,15/09/2024,Gent,Mechelen,2,0,H,22,12,7,7
+B1,17/09/2024,Anderlecht,Genk,0,2,A,18,19,4,9
+B1,20/09/2024,Standard,St. Gilloise,0,0,D,8,18,3,7
+B1,21/09/2024,Beerschot VA,St Truiden,0,3,A,14,20,0,11
+B1,21/09/2024,Westerlo,Antwerp,1,2,A,18,11,6,6
+B1,21/09/2024,Anderlecht,Charleroi,0,0,D,10,9,4,3
+B1,22/09/2024,Club Brugge,Gent,2,4,A,27,7,9,4
+B1,22/09/2024,Mechelen,Cercle Brugge,2,0,H,9,7,5,2
+B1,22/09/2024,Genk,Dender,4,0,H,28,5,13,2
+B1,22/09/2024,Oud-Heverlee Leuven,Kortrijk,1,1,D,16,9,2,2
+B1,26/09/2024,Cercle Brugge,Gent,2,1,H,14,6,5,2
+B1,27/09/2024,Charleroi,Club Brugge,1,1,D,14,18,5,4
+B1,28/09/2024,Genk,Mechelen,2,1,H,10,14,4,6
+B1,28/09/2024,Standard,Westerlo,1,2,A,16,9,3,4
+B1,28/09/2024,Dender,Anderlecht,1,1,D,6,12,4,5
+B1,29/09/2024,Antwerp,Beerschot VA,5,0,H,,,,
+B1,29/09/2024,St. Gilloise,Kortrijk,3,0,H,17,4,5,2
+B1,29/09/2024,Gent,Oud-Heverlee Leuven,3,0,H,10,12,5,3
+B1,29/09/2024,Cercle Brugge,St Truiden,1,1,D,13,9,2,1
+B1,04/10/2024,Westerlo,Beerschot VA,2,2,D,25,7,9,3
+B1,05/10/2024,Mechelen,Oud-Heverlee Leuven,5,0,H,15,8,6,3
+B1,05/10/2024,Kortrijk,Genk,2,1,H,8,18,3,7
+B1,05/10/2024,Dender,Charleroi,1,0,H,7,21,2,9
+B1,06/10/2024,Anderlecht,Standard,3,0,H,10,18,7,4
+B1,06/10/2024,Antwerp,Cercle Brugge,3,0,H,14,16,5,6
+B1,06/10/2024,Club Brugge,St. Gilloise,1,1,D,13,9,5,3
+B1,06/10/2024,St Truiden,Gent,1,1,D,30,14,12,3
+B1,18/10/2024,Beerschot VA,Anderlecht,2,1,H,10,26,2,8
+B1,19/10/2024,Westerlo,Club Brugge,1,2,A,13,15,6,8
+B1,19/10/2024,Cercle Brugge,Dender,0,0,D,13,4,6,0
+B1,19/10/2024,St. Gilloise,Gent,0,0,D,20,11,5,4
+B1,20/10/2024,Genk,St Truiden,3,2,H,19,13,7,5
+B1,20/10/2024,Oud-Heverlee Leuven,Antwerp,1,1,D,15,7,3,1
+B1,20/10/2024,Standard,Charleroi,2,1,H,14,13,9,3
+B1,20/10/2024,Mechelen,Kortrijk,3,0,H,14,11,7,1
+B1,25/10/2024,Kortrijk,Beerschot VA,1,0,H,10,11,7,4
+B1,26/10/2024,Charleroi,Oud-Heverlee Leuven,0,2,A,19,7,4,4
+B1,26/10/2024,Dender,Mechelen,2,5,A,8,21,4,9
+B1,26/10/2024,St Truiden,Westerlo,2,0,H,20,20,6,6
+B1,27/10/2024,Club Brugge,Anderlecht,2,1,H,20,7,9,2
+B1,27/10/2024,Antwerp,Standard,3,0,H,15,12,5,3
+B1,27/10/2024,Gent,Genk,0,2,A,5,17,0,3
+B1,27/10/2024,St. Gilloise,Cercle Brugge,1,3,A,18,7,5,4
+B1,01/11/2024,Westerlo,Dender,2,0,H,15,17,8,1
+B1,02/11/2024,Standard,St Truiden,2,1,H,11,17,4,5
+B1,02/11/2024,Oud-Heverlee Leuven,Club Brugge,0,1,A,15,13,4,7
+B1,02/11/2024,Mechelen,St. Gilloise,1,1,D,11,8,3,2
+B1,03/11/2024,Genk,Antwerp,2,0,H,16,7,7,0
+B1,03/11/2024,Cercle Brugge,Charleroi,2,0,H,18,8,7,1
+B1,03/11/2024,Anderlecht,Kortrijk,4,0,H,22,2,6,1
+B1,03/11/2024,Beerschot VA,Gent,0,0,D,9,9,4,5
+B1,08/11/2024,St Truiden,Mechelen,2,1,H,16,7,5,2
+B1,09/11/2024,Kortrijk,Antwerp,1,2,A,14,13,5,7
+B1,09/11/2024,Dender,Oud-Heverlee Leuven,1,1,D,11,19,3,2
+B1,09/11/2024,Charleroi,Westerlo,1,0,H,22,10,7,5
+B1,10/11/2024,Cercle Brugge,Anderlecht,0,5,A,12,10,3,5
+B1,10/11/2024,Gent,Standard,5,0,H,22,6,12,5
+B1,10/11/2024,St. Gilloise,Genk,4,0,H,18,13,7,4
+B1,10/11/2024,Beerschot VA,Club Brugge,2,2,D,6,19,5,8
+B1,22/11/2024,Antwerp,Dender,1,1,D,27,9,6,5
+B1,23/11/2024,Club Brugge,St Truiden,7,0,H,19,9,11,1
+B1,23/11/2024,Standard,Cercle Brugge,1,0,H,9,11,5,4
+B1,23/11/2024,Genk,Charleroi,3,0,H,18,13,7,6
+B1,24/11/2024,Mechelen,Beerschot VA,3,0,H,16,16,10,3
+B1,24/11/2024,Oud-Heverlee Leuven,St. Gilloise,1,1,D,8,12,1,4
+B1,24/11/2024,Anderlecht,Gent,6,0,H,18,6,11,4
+B1,24/11/2024,Westerlo,Kortrijk,4,0,H,21,8,9,2
+B1,29/11/2024,Kortrijk,Mechelen,3,1,H,12,8,5,3
+B1,30/11/2024,Club Brugge,Dender,4,1,H,18,4,8,2
+B1,30/11/2024,Charleroi,Standard,1,1,D,17,9,2,5
+B1,01/12/2024,St Truiden,Genk,2,2,D,15,23,6,3
+B1,01/12/2024,Beerschot VA,Cercle Brugge,3,2,H,21,11,8,4
+B1,01/12/2024,Oud-Heverlee Leuven,Anderlecht,0,0,D,17,11,2,5
+B1,01/12/2024,St. Gilloise,Antwerp,2,1,H,18,14,6,4
+B1,01/12/2024,Westerlo,Gent,2,2,D,20,16,7,6
+B1,07/12/2024,Genk,Kortrijk,3,2,H,12,16,6,4
+B1,07/12/2024,Mechelen,Club Brugge,1,2,A,20,10,5,2
+B1,07/12/2024,Standard,Oud-Heverlee Leuven,1,1,D,14,10,4,2
+B1,07/12/2024,Gent,St Truiden,2,0,H,13,14,3,3
+B1,08/12/2024,Antwerp,Charleroi,1,3,A,23,17,8,7
+B1,08/12/2024,Cercle Brugge,St. Gilloise,0,0,D,13,11,7,4
+B1,08/12/2024,Anderlecht,Beerschot VA,2,1,H,20,10,6,5
+B1,08/12/2024,Dender,Westerlo,1,0,H,5,15,1,3
+B1,13/12/2024,Mechelen,Antwerp,1,1,D,10,8,6,3
+B1,14/12/2024,Beerschot VA,Standard,0,0,D,18,14,8,2
+B1,14/12/2024,Oud-Heverlee Leuven,Charleroi,1,0,H,9,9,2,3
+B1,14/12/2024,Kortrijk,Dender,0,3,A,14,7,1,4
+B1,15/12/2024,Club Brugge,Genk,2,0,H,19,4,5,1
+B1,15/12/2024,St. Gilloise,Westerlo,3,1,H,29,10,13,4
+B1,15/12/2024,St Truiden,Anderlecht,0,2,A,25,10,6,5
+B1,15/12/2024,Gent,Cercle Brugge,1,1,D,15,17,5,5
+B1,20/12/2024,Westerlo,Mechelen,1,1,D,19,10,6,3
+B1,21/12/2024,Charleroi,St Truiden,2,1,H,19,14,7,4
+B1,21/12/2024,Dender,Antwerp,1,3,A,4,11,1,4
+B1,21/12/2024,Beerschot VA,Kortrijk,2,2,D,19,13,6,3
+B1,22/12/2024,Genk,Anderlecht,2,0,H,17,7,5,2
+B1,22/12/2024,Standard,Gent,0,1,A,9,20,0,9
+B1,22/12/2024,St. Gilloise,Club Brugge,2,2,D,11,14,4,6
+B1,22/12/2024,Cercle Brugge,Oud-Heverlee Leuven,1,0,H,10,10,4,2
+B1,26/12/2024,Antwerp,Genk,2,2,D,9,29,3,11
+B1,26/12/2024,Club Brugge,Westerlo,4,3,H,14,18,9,9
+B1,26/12/2024,Kortrijk,Charleroi,0,1,A,13,18,2,6
+B1,26/12/2024,Mechelen,Standard,0,0,D,17,10,5,1
+B1,26/12/2024,Gent,St. Gilloise,1,3,A,5,14,3,7
+B1,27/12/2024,Oud-Heverlee Leuven,Beerschot VA,2,0,H,24,11,10,6
+B1,27/12/2024,Anderlecht,Dender,2,3,A,13,15,5,4
+B1,27/12/2024,St Truiden,Cercle Brugge,1,1,D,26,7,7,3
+B1,10/01/2025,Standard,Kortrijk,1,0,H,13,19,6,7
+B1,11/01/2025,Westerlo,St Truiden,1,2,A,25,9,6,3
+B1,11/01/2025,Genk,Oud-Heverlee Leuven,2,0,H,12,16,5,3
+B1,11/01/2025,Charleroi,St. Gilloise,1,2,A,8,7,4,4
+B1,12/01/2025,Beerschot VA,Antwerp,1,1,D,16,12,7,2
+B1,12/01/2025,Dender,Gent,0,0,D,11,8,3,1
+B1,12/01/2025,Anderlecht,Club Brugge,0,3,A,10,12,5,5
+B1,12/01/2025,Cercle Brugge,Mechelen,1,0,H,18,10,7,5
+B1,17/01/2025,Gent,Charleroi,1,1,D,8,12,3,5
+B1,18/01/2025,Dender,Cercle Brugge,0,1,A,7,16,1,6
+B1,18/01/2025,Mechelen,Genk,1,2,A,5,14,2,10
+B1,18/01/2025,Club Brugge,Beerschot VA,4,2,H,17,13,11,3
+B1,19/01/2025,Kortrijk,Anderlecht,0,2,A,11,10,3,3
+B1,19/01/2025,St. Gilloise,Oud-Heverlee Leuven,1,0,H,17,5,9,2
+B1,19/01/2025,St Truiden,Standard,1,2,A,17,11,2,4
+B1,19/01/2025,Antwerp,Westerlo,3,2,H,11,19,7,10
+B1,24/01/2025,St Truiden,Antwerp,1,1,D,19,18,6,8
+B1,25/01/2025,Westerlo,Genk,1,2,A,14,6,6,2
+B1,25/01/2025,Charleroi,Cercle Brugge,1,1,D,7,12,3,5
+B1,25/01/2025,Club Brugge,Kortrijk,1,1,D,19,9,7,2
+B1,26/01/2025,Standard,Dender,1,0,H,9,15,6,3
+B1,26/01/2025,Beerschot VA,St. Gilloise,0,4,A,5,11,3,5
+B1,26/01/2025,Anderlecht,Mechelen,4,1,H,14,13,8,7
+B1,26/01/2025,Oud-Heverlee Leuven,Gent,0,0,D,20,24,4,6
+B1,31/01/2025,Oud-Heverlee Leuven,Mechelen,1,0,H,5,29,1,8
+B1,01/02/2025,Charleroi,Dender,5,0,H,19,3,10,2
+B1,01/02/2025,Cercle Brugge,Standard,1,1,D,14,13,3,3
+B1,01/02/2025,Genk,Beerschot VA,1,0,H,17,5,5,0
+B1,02/02/2025,Antwerp,Club Brugge,2,1,H,7,19,3,10
+B1,02/02/2025,St. Gilloise,St Truiden,2,1,H,16,8,3,3
+B1,02/02/2025,Gent,Anderlecht,1,0,H,12,12,3,4
+B1,02/02/2025,Kortrijk,Westerlo,1,2,A,9,14,3,8
+B1,07/02/2025,Mechelen,Gent,3,3,D,16,15,8,6
+B1,08/02/2025,Club Brugge,Oud-Heverlee Leuven,1,0,H,17,7,6,2
+B1,08/02/2025,Dender,St Truiden,2,1,H,14,9,5,3
+B1,08/02/2025,Genk,Cercle Brugge,2,1,H,16,11,6,4
+B1,09/02/2025,Anderlecht,Antwerp,2,0,H,15,9,5,3
+B1,09/02/2025,Kortrijk,St. Gilloise,1,2,A,11,16,2,6
+B1,09/02/2025,Westerlo,Standard,4,2,H,21,12,8,2
+B1,09/02/2025,Beerschot VA,Charleroi,1,1,D,12,9,2,1
+B1,14/02/2025,Standard,Genk,1,2,A,9,15,4,4
+B1,15/02/2025,Oud-Heverlee Leuven,Dender,3,2,H,14,19,5,8
+B1,15/02/2025,Antwerp,Kortrijk,2,1,H,15,15,8,3
+B1,15/02/2025,St Truiden,Club Brugge,2,2,D,6,23,4,8
+B1,16/02/2025,Gent,Beerschot VA,3,2,H,19,15,4,6
+B1,16/02/2025,St. Gilloise,Mechelen,0,1,A,18,11,9,4
+B1,16/02/2025,Charleroi,Anderlecht,0,1,A,13,5,4,1
+B1,16/02/2025,Cercle Brugge,Westerlo,1,1,D,24,8,7,5
+B1,21/02/2025,Mechelen,St Truiden,1,1,D,5,11,1,3
+B1,22/02/2025,Dender,Beerschot VA,0,0,D,8,18,1,2
+B1,22/02/2025,Westerlo,Charleroi,1,3,A,6,11,2,4
+B1,22/02/2025,Antwerp,Oud-Heverlee Leuven,2,2,D,22,10,8,5
+B1,23/02/2025,Club Brugge,Standard,1,2,A,13,11,6,3
+B1,23/02/2025,Genk,Gent,0,0,D,18,11,3,3
+B1,23/02/2025,Anderlecht,St. Gilloise,0,2,A,10,6,4,5
+B1,23/02/2025,Kortrijk,Cercle Brugge,1,1,D,11,4,4,3
+B1,28/02/2025,Charleroi,Genk,1,1,D,11,12,6,4
+B1,01/03/2025,Cercle Brugge,Antwerp,0,0,D,19,8,4,4
+B1,01/03/2025,Gent,Club Brugge,1,1,D,19,12,6,2
+B1,01/03/2025,St Truiden,Kortrijk,4,2,H,9,14,6,8
+B1,01/03/2025,St. Gilloise,Dender,4,1,H,20,4,15,2
+B1,02/03/2025,Beerschot VA,Mechelen,1,0,H,14,12,5,5
+B1,02/03/2025,Standard,Anderlecht,0,2,A,11,7,4,3
+B1,02/03/2025,Oud-Heverlee Leuven,Westerlo,0,0,D,8,18,2,3
+B1,07/03/2025,St Truiden,Beerschot VA,2,0,H,15,11,6,3
+B1,08/03/2025,Kortrijk,Oud-Heverlee Leuven,2,0,H,20,9,6,2
+B1,08/03/2025,Charleroi,Mechelen,0,1,A,12,11,2,6
+B1,08/03/2025,Dender,Genk,0,1,A,13,14,2,5
+B1,09/03/2025,Cercle Brugge,Club Brugge,1,3,A,15,15,2,5
+B1,09/03/2025,Westerlo,Anderlecht,2,0,H,15,17,4,2
+B1,09/03/2025,Antwerp,Gent,0,1,A,12,13,6,5
+B1,09/03/2025,St. Gilloise,Standard,3,0,H,9,6,3,2
+B1,15/03/2025,Genk,St. Gilloise,2,1,H,21,10,7,3
+B1,16/03/2025,Standard,Antwerp,0,0,D,13,7,4,2
+B1,16/03/2025,Anderlecht,Cercle Brugge,3,0,H,19,17,7,5
+B1,16/03/2025,Club Brugge,Charleroi,4,2,H,25,8,12,4
+B1,16/03/2025,Gent,Kortrijk,1,2,A,10,7,2,3
+B1,16/03/2025,Mechelen,Dender,2,1,H,17,19,5,7
+B1,16/03/2025,Oud-Heverlee Leuven,St Truiden,3,2,H,13,6,4,3
+B1,16/03/2025,Beerschot VA,Westerlo,1,2,A,16,11,2,4
+B1,28/03/2025,Oud-Heverlee Leuven,Charleroi,0,0,D,8,24,1,5
+B1,29/03/2025,Beerschot VA,St Truiden,0,1,A,5,28,0,11
+B1,29/03/2025,Standard,Mechelen,2,2,D,10,13,3,4
+B1,29/03/2025,St. Gilloise,Antwerp,5,1,H,15,6,9,2
+B1,30/03/2025,Club Brugge,Anderlecht,2,0,H,19,4,9,0
+B1,30/03/2025,Kortrijk,Cercle Brugge,2,2,D,5,13,2,4
+B1,30/03/2025,Genk,Gent,4,0,H,15,11,8,3
+B1,30/03/2025,Dender,Westerlo,1,0,H,20,13,10,3
+B1,04/04/2025,Mechelen,Dender,5,2,H,20,9,10,4
+B1,05/04/2025,Cercle Brugge,Beerschot VA,2,1,H,21,10,9,3
+B1,05/04/2025,Westerlo,Oud-Heverlee Leuven,2,2,D,14,17,5,5
+B1,05/04/2025,Gent,St. Gilloise,0,3,A,7,14,3,5
+B1,06/04/2025,Antwerp,Club Brugge,2,3,A,8,15,4,8
+B1,06/04/2025,St Truiden,Kortrijk,0,3,A,12,8,5,3
+B1,06/04/2025,Anderlecht,Genk,1,2,A,10,13,4,5
+B1,06/04/2025,Charleroi,Standard,1,0,H,12,8,3,1
+B1,11/04/2025,Westerlo,Charleroi,2,2,D,23,6,6,4
+B1,12/04/2025,Kortrijk,Beerschot VA,3,2,H,16,7,5,4
+B1,12/04/2025,St Truiden,Cercle Brugge,3,1,H,15,8,7,3
+B1,12/04/2025,St. Gilloise,Anderlecht,2,0,H,10,5,3,1
+B1,13/04/2025,Antwerp,Gent,0,1,A,14,17,4,7
+B1,13/04/2025,Mechelen,Oud-Heverlee Leuven,1,1,D,18,9,6,1
+B1,13/04/2025,Club Brugge,Genk,1,0,H,25,9,10,3
+B1,13/04/2025,Dender,Standard,1,1,D,10,11,5,4
+B1,19/04/2025,Oud-Heverlee Leuven,Dender,4,4,D,15,14,5,7
+B1,19/04/2025,Charleroi,Mechelen,3,0,H,13,24,7,7
+B1,19/04/2025,Standard,Westerlo,1,1,D,13,12,4,3
+B1,20/04/2025,Anderlecht,Antwerp,0,0,D,15,13,4,5
+B1,20/04/2025,Genk,St. Gilloise,1,2,A,10,10,3,4
+B1,20/04/2025,Gent,Club Brugge,0,5,A,3,20,0,9
+B1,22/04/2025,Dender,Charleroi,2,1,H,7,27,4,7
+B1,22/04/2025,Mechelen,Westerlo,2,3,A,15,17,6,7
+B1,22/04/2025,Standard,Oud-Heverlee Leuven,0,1,A,11,11,3,2
+B1,23/04/2025,Anderlecht,Gent,5,0,H,13,3,6,0
+B1,23/04/2025,Antwerp,Genk,1,1,D,14,12,5,3
+B1,24/04/2025,Club Brugge,St. Gilloise,0,1,A,15,4,3,3
+B1,25/04/2025,Beerschot VA,Kortrijk,2,0,H,5,11,2,3
+B1,26/04/2025,Oud-Heverlee Leuven,Standard,1,1,D,14,11,3,1
+B1,26/04/2025,Westerlo,Mechelen,2,2,D,16,13,7,3
+B1,26/04/2025,Cercle Brugge,St Truiden,3,1,H,11,8,6,3
+B1,26/04/2025,Charleroi,Dender,4,1,H,24,8,7,4
+B1,27/04/2025,Gent,Anderlecht,0,1,A,15,18,7,4
+B1,27/04/2025,Genk,Antwerp,0,1,A,16,10,5,3
+B1,27/04/2025,St. Gilloise,Club Brugge,0,0,D,7,14,0,3
+B1,01/05/2025,Antwerp,Anderlecht,1,3,A,12,8,3,5
+B1,01/05/2025,Club Brugge,Gent,4,1,H,31,8,16,4
+B1,02/05/2025,Westerlo,Dender,4,2,H,16,12,6,4
+B1,03/05/2025,Cercle Brugge,Kortrijk,0,2,A,16,5,4,4
+B1,03/05/2025,Oud-Heverlee Leuven,Mechelen,1,2,A,5,15,3,4
+B1,03/05/2025,St. Gilloise,Genk,1,0,H,11,3,4,1
+B1,04/05/2025,Standard,Charleroi,0,1,A,15,12,5,4
+B1,04/05/2025,St Truiden,Beerschot VA,2,1,H,12,5,4,3
+B1,09/05/2025,Charleroi,Westerlo,4,3,H,17,13,8,6
+B1,10/05/2025,Beerschot VA,Cercle Brugge,4,2,H,13,24,7,7
+B1,10/05/2025,Kortrijk,St Truiden,2,2,D,18,16,6,7
+B1,10/05/2025,Mechelen,Standard,0,0,D,20,5,2,2
+B1,10/05/2025,Anderlecht,St. Gilloise,0,1,A,6,7,2,3
+B1,11/05/2025,Gent,Antwerp,0,3,A,16,7,6,3
+B1,11/05/2025,Genk,Club Brugge,0,2,A,10,13,3,3
+B1,11/05/2025,Dender,Oud-Heverlee Leuven,5,0,H,16,14,7,2
+B1,16/05/2025,Oud-Heverlee Leuven,Westerlo,0,2,A,10,16,0,5
+B1,17/05/2025,Standard,Dender,0,0,D,6,4,1,0
+B1,17/05/2025,Antwerp,St. Gilloise,0,4,A,10,17,3,7
+B1,18/05/2025,Anderlecht,Club Brugge,1,3,A,16,13,6,6
+B1,18/05/2025,Mechelen,Charleroi,1,1,D,19,11,6,5
+B1,18/05/2025,Gent,Genk,1,4,A,11,14,3,5
+B1,24/05/2025,Charleroi,Oud-Heverlee Leuven,2,1,H,16,14,3,5
+B1,24/05/2025,Dender,Mechelen,2,2,D,17,5,6,3
+B1,24/05/2025,Westerlo,Standard,0,0,D,16,8,4,1
+B1,25/05/2025,Club Brugge,Antwerp,1,1,D,18,14,5,7
+B1,25/05/2025,Genk,Anderlecht,2,1,H,14,17,7,3
+B1,25/05/2025,St. Gilloise,Gent,3,1,H,16,4,6,1

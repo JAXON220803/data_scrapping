@@ -1,0 +1,553 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+E1,03/08/2018,Reading,Derby,1,2,A,8,11,5,3
+E1,04/08/2018,Birmingham,Norwich,2,2,D,16,16,7,7
+E1,04/08/2018,Brentford,Rotherham,5,1,H,14,9,10,5
+E1,04/08/2018,Bristol City,Nott'm Forest,1,1,D,18,16,6,6
+E1,04/08/2018,Ipswich,Blackburn,2,2,D,9,6,3,2
+E1,04/08/2018,Millwall,Middlesbrough,2,2,D,9,12,2,3
+E1,04/08/2018,Preston,QPR,1,0,H,15,8,3,2
+E1,04/08/2018,Sheffield United,Swansea,1,2,A,12,9,2,4
+E1,04/08/2018,West Brom,Bolton,1,2,A,20,11,3,4
+E1,04/08/2018,Wigan,Sheffield Weds,3,2,H,21,8,10,4
+E1,05/08/2018,Leeds,Stoke,3,1,H,11,9,5,5
+E1,06/08/2018,Hull,Aston Villa,1,3,A,11,9,3,5
+E1,07/08/2018,Middlesbrough,Sheffield United,3,0,H,13,17,5,4
+E1,07/08/2018,Nott'm Forest,West Brom,1,1,D,20,10,5,2
+E1,11/08/2018,Aston Villa,Wigan,3,2,H,17,10,6,3
+E1,11/08/2018,Blackburn,Millwall,0,0,D,10,7,4,0
+E1,11/08/2018,Bolton,Bristol City,2,2,D,7,16,2,5
+E1,11/08/2018,Derby,Leeds,1,4,A,12,17,4,7
+E1,11/08/2018,Middlesbrough,Birmingham,1,0,H,10,11,2,4
+E1,11/08/2018,Norwich,West Brom,3,4,A,20,13,10,7
+E1,11/08/2018,Nott'm Forest,Reading,1,0,H,12,8,3,3
+E1,11/08/2018,QPR,Sheffield United,1,2,A,14,8,6,5
+E1,11/08/2018,Rotherham,Ipswich,1,0,H,10,16,4,3
+E1,11/08/2018,Sheffield Weds,Hull,1,1,D,12,16,6,4
+E1,11/08/2018,Stoke,Brentford,1,1,D,9,17,3,5
+E1,11/08/2018,Swansea,Preston,1,0,H,10,12,7,5
+E1,17/08/2018,Birmingham,Swansea,0,0,D,17,6,6,0
+E1,18/08/2018,Bristol City,Middlesbrough,0,2,A,18,13,4,3
+E1,18/08/2018,Hull,Blackburn,0,1,A,10,16,3,7
+E1,18/08/2018,Ipswich,Aston Villa,1,1,D,9,10,1,3
+E1,18/08/2018,Leeds,Rotherham,2,0,H,17,9,7,4
+E1,18/08/2018,Millwall,Derby,2,1,H,12,12,4,4
+E1,18/08/2018,Preston,Stoke,2,2,D,15,8,6,3
+E1,18/08/2018,Reading,Bolton,0,1,A,15,9,3,4
+E1,18/08/2018,Sheffield United,Norwich,2,1,H,14,11,5,2
+E1,18/08/2018,West Brom,QPR,7,1,H,15,6,9,2
+E1,18/08/2018,Wigan,Nott'm Forest,2,2,D,17,9,4,4
+E1,19/08/2018,Brentford,Sheffield Weds,2,0,H,14,4,9,1
+E1,21/08/2018,Derby,Ipswich,2,0,H,10,11,2,2
+E1,21/08/2018,QPR,Bristol City,0,3,A,14,11,4,5
+E1,21/08/2018,Rotherham,Hull,2,3,A,15,14,4,6
+E1,21/08/2018,Swansea,Leeds,2,2,D,12,8,4,3
+E1,22/08/2018,Aston Villa,Brentford,2,2,D,16,13,7,7
+E1,22/08/2018,Blackburn,Reading,2,2,D,16,8,4,4
+E1,22/08/2018,Bolton,Birmingham,1,0,H,8,18,4,6
+E1,22/08/2018,Norwich,Preston,2,0,H,12,9,4,3
+E1,22/08/2018,Sheffield Weds,Millwall,2,1,H,13,12,3,4
+E1,22/08/2018,Stoke,Wigan,0,3,A,9,10,0,4
+E1,24/08/2018,Middlesbrough,West Brom,1,0,H,18,13,4,2
+E1,25/08/2018,Aston Villa,Reading,1,1,D,21,10,8,7
+E1,25/08/2018,Blackburn,Brentford,1,0,H,2,8,1,3
+E1,25/08/2018,Bolton,Sheffield United,0,3,A,10,17,2,6
+E1,25/08/2018,Derby,Preston,2,0,H,15,6,4,4
+E1,25/08/2018,Norwich,Leeds,0,3,A,10,12,2,5
+E1,25/08/2018,Nott'm Forest,Birmingham,2,2,D,9,9,3,3
+E1,25/08/2018,QPR,Wigan,1,0,H,12,18,3,5
+E1,25/08/2018,Sheffield Weds,Ipswich,2,1,H,13,13,3,3
+E1,25/08/2018,Stoke,Hull,2,0,H,11,4,5,0
+E1,25/08/2018,Swansea,Bristol City,0,1,A,12,10,3,6
+E1,26/08/2018,Rotherham,Millwall,1,0,H,12,12,3,5
+E1,31/08/2018,Leeds,Middlesbrough,0,0,D,11,9,3,3
+E1,01/09/2018,Birmingham,QPR,0,0,D,5,12,1,5
+E1,01/09/2018,Brentford,Nott'm Forest,2,1,H,20,6,6,2
+E1,01/09/2018,Hull,Derby,1,2,A,18,11,2,5
+E1,01/09/2018,Millwall,Swansea,1,2,A,11,8,2,2
+E1,01/09/2018,Preston,Bolton,2,2,D,12,14,4,6
+E1,01/09/2018,Reading,Sheffield Weds,1,2,A,12,10,4,4
+E1,01/09/2018,Sheffield United,Aston Villa,4,1,H,9,9,6,2
+E1,01/09/2018,West Brom,Stoke,2,1,H,12,16,6,5
+E1,01/09/2018,Wigan,Rotherham,1,0,H,16,16,5,4
+E1,02/09/2018,Bristol City,Blackburn,4,1,H,19,13,11,2
+E1,02/09/2018,Ipswich,Norwich,1,1,D,19,11,6,2
+E1,14/09/2018,Birmingham,West Brom,1,1,D,13,15,4,3
+E1,15/09/2018,Blackburn,Aston Villa,1,1,D,13,15,3,5
+E1,15/09/2018,Bolton,QPR,1,2,A,9,11,3,2
+E1,15/09/2018,Brentford,Wigan,2,0,H,20,8,10,1
+E1,15/09/2018,Bristol City,Sheffield United,1,0,H,11,11,3,1
+E1,15/09/2018,Hull,Ipswich,2,0,H,13,6,7,1
+E1,15/09/2018,Millwall,Leeds,1,1,D,16,11,2,4
+E1,15/09/2018,Norwich,Middlesbrough,1,0,H,16,8,6,2
+E1,15/09/2018,Preston,Reading,2,3,A,23,9,10,5
+E1,15/09/2018,Rotherham,Derby,1,0,H,16,12,6,4
+E1,15/09/2018,Sheffield Weds,Stoke,2,2,D,12,14,4,4
+E1,15/09/2018,Swansea,Nott'm Forest,0,0,D,5,16,2,4
+E1,18/09/2018,Aston Villa,Rotherham,2,0,H,14,13,4,3
+E1,18/09/2018,Derby,Blackburn,0,0,D,22,6,3,2
+E1,18/09/2018,Ipswich,Brentford,1,1,D,10,14,5,6
+E1,18/09/2018,Leeds,Preston,3,0,H,17,5,5,3
+E1,18/09/2018,Stoke,Swansea,1,0,H,8,14,3,5
+E1,18/09/2018,West Brom,Bristol City,4,2,H,11,23,7,8
+E1,18/09/2018,Wigan,Hull,2,1,H,18,7,7,4
+E1,19/09/2018,Middlesbrough,Bolton,2,0,H,19,7,4,2
+E1,19/09/2018,Nott'm Forest,Sheffield Weds,2,1,H,13,6,6,3
+E1,19/09/2018,QPR,Millwall,2,0,H,20,14,9,2
+E1,19/09/2018,Reading,Norwich,1,2,A,13,11,2,5
+E1,19/09/2018,Sheffield United,Birmingham,0,0,D,6,13,3,5
+E1,21/09/2018,Wigan,Bristol City,1,0,H,9,9,1,3
+E1,22/09/2018,Aston Villa,Sheffield Weds,1,2,A,18,13,4,5
+E1,22/09/2018,Derby,Brentford,3,1,H,16,16,6,2
+E1,22/09/2018,Ipswich,Bolton,0,0,D,9,7,2,0
+E1,22/09/2018,Leeds,Birmingham,1,2,A,17,4,5,3
+E1,22/09/2018,Middlesbrough,Swansea,0,0,D,16,5,5,2
+E1,22/09/2018,Nott'm Forest,Rotherham,1,0,H,9,4,2,1
+E1,22/09/2018,QPR,Norwich,0,1,A,10,9,3,4
+E1,22/09/2018,Reading,Hull,3,0,H,14,9,6,2
+E1,22/09/2018,Sheffield United,Preston,3,2,H,13,10,3,3
+E1,22/09/2018,Stoke,Blackburn,2,3,A,17,8,3,4
+E1,22/09/2018,West Brom,Millwall,2,0,H,14,10,4,2
+E1,28/09/2018,Bristol City,Aston Villa,1,1,D,7,12,3,5
+E1,28/09/2018,Sheffield Weds,Leeds,1,1,D,10,25,4,7
+E1,29/09/2018,Birmingham,Ipswich,2,2,D,22,7,9,3
+E1,29/09/2018,Blackburn,Nott'm Forest,2,2,D,17,17,9,5
+E1,29/09/2018,Bolton,Derby,1,0,H,8,17,2,1
+E1,29/09/2018,Brentford,Reading,2,2,D,13,10,3,4
+E1,29/09/2018,Hull,Middlesbrough,1,1,D,10,12,3,4
+E1,29/09/2018,Millwall,Sheffield United,2,3,A,11,15,5,7
+E1,29/09/2018,Norwich,Wigan,1,0,H,14,11,4,0
+E1,29/09/2018,Preston,West Brom,2,3,A,13,12,4,7
+E1,29/09/2018,Rotherham,Stoke,2,2,D,13,19,2,7
+E1,29/09/2018,Swansea,QPR,3,0,H,10,14,4,1
+E1,02/10/2018,Aston Villa,Preston,3,3,D,12,19,6,7
+E1,02/10/2018,Brentford,Birmingham,1,1,D,18,14,7,6
+E1,02/10/2018,Hull,Leeds,0,1,A,10,11,1,1
+E1,02/10/2018,Ipswich,Middlesbrough,0,2,A,7,14,1,4
+E1,02/10/2018,Reading,QPR,0,1,A,14,10,1,4
+E1,02/10/2018,Stoke,Bolton,2,0,H,14,6,7,1
+E1,02/10/2018,Wigan,Swansea,0,0,D,10,17,1,5
+E1,03/10/2018,Blackburn,Sheffield United,0,2,A,13,13,2,7
+E1,03/10/2018,Derby,Norwich,1,1,D,14,14,6,5
+E1,03/10/2018,Nott'm Forest,Millwall,2,2,D,7,20,2,10
+E1,03/10/2018,Rotherham,Bristol City,0,0,D,21,13,6,3
+E1,03/10/2018,Sheffield Weds,West Brom,2,2,D,14,19,5,4
+E1,06/10/2018,Birmingham,Rotherham,3,1,H,13,11,6,6
+E1,06/10/2018,Bolton,Blackburn,0,1,A,13,7,4,4
+E1,06/10/2018,Leeds,Brentford,1,1,D,13,13,3,7
+E1,06/10/2018,Middlesbrough,Nott'm Forest,0,2,A,17,16,4,5
+E1,06/10/2018,Millwall,Aston Villa,2,1,H,18,6,4,3
+E1,06/10/2018,Norwich,Stoke,0,1,A,15,6,3,2
+E1,06/10/2018,Preston,Wigan,4,0,H,16,11,3,3
+E1,06/10/2018,QPR,Derby,1,1,D,13,14,3,5
+E1,06/10/2018,Sheffield United,Hull,1,0,H,12,8,3,3
+E1,06/10/2018,Swansea,Ipswich,2,3,A,18,8,3,3
+E1,06/10/2018,West Brom,Reading,4,1,H,14,15,5,6
+E1,07/10/2018,Bristol City,Sheffield Weds,1,2,A,12,9,5,5
+E1,19/10/2018,Sheffield Weds,Middlesbrough,1,2,A,14,15,3,5
+E1,20/10/2018,Aston Villa,Swansea,1,0,H,11,15,5,4
+E1,20/10/2018,Blackburn,Leeds,2,1,H,18,20,6,6
+E1,20/10/2018,Brentford,Bristol City,0,1,A,11,12,4,5
+E1,20/10/2018,Derby,Sheffield United,2,1,H,12,13,4,4
+E1,20/10/2018,Hull,Preston,1,1,D,14,14,5,4
+E1,20/10/2018,Ipswich,QPR,0,2,A,3,13,1,5
+E1,20/10/2018,Nott'm Forest,Norwich,1,2,A,7,19,2,7
+E1,20/10/2018,Reading,Millwall,3,1,H,9,26,4,11
+E1,20/10/2018,Rotherham,Bolton,1,1,D,16,12,3,3
+E1,20/10/2018,Stoke,Birmingham,0,1,A,19,13,3,6
+E1,20/10/2018,Wigan,West Brom,1,0,H,11,7,3,1
+E1,23/10/2018,Birmingham,Reading,2,1,H,14,11,5,7
+E1,23/10/2018,Middlesbrough,Rotherham,0,0,D,20,8,5,2
+E1,23/10/2018,Millwall,Wigan,2,1,H,21,9,5,1
+E1,23/10/2018,Norwich,Aston Villa,2,1,H,10,8,2,1
+E1,23/10/2018,QPR,Sheffield Weds,3,0,H,22,14,8,4
+E1,23/10/2018,Sheffield United,Stoke,1,1,D,22,10,6,4
+E1,23/10/2018,Swansea,Blackburn,3,1,H,16,9,2,3
+E1,24/10/2018,Bolton,Nott'm Forest,0,3,A,10,12,1,8
+E1,24/10/2018,Bristol City,Hull,1,0,H,17,13,7,2
+E1,24/10/2018,Leeds,Ipswich,2,0,H,18,3,5,2
+E1,24/10/2018,Preston,Brentford,4,3,H,15,15,8,8
+E1,24/10/2018,West Brom,Derby,1,4,A,16,20,5,9
+E1,26/10/2018,QPR,Aston Villa,1,0,H,16,18,7,5
+E1,27/10/2018,Birmingham,Sheffield Weds,3,1,H,16,12,4,4
+E1,27/10/2018,Bolton,Hull,0,1,A,16,7,3,2
+E1,27/10/2018,Bristol City,Stoke,0,1,A,22,8,8,3
+E1,27/10/2018,Leeds,Nott'm Forest,1,1,D,18,3,3,1
+E1,27/10/2018,Middlesbrough,Derby,1,1,D,10,18,0,7
+E1,27/10/2018,Millwall,Ipswich,3,0,H,7,4,4,0
+E1,27/10/2018,Norwich,Brentford,1,0,H,11,11,3,5
+E1,27/10/2018,Preston,Rotherham,1,1,D,15,12,6,5
+E1,27/10/2018,Sheffield United,Wigan,4,2,H,12,15,4,7
+E1,27/10/2018,Swansea,Reading,2,0,H,25,14,9,4
+E1,27/10/2018,West Brom,Blackburn,1,1,D,19,9,7,5
+E1,02/11/2018,Aston Villa,Bolton,2,0,H,17,11,3,3
+E1,03/11/2018,Blackburn,QPR,1,0,H,10,5,2,1
+E1,03/11/2018,Brentford,Millwall,2,0,H,18,10,4,1
+E1,03/11/2018,Derby,Birmingham,3,1,H,18,6,10,3
+E1,03/11/2018,Hull,West Brom,1,0,H,13,9,3,2
+E1,03/11/2018,Ipswich,Preston,1,1,D,13,8,2,3
+E1,03/11/2018,Nott'm Forest,Sheffield United,1,0,H,12,11,2,1
+E1,03/11/2018,Reading,Bristol City,3,2,H,8,21,3,7
+E1,03/11/2018,Rotherham,Swansea,2,1,H,7,12,4,4
+E1,03/11/2018,Sheffield Weds,Norwich,0,4,A,16,16,4,10
+E1,03/11/2018,Stoke,Middlesbrough,0,0,D,13,11,1,4
+E1,04/11/2018,Wigan,Leeds,1,2,A,6,12,1,4
+E1,09/11/2018,Sheffield United,Sheffield Weds,0,0,D,19,7,5,1
+E1,10/11/2018,Birmingham,Hull,3,3,D,11,12,4,5
+E1,10/11/2018,Blackburn,Rotherham,1,1,D,25,13,9,1
+E1,10/11/2018,Bolton,Swansea,0,1,A,12,10,3,2
+E1,10/11/2018,Bristol City,Preston,0,1,A,6,9,1,3
+E1,10/11/2018,Derby,Aston Villa,0,3,A,11,21,5,5
+E1,10/11/2018,Middlesbrough,Wigan,2,0,H,19,13,4,1
+E1,10/11/2018,Norwich,Millwall,4,3,H,21,8,7,4
+E1,10/11/2018,Nott'm Forest,Stoke,0,0,D,12,8,4,2
+E1,10/11/2018,QPR,Brentford,3,2,H,17,12,7,6
+E1,10/11/2018,Reading,Ipswich,2,2,D,12,11,4,5
+E1,10/11/2018,West Brom,Leeds,4,1,H,20,15,6,3
+E1,23/11/2018,Ipswich,West Brom,1,2,A,12,13,2,3
+E1,24/11/2018,Brentford,Middlesbrough,1,2,A,17,11,9,4
+E1,24/11/2018,Hull,Nott'm Forest,0,2,A,7,15,1,6
+E1,24/11/2018,Leeds,Bristol City,2,0,H,20,7,6,1
+E1,24/11/2018,Millwall,Bolton,1,1,D,13,9,5,4
+E1,24/11/2018,Preston,Blackburn,4,1,H,15,11,5,6
+E1,24/11/2018,Rotherham,Sheffield United,2,2,D,26,6,8,4
+E1,24/11/2018,Sheffield Weds,Derby,1,2,A,14,9,3,3
+E1,24/11/2018,Stoke,QPR,2,2,D,14,8,3,4
+E1,24/11/2018,Swansea,Norwich,1,4,A,13,11,6,7
+E1,24/11/2018,Wigan,Reading,0,0,D,18,8,5,2
+E1,25/11/2018,Aston Villa,Birmingham,4,2,H,12,10,5,3
+E1,27/11/2018,Brentford,Sheffield United,2,3,A,14,18,3,5
+E1,27/11/2018,Hull,Norwich,0,0,D,14,18,4,4
+E1,27/11/2018,Leeds,Reading,1,0,H,19,9,5,2
+E1,27/11/2018,Preston,Middlesbrough,1,1,D,13,11,4,3
+E1,27/11/2018,Rotherham,QPR,2,2,D,13,17,7,6
+E1,27/11/2018,Sheffield Weds,Bolton,1,0,H,13,8,1,1
+E1,28/11/2018,Aston Villa,Nott'm Forest,5,5,D,26,8,12,5
+E1,28/11/2018,Ipswich,Bristol City,2,3,A,10,9,3,4
+E1,28/11/2018,Millwall,Birmingham,0,2,A,5,13,3,3
+E1,28/11/2018,Stoke,Derby,2,1,H,8,16,4,8
+E1,28/11/2018,Swansea,West Brom,1,2,A,19,11,4,3
+E1,28/11/2018,Wigan,Blackburn,3,1,H,17,6,9,2
+E1,01/12/2018,Birmingham,Preston,3,0,H,16,8,7,4
+E1,01/12/2018,Blackburn,Sheffield Weds,4,2,H,18,7,7,2
+E1,01/12/2018,Bolton,Wigan,1,1,D,11,7,1,2
+E1,01/12/2018,Derby,Swansea,2,1,H,16,7,4,2
+E1,01/12/2018,Middlesbrough,Aston Villa,0,3,A,10,20,3,7
+E1,01/12/2018,Norwich,Rotherham,3,1,H,19,10,7,4
+E1,01/12/2018,Nott'm Forest,Ipswich,2,0,H,17,9,6,2
+E1,01/12/2018,QPR,Hull,2,3,A,22,16,7,7
+E1,01/12/2018,Reading,Stoke,2,2,D,13,14,3,6
+E1,01/12/2018,Sheffield United,Leeds,0,1,A,12,11,2,6
+E1,02/12/2018,Bristol City,Millwall,1,1,D,14,3,1,3
+E1,03/12/2018,West Brom,Brentford,1,1,D,23,13,5,2
+E1,07/12/2018,West Brom,Aston Villa,2,2,D,14,15,6,7
+E1,08/12/2018,Birmingham,Bristol City,0,1,A,8,6,3,2
+E1,08/12/2018,Brentford,Swansea,2,3,A,18,13,5,5
+E1,08/12/2018,Leeds,QPR,2,1,H,20,10,7,4
+E1,08/12/2018,Middlesbrough,Blackburn,1,1,D,12,15,5,5
+E1,08/12/2018,Millwall,Hull,2,2,D,16,7,4,2
+E1,08/12/2018,Norwich,Bolton,3,2,H,21,12,7,4
+E1,08/12/2018,Nott'm Forest,Preston,0,1,A,14,8,3,3
+E1,08/12/2018,Reading,Sheffield United,0,2,A,6,13,0,5
+E1,08/12/2018,Sheffield Weds,Rotherham,2,2,D,12,15,4,4
+E1,08/12/2018,Stoke,Ipswich,2,0,H,6,9,2,2
+E1,08/12/2018,Wigan,Derby,0,1,A,7,16,2,5
+E1,14/12/2018,Sheffield United,West Brom,1,2,A,10,14,3,5
+E1,15/12/2018,Aston Villa,Stoke,2,2,D,9,16,5,8
+E1,15/12/2018,Blackburn,Birmingham,2,2,D,8,12,5,6
+E1,15/12/2018,Bolton,Leeds,0,1,A,4,12,0,4
+E1,15/12/2018,Bristol City,Norwich,2,2,D,13,9,6,5
+E1,15/12/2018,Hull,Brentford,2,0,H,7,16,3,1
+E1,15/12/2018,Ipswich,Wigan,1,0,H,3,16,1,2
+E1,15/12/2018,Preston,Millwall,3,2,H,14,17,7,4
+E1,15/12/2018,QPR,Middlesbrough,2,1,H,17,8,2,1
+E1,15/12/2018,Rotherham,Reading,1,1,D,26,20,10,5
+E1,15/12/2018,Swansea,Sheffield Weds,2,1,H,12,11,4,2
+E1,17/12/2018,Derby,Nott'm Forest,0,0,D,12,14,3,4
+E1,22/12/2018,Blackburn,Norwich,0,1,A,10,11,1,4
+E1,22/12/2018,Brentford,Bolton,1,0,H,13,10,4,1
+E1,22/12/2018,Derby,Bristol City,1,1,D,21,15,7,3
+E1,22/12/2018,Hull,Swansea,3,2,H,13,15,8,4
+E1,22/12/2018,Ipswich,Sheffield United,1,1,D,7,16,3,3
+E1,22/12/2018,Nott'm Forest,QPR,0,1,A,12,7,2,2
+E1,22/12/2018,Reading,Middlesbrough,0,1,A,12,16,4,6
+E1,22/12/2018,Rotherham,West Brom,0,4,A,18,11,4,5
+E1,22/12/2018,Sheffield Weds,Preston,1,0,H,16,4,4,1
+E1,22/12/2018,Stoke,Millwall,1,0,H,8,9,2,2
+E1,22/12/2018,Wigan,Birmingham,0,3,A,6,10,1,3
+E1,23/12/2018,Aston Villa,Leeds,2,3,A,10,16,2,7
+E1,26/12/2018,Birmingham,Stoke,2,0,H,20,14,6,4
+E1,26/12/2018,Bolton,Rotherham,2,1,H,12,12,4,2
+E1,26/12/2018,Bristol City,Brentford,1,1,D,7,14,2,3
+E1,26/12/2018,Leeds,Blackburn,3,2,H,24,8,10,2
+E1,26/12/2018,Middlesbrough,Sheffield Weds,0,1,A,12,4,3,2
+E1,26/12/2018,Millwall,Reading,1,0,H,17,8,4,2
+E1,26/12/2018,Norwich,Nott'm Forest,3,3,D,27,9,11,7
+E1,26/12/2018,Preston,Hull,1,2,A,22,10,6,4
+E1,26/12/2018,QPR,Ipswich,3,0,H,13,7,8,2
+E1,26/12/2018,Sheffield United,Derby,3,1,H,16,9,6,3
+E1,26/12/2018,Swansea,Aston Villa,0,1,A,19,13,5,5
+E1,26/12/2018,West Brom,Wigan,2,0,H,17,18,5,3
+E1,29/12/2018,Birmingham,Brentford,0,0,D,5,7,1,2
+E1,29/12/2018,Bolton,Stoke,0,0,D,13,11,5,3
+E1,29/12/2018,Bristol City,Rotherham,1,0,H,22,18,8,3
+E1,29/12/2018,Leeds,Hull,0,2,A,22,9,7,3
+E1,29/12/2018,Middlesbrough,Ipswich,2,0,H,19,6,9,4
+E1,29/12/2018,Millwall,Nott'm Forest,1,0,H,10,9,1,4
+E1,29/12/2018,Norwich,Derby,3,4,A,24,19,7,5
+E1,29/12/2018,Preston,Aston Villa,1,1,D,13,15,4,5
+E1,29/12/2018,QPR,Reading,0,0,D,16,13,4,5
+E1,29/12/2018,Sheffield United,Blackburn,3,0,H,14,10,5,1
+E1,29/12/2018,Swansea,Wigan,2,2,D,13,16,6,5
+E1,29/12/2018,West Brom,Sheffield Weds,1,1,D,10,9,3,5
+E1,01/01/2019,Aston Villa,QPR,2,2,D,22,11,5,4
+E1,01/01/2019,Blackburn,West Brom,2,1,H,10,14,4,6
+E1,01/01/2019,Brentford,Norwich,1,1,D,16,8,4,3
+E1,01/01/2019,Derby,Middlesbrough,1,1,D,8,11,2,2
+E1,01/01/2019,Hull,Bolton,6,0,H,20,5,10,0
+E1,01/01/2019,Ipswich,Millwall,2,3,A,14,10,5,4
+E1,01/01/2019,Nott'm Forest,Leeds,4,2,H,13,14,6,7
+E1,01/01/2019,Reading,Swansea,1,4,A,16,8,5,5
+E1,01/01/2019,Rotherham,Preston,2,1,H,8,17,3,5
+E1,01/01/2019,Sheffield Weds,Birmingham,1,1,D,15,11,7,1
+E1,01/01/2019,Stoke,Bristol City,0,2,A,16,6,7,2
+E1,01/01/2019,Wigan,Sheffield United,0,3,A,13,13,2,4
+E1,11/01/2019,Leeds,Derby,2,0,H,15,7,5,2
+E1,12/01/2019,Birmingham,Middlesbrough,1,2,A,15,8,4,5
+E1,12/01/2019,Brentford,Stoke,3,1,H,16,2,5,1
+E1,12/01/2019,Bristol City,Bolton,2,1,H,20,8,5,4
+E1,12/01/2019,Hull,Sheffield Weds,3,0,H,17,3,7,0
+E1,12/01/2019,Ipswich,Rotherham,1,0,H,3,18,1,2
+E1,12/01/2019,Millwall,Blackburn,0,2,A,7,5,2,2
+E1,12/01/2019,Preston,Swansea,1,1,D,8,12,5,3
+E1,12/01/2019,Reading,Nott'm Forest,2,0,H,13,8,5,3
+E1,12/01/2019,Sheffield United,QPR,1,0,H,10,6,2,2
+E1,12/01/2019,West Brom,Norwich,1,1,D,14,12,5,4
+E1,12/01/2019,Wigan,Aston Villa,3,0,H,13,4,6,0
+E1,18/01/2019,Norwich,Birmingham,3,1,H,10,8,4,4
+E1,19/01/2019,Aston Villa,Hull,2,2,D,18,12,2,4
+E1,19/01/2019,Blackburn,Ipswich,2,0,H,16,11,4,3
+E1,19/01/2019,Derby,Reading,2,1,H,10,9,4,2
+E1,19/01/2019,Middlesbrough,Millwall,1,1,D,16,7,2,3
+E1,19/01/2019,Nott'm Forest,Bristol City,0,1,A,15,13,4,7
+E1,19/01/2019,QPR,Preston,1,4,A,13,13,5,6
+E1,19/01/2019,Rotherham,Brentford,2,4,A,13,15,4,7
+E1,19/01/2019,Sheffield Weds,Wigan,1,0,H,21,8,8,1
+E1,19/01/2019,Stoke,Leeds,2,1,H,12,17,5,4
+E1,19/01/2019,Swansea,Sheffield United,1,0,H,11,12,3,4
+E1,21/01/2019,Bolton,West Brom,0,2,A,10,12,3,3
+E1,26/01/2019,Aston Villa,Ipswich,2,1,H,23,8,13,4
+E1,26/01/2019,Blackburn,Hull,3,0,H,11,4,4,2
+E1,26/01/2019,Norwich,Sheffield United,2,2,D,7,17,5,3
+E1,26/01/2019,Nott'm Forest,Wigan,3,1,H,12,12,3,7
+E1,26/01/2019,Rotherham,Leeds,1,2,A,5,14,3,4
+E1,26/01/2019,Stoke,Preston,0,2,A,10,12,1,5
+E1,29/01/2019,Bolton,Reading,1,1,D,13,16,6,7
+E1,29/01/2019,Swansea,Birmingham,3,3,D,16,9,7,3
+E1,01/02/2019,Preston,Derby,0,0,D,23,7,3,0
+E1,02/02/2019,Birmingham,Nott'm Forest,2,0,H,14,12,5,3
+E1,02/02/2019,Brentford,Blackburn,5,2,H,20,10,9,4
+E1,02/02/2019,Bristol City,Swansea,2,0,H,13,11,4,4
+E1,02/02/2019,Hull,Stoke,2,0,H,7,9,3,2
+E1,02/02/2019,Ipswich,Sheffield Weds,0,1,A,8,17,2,3
+E1,02/02/2019,Leeds,Norwich,1,3,A,21,14,6,5
+E1,02/02/2019,Millwall,Rotherham,0,0,D,9,8,1,3
+E1,02/02/2019,Reading,Aston Villa,0,0,D,7,13,2,3
+E1,02/02/2019,Sheffield United,Bolton,2,0,H,12,6,2,1
+E1,02/02/2019,West Brom,Middlesbrough,2,3,A,19,14,6,5
+E1,02/02/2019,Wigan,QPR,2,1,H,7,21,3,5
+E1,08/02/2019,Aston Villa,Sheffield United,3,3,D,11,11,4,7
+E1,09/02/2019,Blackburn,Bristol City,0,1,A,10,13,2,6
+E1,09/02/2019,Bolton,Preston,1,2,A,7,16,3,7
+E1,09/02/2019,Derby,Hull,2,0,H,20,7,10,1
+E1,09/02/2019,Middlesbrough,Leeds,1,1,D,9,17,3,4
+E1,09/02/2019,Nott'm Forest,Brentford,2,1,H,9,21,6,7
+E1,09/02/2019,QPR,Birmingham,3,4,A,20,12,11,7
+E1,09/02/2019,Rotherham,Wigan,1,1,D,17,8,5,3
+E1,09/02/2019,Sheffield Weds,Reading,0,0,D,20,12,7,5
+E1,09/02/2019,Stoke,West Brom,0,1,A,13,11,1,2
+E1,09/02/2019,Swansea,Millwall,1,0,H,15,11,5,3
+E1,10/02/2019,Norwich,Ipswich,3,0,H,11,15,3,2
+E1,12/02/2019,Birmingham,Bolton,0,1,A,13,6,3,2
+E1,12/02/2019,Bristol City,QPR,2,1,H,15,11,7,3
+E1,12/02/2019,Hull,Rotherham,2,2,D,8,14,3,5
+E1,12/02/2019,Millwall,Sheffield Weds,0,0,D,10,9,6,2
+E1,12/02/2019,West Brom,Nott'm Forest,2,2,D,14,7,4,3
+E1,13/02/2019,Brentford,Aston Villa,1,0,H,23,6,6,3
+E1,13/02/2019,Ipswich,Derby,1,1,D,16,15,3,5
+E1,13/02/2019,Leeds,Swansea,2,1,H,19,9,7,4
+E1,13/02/2019,Preston,Norwich,3,1,H,11,22,4,10
+E1,13/02/2019,Reading,Blackburn,2,1,H,12,15,4,5
+E1,13/02/2019,Sheffield United,Middlesbrough,1,0,H,15,10,5,4
+E1,13/02/2019,Wigan,Stoke,0,0,D,8,11,3,2
+E1,16/02/2019,Aston Villa,West Brom,0,2,A,11,10,2,3
+E1,16/02/2019,Bolton,Norwich,0,4,A,12,23,3,12
+E1,16/02/2019,Ipswich,Stoke,1,1,D,9,11,3,1
+E1,16/02/2019,Preston,Nott'm Forest,0,0,D,10,10,3,2
+E1,16/02/2019,Rotherham,Sheffield Weds,2,2,D,25,11,6,4
+E1,16/02/2019,Sheffield United,Reading,4,0,H,14,10,10,2
+E1,17/02/2019,Blackburn,Middlesbrough,0,1,A,5,26,1,7
+E1,19/02/2019,QPR,West Brom,2,3,A,13,11,4,6
+E1,20/02/2019,Derby,Millwall,0,1,A,13,4,1,1
+E1,23/02/2019,Birmingham,Blackburn,2,2,D,16,6,7,3
+E1,23/02/2019,Brentford,Hull,5,1,H,25,7,10,3
+E1,23/02/2019,Leeds,Bolton,2,1,H,21,12,8,6
+E1,23/02/2019,Middlesbrough,QPR,2,0,H,10,9,4,4
+E1,23/02/2019,Millwall,Preston,1,3,A,12,12,3,5
+E1,23/02/2019,Norwich,Bristol City,3,2,H,23,12,8,6
+E1,23/02/2019,Reading,Rotherham,1,1,D,15,13,5,2
+E1,23/02/2019,Sheffield Weds,Swansea,3,1,H,16,12,7,6
+E1,23/02/2019,Stoke,Aston Villa,1,1,D,7,10,4,3
+E1,23/02/2019,West Brom,Sheffield United,0,1,A,17,7,3,4
+E1,23/02/2019,Wigan,Ipswich,1,1,D,27,12,6,4
+E1,25/02/2019,Nott'm Forest,Derby,1,0,H,15,6,2,2
+E1,26/02/2019,Bristol City,Birmingham,1,2,A,9,11,2,5
+E1,26/02/2019,Hull,Millwall,2,1,H,13,16,3,6
+E1,26/02/2019,QPR,Leeds,1,0,H,13,11,5,4
+E1,26/02/2019,Sheffield Weds,Brentford,2,0,H,16,8,6,3
+E1,01/03/2019,Leeds,West Brom,4,0,H,13,7,9,1
+E1,02/03/2019,Aston Villa,Derby,4,0,H,13,3,6,0
+E1,02/03/2019,Brentford,QPR,3,0,H,11,10,6,1
+E1,02/03/2019,Hull,Birmingham,2,0,H,12,18,7,5
+E1,02/03/2019,Ipswich,Reading,1,2,A,17,12,6,4
+E1,02/03/2019,Millwall,Norwich,1,3,A,17,11,8,7
+E1,02/03/2019,Preston,Bristol City,1,1,D,17,15,3,3
+E1,02/03/2019,Rotherham,Blackburn,3,2,H,13,15,4,5
+E1,02/03/2019,Stoke,Nott'm Forest,2,0,H,8,14,4,2
+E1,02/03/2019,Swansea,Bolton,2,0,H,29,5,11,3
+E1,02/03/2019,Wigan,Middlesbrough,0,0,D,6,15,2,1
+E1,04/03/2019,Sheffield Weds,Sheffield United,0,0,D,9,7,1,1
+E1,05/03/2019,Derby,Wigan,2,1,H,17,13,5,3
+E1,08/03/2019,Norwich,Swansea,1,0,H,8,12,1,5
+E1,09/03/2019,Blackburn,Preston,0,1,A,20,6,5,3
+E1,09/03/2019,Bolton,Millwall,2,1,H,15,11,4,4
+E1,09/03/2019,Bristol City,Leeds,0,1,A,4,16,1,3
+E1,09/03/2019,Derby,Sheffield Weds,1,1,D,10,13,5,3
+E1,09/03/2019,Middlesbrough,Brentford,1,2,A,19,14,6,3
+E1,09/03/2019,Nott'm Forest,Hull,3,0,H,20,10,7,3
+E1,09/03/2019,QPR,Stoke,0,0,D,17,7,4,0
+E1,09/03/2019,Reading,Wigan,3,2,H,9,18,4,8
+E1,09/03/2019,Sheffield United,Rotherham,2,0,H,19,3,11,0
+E1,09/03/2019,West Brom,Ipswich,1,1,D,16,22,5,7
+E1,10/03/2019,Birmingham,Aston Villa,0,1,A,14,9,4,3
+E1,12/03/2019,Blackburn,Wigan,3,0,H,18,11,9,1
+E1,12/03/2019,Bolton,Sheffield Weds,0,2,A,11,10,2,7
+E1,12/03/2019,Bristol City,Ipswich,1,1,D,12,7,1,4
+E1,12/03/2019,Reading,Leeds,0,3,A,9,13,5,6
+E1,12/03/2019,Sheffield United,Brentford,2,0,H,10,29,4,5
+E1,13/03/2019,Birmingham,Millwall,0,2,A,11,6,1,2
+E1,13/03/2019,Derby,Stoke,0,0,D,19,5,4,0
+E1,13/03/2019,Middlesbrough,Preston,1,2,A,22,17,4,6
+E1,13/03/2019,Norwich,Hull,3,2,H,17,6,7,2
+E1,13/03/2019,Nott'm Forest,Aston Villa,1,3,A,14,11,2,4
+E1,13/03/2019,QPR,Rotherham,1,2,A,9,12,3,4
+E1,13/03/2019,West Brom,Swansea,3,0,H,17,15,5,6
+E1,16/03/2019,Aston Villa,Middlesbrough,3,0,H,18,4,5,1
+E1,16/03/2019,Brentford,West Brom,0,1,A,13,11,7,6
+E1,16/03/2019,Hull,QPR,2,2,D,14,16,6,5
+E1,16/03/2019,Ipswich,Nott'm Forest,1,1,D,16,12,6,5
+E1,16/03/2019,Leeds,Sheffield United,0,1,A,17,10,0,1
+E1,16/03/2019,Preston,Birmingham,1,0,H,12,11,1,3
+E1,16/03/2019,Rotherham,Norwich,1,2,A,13,13,5,4
+E1,16/03/2019,Sheffield Weds,Blackburn,4,2,H,10,8,4,4
+E1,16/03/2019,Stoke,Reading,0,0,D,11,8,3,1
+E1,16/03/2019,Wigan,Bolton,5,2,H,10,13,7,4
+E1,29/03/2019,West Brom,Birmingham,3,2,H,11,12,3,4
+E1,30/03/2019,Aston Villa,Blackburn,2,1,H,15,12,10,2
+E1,30/03/2019,Derby,Rotherham,6,1,H,15,8,7,4
+E1,30/03/2019,Ipswich,Hull,0,2,A,15,7,6,3
+E1,30/03/2019,Leeds,Millwall,3,2,H,18,7,8,3
+E1,30/03/2019,Middlesbrough,Norwich,0,1,A,17,16,6,5
+E1,30/03/2019,Nott'm Forest,Swansea,2,1,H,11,14,3,6
+E1,30/03/2019,QPR,Bolton,1,2,A,21,12,7,6
+E1,30/03/2019,Reading,Preston,2,1,H,13,11,3,2
+E1,30/03/2019,Sheffield United,Bristol City,2,3,A,12,14,5,9
+E1,30/03/2019,Stoke,Sheffield Weds,0,0,D,12,3,3,1
+E1,30/03/2019,Wigan,Brentford,0,0,D,10,13,3,1
+E1,02/04/2019,Middlesbrough,Bristol City,0,1,A,23,15,7,5
+E1,02/04/2019,Swansea,Brentford,3,0,H,13,6,6,1
+E1,06/04/2019,Birmingham,Leeds,1,0,H,10,9,7,1
+E1,06/04/2019,Blackburn,Stoke,0,1,A,11,8,3,3
+E1,06/04/2019,Bolton,Ipswich,1,2,A,12,5,2,3
+E1,06/04/2019,Brentford,Derby,3,3,D,15,12,6,8
+E1,06/04/2019,Bristol City,Wigan,2,2,D,15,17,6,6
+E1,06/04/2019,Hull,Reading,3,1,H,16,7,4,3
+E1,06/04/2019,Millwall,West Brom,2,0,H,16,9,6,1
+E1,06/04/2019,Norwich,QPR,4,0,H,17,6,8,4
+E1,06/04/2019,Preston,Sheffield United,0,1,A,11,15,3,5
+E1,06/04/2019,Rotherham,Nott'm Forest,2,1,H,17,13,5,4
+E1,06/04/2019,Sheffield Weds,Aston Villa,1,3,A,12,9,3,5
+E1,06/04/2019,Swansea,Middlesbrough,3,1,H,16,13,7,1
+E1,09/04/2019,Blackburn,Derby,2,0,H,23,6,5,1
+E1,09/04/2019,Bolton,Middlesbrough,0,2,A,14,18,2,5
+E1,09/04/2019,Bristol City,West Brom,3,2,H,14,13,6,5
+E1,09/04/2019,Preston,Leeds,0,2,A,5,22,0,7
+E1,09/04/2019,Sheffield Weds,Nott'm Forest,3,0,H,14,14,5,6
+E1,09/04/2019,Swansea,Stoke,3,1,H,31,2,8,1
+E1,10/04/2019,Birmingham,Sheffield United,1,1,D,8,8,5,3
+E1,10/04/2019,Brentford,Ipswich,2,0,H,16,4,4,0
+E1,10/04/2019,Hull,Wigan,2,1,H,14,11,4,2
+E1,10/04/2019,Millwall,QPR,0,0,D,7,15,3,3
+E1,10/04/2019,Norwich,Reading,2,2,D,23,5,7,2
+E1,10/04/2019,Rotherham,Aston Villa,1,2,A,19,15,6,8
+E1,13/04/2019,Aston Villa,Bristol City,2,1,H,25,11,11,1
+E1,13/04/2019,Derby,Bolton,4,0,H,20,8,9,2
+E1,13/04/2019,Ipswich,Birmingham,1,1,D,12,17,3,5
+E1,13/04/2019,Leeds,Sheffield Weds,1,0,H,28,8,6,2
+E1,13/04/2019,Middlesbrough,Hull,1,0,H,15,15,4,4
+E1,13/04/2019,Nott'm Forest,Blackburn,1,2,A,22,15,1,9
+E1,13/04/2019,QPR,Swansea,4,0,H,15,9,7,1
+E1,13/04/2019,Reading,Brentford,2,1,H,11,15,4,8
+E1,13/04/2019,Sheffield United,Millwall,1,1,D,14,13,2,7
+E1,13/04/2019,Stoke,Rotherham,2,2,D,4,16,3,7
+E1,13/04/2019,West Brom,Preston,4,1,H,22,10,10,2
+E1,14/04/2019,Wigan,Norwich,1,1,D,17,13,4,4
+E1,19/04/2019,Birmingham,Derby,2,2,D,20,11,3,5
+E1,19/04/2019,Bolton,Aston Villa,0,2,A,6,21,1,9
+E1,19/04/2019,Bristol City,Reading,1,1,D,17,8,6,4
+E1,19/04/2019,Leeds,Wigan,1,2,A,16,8,10,2
+E1,19/04/2019,Middlesbrough,Stoke,1,0,H,7,14,2,1
+E1,19/04/2019,Millwall,Brentford,1,1,D,7,10,2,3
+E1,19/04/2019,Norwich,Sheffield Weds,2,2,D,15,12,5,6
+E1,19/04/2019,Preston,Ipswich,4,0,H,17,18,10,5
+E1,19/04/2019,QPR,Blackburn,1,2,A,19,12,3,5
+E1,19/04/2019,Sheffield United,Nott'm Forest,2,0,H,14,9,4,1
+E1,19/04/2019,Swansea,Rotherham,4,3,H,15,16,8,8
+E1,19/04/2019,West Brom,Hull,3,2,H,10,11,5,3
+E1,22/04/2019,Aston Villa,Millwall,1,0,H,18,13,7,1
+E1,22/04/2019,Blackburn,Bolton,2,0,H,15,13,6,4
+E1,22/04/2019,Brentford,Leeds,2,0,H,12,18,3,3
+E1,22/04/2019,Derby,QPR,2,0,H,17,11,8,2
+E1,22/04/2019,Hull,Sheffield United,0,3,A,11,11,2,5
+E1,22/04/2019,Ipswich,Swansea,0,1,A,13,17,2,5
+E1,22/04/2019,Nott'm Forest,Middlesbrough,3,0,H,20,3,9,1
+E1,22/04/2019,Reading,West Brom,0,0,D,14,14,5,6
+E1,22/04/2019,Rotherham,Birmingham,1,3,A,9,16,1,8
+E1,22/04/2019,Sheffield Weds,Bristol City,2,0,H,10,13,6,4
+E1,22/04/2019,Stoke,Norwich,2,2,D,18,17,9,5
+E1,22/04/2019,Wigan,Preston,2,0,H,14,12,5,1
+E1,27/04/2019,Birmingham,Wigan,1,1,D,12,13,3,5
+E1,27/04/2019,Bolton,Brentford,0,1,A,,,,
+E1,27/04/2019,Bristol City,Derby,0,2,A,23,8,11,4
+E1,27/04/2019,Middlesbrough,Reading,2,1,H,18,12,6,4
+E1,27/04/2019,Millwall,Stoke,0,0,D,13,12,1,2
+E1,27/04/2019,Norwich,Blackburn,2,1,H,24,8,7,1
+E1,27/04/2019,Preston,Sheffield Weds,3,3,D,13,16,5,8
+E1,27/04/2019,QPR,Nott'm Forest,0,1,A,21,7,7,4
+E1,27/04/2019,Sheffield United,Ipswich,2,0,H,12,4,3,1
+E1,27/04/2019,Swansea,Hull,2,2,D,14,8,7,4
+E1,27/04/2019,West Brom,Rotherham,2,1,H,10,13,2,2
+E1,28/04/2019,Leeds,Aston Villa,1,1,D,27,13,5,4
+E1,30/04/2019,Millwall,Bristol City,1,2,A,16,13,5,4
+E1,01/05/2019,Swansea,Derby,1,1,D,12,13,6,4
+E1,05/05/2019,Aston Villa,Norwich,1,2,A,14,23,4,5
+E1,05/05/2019,Blackburn,Swansea,2,2,D,11,10,4,3
+E1,05/05/2019,Brentford,Preston,3,0,H,21,8,8,3
+E1,05/05/2019,Derby,West Brom,3,1,H,23,8,13,2
+E1,05/05/2019,Hull,Bristol City,1,1,D,15,15,3,2
+E1,05/05/2019,Ipswich,Leeds,3,2,H,6,27,3,7
+E1,05/05/2019,Nott'm Forest,Bolton,1,0,H,12,7,3,2
+E1,05/05/2019,Reading,Birmingham,0,0,D,15,19,3,4
+E1,05/05/2019,Rotherham,Middlesbrough,1,2,A,18,12,4,4
+E1,05/05/2019,Sheffield Weds,QPR,1,2,A,8,16,2,8
+E1,05/05/2019,Stoke,Sheffield United,2,2,D,14,11,4,6
+E1,05/05/2019,Wigan,Millwall,1,0,H,15,10,4,3

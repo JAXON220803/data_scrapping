@@ -1,0 +1,343 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+T1,05/08/2022,Istanbulspor,Trabzonspor,0,2,A,3,13,2,5
+T1,06/08/2022,Sivasspor,Gaziantep,1,1,D,9,16,3,6
+T1,06/08/2022,Besiktas,Kayserispor,1,0,H,20,5,6,1
+T1,07/08/2022,Giresunspor,Ad. Demirspor,2,3,A,14,10,5,4
+T1,07/08/2022,Karagumruk,Alanyaspor,2,4,A,17,10,4,6
+T1,07/08/2022,Antalyaspor,Galatasaray,0,1,A,12,13,4,4
+T1,08/08/2022,Buyuksehyr,Kasimpasa,4,0,H,15,9,7,3
+T1,08/08/2022,Ankaragucu,Konyaspor,0,0,D,12,10,3,0
+T1,08/08/2022,Fenerbahce,Umraniyespor,3,3,D,17,10,6,5
+T1,12/08/2022,Trabzonspor,Hatayspor,1,0,H,21,7,6,3
+T1,13/08/2022,Kayserispor,Istanbulspor,1,0,H,8,13,4,1
+T1,13/08/2022,Ad. Demirspor,Sivasspor,3,0,H,27,10,13,1
+T1,13/08/2022,Galatasaray,Giresunspor,0,1,A,14,5,2,4
+T1,14/08/2022,Gaziantep,Ankaragucu,1,0,H,20,6,9,0
+T1,14/08/2022,Umraniyespor,Antalyaspor,0,1,A,14,11,2,2
+T1,14/08/2022,Alanyaspor,Besiktas,3,3,D,11,6,3,4
+T1,15/08/2022,Konyaspor,Buyuksehyr,0,0,D,9,9,2,3
+T1,15/08/2022,Kasimpasa,Fenerbahce,0,6,A,6,24,2,9
+T1,19/08/2022,Umraniyespor,Galatasaray,0,1,A,15,24,3,10
+T1,20/08/2022,Giresunspor,Kasimpasa,1,0,H,14,11,7,4
+T1,20/08/2022,Hatayspor,Gaziantep,1,2,A,14,11,3,3
+T1,20/08/2022,Antalyaspor,Trabzonspor,5,2,H,13,17,6,5
+T1,21/08/2022,Buyuksehyr,Kayserispor,2,0,H,12,10,8,2
+T1,21/08/2022,Besiktas,Karagumruk,4,1,H,19,7,8,3
+T1,22/08/2022,Istanbulspor,Konyaspor,0,4,A,11,14,4,9
+T1,22/08/2022,Sivasspor,Alanyaspor,1,1,D,10,13,3,5
+T1,22/08/2022,Fenerbahce,Ad. Demirspor,4,2,H,11,14,7,9
+T1,26/08/2022,Gaziantep,Antalyaspor,5,2,H,13,10,8,5
+T1,27/08/2022,Karagumruk,Ankaragucu,4,1,H,13,10,9,4
+T1,27/08/2022,Ad. Demirspor,Umraniyespor,1,0,H,15,15,4,2
+T1,27/08/2022,Alanyaspor,Istanbulspor,0,1,A,14,10,3,5
+T1,28/08/2022,Kasimpasa,Hatayspor,1,0,H,12,11,6,3
+T1,28/08/2022,Kayserispor,Giresunspor,3,0,H,15,11,3,6
+T1,28/08/2022,Trabzonspor,Galatasaray,0,0,D,10,13,3,4
+T1,29/08/2022,Konyaspor,Fenerbahce,1,0,H,6,8,4,2
+T1,29/08/2022,Besiktas,Sivasspor,3,1,H,18,6,10,3
+T1,02/09/2022,Umraniyespor,Trabzonspor,0,1,A,7,23,2,7
+T1,03/09/2022,Buyuksehyr,Alanyaspor,2,0,H,10,8,3,1
+T1,03/09/2022,Sivasspor,Karagumruk,0,0,D,7,12,3,3
+T1,03/09/2022,Fenerbahce,Kayserispor,2,0,H,17,5,4,2
+T1,03/09/2022,Giresunspor,Konyaspor,0,1,A,10,18,3,4
+T1,04/09/2022,Hatayspor,Ad. Demirspor,1,1,D,15,23,5,7
+T1,04/09/2022,Ankaragucu,Besiktas,2,3,A,7,11,2,6
+T1,04/09/2022,Antalyaspor,Kasimpasa,0,2,A,15,13,6,7
+T1,05/09/2022,Galatasaray,Gaziantep,2,1,H,20,12,12,3
+T1,09/09/2022,Alanyaspor,Ankaragucu,2,1,H,11,11,6,3
+T1,10/09/2022,Konyaspor,Hatayspor,1,0,H,13,6,6,1
+T1,10/09/2022,Karagumruk,Giresunspor,1,1,D,10,4,3,2
+T1,11/09/2022,Sivasspor,Istanbulspor,1,1,D,13,6,5,4
+T1,11/09/2022,Gaziantep,Umraniyespor,1,1,D,5,18,4,6
+T1,11/09/2022,Kasimpasa,Galatasaray,2,3,A,13,22,7,6
+T1,11/09/2022,Kayserispor,Antalyaspor,1,0,H,9,10,3,3
+T1,12/09/2022,Besiktas,Buyuksehyr,0,1,A,21,7,2,1
+T1,12/09/2022,Ad. Demirspor,Trabzonspor,3,2,H,18,12,6,4
+T1,16/09/2022,Galatasaray,Konyaspor,2,1,H,18,19,5,5
+T1,16/09/2022,Hatayspor,Kayserispor,0,4,A,16,9,4,6
+T1,17/09/2022,Umraniyespor,Kasimpasa,1,2,A,20,13,7,5
+T1,17/09/2022,Antalyaspor,Ad. Demirspor,0,3,A,9,13,4,7
+T1,17/09/2022,Istanbulspor,Besiktas,2,2,D,8,8,2,5
+T1,18/09/2022,Buyuksehyr,Karagumruk,0,0,D,8,7,1,3
+T1,18/09/2022,Trabzonspor,Gaziantep,3,2,H,21,10,8,3
+T1,18/09/2022,Ankaragucu,Sivasspor,2,1,H,11,13,6,5
+T1,18/09/2022,Fenerbahce,Alanyaspor,5,0,H,17,7,11,2
+T1,01/10/2022,Kasimpasa,Gaziantep,1,0,H,11,8,4,1
+T1,01/10/2022,Ankaragucu,Buyuksehyr,1,2,A,10,8,4,3
+T1,01/10/2022,Kayserispor,Trabzonspor,1,2,A,12,20,3,9
+T1,01/10/2022,Ad. Demirspor,Galatasaray,0,0,D,8,23,2,4
+T1,02/10/2022,Alanyaspor,Giresunspor,1,1,D,12,8,5,6
+T1,02/10/2022,Sivasspor,Hatayspor,1,2,A,29,4,8,2
+T1,02/10/2022,Konyaspor,Umraniyespor,1,0,H,8,16,3,6
+T1,02/10/2022,Besiktas,Fenerbahce,0,0,D,9,9,1,3
+T1,03/10/2022,Karagumruk,Istanbulspor,1,2,A,7,15,2,4
+T1,07/10/2022,Gaziantep,Ad. Demirspor,1,1,D,8,22,4,7
+T1,08/10/2022,Istanbulspor,Ankaragucu,1,2,A,10,14,2,7
+T1,08/10/2022,Antalyaspor,Konyaspor,1,1,D,12,11,3,5
+T1,08/10/2022,Giresunspor,Besiktas,0,1,A,8,14,1,5
+T1,09/10/2022,Umraniyespor,Kayserispor,2,2,D,10,12,5,3
+T1,09/10/2022,Hatayspor,Alanyaspor,1,0,H,11,10,4,5
+T1,09/10/2022,Fenerbahce,Karagumruk,5,4,H,16,6,9,4
+T1,10/10/2022,Buyuksehyr,Sivasspor,0,2,A,21,7,6,5
+T1,10/10/2022,Trabzonspor,Kasimpasa,0,0,D,20,7,3,1
+T1,14/10/2022,Alanyaspor,Antalyaspor,3,2,H,9,13,5,7
+T1,15/10/2022,Karagumruk,Hatayspor,3,0,H,14,13,5,0
+T1,15/10/2022,Kasimpasa,Ad. Demirspor,1,4,A,23,14,8,5
+T1,15/10/2022,Kayserispor,Galatasaray,2,1,H,18,12,5,3
+T1,15/10/2022,Konyaspor,Gaziantep,0,1,A,19,6,5,2
+T1,16/10/2022,Buyuksehyr,Istanbulspor,2,0,H,11,10,5,1
+T1,16/10/2022,Besiktas,Trabzonspor,2,2,D,17,10,7,4
+T1,17/10/2022,Ankaragucu,Fenerbahce,0,3,A,8,10,1,5
+T1,17/10/2022,Sivasspor,Giresunspor,3,0,H,16,11,6,1
+T1,21/10/2022,Antalyaspor,Istanbulspor,2,1,H,20,11,8,6
+T1,22/10/2022,Umraniyespor,Karagumruk,1,3,A,9,12,1,6
+T1,22/10/2022,Trabzonspor,Sivasspor,1,0,H,15,12,4,5
+T1,22/10/2022,Fenerbahce,Buyuksehyr,1,0,H,14,3,3,1
+T1,23/10/2022,Kasimpasa,Kayserispor,0,1,A,27,11,11,3
+T1,23/10/2022,Ad. Demirspor,Konyaspor,1,1,D,24,12,4,4
+T1,23/10/2022,Galatasaray,Alanyaspor,2,2,D,18,15,12,6
+T1,24/10/2022,Giresunspor,Ankaragucu,1,1,D,17,8,7,3
+T1,24/10/2022,Hatayspor,Besiktas,2,1,H,8,18,3,4
+T1,28/10/2022,Karagumruk,Galatasaray,0,2,A,6,35,1,12
+T1,29/10/2022,Konyaspor,Kasimpasa,1,1,D,17,7,3,1
+T1,29/10/2022,Alanyaspor,Gaziantep,2,0,H,9,15,5,4
+T1,30/10/2022,Ankaragucu,Hatayspor,4,1,H,17,6,9,1
+T1,30/10/2022,Besiktas,Umraniyespor,5,2,H,16,9,10,3
+T1,30/10/2022,Kayserispor,Ad. Demirspor,2,2,D,11,14,6,5
+T1,30/10/2022,Istanbulspor,Fenerbahce,2,5,A,4,13,2,7
+T1,31/10/2022,Buyuksehyr,Giresunspor,3,1,H,14,11,4,4
+T1,31/10/2022,Sivasspor,Antalyaspor,0,2,A,6,7,0,3
+T1,04/11/2022,Kasimpasa,Ankaragucu,1,1,D,11,12,3,2
+T1,04/11/2022,Umraniyespor,Alanyaspor,3,1,H,12,8,6,3
+T1,05/11/2022,Giresunspor,Istanbulspor,3,2,H,16,12,4,3
+T1,05/11/2022,Galatasaray,Besiktas,2,1,H,19,12,5,5
+T1,06/11/2022,Gaziantep,Kayserispor,1,2,A,16,12,4,5
+T1,06/11/2022,Antalyaspor,Karagumruk,4,2,H,22,16,7,7
+T1,06/11/2022,Trabzonspor,Konyaspor,2,2,D,21,10,8,5
+T1,07/11/2022,Fenerbahce,Sivasspor,1,0,H,12,8,3,3
+T1,07/11/2022,Hatayspor,Buyuksehyr,3,3,D,8,11,5,4
+T1,11/11/2022,Alanyaspor,Ad. Demirspor,0,0,D,16,9,4,1
+T1,11/11/2022,Ankaragucu,Trabzonspor,1,1,D,10,9,1,3
+T1,12/11/2022,Sivasspor,Umraniyespor,2,2,D,13,15,9,6
+T1,12/11/2022,Fenerbahce,Giresunspor,1,2,A,16,9,4,4
+T1,12/11/2022,Buyuksehyr,Galatasaray,0,7,A,10,16,3,10
+T1,13/11/2022,Karagumruk,Gaziantep,3,3,D,18,11,8,5
+T1,13/11/2022,Istanbulspor,Hatayspor,0,1,A,9,11,4,5
+T1,13/11/2022,Kayserispor,Konyaspor,1,2,A,15,9,2,2
+T1,23/12/2022,Antalyaspor,Ankaragucu,0,2,A,11,8,2,2
+T1,23/12/2022,Umraniyespor,Buyuksehyr,1,3,A,11,12,5,4
+T1,24/12/2022,Hatayspor,Giresunspor,1,1,D,11,12,4,4
+T1,24/12/2022,Kasimpasa,Sivasspor,1,2,A,10,9,1,3
+T1,24/12/2022,Trabzonspor,Fenerbahce,2,0,H,18,8,7,0
+T1,25/12/2022,Ad. Demirspor,Karagumruk,2,1,H,16,14,6,3
+T1,25/12/2022,Gaziantep,Besiktas,1,1,D,10,20,3,1
+T1,25/12/2022,Konyaspor,Alanyaspor,2,2,D,10,15,3,6
+T1,25/12/2022,Galatasaray,Istanbulspor,2,1,H,17,12,5,2
+T1,27/12/2022,Ankaragucu,Umraniyespor,1,2,A,17,8,5,3
+T1,27/12/2022,Buyuksehyr,Antalyaspor,2,0,H,6,6,2,1
+T1,27/12/2022,Fenerbahce,Hatayspor,4,0,H,25,4,15,0
+T1,28/12/2022,Alanyaspor,Kayserispor,3,1,H,5,14,3,4
+T1,28/12/2022,Istanbulspor,Kasimpasa,2,1,H,10,11,4,3
+T1,28/12/2022,Karagumruk,Trabzonspor,4,1,H,10,13,6,7
+T1,29/12/2022,Giresunspor,Gaziantep,2,1,H,13,11,6,6
+T1,29/12/2022,Sivasspor,Galatasaray,1,2,A,15,12,6,8
+T1,29/12/2022,Besiktas,Ad. Demirspor,1,0,H,16,13,5,3
+T1,03/01/2023,Umraniyespor,Hatayspor,2,2,D,11,17,3,5
+T1,03/01/2023,Antalyaspor,Fenerbahce,1,2,A,8,18,2,4
+T1,04/01/2023,Kasimpasa,Alanyaspor,4,1,H,11,14,6,2
+T1,04/01/2023,Kayserispor,Karagumruk,2,4,A,19,11,5,7
+T1,04/01/2023,Galatasaray,Ankaragucu,2,1,H,12,9,5,2
+T1,04/01/2023,Konyaspor,Sivasspor,2,2,D,10,10,5,3
+T1,05/01/2023,Gaziantep,Buyuksehyr,1,1,D,14,16,3,6
+T1,05/01/2023,Ad. Demirspor,Istanbulspor,6,0,H,17,8,11,3
+T1,05/01/2023,Trabzonspor,Giresunspor,3,0,H,17,5,8,1
+T1,07/01/2023,Hatayspor,Antalyaspor,0,0,D,9,11,4,4
+T1,07/01/2023,Besiktas,Kasimpasa,2,1,H,14,12,8,4
+T1,08/01/2023,Karagumruk,Konyaspor,3,3,D,6,17,5,9
+T1,08/01/2023,Ankaragucu,Kayserispor,2,1,H,20,10,5,1
+T1,08/01/2023,Giresunspor,Umraniyespor,0,1,A,24,11,6,2
+T1,08/01/2023,Fenerbahce,Galatasaray,0,3,A,13,13,4,8
+T1,09/01/2023,Buyuksehyr,Ad. Demirspor,2,1,H,16,18,5,5
+T1,09/01/2023,Alanyaspor,Trabzonspor,5,0,H,11,15,6,5
+T1,09/01/2023,Istanbulspor,Gaziantep,1,1,D,12,8,2,4
+T1,13/01/2023,Kayserispor,Sivasspor,4,1,H,15,17,11,6
+T1,13/01/2023,Galatasaray,Hatayspor,4,0,H,28,10,10,4
+T1,14/01/2023,Antalyaspor,Giresunspor,2,2,D,12,21,5,9
+T1,14/01/2023,Ad. Demirspor,Ankaragucu,3,1,H,12,25,5,11
+T1,14/01/2023,Konyaspor,Besiktas,1,2,A,15,20,6,4
+T1,14/01/2023,Trabzonspor,Buyuksehyr,1,0,H,9,17,4,3
+T1,15/01/2023,Umraniyespor,Istanbulspor,0,2,A,27,8,6,3
+T1,15/01/2023,Kasimpasa,Karagumruk,2,2,D,12,11,4,4
+T1,15/01/2023,Gaziantep,Fenerbahce,1,2,A,10,20,3,7
+T1,20/01/2023,Ad. Demirspor,Giresunspor,1,1,D,31,9,6,2
+T1,21/01/2023,Kasimpasa,Buyuksehyr,1,3,A,11,19,4,11
+T1,21/01/2023,Galatasaray,Antalyaspor,2,1,H,20,7,6,2
+T1,22/01/2023,Gaziantep,Sivasspor,1,2,A,11,13,3,8
+T1,22/01/2023,Alanyaspor,Karagumruk,2,2,D,15,9,5,5
+T1,22/01/2023,Kayserispor,Besiktas,0,2,A,15,7,3,4
+T1,22/01/2023,Trabzonspor,Istanbulspor,4,0,H,20,10,10,4
+T1,23/01/2023,Konyaspor,Ankaragucu,0,1,A,13,8,7,3
+T1,23/01/2023,Umraniyespor,Fenerbahce,1,2,A,7,22,2,7
+T1,27/01/2023,Besiktas,Alanyaspor,3,0,H,21,6,8,3
+T1,28/01/2023,Sivasspor,Ad. Demirspor,1,2,A,19,11,7,3
+T1,28/01/2023,Ankaragucu,Gaziantep,0,2,A,17,16,5,8
+T1,28/01/2023,Hatayspor,Trabzonspor,2,1,H,10,16,3,5
+T1,28/01/2023,Antalyaspor,Umraniyespor,3,2,H,25,7,10,4
+T1,28/01/2023,Giresunspor,Galatasaray,0,4,A,12,16,1,9
+T1,29/01/2023,Istanbulspor,Kayserispor,2,4,A,8,15,3,7
+T1,29/01/2023,Buyuksehyr,Konyaspor,2,0,H,13,12,5,2
+T1,29/01/2023,Fenerbahce,Kasimpasa,5,1,H,22,4,11,1
+T1,31/01/2023,Alanyaspor,Sivasspor,0,3,A,8,10,2,6
+T1,31/01/2023,Karagumruk,Besiktas,1,1,D,9,11,2,2
+T1,01/02/2023,Gaziantep,Hatayspor,4,1,H,12,12,5,2
+T1,01/02/2023,Kasimpasa,Giresunspor,5,1,H,13,12,7,6
+T1,01/02/2023,Galatasaray,Umraniyespor,3,2,H,30,5,12,5
+T1,01/02/2023,Trabzonspor,Antalyaspor,2,0,H,18,6,7,1
+T1,02/02/2023,Kayserispor,Buyuksehyr,1,0,H,20,25,9,5
+T1,02/02/2023,Konyaspor,Istanbulspor,0,1,A,15,14,2,3
+T1,02/02/2023,Ad. Demirspor,Fenerbahce,1,1,D,22,8,10,3
+T1,04/02/2023,Ankaragucu,Karagumruk,0,2,A,14,17,4,4
+T1,04/02/2023,Sivasspor,Besiktas,1,0,H,9,9,2,0
+T1,04/02/2023,Antalyaspor,Gaziantep,1,0,H,10,12,2,3
+T1,05/02/2023,Istanbulspor,Alanyaspor,2,1,H,7,14,4,5
+T1,05/02/2023,Hatayspor,Kasimpasa,1,0,H,13,14,3,0
+T1,05/02/2023,Galatasaray,Trabzonspor,2,1,H,23,11,10,2
+T1,25/02/2023,Umraniyespor,Gaziantep,3,0,H,,,,
+T1,25/02/2023,Fenerbahce,Konyaspor,4,0,H,14,6,5,4
+T1,25/02/2023,Giresunspor,Kayserispor,1,2,A,29,11,6,5
+T1,26/02/2023,Umraniyespor,Ad. Demirspor,1,1,D,17,22,7,10
+T1,26/02/2023,Besiktas,Antalyaspor,0,0,D,20,3,5,1
+T1,03/03/2023,Alanyaspor,Buyuksehyr,1,0,H,9,12,3,4
+T1,04/03/2023,Karagumruk,Sivasspor,4,3,H,16,20,9,7
+T1,04/03/2023,Trabzonspor,Umraniyespor,1,2,A,25,12,7,7
+T1,04/03/2023,Kayserispor,Fenerbahce,1,2,A,15,17,3,4
+T1,05/03/2023,Ad. Demirspor,Hatayspor,3,0,H,,,,
+T1,05/03/2023,Gaziantep,Galatasaray,0,3,A,,,,
+T1,05/03/2023,Konyaspor,Giresunspor,0,0,D,18,6,6,1
+T1,05/03/2023,Besiktas,Ankaragucu,2,1,H,20,10,10,4
+T1,06/03/2023,Kasimpasa,Antalyaspor,3,1,H,10,15,4,2
+T1,10/03/2023,Giresunspor,Karagumruk,2,2,D,5,12,3,5
+T1,11/03/2023,Antalyaspor,Kayserispor,4,0,H,20,5,10,1
+T1,11/03/2023,Galatasaray,Kasimpasa,1,0,H,16,7,3,2
+T1,12/03/2023,Ankaragucu,Alanyaspor,2,0,H,18,10,6,1
+T1,12/03/2023,Hatayspor,Konyaspor,0,3,A,,,,
+T1,12/03/2023,Trabzonspor,Ad. Demirspor,4,1,H,15,21,6,4
+T1,12/03/2023,Buyuksehyr,Besiktas,0,2,A,13,12,2,4
+T1,13/03/2023,Istanbulspor,Sivasspor,3,0,H,8,7,4,2
+T1,17/03/2023,Konyaspor,Galatasaray,2,1,H,15,17,3,7
+T1,18/03/2023,Kasimpasa,Umraniyespor,1,1,D,20,7,3,2
+T1,18/03/2023,Ad. Demirspor,Antalyaspor,2,0,H,17,10,6,2
+T1,18/03/2023,Besiktas,Istanbulspor,3,1,H,12,10,3,2
+T1,19/03/2023,Karagumruk,Buyuksehyr,2,2,D,12,14,5,5
+T1,19/03/2023,Sivasspor,Ankaragucu,2,0,H,24,7,7,1
+T1,19/03/2023,Alanyaspor,Fenerbahce,1,3,A,4,14,2,5
+T1,19/03/2023,Gaziantep,Trabzonspor,0,3,A,,,,
+T1,19/03/2023,Kayserispor,Hatayspor,3,0,H,,,,
+T1,01/04/2023,Buyuksehyr,Ankaragucu,1,0,H,16,11,9,2
+T1,01/04/2023,Trabzonspor,Kayserispor,3,4,A,21,14,6,4
+T1,01/04/2023,Galatasaray,Ad. Demirspor,2,0,H,19,9,4,1
+T1,02/04/2023,Umraniyespor,Konyaspor,2,2,D,7,11,3,3
+T1,02/04/2023,Giresunspor,Alanyaspor,2,2,D,22,10,7,4
+T1,02/04/2023,Gaziantep,Kasimpasa,0,3,A,,,,
+T1,02/04/2023,Hatayspor,Sivasspor,0,3,A,,,,
+T1,02/04/2023,Fenerbahce,Besiktas,2,4,A,21,8,8,5
+T1,03/04/2023,Istanbulspor,Karagumruk,0,1,A,11,11,3,5
+T1,07/04/2023,Konyaspor,Antalyaspor,1,1,D,11,9,3,2
+T1,08/04/2023,Ankaragucu,Istanbulspor,3,2,H,9,13,6,8
+T1,08/04/2023,Kasimpasa,Trabzonspor,2,0,H,15,11,7,3
+T1,09/04/2023,Sivasspor,Buyuksehyr,1,1,D,11,7,5,2
+T1,09/04/2023,Ad. Demirspor,Gaziantep,3,0,H,,,,
+T1,09/04/2023,Alanyaspor,Hatayspor,3,0,H,,,,
+T1,09/04/2023,Besiktas,Giresunspor,3,1,H,16,8,10,1
+T1,10/04/2023,Kayserispor,Umraniyespor,3,1,H,18,20,5,5
+T1,10/04/2023,Karagumruk,Fenerbahce,1,2,A,8,11,4,4
+T1,14/04/2023,Antalyaspor,Alanyaspor,3,1,H,15,9,8,3
+T1,14/04/2023,Galatasaray,Kayserispor,6,0,H,29,8,17,1
+T1,15/04/2023,Ad. Demirspor,Kasimpasa,5,0,H,22,6,12,2
+T1,15/04/2023,Istanbulspor,Buyuksehyr,1,0,H,9,13,4,5
+T1,15/04/2023,Fenerbahce,Ankaragucu,2,1,H,19,10,9,4
+T1,16/04/2023,Giresunspor,Sivasspor,1,0,H,9,11,3,4
+T1,16/04/2023,Gaziantep,Konyaspor,0,3,A,,,,
+T1,16/04/2023,Hatayspor,Karagumruk,0,3,A,,,,
+T1,16/04/2023,Trabzonspor,Besiktas,0,0,D,12,12,4,5
+T1,18/04/2023,Alanyaspor,Galatasaray,1,4,A,10,19,2,13
+T1,18/04/2023,Karagumruk,Umraniyespor,4,2,H,16,19,8,4
+T1,19/04/2023,Istanbulspor,Antalyaspor,3,3,D,8,17,6,6
+T1,19/04/2023,Kayserispor,Kasimpasa,0,0,D,8,8,3,2
+T1,19/04/2023,Besiktas,Hatayspor,3,0,H,,,,
+T1,19/04/2023,Buyuksehyr,Fenerbahce,1,2,A,6,20,3,5
+T1,19/04/2023,Konyaspor,Ad. Demirspor,1,2,A,12,11,2,7
+T1,20/04/2023,Ankaragucu,Giresunspor,3,1,H,20,3,6,0
+T1,20/04/2023,Sivasspor,Trabzonspor,4,1,H,18,4,10,2
+T1,22/04/2023,Umraniyespor,Besiktas,0,2,A,8,16,2,6
+T1,23/04/2023,Kasimpasa,Konyaspor,1,2,A,17,13,9,6
+T1,23/04/2023,Ad. Demirspor,Kayserispor,5,3,H,16,14,6,3
+T1,23/04/2023,Galatasaray,Karagumruk,3,3,D,24,7,9,3
+T1,23/04/2023,Gaziantep,Alanyaspor,0,3,A,,,,
+T1,23/04/2023,Hatayspor,Ankaragucu,0,3,A,,,,
+T1,24/04/2023,Giresunspor,Buyuksehyr,2,4,A,25,14,8,6
+T1,24/04/2023,Antalyaspor,Sivasspor,1,2,A,21,9,7,3
+T1,24/04/2023,Fenerbahce,Istanbulspor,3,3,D,15,7,5,4
+T1,28/04/2023,Alanyaspor,Umraniyespor,1,0,H,8,13,4,6
+T1,29/04/2023,Karagumruk,Antalyaspor,0,1,A,4,8,2,2
+T1,29/04/2023,Konyaspor,Trabzonspor,2,1,H,12,8,5,3
+T1,29/04/2023,Ankaragucu,Kasimpasa,0,0,D,6,8,2,3
+T1,29/04/2023,Sivasspor,Fenerbahce,1,3,A,10,7,3,4
+T1,30/04/2023,Besiktas,Galatasaray,3,1,H,13,7,6,1
+T1,30/04/2023,Buyuksehyr,Hatayspor,3,0,H,,,,
+T1,30/04/2023,Kayserispor,Gaziantep,3,0,H,,,,
+T1,01/05/2023,Istanbulspor,Giresunspor,1,0,H,5,20,2,6
+T1,06/05/2023,Antalyaspor,Besiktas,1,3,A,9,11,3,5
+T1,06/05/2023,Ad. Demirspor,Alanyaspor,4,2,H,17,13,8,5
+T1,07/05/2023,Umraniyespor,Sivasspor,4,1,H,15,5,9,2
+T1,07/05/2023,Konyaspor,Kayserispor,2,2,D,7,8,3,4
+T1,07/05/2023,Giresunspor,Fenerbahce,1,1,D,7,11,5,4
+T1,07/05/2023,Gaziantep,Karagumruk,0,3,A,,,,
+T1,07/05/2023,Hatayspor,Istanbulspor,0,3,A,,,,
+T1,08/05/2023,Galatasaray,Buyuksehyr,1,0,H,19,8,5,5
+T1,08/05/2023,Trabzonspor,Ankaragucu,2,0,H,14,3,5,0
+T1,16/05/2023,Sivasspor,Kasimpasa,1,2,A,15,6,1,3
+T1,16/05/2023,Alanyaspor,Konyaspor,0,3,A,12,14,5,6
+T1,16/05/2023,Istanbulspor,Galatasaray,0,2,A,9,20,1,5
+T1,17/05/2023,Buyuksehyr,Umraniyespor,1,1,D,6,14,3,4
+T1,17/05/2023,Ankaragucu,Antalyaspor,1,1,D,10,7,3,4
+T1,17/05/2023,Besiktas,Gaziantep,3,0,H,,,,
+T1,17/05/2023,Giresunspor,Hatayspor,3,0,H,,,,
+T1,17/05/2023,Karagumruk,Ad. Demirspor,2,3,A,13,19,6,6
+T1,18/05/2023,Fenerbahce,Trabzonspor,3,1,H,13,9,9,6
+T1,20/05/2023,Kasimpasa,Istanbulspor,1,0,H,11,9,7,3
+T1,20/05/2023,Galatasaray,Sivasspor,2,0,H,11,4,3,2
+T1,20/05/2023,Kayserispor,Alanyaspor,0,4,A,19,7,7,6
+T1,21/05/2023,Umraniyespor,Ankaragucu,1,2,A,12,14,3,6
+T1,21/05/2023,Ad. Demirspor,Besiktas,1,4,A,18,14,7,11
+T1,21/05/2023,Antalyaspor,Buyuksehyr,0,0,D,15,5,9,4
+T1,21/05/2023,Gaziantep,Giresunspor,0,3,A,,,,
+T1,21/05/2023,Hatayspor,Fenerbahce,0,3,A,,,,
+T1,22/05/2023,Trabzonspor,Karagumruk,4,1,H,12,9,6,3
+T1,30/05/2023,Alanyaspor,Kasimpasa,1,3,A,14,18,4,8
+T1,30/05/2023,Ankaragucu,Galatasaray,1,4,A,14,18,7,10
+T1,30/05/2023,Buyuksehyr,Gaziantep,3,0,H,,,,
+T1,30/05/2023,Fenerbahce,Antalyaspor,2,0,H,15,8,8,3
+T1,30/05/2023,Giresunspor,Trabzonspor,2,4,A,11,25,3,12
+T1,30/05/2023,Hatayspor,Umraniyespor,0,3,A,,,,
+T1,30/05/2023,Istanbulspor,Ad. Demirspor,0,2,A,20,25,6,9
+T1,30/05/2023,Karagumruk,Kayserispor,2,0,H,19,7,6,0
+T1,30/05/2023,Sivasspor,Konyaspor,1,0,H,9,6,2,2
+T1,03/06/2023,Konyaspor,Karagumruk,1,1,D,21,18,6,5
+T1,03/06/2023,Ad. Demirspor,Buyuksehyr,2,3,A,25,15,11,6
+T1,03/06/2023,Antalyaspor,Hatayspor,3,0,H,,,,
+T1,03/06/2023,Gaziantep,Istanbulspor,0,3,A,,,,
+T1,03/06/2023,Kasimpasa,Besiktas,2,5,A,15,16,6,6
+T1,03/06/2023,Kayserispor,Ankaragucu,0,1,A,8,5,4,1
+T1,03/06/2023,Trabzonspor,Alanyaspor,5,1,H,23,6,10,4
+T1,03/06/2023,Umraniyespor,Giresunspor,0,1,A,8,8,1,4
+T1,04/06/2023,Galatasaray,Fenerbahce,3,0,H,13,2,6,0
+T1,06/06/2023,Karagumruk,Kasimpasa,3,0,H,11,14,6,2
+T1,06/06/2023,Sivasspor,Kayserispor,1,1,D,15,10,3,2
+T1,06/06/2023,Buyuksehyr,Trabzonspor,3,1,H,16,17,6,4
+T1,07/06/2023,Ankaragucu,Ad. Demirspor,1,2,A,16,11,7,5
+T1,07/06/2023,Besiktas,Konyaspor,3,3,D,17,6,8,3
+T1,07/06/2023,Fenerbahce,Gaziantep,3,0,H,,,,
+T1,07/06/2023,Giresunspor,Antalyaspor,2,0,H,5,18,3,5
+T1,07/06/2023,Hatayspor,Galatasaray,0,3,A,,,,
+T1,07/06/2023,Istanbulspor,Umraniyespor,4,0,H,24,3,12,1

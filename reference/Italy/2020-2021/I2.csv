@@ -1,0 +1,381 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+I2,25/09/2020,Monza,Spal,0,0,D,14,6,7,0
+I2,26/09/2020,Brescia,Ascoli,1,1,D,8,8,5,2
+I2,26/09/2020,Cosenza,Virtus Entella,0,0,D,2,7,2,5
+I2,26/09/2020,Frosinone,Empoli,0,2,A,10,8,4,3
+I2,26/09/2020,Lecce,Pordenone,0,0,D,12,9,4,5
+I2,26/09/2020,Pescara,Chievo,0,0,D,4,13,0,2
+I2,26/09/2020,Salernitana,Reggina,1,1,D,12,14,4,3
+I2,26/09/2020,Venezia,Vicenza,1,0,H,10,10,6,5
+I2,27/09/2020,Cremonese,Cittadella,0,2,A,17,19,4,5
+I2,27/09/2020,Reggiana,Pisa,2,2,D,7,9,3,2
+I2,03/10/2020,Chievo,Salernitana,1,2,A,13,10,2,4
+I2,03/10/2020,Ascoli,Lecce,0,2,A,13,16,1,6
+I2,03/10/2020,Empoli,Monza,0,0,D,7,15,4,6
+I2,03/10/2020,Reggina,Pescara,3,1,H,13,8,5,2
+I2,03/10/2020,Spal,Cosenza,1,1,D,20,18,5,7
+I2,03/10/2020,Venezia,Frosinone,0,2,A,17,9,4,5
+I2,03/10/2020,Vicenza,Pordenone,1,1,D,13,9,3,3
+I2,03/10/2020,Virtus Entella,Reggiana,0,2,A,21,12,4,6
+I2,04/10/2020,Pisa,Cremonese,1,1,D,10,9,4,3
+I2,04/10/2020,Cittadella,Brescia,3,0,H,12,8,6,3
+I2,16/10/2020,Brescia,Lecce,3,0,H,9,15,3,6
+I2,17/10/2020,Cosenza,Cittadella,1,1,D,11,14,3,6
+I2,17/10/2020,Cremonese,Venezia,0,0,D,14,11,4,2
+I2,17/10/2020,Frosinone,Ascoli,1,0,H,12,20,5,4
+I2,17/10/2020,Pordenone,Spal,3,3,D,15,16,6,7
+I2,17/10/2020,Reggiana,Chievo,0,1,A,14,17,5,10
+I2,17/10/2020,Salernitana,Pisa,4,1,H,19,21,6,6
+I2,17/10/2020,Virtus Entella,Reggina,1,1,D,5,11,4,5
+I2,17/10/2020,Pescara,Empoli,1,2,A,16,13,4,5
+I2,20/10/2020,Ascoli,Reggiana,2,1,H,17,13,6,4
+I2,20/10/2020,Chievo,Brescia,1,0,H,12,9,4,1
+I2,20/10/2020,Cittadella,Pordenone,2,0,H,15,9,8,2
+I2,20/10/2020,Empoli,Spal,2,1,H,23,13,6,2
+I2,20/10/2020,Frosinone,Virtus Entella,0,0,D,19,3,5,3
+I2,20/10/2020,Pisa,Monza,1,1,D,16,10,4,3
+I2,20/10/2020,Reggina,Cosenza,0,0,D,27,7,12,3
+I2,20/10/2020,Venezia,Pescara,4,0,H,13,3,8,1
+I2,20/10/2020,Vicenza,Salernitana,1,1,D,16,13,5,4
+I2,21/10/2020,Lecce,Cremonese,2,2,D,25,17,5,7
+I2,23/10/2020,Empoli,Pisa,3,1,H,22,6,8,1
+I2,24/10/2020,Monza,Chievo,1,2,A,12,16,5,4
+I2,24/10/2020,Pordenone,Reggina,2,2,D,13,8,4,3
+I2,24/10/2020,Salernitana,Ascoli,1,0,H,15,14,2,4
+I2,24/10/2020,Spal,Vicenza,3,2,H,26,16,6,4
+I2,24/10/2020,Pescara,Frosinone,0,2,A,11,5,2,2
+I2,25/10/2020,Cosenza,Lecce,1,1,D,20,27,9,7
+I2,31/10/2020,Cittadella,Monza,1,2,A,11,10,2,3
+I2,31/10/2020,Ascoli,Pordenone,0,1,A,9,28,0,9
+I2,31/10/2020,Brescia,Virtus Entella,2,2,D,13,13,4,6
+I2,31/10/2020,Chievo,Cosenza,2,0,H,12,4,4,2
+I2,31/10/2020,Salernitana,Reggiana,3,0,H,,,,
+I2,31/10/2020,Venezia,Empoli,2,0,H,13,13,5,4
+I2,31/10/2020,Vicenza,Pisa,4,4,D,22,9,7,5
+I2,01/11/2020,Reggina,Spal,0,1,A,11,7,5,3
+I2,01/11/2020,Frosinone,Cremonese,1,0,H,12,15,4,5
+I2,02/11/2020,Lecce,Pescara,3,1,H,22,9,5,3
+I2,06/11/2020,Spal,Salernitana,2,0,H,17,13,4,2
+I2,07/11/2020,Cosenza,Brescia,1,2,A,14,12,3,4
+I2,07/11/2020,Cremonese,Vicenza,0,1,A,10,14,1,3
+I2,07/11/2020,Monza,Frosinone,2,0,H,13,12,6,1
+I2,07/11/2020,Pordenone,Chievo,1,1,D,8,16,4,7
+I2,07/11/2020,Empoli,Reggina,3,0,H,18,8,5,0
+I2,08/11/2020,Pescara,Cittadella,3,1,H,7,11,5,4
+I2,08/11/2020,Reggiana,Venezia,2,1,H,12,23,4,7
+I2,08/11/2020,Virtus Entella,Lecce,1,5,A,8,28,1,14
+I2,14/11/2020,Virtus Entella,Venezia,0,2,A,7,16,2,6
+I2,20/11/2020,Frosinone,Cosenza,0,2,A,20,15,5,9
+I2,21/11/2020,Brescia,Venezia,2,2,D,12,16,7,7
+I2,21/11/2020,Cittadella,Empoli,2,2,D,14,15,6,6
+I2,21/11/2020,Lecce,Reggiana,7,1,H,22,8,14,6
+I2,21/11/2020,Pordenone,Monza,1,1,D,10,19,4,4
+I2,21/11/2020,Spal,Pescara,2,0,H,18,6,4,1
+I2,22/11/2020,Ascoli,Virtus Entella,1,1,D,9,17,4,3
+I2,22/11/2020,Reggina,Pisa,1,2,A,8,17,3,2
+I2,23/11/2020,Salernitana,Cremonese,2,1,H,10,25,4,7
+I2,27/11/2020,Chievo,Lecce,1,2,A,11,14,3,6
+I2,28/11/2020,Brescia,Frosinone,1,2,A,12,19,4,6
+I2,28/11/2020,Empoli,Vicenza,2,2,D,15,13,4,4
+I2,28/11/2020,Pescara,Pordenone,0,2,A,10,10,5,4
+I2,28/11/2020,Pisa,Cittadella,1,4,A,14,22,2,10
+I2,28/11/2020,Venezia,Ascoli,2,1,H,19,7,7,4
+I2,28/11/2020,Monza,Reggina,1,0,H,21,8,5,2
+I2,29/11/2020,Reggiana,Cremonese,1,1,D,8,22,3,4
+I2,29/11/2020,Cosenza,Salernitana,0,1,A,17,16,2,4
+I2,30/11/2020,Virtus Entella,Spal,0,1,A,11,10,3,3
+I2,02/12/2020,Monza,Vicenza,1,1,D,18,12,6,5
+I2,04/12/2020,Ascoli,Pescara,0,2,A,16,13,4,9
+I2,05/12/2020,Cremonese,Virtus Entella,2,1,H,13,14,5,4
+I2,05/12/2020,Frosinone,Chievo,3,2,H,11,22,5,3
+I2,05/12/2020,Lecce,Venezia,2,2,D,11,10,2,4
+I2,05/12/2020,Salernitana,Cittadella,1,0,H,8,5,2,1
+I2,05/12/2020,Spal,Pisa,4,0,H,11,17,6,3
+I2,05/12/2020,Reggina,Brescia,2,1,H,14,10,8,2
+I2,06/12/2020,Reggiana,Monza,3,0,H,10,16,5,5
+I2,06/12/2020,Vicenza,Cosenza,1,1,D,13,14,7,2
+I2,07/12/2020,Pordenone,Empoli,0,0,D,13,20,3,7
+I2,08/12/2020,Cremonese,Brescia,2,2,D,19,16,8,6
+I2,08/12/2020,Pisa,Ascoli,2,1,H,17,11,6,6
+I2,11/12/2020,Venezia,Monza,0,2,A,8,13,4,6
+I2,11/12/2020,Chievo,Reggina,3,0,H,17,12,7,4
+I2,12/12/2020,Brescia,Salernitana,3,1,H,21,7,8,2
+I2,12/12/2020,Cosenza,Reggiana,0,1,A,22,10,4,6
+I2,12/12/2020,Cremonese,Ascoli,3,3,D,19,19,8,8
+I2,12/12/2020,Lecce,Frosinone,2,2,D,14,14,3,5
+I2,12/12/2020,Pisa,Pordenone,1,0,H,13,8,4,1
+I2,12/12/2020,Virtus Entella,Empoli,2,5,A,10,14,6,6
+I2,12/12/2020,Pescara,Vicenza,2,3,A,19,8,7,4
+I2,12/12/2020,Cittadella,Spal,2,0,H,17,8,6,3
+I2,14/12/2020,Reggina,Venezia,1,2,A,11,14,2,5
+I2,15/12/2020,Reggiana,Frosinone,1,2,A,7,11,4,4
+I2,15/12/2020,Ascoli,Cosenza,0,3,A,9,19,3,8
+I2,15/12/2020,Cittadella,Vicenza,3,0,H,12,10,7,2
+I2,15/12/2020,Empoli,Cremonese,1,0,H,15,17,3,3
+I2,15/12/2020,Monza,Virtus Entella,5,0,H,24,4,12,1
+I2,15/12/2020,Pisa,Pescara,0,0,D,14,4,5,1
+I2,15/12/2020,Pordenone,Brescia,1,1,D,20,6,7,4
+I2,15/12/2020,Salernitana,Lecce,1,1,D,5,23,1,7
+I2,15/12/2020,Spal,Chievo,0,0,D,8,19,3,3
+I2,18/12/2020,Virtus Entella,Pordenone,0,1,A,10,8,3,4
+I2,18/12/2020,Frosinone,Salernitana,0,0,D,21,13,0,3
+I2,19/12/2020,Brescia,Reggiana,3,1,H,9,18,4,3
+I2,19/12/2020,Chievo,Empoli,1,1,D,6,16,2,6
+I2,19/12/2020,Cremonese,Cosenza,1,0,H,11,21,4,3
+I2,19/12/2020,Lecce,Pisa,0,3,A,17,9,3,7
+I2,19/12/2020,Reggina,Cittadella,1,3,A,7,13,3,5
+I2,19/12/2020,Vicenza,Ascoli,2,1,H,16,13,7,5
+I2,19/12/2020,Pescara,Monza,3,2,H,18,17,3,5
+I2,19/12/2020,Venezia,Spal,0,0,D,11,9,5,3
+I2,21/12/2020,Salernitana,Virtus Entella,2,1,H,12,7,3,1
+I2,22/12/2020,Cittadella,Frosinone,1,0,H,20,8,7,2
+I2,22/12/2020,Cosenza,Venezia,0,0,D,11,16,4,4
+I2,22/12/2020,Monza,Ascoli,2,0,H,16,5,6,2
+I2,22/12/2020,Pescara,Brescia,1,1,D,16,4,4,2
+I2,22/12/2020,Pisa,Chievo,2,2,D,8,22,3,3
+I2,22/12/2020,Pordenone,Cremonese,1,2,A,20,15,3,4
+I2,22/12/2020,Spal,Lecce,1,0,H,14,18,5,5
+I2,22/12/2020,Vicenza,Reggina,1,1,D,8,9,2,2
+I2,22/12/2020,Empoli,Reggiana,0,0,D,19,5,6,0
+I2,27/12/2020,Reggiana,Reggina,0,1,A,7,19,3,6
+I2,27/12/2020,Ascoli,Spal,2,0,H,12,26,5,8
+I2,27/12/2020,Cosenza,Pisa,1,1,D,13,24,3,8
+I2,27/12/2020,Frosinone,Pordenone,1,1,D,15,13,5,5
+I2,27/12/2020,Lecce,Vicenza,2,1,H,20,11,7,2
+I2,27/12/2020,Venezia,Salernitana,1,2,A,23,5,8,3
+I2,27/12/2020,Virtus Entella,Pescara,3,0,H,11,12,7,3
+I2,27/12/2020,Brescia,Empoli,1,3,A,6,24,1,10
+I2,27/12/2020,Cremonese,Monza,0,2,A,13,9,3,5
+I2,30/12/2020,Cittadella,Lecce,2,2,D,19,16,8,8
+I2,30/12/2020,Pescara,Cosenza,0,0,D,24,8,3,2
+I2,30/12/2020,Pordenone,Reggiana,3,0,H,15,8,7,4
+I2,30/12/2020,Reggina,Cremonese,1,0,H,5,8,3,3
+I2,30/12/2020,Monza,Salernitana,3,0,H,26,10,10,2
+I2,30/12/2020,Empoli,Ascoli,1,1,D,19,14,5,5
+I2,30/12/2020,Spal,Brescia,2,3,A,13,14,6,8
+I2,30/12/2020,Vicenza,Virtus Entella,0,1,A,17,7,4,3
+I2,30/12/2020,Chievo,Venezia,1,1,D,16,11,3,5
+I2,04/01/2021,Cosenza,Empoli,0,2,A,12,16,1,7
+I2,04/01/2021,Venezia,Pisa,1,1,D,19,12,11,4
+I2,04/01/2021,Lecce,Monza,0,0,D,15,12,2,2
+I2,04/01/2021,Ascoli,Reggina,2,1,H,6,12,3,5
+I2,04/01/2021,Cremonese,Chievo,0,2,A,9,7,3,3
+I2,04/01/2021,Frosinone,Spal,1,2,A,17,12,5,4
+I2,04/01/2021,Reggiana,Pescara,0,1,A,15,8,2,4
+I2,04/01/2021,Salernitana,Pordenone,0,2,A,13,15,3,6
+I2,04/01/2021,Virtus Entella,Cittadella,1,0,H,2,13,1,2
+I2,04/01/2021,Brescia,Vicenza,0,3,A,13,12,3,6
+I2,09/01/2021,Reggiana,Cittadella,0,2,A,8,15,4,6
+I2,15/01/2021,Chievo,Virtus Entella,2,1,H,21,4,6,3
+I2,15/01/2021,Vicenza,Frosinone,0,0,D,11,6,3,0
+I2,16/01/2021,Cittadella,Ascoli,1,0,H,18,11,8,6
+I2,16/01/2021,Monza,Cosenza,2,2,D,19,11,5,3
+I2,16/01/2021,Pisa,Brescia,1,0,H,15,7,4,1
+I2,16/01/2021,Pordenone,Venezia,2,0,H,11,17,3,5
+I2,16/01/2021,Reggina,Lecce,0,1,A,22,9,6,1
+I2,17/01/2021,Pescara,Cremonese,0,2,A,12,14,4,4
+I2,17/01/2021,Empoli,Salernitana,5,0,H,26,18,11,5
+I2,18/01/2021,Spal,Reggiana,2,0,H,19,5,7,2
+I2,19/01/2021,Vicenza,Chievo,1,1,D,13,12,4,2
+I2,22/01/2021,Virtus Entella,Pisa,2,1,H,13,15,3,5
+I2,23/01/2021,Ascoli,Chievo,0,0,D,8,7,2,2
+I2,23/01/2021,Cosenza,Pordenone,0,0,D,8,18,4,4
+I2,23/01/2021,Frosinone,Reggina,1,1,D,24,7,7,4
+I2,23/01/2021,Reggiana,Vicenza,2,1,H,5,12,2,4
+I2,23/01/2021,Venezia,Cittadella,1,0,H,14,14,3,1
+I2,23/01/2021,Salernitana,Pescara,2,0,H,12,16,5,3
+I2,24/01/2021,Lecce,Empoli,2,2,D,8,14,3,7
+I2,24/01/2021,Cremonese,Spal,1,1,D,26,8,8,1
+I2,25/01/2021,Brescia,Monza,0,1,A,11,11,3,4
+I2,27/01/2021,Chievo,Cittadella,2,1,H,10,14,6,4
+I2,29/01/2021,Vicenza,Venezia,0,0,D,13,17,1,1
+I2,30/01/2021,Ascoli,Brescia,2,1,H,25,6,6,2
+I2,30/01/2021,Empoli,Frosinone,3,1,H,10,21,5,5
+I2,30/01/2021,Pordenone,Lecce,1,1,D,16,13,4,1
+I2,30/01/2021,Virtus Entella,Cosenza,1,2,A,9,11,5,3
+I2,30/01/2021,Pisa,Reggiana,1,0,H,17,14,3,4
+I2,31/01/2021,Chievo,Pescara,3,1,H,10,13,4,3
+I2,31/01/2021,Spal,Monza,1,1,D,10,8,3,3
+I2,31/01/2021,Cittadella,Cremonese,1,1,D,9,19,5,5
+I2,01/02/2021,Reggina,Salernitana,0,0,D,12,9,5,2
+I2,02/02/2021,Pisa,Frosinone,0,0,D,18,9,5,1
+I2,05/02/2021,Lecce,Ascoli,1,2,A,14,13,3,5
+I2,06/02/2021,Brescia,Cittadella,3,3,D,19,23,7,6
+I2,06/02/2021,Cosenza,Spal,1,1,D,14,15,6,6
+I2,06/02/2021,Cremonese,Pisa,2,1,H,11,12,7,3
+I2,06/02/2021,Frosinone,Venezia,1,2,A,8,11,2,4
+I2,06/02/2021,Pescara,Reggina,0,2,A,6,15,2,5
+I2,06/02/2021,Salernitana,Chievo,1,1,D,12,15,5,5
+I2,06/02/2021,Monza,Empoli,1,1,D,23,11,5,2
+I2,06/02/2021,Pordenone,Vicenza,1,2,A,12,16,6,7
+I2,07/02/2021,Reggiana,Virtus Entella,2,1,H,13,15,5,3
+I2,09/02/2021,Cittadella,Cosenza,1,1,D,15,12,5,3
+I2,09/02/2021,Empoli,Pescara,2,2,D,23,9,6,6
+I2,09/02/2021,Lecce,Brescia,2,2,D,12,9,5,3
+I2,09/02/2021,Pisa,Salernitana,2,2,D,15,12,7,6
+I2,09/02/2021,Spal,Pordenone,1,3,A,9,14,1,6
+I2,09/02/2021,Venezia,Cremonese,3,1,H,7,21,3,4
+I2,09/02/2021,Vicenza,Monza,1,2,A,13,14,3,5
+I2,09/02/2021,Ascoli,Frosinone,1,1,D,15,5,4,1
+I2,10/02/2021,Reggina,Virtus Entella,1,0,H,12,9,3,3
+I2,10/02/2021,Chievo,Reggiana,1,0,H,16,9,7,3
+I2,12/02/2021,Monza,Pisa,0,2,A,15,14,4,5
+I2,13/02/2021,Salernitana,Vicenza,1,1,D,8,16,3,3
+I2,13/02/2021,Cremonese,Lecce,1,2,A,14,13,5,3
+I2,13/02/2021,Pescara,Venezia,0,2,A,9,12,3,5
+I2,13/02/2021,Pordenone,Cittadella,0,1,A,11,15,3,3
+I2,13/02/2021,Spal,Empoli,1,1,D,10,15,3,3
+I2,14/02/2021,Virtus Entella,Frosinone,2,3,A,14,10,5,4
+I2,14/02/2021,Reggiana,Ascoli,1,0,H,6,20,2,9
+I2,14/02/2021,Brescia,Chievo,1,0,H,10,22,3,3
+I2,15/02/2021,Cosenza,Reggina,2,2,D,20,13,8,5
+I2,19/02/2021,Frosinone,Pescara,0,0,D,13,6,1,2
+I2,20/02/2021,Ascoli,Salernitana,0,2,A,16,12,4,4
+I2,20/02/2021,Brescia,Cremonese,1,2,A,7,17,2,6
+I2,20/02/2021,Cittadella,Reggiana,0,3,A,15,13,4,6
+I2,20/02/2021,Venezia,Virtus Entella,3,2,H,19,11,6,4
+I2,20/02/2021,Vicenza,Spal,2,2,D,15,11,6,6
+I2,20/02/2021,Chievo,Monza,0,1,A,6,5,1,2
+I2,20/02/2021,Pisa,Empoli,1,1,D,15,19,4,3
+I2,21/02/2021,Reggina,Pordenone,1,0,H,8,11,1,1
+I2,21/02/2021,Lecce,Cosenza,3,1,H,15,5,5,3
+I2,26/02/2021,Reggiana,Salernitana,0,0,D,8,13,3,4
+I2,26/02/2021,Empoli,Venezia,1,1,D,15,3,4,3
+I2,27/02/2021,Cosenza,Chievo,1,0,H,6,19,1,8
+I2,27/02/2021,Cremonese,Frosinone,4,0,H,8,11,5,5
+I2,27/02/2021,Pescara,Lecce,1,1,D,9,9,4,3
+I2,27/02/2021,Pisa,Vicenza,2,2,D,8,15,2,8
+I2,27/02/2021,Pordenone,Ascoli,1,1,D,7,10,1,5
+I2,27/02/2021,Spal,Reggina,1,4,A,11,17,3,10
+I2,27/02/2021,Monza,Cittadella,0,0,D,8,10,1,2
+I2,27/02/2021,Virtus Entella,Brescia,1,1,D,14,8,6,3
+I2,01/03/2021,Venezia,Reggiana,2,1,H,15,11,6,4
+I2,02/03/2021,Frosinone,Monza,2,2,D,18,12,9,4
+I2,02/03/2021,Ascoli,Pisa,0,2,A,7,12,1,4
+I2,02/03/2021,Brescia,Cosenza,2,0,H,19,10,5,4
+I2,02/03/2021,Chievo,Pordenone,3,0,H,6,13,3,3
+I2,02/03/2021,Cittadella,Pescara,0,1,A,7,7,3,1
+I2,02/03/2021,Lecce,Virtus Entella,0,0,D,20,7,7,0
+I2,02/03/2021,Reggina,Empoli,0,3,A,13,19,2,7
+I2,02/03/2021,Salernitana,Spal,0,0,D,13,8,4,3
+I2,02/03/2021,Vicenza,Cremonese,3,1,H,17,16,7,5
+I2,06/03/2021,Cosenza,Frosinone,1,2,A,9,19,2,11
+I2,06/03/2021,Cremonese,Salernitana,0,1,A,14,7,3,3
+I2,06/03/2021,Pescara,Spal,0,1,A,17,8,1,4
+I2,06/03/2021,Pisa,Reggina,0,0,D,17,11,2,3
+I2,06/03/2021,Virtus Entella,Ascoli,0,0,D,9,21,4,7
+I2,06/03/2021,Venezia,Brescia,0,1,A,18,13,9,4
+I2,06/03/2021,Monza,Pordenone,2,0,H,16,17,6,0
+I2,07/03/2021,Empoli,Cittadella,1,1,D,15,26,3,11
+I2,07/03/2021,Reggiana,Lecce,0,4,A,5,20,0,8
+I2,08/03/2021,Chievo,Vicenza,1,2,A,14,3,3,3
+I2,12/03/2021,Cittadella,Pisa,2,0,H,11,17,3,1
+I2,12/03/2021,Spal,Virtus Entella,0,0,D,22,6,3,1
+I2,13/03/2021,Ascoli,Venezia,1,1,D,17,24,4,11
+I2,13/03/2021,Cremonese,Reggiana,3,0,H,21,12,9,3
+I2,13/03/2021,Frosinone,Brescia,0,1,A,13,11,1,5
+I2,13/03/2021,Lecce,Chievo,4,2,H,11,10,4,4
+I2,13/03/2021,Pordenone,Pescara,0,0,D,12,15,1,7
+I2,13/03/2021,Reggina,Monza,1,0,H,12,6,6,2
+I2,13/03/2021,Salernitana,Cosenza,0,0,D,15,5,5,2
+I2,13/03/2021,Vicenza,Empoli,0,2,A,10,17,2,8
+I2,15/03/2021,Pisa,Spal,3,0,H,22,6,7,2
+I2,16/03/2021,Virtus Entella,Cremonese,0,2,A,11,15,2,5
+I2,16/03/2021,Cosenza,Vicenza,1,1,D,10,12,3,6
+I2,16/03/2021,Venezia,Lecce,2,3,A,15,5,3,3
+I2,16/03/2021,Brescia,Reggina,1,0,H,13,9,5,3
+I2,16/03/2021,Chievo,Frosinone,0,0,D,5,12,0,1
+I2,16/03/2021,Cittadella,Salernitana,0,0,D,14,12,4,2
+I2,16/03/2021,Empoli,Pordenone,1,0,H,26,1,3,0
+I2,16/03/2021,Monza,Reggiana,2,0,H,16,5,3,0
+I2,16/03/2021,Pescara,Ascoli,2,3,A,9,18,3,8
+I2,19/03/2021,Ascoli,Cremonese,0,0,D,13,12,2,5
+I2,20/03/2021,Empoli,Virtus Entella,1,0,H,26,5,8,1
+I2,20/03/2021,Frosinone,Lecce,0,3,A,14,19,4,7
+I2,20/03/2021,Reggiana,Cosenza,1,1,D,13,9,5,4
+I2,20/03/2021,Vicenza,Pescara,1,0,H,16,4,3,1
+I2,20/03/2021,Monza,Venezia,1,4,A,13,12,3,5
+I2,20/03/2021,Spal,Cittadella,1,0,H,6,16,2,3
+I2,21/03/2021,Reggina,Chievo,1,1,D,5,17,4,6
+I2,21/03/2021,Salernitana,Brescia,1,0,H,21,4,5,0
+I2,02/04/2021,Cosenza,Ascoli,2,1,H,13,8,6,3
+I2,02/04/2021,Frosinone,Reggiana,0,0,D,10,15,1,4
+I2,02/04/2021,Pescara,Pisa,3,1,H,15,14,5,2
+I2,02/04/2021,Brescia,Pordenone,4,1,H,20,8,7,3
+I2,02/04/2021,Chievo,Spal,1,1,D,11,16,5,2
+I2,02/04/2021,Lecce,Salernitana,2,0,H,15,7,7,0
+I2,02/04/2021,Venezia,Reggina,0,2,A,13,5,3,2
+I2,02/04/2021,Vicenza,Cittadella,1,0,H,11,12,6,3
+I2,02/04/2021,Virtus Entella,Monza,1,1,D,10,18,2,2
+I2,05/04/2021,Pordenone,Virtus Entella,3,0,H,9,11,5,1
+I2,05/04/2021,Ascoli,Vicenza,2,1,H,13,13,4,4
+I2,05/04/2021,Cittadella,Reggina,1,1,D,11,14,3,3
+I2,05/04/2021,Cosenza,Cremonese,0,1,A,11,19,5,8
+I2,05/04/2021,Monza,Pescara,1,1,D,19,18,3,5
+I2,05/04/2021,Pisa,Lecce,0,1,A,16,7,4,2
+I2,05/04/2021,Reggiana,Brescia,2,2,D,19,6,3,2
+I2,05/04/2021,Spal,Venezia,1,1,D,8,9,1,4
+I2,05/04/2021,Salernitana,Frosinone,1,0,H,9,12,4,1
+I2,09/04/2021,Reggiana,Empoli,0,1,A,9,15,4,5
+I2,10/04/2021,Ascoli,Monza,1,0,H,9,17,3,4
+I2,10/04/2021,Brescia,Pescara,1,1,D,12,8,5,3
+I2,10/04/2021,Cremonese,Pordenone,2,1,H,19,6,5,1
+I2,10/04/2021,Lecce,Spal,1,2,A,9,11,4,2
+I2,10/04/2021,Virtus Entella,Salernitana,0,3,A,11,13,2,6
+I2,10/04/2021,Frosinone,Cittadella,1,1,D,19,12,7,5
+I2,11/04/2021,Reggina,Vicenza,3,0,H,5,14,4,2
+I2,11/04/2021,Venezia,Cosenza,3,0,H,17,1,7,1
+I2,12/04/2021,Chievo,Pisa,2,0,H,10,9,5,1
+I2,13/04/2021,Cremonese,Empoli,2,2,D,16,13,3,8
+I2,16/04/2021,Spal,Ascoli,1,2,A,14,14,4,6
+I2,17/04/2021,Empoli,Brescia,4,2,H,25,9,11,3
+I2,17/04/2021,Monza,Cremonese,2,1,H,9,19,3,5
+I2,17/04/2021,Pisa,Cosenza,3,0,H,21,5,7,1
+I2,17/04/2021,Reggina,Reggiana,2,1,H,6,7,2,2
+I2,17/04/2021,Salernitana,Venezia,2,1,H,21,9,8,3
+I2,17/04/2021,Vicenza,Lecce,1,2,A,15,15,2,6
+I2,17/04/2021,Cittadella,Chievo,1,0,H,9,7,2,2
+I2,17/04/2021,Pordenone,Frosinone,2,0,H,7,7,5,1
+I2,24/04/2021,Pordenone,Pisa,2,2,D,13,17,4,4
+I2,27/04/2021,Pescara,Virtus Entella,1,1,D,20,9,8,2
+I2,27/04/2021,Empoli,Chievo,2,2,D,14,10,3,3
+I2,01/05/2021,Ascoli,Empoli,2,0,H,16,17,6,7
+I2,01/05/2021,Brescia,Spal,3,1,H,16,13,7,2
+I2,01/05/2021,Cosenza,Pescara,3,0,H,9,13,3,6
+I2,01/05/2021,Cremonese,Reggina,1,1,D,16,12,6,6
+I2,01/05/2021,Frosinone,Pisa,3,1,H,14,14,6,4
+I2,01/05/2021,Lecce,Cittadella,1,3,A,18,12,6,7
+I2,01/05/2021,Reggiana,Pordenone,1,0,H,7,13,2,2
+I2,01/05/2021,Salernitana,Monza,1,3,A,10,11,4,6
+I2,01/05/2021,Venezia,Chievo,3,1,H,12,10,5,1
+I2,01/05/2021,Virtus Entella,Vicenza,1,2,A,15,15,2,3
+I2,04/05/2021,Chievo,Cremonese,1,1,D,11,12,2,3
+I2,04/05/2021,Cittadella,Virtus Entella,1,0,H,20,7,2,4
+I2,04/05/2021,Empoli,Cosenza,4,0,H,15,7,7,1
+I2,04/05/2021,Monza,Lecce,1,0,H,9,18,2,3
+I2,04/05/2021,Pescara,Reggiana,1,0,H,11,13,5,3
+I2,04/05/2021,Pisa,Venezia,2,2,D,21,16,7,5
+I2,04/05/2021,Pordenone,Salernitana,1,2,A,14,11,5,3
+I2,04/05/2021,Reggina,Ascoli,2,2,D,10,14,3,9
+I2,04/05/2021,Spal,Frosinone,0,1,A,8,12,0,3
+I2,04/05/2021,Vicenza,Brescia,0,3,A,10,9,6,3
+I2,07/05/2021,Ascoli,Cittadella,2,0,H,12,13,6,4
+I2,07/05/2021,Brescia,Pisa,4,3,H,19,15,9,6
+I2,07/05/2021,Cosenza,Monza,0,3,A,13,14,5,8
+I2,07/05/2021,Cremonese,Pescara,3,0,H,25,14,8,5
+I2,07/05/2021,Frosinone,Vicenza,1,1,D,15,6,3,2
+I2,07/05/2021,Lecce,Reggina,2,2,D,19,15,10,6
+I2,07/05/2021,Reggiana,Spal,1,2,A,13,8,4,3
+I2,07/05/2021,Salernitana,Empoli,2,0,H,12,13,3,4
+I2,07/05/2021,Venezia,Pordenone,0,0,D,14,10,4,2
+I2,07/05/2021,Virtus Entella,Chievo,1,3,A,14,13,6,7
+I2,10/05/2021,Chievo,Ascoli,3,0,H,9,11,7,2
+I2,10/05/2021,Cittadella,Venezia,1,1,D,11,15,4,8
+I2,10/05/2021,Empoli,Lecce,2,1,H,18,13,5,2
+I2,10/05/2021,Monza,Brescia,0,2,A,22,11,5,4
+I2,10/05/2021,Pescara,Salernitana,0,3,A,10,14,1,4
+I2,10/05/2021,Pisa,Virtus Entella,3,2,H,24,7,6,3
+I2,10/05/2021,Pordenone,Cosenza,2,0,H,15,11,6,1
+I2,10/05/2021,Reggina,Frosinone,0,4,A,11,20,2,9
+I2,10/05/2021,Spal,Cremonese,1,0,H,12,9,4,4
+I2,10/05/2021,Vicenza,Reggiana,2,1,H,10,10,4,3

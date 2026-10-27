@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+G1,25/08/2018,AEK,Giannina,2,0,H,17,8,11,2
+G1,25/08/2018,Apollon,Larisa,0,1,A,7,5,0,3
+G1,25/08/2018,Panetolikos,Atromitos,1,2,A,6,14,4,7
+G1,25/08/2018,PAOK,Asteras Tripolis,1,0,H,12,10,4,4
+G1,26/08/2018,Olympiakos,Levadeiakos,1,0,H,21,4,9,2
+G1,26/08/2018,Panionios,OFI Crete,2,2,D,15,9,9,6
+G1,26/08/2018,Xanthi,Panathinaikos,0,1,A,7,9,1,4
+G1,27/08/2018,Lamia,Aris,0,3,A,11,11,6,5
+G1,01/09/2018,Asteras Tripolis,AEK,0,1,A,4,6,1,3
+G1,01/09/2018,Atromitos,Xanthi,0,0,D,6,6,1,2
+G1,01/09/2018,Panathinaikos,Lamia,3,1,H,6,7,4,2
+G1,02/09/2018,Aris,Larisa,2,0,H,12,7,7,5
+G1,02/09/2018,Olympiakos,Giannina,5,0,H,17,7,10,5
+G1,02/09/2018,Panionios,PAOK,0,1,A,8,7,6,7
+G1,03/09/2018,Levadeiakos,Apollon,1,0,H,16,8,6,2
+G1,03/09/2018,Panetolikos,OFI Crete,2,1,H,6,7,3,5
+G1,15/09/2018,AEK,Panionios,4,0,H,24,4,14,1
+G1,15/09/2018,Apollon,Giannina,1,2,A,9,6,6,6
+G1,15/09/2018,OFI Crete,PAOK,1,3,A,6,8,3,3
+G1,16/09/2018,Atromitos,Lamia,1,0,H,11,10,6,5
+G1,16/09/2018,Larisa,Panathinaikos,1,3,A,6,9,3,5
+G1,16/09/2018,Olympiakos,Asteras Tripolis,2,1,H,12,8,8,4
+G1,16/09/2018,Xanthi,Panetolikos,1,1,D,14,3,5,2
+G1,17/09/2018,Aris,Levadeiakos,2,0,H,8,10,4,4
+G1,22/09/2018,Asteras Tripolis,Apollon,2,0,H,20,6,11,2
+G1,22/09/2018,Atromitos,Larisa,2,0,H,15,4,6,2
+G1,22/09/2018,Giannina,Aris,1,0,H,7,9,3,3
+G1,23/09/2018,Panathinaikos,Levadeiakos,3,0,H,7,8,6,5
+G1,23/09/2018,PAOK,AEK,2,0,H,12,9,4,4
+G1,23/09/2018,Xanthi,OFI Crete,3,0,H,11,12,7,3
+G1,24/09/2018,Panetolikos,Lamia,2,2,D,12,7,5,5
+G1,24/09/2018,Panionios,Olympiakos,0,1,A,11,20,2,6
+G1,29/09/2018,Larisa,Panetolikos,1,0,H,7,7,2,3
+G1,29/09/2018,OFI Crete,AEK,0,3,A,5,13,4,10
+G1,29/09/2018,Panathinaikos,Giannina,2,1,H,12,6,4,4
+G1,30/09/2018,Apollon,Panionios,0,2,A,18,16,8,8
+G1,30/09/2018,Aris,Asteras Tripolis,2,0,H,7,5,4,0
+G1,30/09/2018,Levadeiakos,Atromitos,0,2,A,11,17,5,8
+G1,30/09/2018,Olympiakos,PAOK,0,1,A,20,6,6,5
+G1,01/10/2018,Lamia,Xanthi,0,0,D,18,9,10,4
+G1,06/10/2018,Asteras Tripolis,Panathinaikos,1,1,D,9,9,8,7
+G1,06/10/2018,Panetolikos,Levadeiakos,2,1,H,10,3,4,1
+G1,06/10/2018,Panionios,Aris,1,0,H,9,14,4,5
+G1,07/10/2018,AEK,Olympiakos,1,1,D,9,9,5,5
+G1,07/10/2018,Atromitos,Giannina,1,0,H,11,3,9,1
+G1,07/10/2018,Lamia,OFI Crete,1,1,D,12,8,4,4
+G1,07/10/2018,PAOK,Apollon,2,0,H,5,3,2,2
+G1,08/10/2018,Xanthi,Larisa,1,0,H,11,5,5,0
+G1,20/10/2018,Apollon,AEK,0,2,A,12,15,7,6
+G1,20/10/2018,Giannina,Panetolikos,0,2,A,13,9,3,5
+G1,20/10/2018,Larisa,Lamia,1,2,A,10,7,4,4
+G1,20/10/2018,Panathinaikos,Panionios,1,0,H,21,6,7,2
+G1,21/10/2018,Aris,PAOK,1,2,A,8,12,4,6
+G1,21/10/2018,Levadeiakos,Xanthi,1,2,A,17,8,11,5
+G1,21/10/2018,OFI Crete,Olympiakos,1,0,H,8,8,2,4
+G1,22/10/2018,Atromitos,Asteras Tripolis,3,2,H,10,8,6,4
+G1,27/10/2018,Lamia,Levadeiakos,3,2,H,12,13,9,9
+G1,27/10/2018,Larisa,OFI Crete,0,0,D,8,4,3,1
+G1,28/10/2018,AEK,Aris,4,0,H,10,6,8,2
+G1,28/10/2018,Panetolikos,Asteras Tripolis,1,1,D,4,8,3,3
+G1,28/10/2018,Panionios,Atromitos,2,2,D,9,12,5,5
+G1,29/10/2018,Olympiakos,Apollon,1,0,H,14,2,3,1
+G1,29/10/2018,PAOK,Panathinaikos,2,0,H,14,3,6,1
+G1,29/10/2018,Xanthi,Giannina,2,1,H,9,9,3,4
+G1,03/11/2018,Atromitos,PAOK,1,1,D,5,5,3,1
+G1,03/11/2018,Levadeiakos,Larisa,1,1,D,5,2,3,1
+G1,03/11/2018,Panathinaikos,AEK,0,0,D,10,5,4,2
+G1,03/11/2018,Panionios,Panetolikos,3,0,H,7,11,4,4
+G1,04/11/2018,Aris,Olympiakos,0,1,A,6,7,3,3
+G1,04/11/2018,Giannina,Lamia,0,0,D,10,7,2,3
+G1,04/11/2018,OFI Crete,Apollon,0,0,D,10,8,3,5
+G1,05/11/2018,Asteras Tripolis,Xanthi,0,1,A,20,5,11,4
+G1,10/11/2018,Larisa,Giannina,2,0,H,11,4,5,0
+G1,10/11/2018,Levadeiakos,OFI Crete,2,1,H,9,4,4,4
+G1,10/11/2018,Xanthi,Panionios,0,1,A,7,7,3,5
+G1,11/11/2018,AEK,Atromitos,0,2,A,8,8,2,6
+G1,11/11/2018,Lamia,Asteras Tripolis,0,0,D,5,10,2,5
+G1,11/11/2018,Olympiakos,Panathinaikos,1,1,D,21,3,10,2
+G1,11/11/2018,PAOK,Panetolikos,2,1,H,11,3,4,3
+G1,12/11/2018,Apollon,Aris,1,2,A,8,11,6,6
+G1,24/11/2018,Asteras Tripolis,Larisa,2,0,H,6,3,2,1
+G1,24/11/2018,Panathinaikos,Apollon,5,1,H,19,11,12,3
+G1,24/11/2018,Panetolikos,AEK,2,1,H,6,5,3,2
+G1,24/11/2018,PAOK,Xanthi,2,0,H,10,5,4,3
+G1,25/11/2018,Atromitos,Olympiakos,1,2,A,3,20,2,8
+G1,25/11/2018,Giannina,Levadeiakos,2,0,H,10,7,6,2
+G1,25/11/2018,OFI Crete,Aris,1,2,A,3,11,2,7
+G1,26/11/2018,Panionios,Lamia,1,0,H,7,7,3,4
+G1,01/12/2018,Apollon,Atromitos,1,1,D,9,4,4,2
+G1,01/12/2018,Giannina,OFI Crete,1,1,D,12,5,7,3
+G1,01/12/2018,Larisa,Panionios,4,2,H,17,5,9,3
+G1,02/12/2018,AEK,Xanthi,2,0,H,13,3,10,1
+G1,02/12/2018,Aris,Panathinaikos,1,1,D,8,7,3,3
+G1,02/12/2018,Levadeiakos,Asteras Tripolis,0,2,A,5,11,3,5
+G1,03/12/2018,Lamia,PAOK,0,1,A,9,7,5,4
+G1,03/12/2018,Olympiakos,Panetolikos,2,1,H,13,4,6,3
+G1,08/12/2018,AEK,Lamia,2,0,H,11,6,7,4
+G1,08/12/2018,Asteras Tripolis,Giannina,1,0,H,10,6,2,4
+G1,09/12/2018,Atromitos,Aris,4,2,H,11,6,7,5
+G1,09/12/2018,OFI Crete,Panathinaikos,3,1,H,8,6,5,3
+G1,09/12/2018,PAOK,Larisa,2,1,H,18,2,6,1
+G1,09/12/2018,Xanthi,Olympiakos,1,1,D,3,11,2,5
+G1,10/12/2018,Panetolikos,Apollon,2,1,H,8,11,4,4
+G1,10/12/2018,Panionios,Levadeiakos,1,1,D,20,4,10,3
+G1,15/12/2018,Aris,Panetolikos,1,2,A,9,10,5,6
+G1,15/12/2018,Asteras Tripolis,OFI Crete,2,1,H,23,8,14,5
+G1,15/12/2018,Giannina,Panionios,3,1,H,9,6,4,3
+G1,16/12/2018,Apollon,Xanthi,1,0,H,8,4,3,0
+G1,16/12/2018,Larisa,AEK,0,0,D,7,7,2,1
+G1,16/12/2018,Olympiakos,Lamia,3,0,H,10,4,6,2
+G1,16/12/2018,Panathinaikos,Atromitos,1,0,H,5,2,3,0
+G1,17/12/2018,Levadeiakos,PAOK,1,2,A,12,13,5,5
+G1,12/01/2019,Atromitos,Panetolikos,2,2,D,7,6,3,5
+G1,12/01/2019,Larisa,Apollon,3,0,H,13,8,9,2
+G1,12/01/2019,OFI Crete,Panionios,1,1,D,11,9,3,5
+G1,13/01/2019,Asteras Tripolis,PAOK,0,3,A,17,9,13,7
+G1,13/01/2019,Levadeiakos,Olympiakos,0,2,A,10,22,2,13
+G1,13/01/2019,Panathinaikos,Xanthi,2,2,D,12,5,9,4
+G1,14/01/2019,Aris,Lamia,1,0,H,4,4,2,1
+G1,14/01/2019,Giannina,AEK,0,4,A,8,10,2,5
+G1,19/01/2019,Apollon,Levadeiakos,0,0,D,9,6,4,2
+G1,19/01/2019,Giannina,Olympiakos,1,2,A,5,8,2,4
+G1,19/01/2019,PAOK,Panionios,3,0,H,9,3,6,2
+G1,20/01/2019,AEK,Asteras Tripolis,3,0,H,15,6,9,1
+G1,20/01/2019,Larisa,Aris,0,0,D,9,10,2,3
+G1,20/01/2019,OFI Crete,Panetolikos,3,0,H,11,2,9,1
+G1,20/01/2019,Xanthi,Atromitos,2,1,H,11,7,3,5
+G1,21/01/2019,Lamia,Panathinaikos,1,0,H,7,4,4,1
+G1,26/01/2019,Giannina,Apollon,1,0,H,9,9,7,5
+G1,26/01/2019,Panetolikos,Xanthi,0,0,D,6,4,1,2
+G1,26/01/2019,Panionios,AEK,0,2,A,7,7,3,3
+G1,27/01/2019,Asteras Tripolis,Olympiakos,0,2,A,7,14,3,9
+G1,27/01/2019,Lamia,Atromitos,2,1,H,10,7,4,4
+G1,27/01/2019,Levadeiakos,Aris,1,0,H,6,12,3,2
+G1,27/01/2019,Panathinaikos,Larisa,1,1,D,10,3,5,1
+G1,27/01/2019,PAOK,OFI Crete,4,0,H,12,1,7,0
+G1,30/01/2019,AEK,Levadeiakos,1,0,H,19,2,7,0
+G1,30/01/2019,Lamia,Apollon,2,1,H,9,8,7,4
+G1,30/01/2019,Olympiakos,Larisa,4,0,H,17,2,13,1
+G1,30/01/2019,Panetolikos,Panathinaikos,0,1,A,5,4,1,3
+G1,30/01/2019,Panionios,Asteras Tripolis,1,0,H,8,7,4,3
+G1,30/01/2019,PAOK,Giannina,2,1,H,15,1,7,1
+G1,31/01/2019,OFI Crete,Atromitos,1,1,D,7,8,4,3
+G1,31/01/2019,Xanthi,Aris,0,1,A,4,8,2,6
+G1,02/02/2019,Lamia,Panetolikos,0,2,A,5,5,3,3
+G1,02/02/2019,Olympiakos,Panionios,4,0,H,18,3,10,2
+G1,03/02/2019,AEK,PAOK,1,1,D,13,9,4,6
+G1,03/02/2019,Apollon,Asteras Tripolis,0,2,A,6,10,1,6
+G1,03/02/2019,Aris,Giannina,1,0,H,13,4,6,0
+G1,03/02/2019,Larisa,Atromitos,0,1,A,8,6,3,3
+G1,03/02/2019,Levadeiakos,Panathinaikos,0,0,D,10,6,4,3
+G1,03/02/2019,OFI Crete,Xanthi,0,0,D,11,5,6,2
+G1,09/02/2019,Giannina,Panathinaikos,1,0,H,6,4,3,4
+G1,09/02/2019,Panionios,Apollon,0,1,A,12,9,4,5
+G1,09/02/2019,Xanthi,Lamia,0,0,D,7,6,3,3
+G1,10/02/2019,AEK,OFI Crete,1,0,H,11,3,6,1
+G1,10/02/2019,Atromitos,Levadeiakos,1,0,H,8,4,6,2
+G1,10/02/2019,PAOK,Olympiakos,3,1,H,9,10,7,4
+G1,11/02/2019,Asteras Tripolis,Aris,0,3,A,9,5,4,5
+G1,11/02/2019,Panetolikos,Larisa,2,2,D,5,11,4,4
+G1,16/02/2019,Giannina,Atromitos,0,2,A,12,9,7,3
+G1,16/02/2019,Panathinaikos,Asteras Tripolis,1,0,H,12,7,6,3
+G1,17/02/2019,Aris,Panionios,1,1,D,11,4,5,3
+G1,17/02/2019,Larisa,Xanthi,1,1,D,12,4,5,2
+G1,17/02/2019,Levadeiakos,Panetolikos,1,0,H,8,3,2,1
+G1,17/02/2019,Olympiakos,AEK,4,1,H,8,6,4,4
+G1,18/02/2019,Apollon,PAOK,1,5,A,7,15,1,10
+G1,18/02/2019,OFI Crete,Lamia,1,3,A,16,9,8,6
+G1,23/02/2019,AEK,Apollon,2,1,H,13,7,6,4
+G1,23/02/2019,Asteras Tripolis,Atromitos,1,1,D,5,6,1,2
+G1,23/02/2019,Xanthi,Levadeiakos,0,1,A,5,5,2,4
+G1,24/02/2019,Lamia,Larisa,2,1,H,11,7,5,2
+G1,24/02/2019,Panionios,Panathinaikos,2,0,H,10,4,8,2
+G1,24/02/2019,PAOK,Aris,1,1,D,4,6,1,1
+G1,25/02/2019,Olympiakos,OFI Crete,5,1,H,13,4,9,2
+G1,25/02/2019,Panetolikos,Giannina,1,0,H,5,10,5,7
+G1,02/03/2019,Aris,AEK,2,0,H,9,6,9,0
+G1,02/03/2019,Giannina,Xanthi,0,0,D,7,5,2,3
+G1,03/03/2019,Asteras Tripolis,Panetolikos,3,0,H,11,11,5,5
+G1,03/03/2019,Atromitos,Panionios,3,0,H,6,4,3,1
+G1,03/03/2019,Levadeiakos,Lamia,1,1,D,4,4,2,2
+G1,03/03/2019,OFI Crete,Larisa,0,0,D,7,2,4,0
+G1,03/03/2019,Panathinaikos,PAOK,0,2,A,9,8,3,5
+G1,04/03/2019,Apollon,Olympiakos,0,2,A,6,16,2,8
+G1,09/03/2019,AEK,Panathinaikos,0,0,D,9,3,4,0
+G1,09/03/2019,Xanthi,Asteras Tripolis,0,0,D,12,4,3,2
+G1,10/03/2019,Apollon,OFI Crete,0,0,D,5,15,1,5
+G1,10/03/2019,Lamia,Giannina,1,1,D,4,3,3,2
+G1,10/03/2019,Larisa,Levadeiakos,2,0,H,10,4,4,1
+G1,10/03/2019,Olympiakos,Aris,4,1,H,7,5,6,1
+G1,10/03/2019,PAOK,Atromitos,3,0,H,7,6,4,0
+G1,11/03/2019,Panetolikos,Panionios,5,0,H,13,9,6,5
+G1,16/03/2019,Asteras Tripolis,Lamia,0,0,D,5,4,3,1
+G1,16/03/2019,Giannina,Larisa,0,0,D,13,2,5,1
+G1,16/03/2019,Panetolikos,PAOK,1,2,A,2,9,2,4
+G1,17/03/2019,Atromitos,AEK,0,1,A,5,12,5,11
+G1,17/03/2019,OFI Crete,Levadeiakos,2,0,H,16,3,7,1
+G1,17/03/2019,Panathinaikos,Olympiakos,0,3,A,,,,
+G1,17/03/2019,Panionios,Xanthi,1,0,H,7,5,3,2
+G1,18/03/2019,Aris,Apollon,5,0,H,16,1,9,0
+G1,30/03/2019,Lamia,Panionios,1,0,H,11,3,6,0
+G1,30/03/2019,Larisa,Asteras Tripolis,2,1,H,8,4,5,3
+G1,30/03/2019,Levadeiakos,Giannina,0,2,A,11,8,4,4
+G1,31/03/2019,AEK,Panetolikos,4,0,H,8,1,5,0
+G1,31/03/2019,Aris,OFI Crete,3,1,H,21,3,11,2
+G1,31/03/2019,Olympiakos,Atromitos,2,1,H,9,9,4,5
+G1,31/03/2019,Xanthi,PAOK,1,2,A,4,12,3,6
+G1,01/04/2019,Apollon,Panathinaikos,1,3,A,3,12,1,5
+G1,06/04/2019,OFI Crete,Giannina,1,0,H,12,2,6,1
+G1,06/04/2019,Panathinaikos,Aris,2,0,H,10,10,6,0
+G1,06/04/2019,Panionios,Larisa,1,0,H,6,11,2,8
+G1,07/04/2019,Asteras Tripolis,Levadeiakos,0,0,D,12,4,7,1
+G1,07/04/2019,Panetolikos,Olympiakos,0,5,A,4,19,2,13
+G1,07/04/2019,PAOK,Lamia,3,0,H,11,4,5,0
+G1,07/04/2019,Xanthi,AEK,1,3,A,5,12,3,10
+G1,08/04/2019,Atromitos,Apollon,1,0,H,13,14,5,2
+G1,14/04/2019,Apollon,Panetolikos,0,1,A,5,4,1,2
+G1,14/04/2019,Aris,Atromitos,0,2,A,7,3,2,2
+G1,14/04/2019,Giannina,Asteras Tripolis,0,0,D,6,5,3,2
+G1,14/04/2019,Lamia,AEK,2,2,D,6,6,3,2
+G1,14/04/2019,Larisa,PAOK,1,1,D,5,17,3,5
+G1,14/04/2019,Levadeiakos,Panionios,1,2,A,7,11,4,8
+G1,14/04/2019,Olympiakos,Xanthi,4,0,H,17,3,9,2
+G1,14/04/2019,Panathinaikos,OFI Crete,1,3,A,6,9,2,6
+G1,21/04/2019,AEK,Larisa,0,1,A,10,3,5,1
+G1,21/04/2019,Atromitos,Panathinaikos,2,0,H,7,4,5,1
+G1,21/04/2019,Lamia,Olympiakos,1,3,A,8,7,4,5
+G1,21/04/2019,OFI Crete,Asteras Tripolis,1,1,D,3,4,2,2
+G1,21/04/2019,Panetolikos,Aris,1,2,A,4,9,2,6
+G1,21/04/2019,Panionios,Giannina,2,1,H,5,5,3,1
+G1,21/04/2019,PAOK,Levadeiakos,5,0,H,16,2,9,1
+G1,21/04/2019,Xanthi,Apollon,2,0,H,14,5,3,3
+G1,04/05/2019,Apollon,Lamia,0,3,A,9,9,4,6
+G1,05/05/2019,Aris,Xanthi,7,2,H,17,7,14,4
+G1,05/05/2019,Asteras Tripolis,Panionios,3,0,H,14,9,10,6
+G1,05/05/2019,Atromitos,OFI Crete,0,2,A,7,5,2,4
+G1,05/05/2019,Giannina,PAOK,0,2,A,7,11,3,8
+G1,05/05/2019,Larisa,Olympiakos,0,3,A,5,11,1,8
+G1,05/05/2019,Levadeiakos,AEK,0,3,A,3,13,1,7
+G1,05/05/2019,Panathinaikos,Panetolikos,4,0,H,8,5,6,4

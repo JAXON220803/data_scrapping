@@ -1,0 +1,381 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+F2,24/07/2021,Bastia,Nimes,1,1,D,10,9,4,6
+F2,24/07/2021,Amiens,Auxerre,1,2,A,10,12,4,5
+F2,24/07/2021,Caen,Rodez,4,0,H,13,15,5,7
+F2,24/07/2021,Dunkerque,Quevilly Rouen,1,1,D,7,5,3,3
+F2,24/07/2021,Grenoble,Paris FC,0,4,A,2,19,0,11
+F2,24/07/2021,Le Havre,Guingamp,0,0,D,15,15,4,3
+F2,24/07/2021,Pau FC,Nancy,2,1,H,14,11,8,2
+F2,24/07/2021,Toulouse,Ajaccio,2,2,D,17,11,5,6
+F2,24/07/2021,Valenciennes,Niort,0,0,D,12,12,1,3
+F2,26/07/2021,Dijon,Sochaux,1,3,A,9,13,1,5
+F2,31/07/2021,Nimes,Dijon,2,1,H,15,11,7,3
+F2,31/07/2021,Ajaccio,Amiens,3,1,H,16,6,3,1
+F2,31/07/2021,Guingamp,Valenciennes,1,1,D,11,7,2,2
+F2,31/07/2021,Nancy,Toulouse,0,4,A,13,12,3,8
+F2,31/07/2021,Niort,Caen,0,1,A,6,9,3,3
+F2,31/07/2021,Paris FC,Dunkerque,2,1,H,12,8,7,2
+F2,31/07/2021,Rodez,Pau FC,1,0,H,7,6,5,2
+F2,31/07/2021,Sochaux,Le Havre,0,2,A,12,10,3,4
+F2,02/08/2021,Auxerre,Grenoble,3,0,H,15,7,5,1
+F2,07/08/2021,Caen,Sochaux,1,2,A,15,17,5,7
+F2,07/08/2021,Amiens,Quevilly Rouen,1,3,A,11,11,3,5
+F2,07/08/2021,Auxerre,Ajaccio,0,0,D,8,5,2,1
+F2,07/08/2021,Dijon,Rodez,1,1,D,7,13,4,2
+F2,07/08/2021,Dunkerque,Niort,1,2,A,9,4,2,3
+F2,07/08/2021,Grenoble,Guingamp,0,0,D,9,8,4,1
+F2,07/08/2021,Le Havre,Paris FC,1,2,A,11,9,3,2
+F2,07/08/2021,Pau FC,Toulouse,0,1,A,14,4,4,2
+F2,07/08/2021,Valenciennes,Nimes,0,3,A,14,7,2,3
+F2,11/08/2021,Bastia,Nancy,1,1,D,4,5,1,4
+F2,14/08/2021,Toulouse,Bastia,1,0,H,14,7,3,3
+F2,14/08/2021,Guingamp,Amiens,0,2,A,13,9,5,2
+F2,14/08/2021,Nancy,Valenciennes,0,1,A,11,15,2,5
+F2,14/08/2021,Nimes,Pau FC,0,0,D,13,11,3,1
+F2,14/08/2021,Niort,Grenoble,1,0,H,11,12,4,1
+F2,14/08/2021,Quevilly Rouen,Dijon,2,1,H,18,11,5,5
+F2,14/08/2021,Rodez,Le Havre,0,0,D,10,4,2,0
+F2,14/08/2021,Sochaux,Dunkerque,1,0,H,11,13,3,2
+F2,16/08/2021,Paris FC,Auxerre,1,1,D,16,9,5,5
+F2,18/08/2021,Quevilly Rouen,Bastia,1,2,A,14,9,3,6
+F2,21/08/2021,Dijon,Toulouse,2,4,A,16,15,4,7
+F2,21/08/2021,Amiens,Sochaux,0,0,D,8,13,2,3
+F2,21/08/2021,Caen,Nancy,1,0,H,11,11,4,3
+F2,21/08/2021,Dunkerque,Nimes,0,2,A,8,9,2,7
+F2,21/08/2021,Grenoble,Quevilly Rouen,2,0,H,13,7,4,1
+F2,21/08/2021,Le Havre,Niort,2,1,H,14,8,5,3
+F2,21/08/2021,Pau FC,Bastia,2,0,H,16,11,5,1
+F2,21/08/2021,Valenciennes,Rodez,1,4,A,10,13,3,9
+F2,23/08/2021,Auxerre,Guingamp,1,2,A,14,7,4,2
+F2,25/08/2021,Ajaccio,Caen,2,0,H,11,7,5,1
+F2,28/08/2021,Nimes,Caen,0,0,D,9,9,2,1
+F2,28/08/2021,Toulouse,Valenciennes,1,0,H,15,12,4,4
+F2,28/08/2021,Bastia,Le Havre,0,0,D,17,6,4,2
+F2,28/08/2021,Guingamp,Ajaccio,1,1,D,8,8,3,4
+F2,28/08/2021,Nancy,Auxerre,1,4,A,17,17,3,8
+F2,28/08/2021,Niort,Amiens,0,0,D,17,7,6,0
+F2,28/08/2021,Pau FC,Dijon,2,0,H,6,13,5,6
+F2,28/08/2021,Quevilly Rouen,Paris FC,0,1,A,10,24,2,7
+F2,28/08/2021,Rodez,Dunkerque,2,2,D,11,8,4,2
+F2,28/08/2021,Sochaux,Grenoble,1,0,H,10,5,3,0
+F2,11/09/2021,Paris FC,Guingamp,0,1,A,18,5,11,2
+F2,11/09/2021,Ajaccio,Sochaux,1,0,H,11,7,5,1
+F2,11/09/2021,Amiens,Rodez,0,1,A,13,14,1,5
+F2,11/09/2021,Auxerre,Niort,4,0,H,13,14,6,5
+F2,11/09/2021,Caen,Pau FC,1,2,A,16,10,6,5
+F2,11/09/2021,Dijon,Bastia,2,1,H,8,12,3,5
+F2,11/09/2021,Dunkerque,Nancy,0,0,D,19,12,3,6
+F2,11/09/2021,Grenoble,Nimes,2,1,H,16,8,2,3
+F2,11/09/2021,Valenciennes,Quevilly Rouen,1,2,A,7,13,1,3
+F2,13/09/2021,Le Havre,Toulouse,1,1,D,9,9,4,2
+F2,14/09/2021,Ajaccio,Paris FC,1,0,H,11,7,3,3
+F2,18/09/2021,Sochaux,Paris FC,2,0,H,12,6,4,2
+F2,18/09/2021,Toulouse,Grenoble,4,1,H,17,8,10,2
+F2,18/09/2021,Bastia,Caen,1,1,D,4,11,3,3
+F2,18/09/2021,Dijon,Dunkerque,2,0,H,14,9,5,3
+F2,18/09/2021,Nancy,Le Havre,1,1,D,13,8,5,5
+F2,18/09/2021,Nimes,Amiens,3,3,D,12,16,6,7
+F2,18/09/2021,Niort,Guingamp,2,0,H,10,10,4,3
+F2,18/09/2021,Pau FC,Valenciennes,1,1,D,6,15,3,4
+F2,18/09/2021,Quevilly Rouen,Auxerre,0,0,D,8,11,4,3
+F2,18/09/2021,Rodez,Ajaccio,0,2,A,15,6,7,3
+F2,21/09/2021,Ajaccio,Niort,0,0,D,12,3,6,1
+F2,21/09/2021,Amiens,Pau FC,2,2,D,10,11,4,5
+F2,21/09/2021,Auxerre,Rodez,1,0,H,16,10,8,2
+F2,21/09/2021,Caen,Dijon,0,1,A,15,10,5,2
+F2,21/09/2021,Dunkerque,Toulouse,0,2,A,7,13,1,5
+F2,21/09/2021,Grenoble,Nancy,4,1,H,12,17,8,2
+F2,21/09/2021,Guingamp,Sochaux,1,2,A,17,5,3,2
+F2,21/09/2021,Le Havre,Quevilly Rouen,1,0,H,11,9,2,3
+F2,21/09/2021,Paris FC,Nimes,2,0,H,13,7,6,2
+F2,21/09/2021,Valenciennes,Bastia,2,1,H,9,10,5,3
+F2,24/09/2021,Dijon,Valenciennes,0,1,A,19,6,5,3
+F2,24/09/2021,Nancy,Amiens,1,1,D,15,6,3,2
+F2,24/09/2021,Nimes,Le Havre,0,1,A,10,12,3,5
+F2,24/09/2021,Niort,Paris FC,4,1,H,10,23,5,9
+F2,24/09/2021,Pau FC,Dunkerque,1,2,A,25,6,9,3
+F2,24/09/2021,Quevilly Rouen,Guingamp,2,2,D,8,13,3,4
+F2,24/09/2021,Rodez,Grenoble,1,1,D,18,4,5,1
+F2,24/09/2021,Sochaux,Auxerre,0,0,D,12,6,4,1
+F2,25/09/2021,Bastia,Ajaccio,2,0,H,5,6,4,0
+F2,27/09/2021,Toulouse,Caen,2,3,A,20,10,5,4
+F2,02/10/2021,Amiens,Toulouse,0,0,D,4,11,0,2
+F2,02/10/2021,Auxerre,Nimes,2,2,D,10,11,3,5
+F2,02/10/2021,Ajaccio,Quevilly Rouen,0,1,A,11,4,1,3
+F2,02/10/2021,Caen,Valenciennes,1,2,A,18,13,4,7
+F2,02/10/2021,Dunkerque,Bastia,2,0,H,9,7,6,1
+F2,02/10/2021,Grenoble,Pau FC,2,0,H,6,9,2,1
+F2,02/10/2021,Guingamp,Rodez,2,1,H,11,8,5,1
+F2,02/10/2021,Le Havre,Dijon,2,0,H,9,12,4,4
+F2,02/10/2021,Paris FC,Nancy,1,1,D,8,8,2,2
+F2,02/10/2021,Sochaux,Niort,1,0,H,9,6,1,3
+F2,16/10/2021,Toulouse,Auxerre,6,0,H,15,5,7,1
+F2,16/10/2021,Bastia,Grenoble,0,0,D,15,9,2,4
+F2,16/10/2021,Caen,Le Havre,2,2,D,9,7,3,2
+F2,16/10/2021,Dijon,Amiens,1,0,H,9,12,3,0
+F2,16/10/2021,Nancy,Guingamp,2,1,H,16,6,5,3
+F2,16/10/2021,Pau FC,Paris FC,1,0,H,11,11,4,3
+F2,16/10/2021,Quevilly Rouen,Niort,0,3,A,6,11,2,5
+F2,16/10/2021,Rodez,Sochaux,0,1,A,5,7,1,1
+F2,16/10/2021,Valenciennes,Dunkerque,1,3,A,17,8,3,6
+F2,18/10/2021,Nimes,Ajaccio,0,2,A,8,12,2,6
+F2,23/10/2021,Paris FC,Toulouse,2,2,D,8,15,2,3
+F2,23/10/2021,Ajaccio,Nancy,2,0,H,12,6,4,1
+F2,23/10/2021,Amiens,Valenciennes,3,0,H,5,11,3,2
+F2,23/10/2021,Dunkerque,Caen,1,1,D,12,10,3,4
+F2,23/10/2021,Grenoble,Dijon,1,2,A,6,24,1,8
+F2,23/10/2021,Guingamp,Nimes,3,1,H,23,6,8,1
+F2,23/10/2021,Le Havre,Pau FC,1,0,H,11,10,2,6
+F2,23/10/2021,Niort,Rodez,0,2,A,9,13,1,7
+F2,23/10/2021,Sochaux,Quevilly Rouen,1,1,D,9,7,4,3
+F2,25/10/2021,Auxerre,Bastia,1,0,H,6,9,4,3
+F2,30/10/2021,Toulouse,Guingamp,2,2,D,12,12,3,4
+F2,30/10/2021,Bastia,Amiens,0,0,D,15,10,4,3
+F2,30/10/2021,Caen,Grenoble,0,1,A,11,11,3,5
+F2,30/10/2021,Dijon,Paris FC,0,1,A,22,8,3,2
+F2,30/10/2021,Dunkerque,Le Havre,1,0,H,12,11,6,1
+F2,30/10/2021,Nancy,Sochaux,0,0,D,9,13,3,2
+F2,30/10/2021,Nimes,Niort,1,2,A,9,7,2,3
+F2,30/10/2021,Pau FC,Ajaccio,1,0,H,9,9,1,1
+F2,30/10/2021,Rodez,Quevilly Rouen,3,0,H,10,10,5,3
+F2,01/11/2021,Valenciennes,Auxerre,1,2,A,11,18,5,9
+F2,06/11/2021,Auxerre,Pau FC,4,1,H,16,6,7,5
+F2,06/11/2021,Sochaux,Nimes,0,1,A,19,8,7,2
+F2,06/11/2021,Ajaccio,Dijon,1,0,H,17,4,6,1
+F2,06/11/2021,Amiens,Caen,0,0,D,6,4,3,1
+F2,06/11/2021,Grenoble,Dunkerque,1,0,H,13,2,9,0
+F2,06/11/2021,Guingamp,Bastia,2,3,A,18,7,3,3
+F2,06/11/2021,Le Havre,Valenciennes,0,0,D,11,5,2,3
+F2,06/11/2021,Niort,Nancy,1,3,A,13,8,5,5
+F2,06/11/2021,Paris FC,Rodez,1,0,H,8,7,2,2
+F2,06/11/2021,Quevilly Rouen,Toulouse,0,0,D,5,18,0,8
+F2,20/11/2021,Toulouse,Sochaux,4,1,H,12,13,6,7
+F2,20/11/2021,Bastia,Niort,2,0,H,8,10,4,5
+F2,20/11/2021,Caen,Paris FC,0,1,A,9,11,2,4
+F2,20/11/2021,Dunkerque,Ajaccio,0,1,A,9,7,3,1
+F2,20/11/2021,Le Havre,Amiens,1,1,D,9,11,3,4
+F2,20/11/2021,Nancy,Rodez,0,2,A,17,14,10,9
+F2,20/11/2021,Nimes,Quevilly Rouen,2,1,H,11,34,6,18
+F2,20/11/2021,Pau FC,Guingamp,2,0,H,14,21,7,9
+F2,20/11/2021,Valenciennes,Grenoble,1,0,H,13,6,5,4
+F2,22/11/2021,Dijon,Auxerre,3,1,H,20,10,7,7
+F2,03/12/2021,Ajaccio,Valenciennes,0,0,D,12,1,3,0
+F2,03/12/2021,Amiens,Dunkerque,3,0,H,17,5,9,3
+F2,03/12/2021,Grenoble,Le Havre,1,2,A,12,9,3,6
+F2,03/12/2021,Guingamp,Dijon,3,2,H,9,8,6,4
+F2,03/12/2021,Paris FC,Bastia,1,0,H,14,10,6,3
+F2,03/12/2021,Quevilly Rouen,Nancy,2,1,H,12,15,3,3
+F2,03/12/2021,Rodez,Nimes,1,0,H,13,6,6,0
+F2,03/12/2021,Sochaux,Pau FC,2,1,H,14,6,6,2
+F2,04/12/2021,Auxerre,Caen,2,2,D,10,12,5,3
+F2,06/12/2021,Niort,Toulouse,2,1,H,14,23,5,8
+F2,11/12/2021,Le Havre,Ajaccio,0,1,A,10,5,4,4
+F2,11/12/2021,Amiens,Grenoble,4,1,H,10,10,7,1
+F2,11/12/2021,Bastia,Sochaux,2,2,D,11,14,3,4
+F2,11/12/2021,Caen,Guingamp,2,0,H,10,13,4,3
+F2,11/12/2021,Dijon,Niort,2,2,D,13,8,7,2
+F2,11/12/2021,Dunkerque,Auxerre,0,2,A,3,10,1,7
+F2,11/12/2021,Nimes,Nancy,2,1,H,12,14,5,6
+F2,11/12/2021,Pau FC,Quevilly Rouen,1,2,A,20,9,5,6
+F2,11/12/2021,Valenciennes,Paris FC,1,4,A,11,11,5,8
+F2,13/12/2021,Toulouse,Rodez,1,1,D,13,7,1,0
+F2,21/12/2021,Ajaccio,Grenoble,1,0,H,11,3,4,2
+F2,21/12/2021,Auxerre,Le Havre,2,3,A,14,9,7,5
+F2,21/12/2021,Guingamp,Dunkerque,2,1,H,15,10,5,1
+F2,21/12/2021,Nancy,Dijon,0,3,A,12,13,6,7
+F2,21/12/2021,Nimes,Toulouse,1,2,A,10,11,5,5
+F2,21/12/2021,Niort,Pau FC,3,0,H,10,6,4,1
+F2,21/12/2021,Paris FC,Amiens,1,0,H,5,12,2,3
+F2,21/12/2021,Quevilly Rouen,Caen,2,2,D,13,10,5,2
+F2,21/12/2021,Rodez,Bastia,0,0,D,5,9,2,3
+F2,21/12/2021,Sochaux,Valenciennes,1,1,D,14,6,6,2
+F2,08/01/2022,Le Havre,Sochaux,0,1,A,9,6,3,2
+F2,08/01/2022,Bastia,Quevilly Rouen,3,0,H,15,4,7,1
+F2,08/01/2022,Dijon,Nimes,1,2,A,19,8,3,5
+F2,08/01/2022,Grenoble,Auxerre,0,1,A,8,11,0,5
+F2,08/01/2022,Pau FC,Rodez,4,0,H,16,9,5,1
+F2,08/01/2022,Valenciennes,Guingamp,1,1,D,6,12,1,3
+F2,15/01/2022,Guingamp,Grenoble,0,0,D,12,7,3,3
+F2,15/01/2022,Nancy,Bastia,2,1,H,7,8,3,1
+F2,15/01/2022,Rodez,Dijon,0,2,A,17,9,1,5
+F2,15/01/2022,Sochaux,Caen,3,2,H,19,5,7,2
+F2,15/01/2022,Toulouse,Pau FC,1,1,D,25,7,6,3
+F2,17/01/2022,Paris FC,Le Havre,2,2,D,7,17,3,6
+F2,19/01/2022,Amiens,Ajaccio,0,1,A,13,8,5,3
+F2,19/01/2022,Toulouse,Nancy,4,0,H,13,9,8,3
+F2,22/01/2022,Amiens,Guingamp,3,0,H,11,20,4,2
+F2,22/01/2022,Bastia,Toulouse,0,0,D,6,16,2,4
+F2,22/01/2022,Dijon,Quevilly Rouen,1,0,H,17,7,5,1
+F2,22/01/2022,Dunkerque,Sochaux,0,0,D,4,14,0,3
+F2,22/01/2022,Le Havre,Rodez,0,0,D,14,3,3,1
+F2,24/01/2022,Caen,Ajaccio,2,0,H,5,7,4,1
+F2,26/01/2022,Quevilly Rouen,Amiens,1,1,D,13,9,2,4
+F2,28/01/2022,Ajaccio,Auxerre,0,0,D,10,6,4,0
+F2,28/01/2022,Caen,Niort,0,2,A,14,5,2,4
+F2,28/01/2022,Dunkerque,Paris FC,1,1,D,7,11,2,6
+F2,28/01/2022,Nimes,Valenciennes,2,1,H,14,15,6,4
+F2,01/02/2022,Auxerre,Paris FC,1,2,A,18,10,5,4
+F2,01/02/2022,Niort,Dunkerque,2,0,H,13,11,5,1
+F2,01/02/2022,Pau FC,Nimes,0,3,A,21,15,6,8
+F2,01/02/2022,Valenciennes,Nancy,6,1,H,17,7,9,2
+F2,05/02/2022,Toulouse,Dijon,4,1,H,15,12,5,4
+F2,05/02/2022,Bastia,Pau FC,1,1,D,17,7,8,1
+F2,05/02/2022,Guingamp,Auxerre,1,1,D,12,8,4,3
+F2,05/02/2022,Nancy,Caen,1,1,D,13,10,5,5
+F2,05/02/2022,Nimes,Dunkerque,0,1,A,10,8,3,1
+F2,05/02/2022,Niort,Le Havre,0,0,D,7,13,2,3
+F2,05/02/2022,Quevilly Rouen,Grenoble,1,0,H,7,12,2,4
+F2,05/02/2022,Rodez,Valenciennes,0,0,D,15,11,5,1
+F2,05/02/2022,Sochaux,Amiens,1,1,D,13,7,6,3
+F2,07/02/2022,Paris FC,Ajaccio,2,0,H,8,9,2,4
+F2,12/02/2022,Valenciennes,Toulouse,1,3,A,7,17,3,5
+F2,12/02/2022,Ajaccio,Guingamp,0,1,A,4,10,1,4
+F2,12/02/2022,Amiens,Niort,3,1,H,8,15,5,5
+F2,12/02/2022,Auxerre,Nancy,1,1,D,15,9,3,4
+F2,12/02/2022,Caen,Nimes,4,0,H,18,7,9,2
+F2,12/02/2022,Dijon,Pau FC,0,1,A,17,12,4,3
+F2,12/02/2022,Dunkerque,Rodez,2,0,H,5,11,2,4
+F2,12/02/2022,Grenoble,Sochaux,1,3,A,15,13,4,5
+F2,12/02/2022,Paris FC,Quevilly Rouen,3,0,H,9,8,5,3
+F2,14/02/2022,Le Havre,Bastia,2,4,A,13,11,4,7
+F2,15/02/2022,Grenoble,Niort,1,0,H,9,15,3,2
+F2,19/02/2022,Sochaux,Ajaccio,0,1,A,11,7,5,3
+F2,19/02/2022,Bastia,Dijon,0,0,D,8,11,1,2
+F2,19/02/2022,Guingamp,Paris FC,1,1,D,9,11,2,2
+F2,19/02/2022,Nancy,Dunkerque,2,0,H,14,10,9,1
+F2,19/02/2022,Nimes,Grenoble,3,1,H,20,7,11,2
+F2,19/02/2022,Niort,Auxerre,0,1,A,15,11,4,3
+F2,19/02/2022,Pau FC,Caen,1,0,H,6,18,3,3
+F2,19/02/2022,Quevilly Rouen,Valenciennes,1,1,D,4,15,2,7
+F2,19/02/2022,Rodez,Amiens,1,1,D,9,11,4,5
+F2,21/02/2022,Toulouse,Le Havre,4,0,H,11,6,6,1
+F2,26/02/2022,Paris FC,Sochaux,3,1,H,9,6,4,5
+F2,26/02/2022,Ajaccio,Rodez,2,1,H,8,8,5,2
+F2,26/02/2022,Amiens,Nimes,3,0,H,11,13,5,5
+F2,26/02/2022,Auxerre,Quevilly Rouen,1,0,H,12,9,4,2
+F2,26/02/2022,Caen,Bastia,2,1,H,12,11,2,3
+F2,26/02/2022,Dunkerque,Dijon,2,1,H,6,16,3,4
+F2,26/02/2022,Guingamp,Niort,1,0,H,12,6,6,2
+F2,26/02/2022,Le Havre,Nancy,1,0,H,16,7,5,2
+F2,26/02/2022,Valenciennes,Pau FC,1,0,H,16,8,9,3
+F2,28/02/2022,Grenoble,Toulouse,0,2,A,13,9,1,4
+F2,05/03/2022,Nimes,Paris FC,1,1,D,8,11,4,4
+F2,05/03/2022,Bastia,Valenciennes,1,1,D,14,6,2,2
+F2,05/03/2022,Dijon,Caen,1,0,H,7,9,4,3
+F2,05/03/2022,Nancy,Grenoble,0,1,A,19,4,5,2
+F2,05/03/2022,Niort,Ajaccio,0,1,A,3,11,2,2
+F2,05/03/2022,Pau FC,Amiens,2,1,H,12,8,3,3
+F2,05/03/2022,Quevilly Rouen,Le Havre,0,2,A,8,9,1,4
+F2,05/03/2022,Rodez,Auxerre,1,3,A,10,14,3,6
+F2,05/03/2022,Sochaux,Guingamp,1,0,H,17,16,5,3
+F2,07/03/2022,Toulouse,Dunkerque,2,0,H,11,10,7,3
+F2,12/03/2022,Ajaccio,Bastia,0,1,A,10,3,2,1
+F2,12/03/2022,Auxerre,Sochaux,3,2,H,12,13,4,4
+F2,12/03/2022,Amiens,Nancy,1,0,H,17,8,4,1
+F2,12/03/2022,Caen,Toulouse,4,1,H,14,7,7,5
+F2,12/03/2022,Dunkerque,Pau FC,1,0,H,11,6,5,2
+F2,12/03/2022,Grenoble,Rodez,0,0,D,8,7,1,2
+F2,12/03/2022,Guingamp,Quevilly Rouen,1,1,D,8,7,2,1
+F2,12/03/2022,Le Havre,Nimes,0,1,A,21,3,11,2
+F2,12/03/2022,Paris FC,Niort,2,0,H,7,5,3,1
+F2,12/03/2022,Valenciennes,Dijon,0,0,D,8,4,2,1
+F2,15/03/2022,Bastia,Dunkerque,1,0,H,9,5,4,0
+F2,15/03/2022,Dijon,Le Havre,2,0,H,9,6,5,3
+F2,15/03/2022,Nancy,Paris FC,3,0,H,13,15,6,3
+F2,15/03/2022,Nimes,Auxerre,1,2,A,3,18,1,5
+F2,15/03/2022,Niort,Sochaux,1,1,D,10,7,3,2
+F2,15/03/2022,Pau FC,Grenoble,0,1,A,16,5,2,2
+F2,15/03/2022,Quevilly Rouen,Ajaccio,0,0,D,7,8,0,1
+F2,15/03/2022,Rodez,Guingamp,1,1,D,23,7,8,1
+F2,15/03/2022,Toulouse,Amiens,6,0,H,25,10,14,1
+F2,15/03/2022,Valenciennes,Caen,1,1,D,8,14,5,6
+F2,19/03/2022,Auxerre,Toulouse,1,2,A,8,16,5,3
+F2,19/03/2022,Le Havre,Caen,2,4,A,13,14,6,6
+F2,19/03/2022,Ajaccio,Nimes,1,0,H,23,3,9,1
+F2,19/03/2022,Amiens,Dijon,1,1,D,15,7,4,2
+F2,19/03/2022,Dunkerque,Valenciennes,1,2,A,12,4,2,4
+F2,19/03/2022,Grenoble,Bastia,1,1,D,10,8,4,2
+F2,19/03/2022,Guingamp,Nancy,3,1,H,14,14,5,4
+F2,19/03/2022,Niort,Quevilly Rouen,2,0,H,11,7,4,1
+F2,19/03/2022,Paris FC,Pau FC,1,1,D,13,6,2,3
+F2,19/03/2022,Sochaux,Rodez,2,0,H,18,4,7,4
+F2,02/04/2022,Toulouse,Paris FC,2,1,H,11,6,6,2
+F2,02/04/2022,Bastia,Auxerre,1,1,D,10,10,2,6
+F2,02/04/2022,Caen,Dunkerque,2,1,H,10,4,5,1
+F2,02/04/2022,Dijon,Grenoble,1,0,H,14,1,5,0
+F2,02/04/2022,Nimes,Guingamp,0,2,A,8,17,1,6
+F2,02/04/2022,Pau FC,Le Havre,2,1,H,9,12,4,4
+F2,02/04/2022,Quevilly Rouen,Sochaux,0,2,A,11,11,2,4
+F2,02/04/2022,Rodez,Niort,1,1,D,7,9,2,6
+F2,02/04/2022,Valenciennes,Amiens,0,2,A,16,9,5,4
+F2,04/04/2022,Nancy,Ajaccio,0,2,A,7,13,1,4
+F2,09/04/2022,Guingamp,Toulouse,2,4,A,16,14,6,6
+F2,09/04/2022,Ajaccio,Pau FC,2,1,H,23,5,9,2
+F2,09/04/2022,Amiens,Bastia,0,0,D,8,4,4,2
+F2,09/04/2022,Auxerre,Valenciennes,1,0,H,14,5,5,0
+F2,09/04/2022,Grenoble,Caen,0,2,A,5,8,2,5
+F2,09/04/2022,Le Havre,Dunkerque,2,1,H,10,18,6,7
+F2,09/04/2022,Niort,Nimes,0,0,D,12,5,0,0
+F2,09/04/2022,Quevilly Rouen,Rodez,2,0,H,13,18,3,8
+F2,09/04/2022,Sochaux,Nancy,1,0,H,9,14,3,3
+F2,11/04/2022,Paris FC,Dijon,2,2,D,10,8,4,4
+F2,16/04/2022,Pau FC,Auxerre,1,4,A,7,26,3,11
+F2,16/04/2022,Toulouse,Quevilly Rouen,2,0,H,19,13,7,4
+F2,16/04/2022,Bastia,Guingamp,1,2,A,8,9,2,4
+F2,16/04/2022,Caen,Amiens,1,1,D,14,6,6,3
+F2,16/04/2022,Dijon,Ajaccio,0,3,A,7,7,0,5
+F2,16/04/2022,Dunkerque,Grenoble,0,3,A,4,11,2,5
+F2,16/04/2022,Nancy,Niort,0,2,A,10,11,1,6
+F2,16/04/2022,Nimes,Sochaux,1,3,A,9,12,4,6
+F2,16/04/2022,Rodez,Paris FC,0,1,A,9,6,2,2
+F2,16/04/2022,Valenciennes,Le Havre,0,1,A,12,11,1,3
+F2,19/04/2022,Ajaccio,Dunkerque,2,1,H,14,2,8,1
+F2,19/04/2022,Amiens,Le Havre,0,2,A,11,10,1,3
+F2,19/04/2022,Auxerre,Dijon,2,1,H,16,8,7,1
+F2,19/04/2022,Grenoble,Valenciennes,3,0,H,8,7,4,4
+F2,19/04/2022,Guingamp,Pau FC,3,0,H,14,11,6,0
+F2,19/04/2022,Niort,Bastia,1,1,D,7,11,3,4
+F2,19/04/2022,Paris FC,Caen,1,0,H,5,9,2,4
+F2,19/04/2022,Quevilly Rouen,Nimes,0,1,A,16,6,2,4
+F2,19/04/2022,Rodez,Nancy,1,1,D,14,12,2,5
+F2,19/04/2022,Sochaux,Toulouse,1,1,D,10,18,3,6
+F2,22/04/2022,Bastia,Paris FC,2,1,H,12,18,4,8
+F2,22/04/2022,Dijon,Guingamp,3,3,D,14,25,4,6
+F2,22/04/2022,Dunkerque,Amiens,0,0,D,9,10,2,4
+F2,22/04/2022,Le Havre,Grenoble,0,1,A,15,9,4,3
+F2,22/04/2022,Nancy,Quevilly Rouen,0,3,A,,,,
+F2,22/04/2022,Nimes,Rodez,3,2,H,6,16,5,5
+F2,22/04/2022,Pau FC,Sochaux,0,1,A,12,6,2,2
+F2,22/04/2022,Valenciennes,Ajaccio,0,0,D,4,10,1,1
+F2,23/04/2022,Caen,Auxerre,1,1,D,16,8,2,5
+F2,25/04/2022,Toulouse,Niort,2,0,H,20,5,8,2
+F2,30/04/2022,Auxerre,Dunkerque,1,0,H,19,6,4,4
+F2,30/04/2022,Ajaccio,Le Havre,2,1,H,10,9,5,3
+F2,30/04/2022,Grenoble,Amiens,1,1,D,13,7,2,2
+F2,30/04/2022,Guingamp,Caen,2,1,H,25,8,9,6
+F2,30/04/2022,Nancy,Nimes,1,3,A,25,12,10,7
+F2,30/04/2022,Niort,Dijon,1,3,A,10,20,4,9
+F2,30/04/2022,Paris FC,Valenciennes,1,1,D,12,15,3,8
+F2,30/04/2022,Quevilly Rouen,Pau FC,1,2,A,9,10,4,3
+F2,30/04/2022,Sochaux,Bastia,2,1,H,9,4,3,0
+F2,02/05/2022,Rodez,Toulouse,1,0,H,10,15,3,3
+F2,07/05/2022,Amiens,Paris FC,1,2,A,13,14,5,5
+F2,07/05/2022,Bastia,Rodez,0,1,A,7,10,4,3
+F2,07/05/2022,Caen,Quevilly Rouen,2,0,H,9,9,5,4
+F2,07/05/2022,Dijon,Nancy,2,3,A,14,10,6,4
+F2,07/05/2022,Dunkerque,Guingamp,1,3,A,17,11,4,5
+F2,07/05/2022,Grenoble,Ajaccio,1,1,D,4,13,1,9
+F2,07/05/2022,Le Havre,Auxerre,1,2,A,10,20,3,7
+F2,07/05/2022,Pau FC,Niort,2,2,D,14,9,3,3
+F2,07/05/2022,Toulouse,Nimes,2,1,H,25,6,7,4
+F2,07/05/2022,Valenciennes,Sochaux,1,0,H,6,14,1,4
+F2,14/05/2022,Ajaccio,Toulouse,1,0,H,15,5,9,1
+F2,14/05/2022,Auxerre,Amiens,2,1,H,19,8,8,4
+F2,14/05/2022,Guingamp,Le Havre,2,1,H,22,14,9,5
+F2,14/05/2022,Nancy,Pau FC,2,3,A,12,9,4,5
+F2,14/05/2022,Nimes,Bastia,0,2,A,6,12,1,4
+F2,14/05/2022,Niort,Valenciennes,1,2,A,8,9,2,4
+F2,14/05/2022,Paris FC,Grenoble,2,0,H,14,8,4,4
+F2,14/05/2022,Quevilly Rouen,Dunkerque,3,1,H,13,4,5,3
+F2,14/05/2022,Rodez,Caen,2,0,H,9,10,3,5
+F2,14/05/2022,Sochaux,Dijon,2,2,D,15,9,9,2

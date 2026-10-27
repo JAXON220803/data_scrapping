@@ -1,0 +1,3474 @@
+{
+  "last_run": {
+    "flashscore": {
+      "reason": "Run request budget reached (12/12)",
+      "requests": 12,
+      "status": "paused_by_budget",
+      "target": "Netherlands/N1/2016-2017"
+    }
+  },
+  "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
+  "provider_fixture_records": 436,
+  "provider_records_with_all_shots": 9,
+  "provider_records_with_statistics": 9,
+  "recovered_cells": 36,
+  "reference_matches": 36942,
+  "reference_matches_still_missing_shots": 30064,
+  "seasons": [
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2010-2011",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2011-2012",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2012-2013",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2013-2014",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2014-2015",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2015-2016",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2016-2017",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2021-2022",
+      "reference_matches": 306,
+      "remaining_missing_shots": 3,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2022-2023",
+      "reference_matches": 306,
+      "remaining_missing_shots": 2,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Belgium/B1/2024-2025",
+      "reference_matches": 312,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2016-2017",
+      "reference_matches": 552,
+      "remaining_missing_shots": 552,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2017-2018",
+      "reference_matches": 552,
+      "remaining_missing_shots": 552,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/E1/2018-2019",
+      "reference_matches": 552,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2018-2019",
+      "reference_matches": 552,
+      "remaining_missing_shots": 552,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2019-2020",
+      "reference_matches": 451,
+      "remaining_missing_shots": 451,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2020-2021",
+      "reference_matches": 477,
+      "remaining_missing_shots": 477,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2021-2022",
+      "reference_matches": 506,
+      "remaining_missing_shots": 506,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2022-2023",
+      "reference_matches": 552,
+      "remaining_missing_shots": 552,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2023-2024",
+      "reference_matches": 552,
+      "remaining_missing_shots": 552,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2024-2025",
+      "reference_matches": 552,
+      "remaining_missing_shots": 552,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "England/EC/2025-2026",
+      "reference_matches": 552,
+      "remaining_missing_shots": 552,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2010-2011",
+      "reference_matches": 380,
+      "remaining_missing_shots": 380,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2011-2012",
+      "reference_matches": 380,
+      "remaining_missing_shots": 380,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2012-2013",
+      "reference_matches": 380,
+      "remaining_missing_shots": 380,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2013-2014",
+      "reference_matches": 380,
+      "remaining_missing_shots": 380,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2014-2015",
+      "reference_matches": 380,
+      "remaining_missing_shots": 380,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2015-2016",
+      "reference_matches": 380,
+      "remaining_missing_shots": 380,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F1/2016-2017",
+      "reference_matches": 380,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2016-2017",
+      "reference_matches": 380,
+      "remaining_missing_shots": 380,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2020-2021",
+      "reference_matches": 380,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2021-2022",
+      "reference_matches": 380,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2022-2023",
+      "reference_matches": 380,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "France/F2/2025-2026",
+      "reference_matches": 306,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Germany/D2/2010-2011",
+      "reference_matches": 306,
+      "remaining_missing_shots": 304,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Germany/D2/2011-2012",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Germany/D2/2012-2013",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Germany/D2/2013-2014",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Germany/D2/2014-2015",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Germany/D2/2015-2016",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Germany/D2/2016-2017",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2010-2011",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2011-2012",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2012-2013",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2013-2014",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2014-2015",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2015-2016",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2016-2017",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2017-2018",
+      "reference_matches": 240,
+      "remaining_missing_shots": 2,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2018-2019",
+      "reference_matches": 240,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Greece/G1/2023-2024",
+      "reference_matches": 240,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2010-2011",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2011-2012",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I1/2012-2013",
+      "reference_matches": 380,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2012-2013",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2013-2014",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2014-2015",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2015-2016",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2016-2017",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2018-2019",
+      "reference_matches": 342,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Italy/I2/2020-2021",
+      "reference_matches": 380,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Netherlands/N1/2010-2011",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Netherlands/N1/2011-2012",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Netherlands/N1/2012-2013",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Netherlands/N1/2013-2014",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Netherlands/N1/2014-2015",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Netherlands/N1/2015-2016",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 36,
+      "id": "Netherlands/N1/2016-2017",
+      "reference_matches": 306,
+      "remaining_missing_shots": 297,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 3,
+          "fixtures": 108,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
+          "phase": "statistics",
+          "reason": null,
+          "statistics_available": 3,
+          "statistics_checked": 3
+        },
+        "sofascore": {
+          "all_shot_values": 6,
+          "fixtures": 328,
+          "inventory_complete": true,
+          "inventory_shortfall": 0,
+          "last_error": null,
+          "phase": "statistics",
+          "reason": null,
+          "statistics_available": 6,
+          "statistics_checked": 6
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Portugal/P1/2010-2011",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Portugal/P1/2011-2012",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Portugal/P1/2012-2013",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Portugal/P1/2013-2014",
+      "reference_matches": 240,
+      "remaining_missing_shots": 240,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Portugal/P1/2014-2015",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Portugal/P1/2015-2016",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Portugal/P1/2016-2017",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC1/2010-2011",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC2/2010-2011",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC3/2010-2011",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC1/2011-2012",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC2/2011-2012",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC3/2011-2012",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC1/2012-2013",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC2/2012-2013",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC3/2012-2013",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC1/2013-2014",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC2/2013-2014",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC3/2013-2014",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC1/2014-2015",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC2/2014-2015",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC3/2014-2015",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC1/2015-2016",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC2/2015-2016",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC3/2015-2016",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC1/2016-2017",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC2/2016-2017",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC3/2016-2017",
+      "reference_matches": 180,
+      "remaining_missing_shots": 180,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC3/2020-2021",
+      "reference_matches": 110,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Scotland/SC2/2024-2025",
+      "reference_matches": 180,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Spain/SP2/2010-2011",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Spain/SP2/2011-2012",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Spain/SP2/2012-2013",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Spain/SP2/2013-2014",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Spain/SP2/2014-2015",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Spain/SP2/2015-2016",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Spain/SP2/2016-2017",
+      "reference_matches": 462,
+      "remaining_missing_shots": 462,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Spain/SP2/2018-2019",
+      "reference_matches": 462,
+      "remaining_missing_shots": 21,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2010-2011",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2011-2012",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2012-2013",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2013-2014",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2014-2015",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2015-2016",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2016-2017",
+      "reference_matches": 306,
+      "remaining_missing_shots": 306,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2022-2023",
+      "reference_matches": 342,
+      "remaining_missing_shots": 29,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2023-2024",
+      "reference_matches": 380,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    },
+    {
+      "cells_recovered": 0,
+      "id": "Turkey/T1/2024-2025",
+      "reference_matches": 342,
+      "remaining_missing_shots": 1,
+      "sources": {
+        "flashscore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        },
+        "sofascore": {
+          "all_shot_values": 0,
+          "fixtures": 0,
+          "inventory_complete": false,
+          "inventory_shortfall": null,
+          "last_error": null,
+          "phase": "inventory",
+          "reason": null,
+          "statistics_available": 0,
+          "statistics_checked": 0
+        }
+      }
+    }
+  ],
+  "source_tasks_done": 0,
+  "source_tasks_total": 230,
+  "status": "in_progress",
+  "target_seasons": 115,
+  "updated_utc": "2026-10-27T21:53:27.062098+00:00"
+}

@@ -1,0 +1,307 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+F2,09/08/2025,Guingamp,Le Mans,3,3,D,14,10,7,3
+F2,09/08/2025,Dunkerque,Clermont,2,2,D,15,6,4,4
+F2,09/08/2025,Laval,St Etienne,3,3,D,10,10,4,6
+F2,09/08/2025,Montpellier,Red Star,1,1,D,6,7,2,3
+F2,09/08/2025,Pau FC,Annecy,2,0,H,9,4,3,1
+F2,09/08/2025,Rodez,Nancy,0,0,D,11,12,5,2
+F2,09/08/2025,Troyes,Grenoble,2,1,H,21,5,9,5
+F2,11/08/2025,Amiens,Reims,2,2,D,10,10,2,4
+F2,15/08/2025,Bastia,Pau FC,1,1,D,13,9,5,3
+F2,15/08/2025,Clermont,Troyes,0,0,D,4,11,1,2
+F2,15/08/2025,Grenoble,Laval,1,1,D,14,7,2,3
+F2,15/08/2025,Nancy,Boulogne,1,0,H,8,10,3,3
+F2,15/08/2025,Red Star,Amiens,1,3,A,26,10,7,5
+F2,16/08/2025,Annecy,Dunkerque,2,2,D,8,5,3,2
+F2,16/08/2025,Reims,Guingamp,1,0,H,16,8,6,3
+F2,16/08/2025,St Etienne,Rodez,4,0,H,19,5,7,1
+F2,18/08/2025,Le Mans,Montpellier,1,2,A,11,12,3,3
+F2,22/08/2025,Amiens,Annecy,0,1,A,10,9,3,2
+F2,22/08/2025,Clermont,Grenoble,2,1,H,14,13,6,2
+F2,22/08/2025,Dunkerque,Nancy,1,3,A,12,18,7,4
+F2,22/08/2025,Le Mans,Bastia,1,0,H,13,13,3,3
+F2,22/08/2025,Rodez,Laval,1,1,D,21,8,6,4
+F2,23/08/2025,Guingamp,Red Star,0,4,A,12,13,6,8
+F2,23/08/2025,Troyes,Montpellier,1,0,H,14,7,4,0
+F2,23/08/2025,Boulogne,St Etienne,0,1,A,4,11,0,3
+F2,25/08/2025,Pau FC,Reims,2,0,H,7,7,5,1
+F2,29/08/2025,Dunkerque,Troyes,2,0,H,6,11,4,3
+F2,29/08/2025,Laval,Clermont,0,0,D,10,11,6,0
+F2,29/08/2025,Montpellier,Amiens,1,1,D,20,6,4,2
+F2,29/08/2025,Nancy,Pau FC,2,2,D,15,15,6,4
+F2,29/08/2025,Red Star,Annecy,1,0,H,5,5,1,0
+F2,29/08/2025,Rodez,Boulogne,1,0,H,12,21,4,7
+F2,30/08/2025,Bastia,Guingamp,1,3,A,10,12,2,6
+F2,30/08/2025,Reims,Le Mans,1,0,H,12,5,3,0
+F2,30/08/2025,St Etienne,Grenoble,1,1,D,20,7,6,2
+F2,12/09/2025,Amiens,Bastia,0,0,D,4,7,1,1
+F2,12/09/2025,Boulogne,Laval,1,2,A,11,7,3,4
+F2,12/09/2025,Le Mans,Rodez,0,1,A,20,12,3,5
+F2,12/09/2025,Pau FC,Red Star,0,3,A,13,16,3,6
+F2,12/09/2025,Troyes,Nancy,3,0,H,22,7,11,3
+F2,13/09/2025,Annecy,Reims,1,1,D,6,15,2,7
+F2,13/09/2025,Grenoble,Dunkerque,1,0,H,12,13,2,5
+F2,13/09/2025,Clermont,St Etienne,1,2,A,12,16,2,6
+F2,15/09/2025,Guingamp,Montpellier,1,0,H,11,14,4,1
+F2,16/09/2025,Boulogne,Bastia,1,0,H,6,11,2,6
+F2,19/09/2025,Boulogne,Pau FC,0,3,A,5,10,2,3
+F2,19/09/2025,Dunkerque,Le Mans,2,2,D,14,8,5,5
+F2,19/09/2025,Grenoble,Annecy,1,3,A,5,12,3,7
+F2,19/09/2025,Laval,Amiens,0,3,A,17,14,3,6
+F2,19/09/2025,Nancy,Red Star,0,1,A,4,15,0,6
+F2,19/09/2025,Rodez,Clermont,0,1,A,20,7,3,3
+F2,20/09/2025,Montpellier,Bastia,2,0,H,8,13,4,4
+F2,20/09/2025,Troyes,Guingamp,5,2,H,18,8,11,4
+F2,20/09/2025,St Etienne,Reims,3,2,H,16,17,10,7
+F2,23/09/2025,Amiens,St Etienne,0,1,A,10,23,2,4
+F2,23/09/2025,Annecy,Nancy,1,2,A,11,12,2,6
+F2,23/09/2025,Bastia,Rodez,2,3,A,20,10,9,3
+F2,23/09/2025,Guingamp,Dunkerque,2,1,H,10,13,3,4
+F2,23/09/2025,Le Mans,Grenoble,1,0,H,7,11,2,1
+F2,23/09/2025,Montpellier,Boulogne,1,3,A,6,24,2,10
+F2,23/09/2025,Pau FC,Laval,1,0,H,17,5,4,2
+F2,23/09/2025,Red Star,Troyes,1,3,A,12,15,4,8
+F2,23/09/2025,Reims,Clermont,4,1,H,18,7,5,3
+F2,26/09/2025,Clermont,Le Mans,1,1,D,8,24,2,7
+F2,26/09/2025,Grenoble,Bastia,0,0,D,10,5,3,1
+F2,26/09/2025,Nancy,Reims,0,1,A,19,8,2,2
+F2,26/09/2025,Rodez,Pau FC,1,2,A,10,22,2,6
+F2,26/09/2025,Troyes,Annecy,3,1,H,9,12,3,6
+F2,27/09/2025,Dunkerque,Amiens,6,2,H,18,6,12,2
+F2,27/09/2025,Laval,Montpellier,0,1,A,18,11,7,4
+F2,27/09/2025,St Etienne,Guingamp,2,3,A,13,12,2,7
+F2,29/09/2025,Boulogne,Red Star,1,2,A,16,8,6,5
+F2,03/10/2025,Amiens,Boulogne,0,1,A,4,19,1,6
+F2,03/10/2025,Annecy,Laval,0,0,D,8,3,2,1
+F2,03/10/2025,Bastia,Dunkerque,0,0,D,15,6,2,1
+F2,03/10/2025,Guingamp,Nancy,2,2,D,15,7,5,3
+F2,03/10/2025,Le Mans,Troyes,2,2,D,13,8,6,3
+F2,03/10/2025,Pau FC,Clermont,3,1,H,7,10,4,2
+F2,04/10/2025,Red Star,Rodez,1,1,D,16,7,4,3
+F2,04/10/2025,Reims,Grenoble,2,4,A,21,6,8,4
+F2,04/10/2025,Montpellier,St Etienne,0,2,A,18,8,4,4
+F2,17/10/2025,Boulogne,Guingamp,2,2,D,8,8,3,3
+F2,17/10/2025,Clermont,Annecy,0,1,A,10,9,2,4
+F2,17/10/2025,Grenoble,Pau FC,1,1,D,12,24,5,6
+F2,17/10/2025,Rodez,Reims,2,2,D,13,13,3,5
+F2,17/10/2025,Troyes,Bastia,1,0,H,10,17,4,3
+F2,18/10/2025,Dunkerque,Montpellier,0,1,A,10,8,3,3
+F2,18/10/2025,Laval,Red Star,0,1,A,9,10,1,3
+F2,18/10/2025,St Etienne,Le Mans,2,3,A,12,14,4,7
+F2,20/10/2025,Nancy,Amiens,0,1,A,23,5,3,3
+F2,24/10/2025,Guingamp,Clermont,0,1,A,21,4,3,1
+F2,24/10/2025,Le Mans,Boulogne,1,0,H,15,4,6,1
+F2,24/10/2025,Pau FC,Dunkerque,0,3,A,15,11,0,4
+F2,24/10/2025,Red Star,Grenoble,1,0,H,15,11,5,5
+F2,24/10/2025,Reims,Troyes,0,0,D,12,14,4,5
+F2,25/10/2025,Amiens,Rodez,2,1,H,7,14,4,7
+F2,25/10/2025,Montpellier,Nancy,4,1,H,19,7,9,3
+F2,25/10/2025,Annecy,St Etienne,4,0,H,13,6,8,2
+F2,28/10/2025,Boulogne,Reims,2,6,A,10,15,2,7
+F2,28/10/2025,Clermont,Montpellier,1,1,D,13,16,6,4
+F2,28/10/2025,Dunkerque,Red Star,3,0,H,9,7,4,2
+F2,28/10/2025,Grenoble,Guingamp,0,0,D,4,6,1,1
+F2,28/10/2025,Laval,Le Mans,1,1,D,9,6,7,3
+F2,28/10/2025,Nancy,Bastia,2,0,H,9,6,5,2
+F2,28/10/2025,Rodez,Annecy,2,1,H,5,8,4,3
+F2,28/10/2025,St Etienne,Pau FC,6,0,H,16,11,8,4
+F2,28/10/2025,Troyes,Amiens,3,1,H,17,4,4,2
+F2,31/10/2025,Annecy,Boulogne,1,1,D,8,11,2,5
+F2,31/10/2025,Bastia,Clermont,1,0,H,13,9,4,1
+F2,31/10/2025,Guingamp,Laval,2,0,H,11,13,4,2
+F2,31/10/2025,Le Mans,Nancy,1,0,H,9,7,2,1
+F2,31/10/2025,Montpellier,Rodez,2,0,H,26,9,5,3
+F2,01/11/2025,Amiens,Grenoble,2,3,A,15,18,8,9
+F2,01/11/2025,Reims,Dunkerque,1,2,A,10,5,4,4
+F2,01/11/2025,Red Star,St Etienne,2,1,H,11,15,3,6
+F2,03/11/2025,Pau FC,Troyes,1,1,D,18,9,6,4
+F2,07/11/2025,Bastia,Reims,1,3,A,17,9,2,5
+F2,07/11/2025,Clermont,Amiens,2,1,H,17,9,5,4
+F2,07/11/2025,Dunkerque,Boulogne,1,1,D,12,11,4,4
+F2,07/11/2025,Grenoble,Rodez,2,1,H,14,14,6,4
+F2,07/11/2025,Montpellier,Annecy,1,0,H,14,8,5,4
+F2,07/11/2025,Nancy,Laval,0,2,A,14,9,3,3
+F2,08/11/2025,Guingamp,Pau FC,2,2,D,9,9,4,5
+F2,08/11/2025,Le Mans,Red Star,0,0,D,9,8,3,2
+F2,08/11/2025,Troyes,St Etienne,2,3,A,21,7,8,5
+F2,21/11/2025,Annecy,Bastia,1,0,H,18,3,3,3
+F2,21/11/2025,Boulogne,Grenoble,3,1,H,20,13,8,7
+F2,21/11/2025,Laval,Troyes,0,1,A,12,15,3,5
+F2,21/11/2025,Pau FC,Le Mans,1,2,A,12,4,2,2
+F2,21/11/2025,Rodez,Dunkerque,1,1,D,11,6,3,3
+F2,22/11/2025,Amiens,Guingamp,1,2,A,14,17,4,3
+F2,22/11/2025,Red Star,Clermont,2,2,D,14,7,3,3
+F2,22/11/2025,St Etienne,Nancy,2,1,H,9,11,2,3
+F2,24/11/2025,Reims,Montpellier,2,0,H,15,12,5,4
+F2,25/11/2025,Bastia,Laval,0,2,A,9,12,2,7
+F2,05/12/2025,Bastia,Red Star,0,3,A,,,,
+F2,05/12/2025,Clermont,Boulogne,1,1,D,11,17,2,5
+F2,05/12/2025,Grenoble,Nancy,1,0,H,15,9,5,0
+F2,05/12/2025,Guingamp,Annecy,0,3,A,10,15,2,6
+F2,05/12/2025,Le Mans,Amiens,1,0,H,14,3,3,1
+F2,06/12/2025,Montpellier,Pau FC,0,1,A,13,8,5,4
+F2,06/12/2025,Troyes,Rodez,1,1,D,19,8,6,1
+F2,06/12/2025,Dunkerque,St Etienne,1,0,H,6,13,2,5
+F2,08/12/2025,Reims,Laval,4,0,H,11,3,5,0
+F2,12/12/2025,Annecy,Le Mans,1,2,A,7,7,2,3
+F2,12/12/2025,Laval,Dunkerque,1,2,A,4,10,3,5
+F2,12/12/2025,Nancy,Clermont,1,0,H,20,16,6,3
+F2,12/12/2025,Pau FC,Amiens,1,2,A,16,9,4,6
+F2,12/12/2025,Rodez,Guingamp,2,1,H,16,13,5,3
+F2,13/12/2025,Grenoble,Montpellier,1,1,D,14,11,5,5
+F2,13/12/2025,Red Star,Reims,0,0,D,5,13,2,4
+F2,13/12/2025,St Etienne,Bastia,2,2,D,16,6,10,2
+F2,15/12/2025,Boulogne,Troyes,1,2,A,8,11,2,2
+F2,03/01/2026,Troyes,Red Star,1,0,H,18,14,6,1
+F2,03/01/2026,Amiens,Nancy,1,2,A,14,9,5,6
+F2,03/01/2026,Bastia,Grenoble,1,0,H,11,17,4,6
+F2,03/01/2026,Clermont,Laval,4,1,H,13,8,7,1
+F2,03/01/2026,Guingamp,Boulogne,3,0,H,18,8,7,2
+F2,03/01/2026,Le Mans,St Etienne,0,0,D,10,13,4,3
+F2,03/01/2026,Pau FC,Rodez,3,3,D,24,5,12,3
+F2,03/01/2026,Reims,Annecy,2,1,H,7,10,4,1
+F2,05/01/2026,Montpellier,Dunkerque,1,3,A,10,16,4,11
+F2,16/01/2026,Annecy,Amiens,2,0,H,10,11,2,5
+F2,16/01/2026,Boulogne,Montpellier,1,0,H,6,7,1,2
+F2,16/01/2026,Dunkerque,Pau FC,3,1,H,7,15,3,3
+F2,16/01/2026,Laval,Bastia,0,2,A,4,11,2,5
+F2,16/01/2026,Rodez,Le Mans,1,1,D,5,10,1,4
+F2,17/01/2026,Grenoble,Red Star,0,3,A,6,6,3,5
+F2,17/01/2026,Troyes,Reims,2,1,H,12,15,3,4
+F2,17/01/2026,St Etienne,Clermont,1,0,H,17,12,6,5
+F2,19/01/2026,Nancy,Guingamp,0,3,A,6,6,0,4
+F2,23/01/2026,Amiens,Laval,0,0,D,8,11,3,2
+F2,23/01/2026,Annecy,Clermont,2,1,H,11,8,7,1
+F2,23/01/2026,Bastia,Montpellier,0,2,A,15,9,4,5
+F2,23/01/2026,Nancy,Rodez,1,3,A,21,8,7,4
+F2,23/01/2026,Pau FC,Grenoble,2,2,D,19,11,5,5
+F2,24/01/2026,Guingamp,Troyes,1,0,H,13,9,1,0
+F2,24/01/2026,Red Star,Boulogne,2,2,D,9,12,5,5
+F2,24/01/2026,Reims,St Etienne,1,0,H,12,15,3,5
+F2,26/01/2026,Le Mans,Dunkerque,1,0,H,10,14,4,3
+F2,30/01/2026,Bastia,Nancy,0,0,D,12,8,2,1
+F2,30/01/2026,Clermont,Reims,0,1,A,8,10,1,6
+F2,30/01/2026,Grenoble,Amiens,2,1,H,19,14,7,3
+F2,30/01/2026,Laval,Pau FC,0,1,A,9,6,1,2
+F2,30/01/2026,Montpellier,Guingamp,3,1,H,12,9,7,2
+F2,30/01/2026,Rodez,Red Star,1,1,D,8,10,4,4
+F2,31/01/2026,Dunkerque,Annecy,0,1,A,8,8,2,3
+F2,31/01/2026,Troyes,Le Mans,0,2,A,12,5,2,3
+F2,31/01/2026,St Etienne,Boulogne,0,1,A,4,18,0,6
+F2,06/02/2026,Annecy,Grenoble,1,1,D,14,6,2,3
+F2,06/02/2026,Boulogne,Rodez,1,2,A,10,8,4,2
+F2,06/02/2026,Dunkerque,Guingamp,0,0,D,14,17,2,5
+F2,06/02/2026,Red Star,Pau FC,0,3,A,18,9,2,4
+F2,06/02/2026,Reims,Bastia,0,0,D,13,5,1,1
+F2,07/02/2026,Le Mans,Laval,1,1,D,9,8,5,3
+F2,07/02/2026,Nancy,Troyes,2,1,H,10,12,4,7
+F2,07/02/2026,St Etienne,Montpellier,1,0,H,10,5,2,1
+F2,09/02/2026,Amiens,Clermont,4,3,H,9,20,6,6
+F2,13/02/2026,Amiens,Dunkerque,1,4,A,14,13,3,8
+F2,13/02/2026,Clermont,Rodez,1,2,A,15,7,7,2
+F2,13/02/2026,Laval,Annecy,2,2,D,9,12,3,4
+F2,13/02/2026,Pau FC,Boulogne,1,2,A,10,9,4,4
+F2,13/02/2026,Red Star,Nancy,2,1,H,16,4,3,1
+F2,14/02/2026,Grenoble,Reims,0,0,D,10,25,2,8
+F2,14/02/2026,Montpellier,Le Mans,4,2,H,7,13,4,8
+F2,14/02/2026,Guingamp,St Etienne,1,2,A,12,12,4,6
+F2,16/02/2026,Bastia,Troyes,0,0,D,16,3,5,0
+F2,20/02/2026,Annecy,Red Star,2,1,H,16,11,8,4
+F2,20/02/2026,Boulogne,Clermont,0,2,A,6,9,1,5
+F2,20/02/2026,Dunkerque,Bastia,1,1,D,8,13,2,5
+F2,20/02/2026,Nancy,Grenoble,0,0,D,16,9,2,2
+F2,20/02/2026,Rodez,Montpellier,1,0,H,14,12,8,3
+F2,21/02/2026,Reims,Amiens,0,0,D,18,13,4,2
+F2,21/02/2026,Troyes,Pau FC,4,3,H,22,11,8,5
+F2,21/02/2026,St Etienne,Laval,2,1,H,19,6,4,2
+F2,23/02/2026,Le Mans,Guingamp,1,1,D,9,14,4,6
+F2,27/02/2026,Bastia,Annecy,0,2,A,8,8,1,4
+F2,27/02/2026,Clermont,Dunkerque,2,1,H,10,9,5,2
+F2,27/02/2026,Grenoble,Boulogne,0,0,D,7,6,0,0
+F2,27/02/2026,Laval,Nancy,1,1,D,8,16,5,5
+F2,27/02/2026,Montpellier,Reims,0,0,D,10,15,2,4
+F2,28/02/2026,Guingamp,Rodez,0,0,D,9,10,1,2
+F2,28/02/2026,Red Star,Le Mans,0,0,D,7,6,0,2
+F2,28/02/2026,Pau FC,St Etienne,0,3,A,9,10,4,6
+F2,02/03/2026,Amiens,Troyes,0,2,A,14,13,4,6
+F2,06/03/2026,Boulogne,Amiens,4,2,H,13,13,6,6
+F2,06/03/2026,Laval,Guingamp,2,2,D,19,18,11,8
+F2,06/03/2026,Nancy,Montpellier,0,3,A,11,8,2,4
+F2,06/03/2026,Pau FC,Bastia,2,2,D,7,16,2,5
+F2,06/03/2026,Rodez,Grenoble,1,0,H,12,5,4,2
+F2,07/03/2026,Le Mans,Annecy,3,0,H,16,10,6,3
+F2,07/03/2026,Troyes,Clermont,2,1,H,13,5,5,2
+F2,07/03/2026,St Etienne,Red Star,2,0,H,12,8,4,2
+F2,09/03/2026,Dunkerque,Reims,1,1,D,7,13,4,3
+F2,13/03/2026,Bastia,Boulogne,0,1,A,13,4,4,1
+F2,13/03/2026,Clermont,Pau FC,0,1,A,10,8,3,3
+F2,13/03/2026,Guingamp,Amiens,1,0,H,13,8,5,3
+F2,13/03/2026,Montpellier,Laval,2,0,H,17,7,7,1
+F2,13/03/2026,Nancy,Le Mans,2,4,A,8,11,4,5
+F2,14/03/2026,Red Star,Dunkerque,1,0,H,11,7,3,1
+F2,14/03/2026,Reims,Rodez,1,2,A,18,13,8,5
+F2,14/03/2026,Grenoble,St Etienne,0,0,D,15,6,4,2
+F2,16/03/2026,Annecy,Troyes,1,2,A,7,9,2,3
+F2,20/03/2026,Amiens,Le Mans,3,4,A,9,18,5,8
+F2,20/03/2026,Boulogne,Nancy,0,0,D,4,12,1,3
+F2,20/03/2026,Clermont,Red Star,0,1,A,9,9,3,4
+F2,20/03/2026,Laval,Grenoble,3,2,H,12,11,5,6
+F2,20/03/2026,Pau FC,Montpellier,0,0,D,18,4,2,1
+F2,20/03/2026,Rodez,Bastia,1,1,D,12,13,3,6
+F2,21/03/2026,Guingamp,Reims,0,2,A,16,11,5,4
+F2,21/03/2026,Troyes,Dunkerque,5,1,H,18,8,8,3
+F2,21/03/2026,St Etienne,Annecy,4,0,H,16,3,6,2
+F2,03/04/2026,Annecy,Guingamp,1,0,H,12,13,6,2
+F2,03/04/2026,Bastia,Amiens,1,1,D,18,9,9,3
+F2,03/04/2026,Dunkerque,Rodez,1,1,D,13,6,3,2
+F2,03/04/2026,Grenoble,Clermont,2,2,D,9,14,2,6
+F2,03/04/2026,Red Star,Laval,0,0,D,20,3,5,2
+F2,04/04/2026,Montpellier,Troyes,2,2,D,14,15,5,4
+F2,04/04/2026,Reims,Boulogne,0,0,D,18,10,5,1
+F2,04/04/2026,Nancy,St Etienne,1,1,D,6,14,2,5
+F2,06/04/2026,Le Mans,Pau FC,4,0,H,16,5,9,2
+F2,10/04/2026,Amiens,Pau FC,0,1,A,4,10,1,4
+F2,10/04/2026,Annecy,Montpellier,0,0,D,9,4,3,0
+F2,10/04/2026,Clermont,Nancy,2,2,D,16,5,6,2
+F2,10/04/2026,Guingamp,Grenoble,1,1,D,22,6,4,2
+F2,10/04/2026,Laval,Reims,2,2,D,12,12,4,6
+F2,11/04/2026,Boulogne,Le Mans,0,0,D,2,13,2,3
+F2,11/04/2026,Red Star,Bastia,4,3,H,18,12,8,7
+F2,11/04/2026,St Etienne,Dunkerque,2,1,H,20,6,7,2
+F2,13/04/2026,Rodez,Troyes,2,1,H,20,14,7,7
+F2,17/04/2026,Le Mans,Clermont,1,0,H,13,10,6,1
+F2,17/04/2026,Montpellier,Grenoble,2,1,H,11,12,6,4
+F2,17/04/2026,Nancy,Annecy,1,5,A,8,16,1,8
+F2,17/04/2026,Pau FC,Guingamp,2,1,H,9,5,3,1
+F2,17/04/2026,Rodez,Amiens,3,2,H,13,13,6,4
+F2,18/04/2026,Reims,Red Star,3,2,H,11,12,6,4
+F2,18/04/2026,Troyes,Boulogne,1,0,H,11,5,5,1
+F2,18/04/2026,Bastia,St Etienne,2,0,H,10,10,4,2
+F2,20/04/2026,Dunkerque,Laval,0,2,A,14,11,3,7
+F2,24/04/2026,Amiens,Montpellier,0,2,A,22,15,5,9
+F2,24/04/2026,Annecy,Pau FC,5,1,H,12,6,6,4
+F2,24/04/2026,Clermont,Bastia,1,1,D,9,15,2,3
+F2,24/04/2026,Laval,Rodez,0,0,D,5,12,3,1
+F2,24/04/2026,Red Star,Guingamp,3,2,H,8,13,5,6
+F2,25/04/2026,Grenoble,Le Mans,1,1,D,6,9,2,4
+F2,25/04/2026,Reims,Nancy,1,1,D,12,7,4,1
+F2,25/04/2026,St Etienne,Troyes,0,3,A,13,16,3,4
+F2,27/04/2026,Boulogne,Dunkerque,2,6,A,9,10,4,8
+F2,02/05/2026,Amiens,Red Star,1,3,A,11,16,4,8
+F2,02/05/2026,Boulogne,Annecy,1,2,A,7,11,3,3
+F2,02/05/2026,Dunkerque,Grenoble,0,1,A,14,6,7,2
+F2,02/05/2026,Guingamp,Bastia,0,1,A,9,12,0,6
+F2,02/05/2026,Le Mans,Reims,1,1,D,17,8,8,3
+F2,02/05/2026,Montpellier,Clermont,1,2,A,15,7,6,3
+F2,02/05/2026,Pau FC,Nancy,1,3,A,16,9,4,6
+F2,02/05/2026,Rodez,St Etienne,2,1,H,17,11,5,6
+F2,02/05/2026,Troyes,Laval,4,0,H,18,6,9,1
+F2,09/05/2026,Annecy,Rodez,1,2,A,7,12,2,2
+F2,09/05/2026,Bastia,Le Mans,0,2,A,8,8,2,5
+F2,09/05/2026,Clermont,Guingamp,1,0,H,19,17,6,5
+F2,09/05/2026,Grenoble,Troyes,1,0,H,7,11,3,3
+F2,09/05/2026,Laval,Boulogne,2,1,H,14,7,6,4
+F2,09/05/2026,Nancy,Dunkerque,3,2,H,20,22,7,7
+F2,09/05/2026,Red Star,Montpellier,1,1,D,17,8,5,5
+F2,09/05/2026,Reims,Pau FC,5,3,H,13,11,9,5
+F2,09/05/2026,St Etienne,Amiens,5,0,H,19,14,9,1

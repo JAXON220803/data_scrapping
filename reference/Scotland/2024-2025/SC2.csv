@@ -1,0 +1,181 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+SC2,03/08/2024,Alloa,Queen of Sth,0,0,D,9,6,3,3
+SC2,03/08/2024,Cove Rangers,Annan Athletic,1,3,A,9,8,2,4
+SC2,03/08/2024,Inverness C,Dumbarton,1,1,D,11,7,5,3
+SC2,03/08/2024,Montrose,Kelty Hearts,1,1,D,10,14,4,4
+SC2,03/08/2024,Stenhousemuir,Arbroath,2,1,H,9,8,5,1
+SC2,10/08/2024,Annan Athletic,Inverness C,1,0,H,5,5,2,1
+SC2,10/08/2024,Arbroath,Montrose,0,0,D,11,2,5,2
+SC2,10/08/2024,Dumbarton,Alloa,3,3,D,9,11,3,9
+SC2,10/08/2024,Kelty Hearts,Stenhousemuir,2,0,H,11,13,7,2
+SC2,10/08/2024,Queen of Sth,Cove Rangers,2,1,H,10,13,6,7
+SC2,17/08/2024,Alloa,Stenhousemuir,1,0,H,12,10,8,4
+SC2,17/08/2024,Arbroath,Kelty Hearts,0,3,A,10,15,5,7
+SC2,17/08/2024,Cove Rangers,Dumbarton,1,1,D,12,12,6,5
+SC2,17/08/2024,Inverness C,Montrose,1,1,D,17,2,7,1
+SC2,17/08/2024,Queen of Sth,Annan Athletic,2,0,H,9,7,5,2
+SC2,24/08/2024,Annan Athletic,Alloa,0,1,A,12,7,2,5
+SC2,24/08/2024,Dumbarton,Arbroath,2,2,D,15,10,7,5
+SC2,24/08/2024,Kelty Hearts,Inverness C,0,0,D,6,6,3,1
+SC2,24/08/2024,Stenhousemuir,Cove Rangers,3,2,H,8,5,4,2
+SC2,24/08/2024,Montrose,Queen of Sth,1,0,H,6,10,1,2
+SC2,31/08/2024,Arbroath,Alloa,0,0,D,9,3,2,2
+SC2,31/08/2024,Cove Rangers,Montrose,1,0,H,9,3,3,2
+SC2,31/08/2024,Dumbarton,Kelty Hearts,2,2,D,14,7,6,4
+SC2,31/08/2024,Inverness C,Queen of Sth,1,0,H,7,7,3,1
+SC2,31/08/2024,Stenhousemuir,Annan Athletic,5,1,H,11,13,6,7
+SC2,14/09/2024,Alloa,Inverness C,2,2,D,6,10,5,6
+SC2,14/09/2024,Annan Athletic,Dumbarton,1,1,D,16,10,6,7
+SC2,14/09/2024,Kelty Hearts,Cove Rangers,1,3,A,9,13,5,5
+SC2,14/09/2024,Montrose,Stenhousemuir,3,0,H,10,10,4,2
+SC2,14/09/2024,Queen of Sth,Arbroath,2,1,H,11,6,6,2
+SC2,21/09/2024,Alloa,Kelty Hearts,1,0,H,8,8,4,5
+SC2,21/09/2024,Arbroath,Annan Athletic,2,0,H,8,3,3,1
+SC2,21/09/2024,Dumbarton,Montrose,0,1,A,11,1,2,1
+SC2,21/09/2024,Inverness C,Cove Rangers,1,1,D,6,5,3,2
+SC2,21/09/2024,Stenhousemuir,Queen of Sth,0,0,D,4,14,1,10
+SC2,28/09/2024,Inverness C,Stenhousemuir,0,0,D,8,6,3,1
+SC2,28/09/2024,Kelty Hearts,Annan Athletic,3,0,H,7,3,5,2
+SC2,28/09/2024,Montrose,Alloa,2,2,D,7,11,4,5
+SC2,28/09/2024,Queen of Sth,Dumbarton,2,0,H,12,16,5,2
+SC2,28/09/2024,Cove Rangers,Arbroath,2,4,A,9,8,4,7
+SC2,05/10/2024,Alloa,Cove Rangers,0,2,A,1,8,0,3
+SC2,05/10/2024,Annan Athletic,Montrose,1,0,H,10,4,3,0
+SC2,05/10/2024,Arbroath,Inverness C,1,0,H,4,11,2,3
+SC2,05/10/2024,Dumbarton,Stenhousemuir,1,3,A,7,20,2,10
+SC2,05/10/2024,Queen of Sth,Kelty Hearts,1,5,A,7,11,4,6
+SC2,19/10/2024,Arbroath,Dumbarton,1,3,A,4,11,1,8
+SC2,19/10/2024,Cove Rangers,Queen of Sth,2,0,H,9,5,3,4
+SC2,19/10/2024,Inverness C,Annan Athletic,1,0,H,7,2,3,2
+SC2,19/10/2024,Kelty Hearts,Montrose,0,2,A,2,7,0,5
+SC2,19/10/2024,Stenhousemuir,Alloa,0,1,A,17,12,7,4
+SC2,26/10/2024,Alloa,Arbroath,0,1,A,5,10,1,5
+SC2,26/10/2024,Dumbarton,Inverness C,3,1,H,10,10,5,4
+SC2,26/10/2024,Montrose,Cove Rangers,0,2,A,9,12,2,6
+SC2,26/10/2024,Stenhousemuir,Kelty Hearts,2,1,H,14,6,5,5
+SC2,26/10/2024,Annan Athletic,Queen of Sth,1,0,H,6,12,2,4
+SC2,02/11/2024,Dumbarton,Cove Rangers,0,3,A,10,6,4,3
+SC2,02/11/2024,Alloa,Annan Athletic,5,0,H,10,9,8,2
+SC2,02/11/2024,Arbroath,Stenhousemuir,1,0,H,11,9,4,1
+SC2,02/11/2024,Inverness C,Kelty Hearts,1,1,D,9,8,5,3
+SC2,02/11/2024,Queen of Sth,Montrose,1,0,H,,,,
+SC2,09/11/2024,Annan Athletic,Stenhousemuir,1,1,D,9,11,4,3
+SC2,09/11/2024,Cove Rangers,Inverness C,1,2,A,5,12,3,6
+SC2,09/11/2024,Kelty Hearts,Dumbarton,2,0,H,15,9,4,3
+SC2,09/11/2024,Montrose,Arbroath,1,1,D,15,23,8,8
+SC2,09/11/2024,Queen of Sth,Alloa,1,1,D,10,13,5,5
+SC2,16/11/2024,Annan Athletic,Kelty Hearts,0,2,A,9,7,1,4
+SC2,16/11/2024,Arbroath,Cove Rangers,2,1,H,7,10,5,3
+SC2,16/11/2024,Dumbarton,Queen of Sth,2,1,H,16,4,5,3
+SC2,16/11/2024,Inverness C,Alloa,1,0,H,10,5,5,2
+SC2,16/11/2024,Stenhousemuir,Montrose,1,0,H,12,6,4,3
+SC2,23/11/2024,Montrose,Annan Athletic,2,1,H,6,8,3,2
+SC2,03/12/2024,Alloa,Dumbarton,2,2,D,6,9,6,6
+SC2,03/12/2024,Cove Rangers,Stenhousemuir,0,3,A,9,13,4,9
+SC2,07/12/2024,Annan Athletic,Cove Rangers,1,1,D,5,11,5,5
+SC2,07/12/2024,Kelty Hearts,Alloa,0,2,A,6,9,0,5
+SC2,07/12/2024,Montrose,Inverness C,2,3,A,3,19,2,13
+SC2,07/12/2024,Stenhousemuir,Dumbarton,4,0,H,11,4,7,2
+SC2,07/12/2024,Arbroath,Queen of Sth,2,1,H,12,5,6,2
+SC2,14/12/2024,Alloa,Montrose,1,2,A,8,5,4,3
+SC2,14/12/2024,Cove Rangers,Kelty Hearts,0,0,D,7,8,3,1
+SC2,14/12/2024,Dumbarton,Annan Athletic,1,5,A,15,15,5,9
+SC2,14/12/2024,Inverness C,Arbroath,0,2,A,8,7,0,4
+SC2,14/12/2024,Queen of Sth,Stenhousemuir,2,1,H,12,8,3,5
+SC2,17/12/2024,Kelty Hearts,Arbroath,3,2,H,8,7,5,5
+SC2,21/12/2024,Annan Athletic,Arbroath,0,4,A,3,11,1,6
+SC2,21/12/2024,Cove Rangers,Alloa,2,0,H,7,10,4,4
+SC2,21/12/2024,Kelty Hearts,Queen of Sth,2,0,H,10,5,7,2
+SC2,21/12/2024,Montrose,Dumbarton,1,2,A,7,7,5,2
+SC2,21/12/2024,Stenhousemuir,Inverness C,0,1,A,6,18,4,9
+SC2,28/12/2024,Alloa,Stenhousemuir,1,3,A,6,9,2,7
+SC2,28/12/2024,Arbroath,Montrose,3,0,H,6,9,3,2
+SC2,28/12/2024,Dumbarton,Kelty Hearts,2,0,H,5,4,4,0
+SC2,28/12/2024,Inverness C,Cove Rangers,1,4,A,10,12,5,9
+SC2,28/12/2024,Queen of Sth,Annan Athletic,1,1,D,8,8,2,2
+SC2,04/01/2025,Arbroath,Alloa,1,3,A,13,8,5,4
+SC2,04/01/2025,Inverness C,Dumbarton,2,0,H,10,5,6,1
+SC2,04/01/2025,Montrose,Kelty Hearts,0,0,D,9,8,4,2
+SC2,04/01/2025,Queen of Sth,Cove Rangers,1,0,H,8,5,3,3
+SC2,04/01/2025,Stenhousemuir,Annan Athletic,1,1,D,10,9,6,3
+SC2,11/01/2025,Alloa,Queen of Sth,1,1,D,10,17,3,8
+SC2,11/01/2025,Kelty Hearts,Stenhousemuir,0,0,D,12,11,8,3
+SC2,18/01/2025,Annan Athletic,Inverness C,0,3,A,7,19,3,6
+SC2,21/01/2025,Queen of Sth,Inverness C,3,2,H,16,11,8,5
+SC2,25/01/2025,Alloa,Inverness C,1,2,A,7,7,4,3
+SC2,25/01/2025,Queen of Sth,Dumbarton,3,1,H,15,6,7,3
+SC2,25/01/2025,Stenhousemuir,Cove Rangers,0,4,A,4,11,2,8
+SC2,25/01/2025,Annan Athletic,Montrose,2,2,D,12,8,4,4
+SC2,01/02/2025,Cove Rangers,Arbroath,2,1,H,8,11,4,3
+SC2,01/02/2025,Dumbarton,Alloa,1,1,D,6,6,4,4
+SC2,01/02/2025,Inverness C,Queen of Sth,1,0,H,5,3,4,1
+SC2,01/02/2025,Kelty Hearts,Annan Athletic,1,3,A,4,10,3,6
+SC2,01/02/2025,Montrose,Stenhousemuir,0,3,A,12,14,3,6
+SC2,08/02/2025,Annan Athletic,Dumbarton,2,1,H,11,13,5,7
+SC2,08/02/2025,Arbroath,Inverness C,3,0,H,8,11,7,4
+SC2,08/02/2025,Montrose,Alloa,2,2,D,9,12,6,5
+SC2,08/02/2025,Stenhousemuir,Queen of Sth,2,1,H,7,13,4,5
+SC2,11/02/2025,Cove Rangers,Montrose,1,1,D,12,5,3,5
+SC2,15/02/2025,Alloa,Kelty Hearts,2,0,H,8,7,3,1
+SC2,15/02/2025,Cove Rangers,Annan Athletic,3,1,H,6,3,3,1
+SC2,15/02/2025,Dumbarton,Montrose,2,3,A,13,7,5,4
+SC2,15/02/2025,Queen of Sth,Arbroath,0,3,A,7,8,1,5
+SC2,22/02/2025,Annan Athletic,Alloa,3,4,A,13,7,5,6
+SC2,22/02/2025,Cove Rangers,Dumbarton,2,1,H,18,3,7,2
+SC2,22/02/2025,Kelty Hearts,Inverness C,0,1,A,11,6,1,3
+SC2,22/02/2025,Montrose,Queen of Sth,0,3,A,1,8,1,6
+SC2,22/02/2025,Stenhousemuir,Arbroath,2,0,H,13,7,2,1
+SC2,25/02/2025,Arbroath,Kelty Hearts,2,1,H,11,5,6,2
+SC2,01/03/2025,Alloa,Cove Rangers,2,1,H,11,15,7,9
+SC2,01/03/2025,Arbroath,Annan Athletic,3,0,H,13,1,6,0
+SC2,01/03/2025,Dumbarton,Stenhousemuir,1,3,A,12,11,5,7
+SC2,01/03/2025,Inverness C,Montrose,1,1,D,16,6,3,2
+SC2,01/03/2025,Queen of Sth,Kelty Hearts,0,1,A,6,6,0,3
+SC2,04/03/2025,Dumbarton,Arbroath,1,2,A,4,13,2,7
+SC2,08/03/2025,Alloa,Arbroath,2,3,A,8,8,7,6
+SC2,08/03/2025,Annan Athletic,Stenhousemuir,0,2,A,6,11,3,5
+SC2,08/03/2025,Cove Rangers,Queen of Sth,3,1,H,11,12,5,6
+SC2,08/03/2025,Dumbarton,Inverness C,0,1,A,11,15,2,6
+SC2,08/03/2025,Kelty Hearts,Montrose,0,0,D,5,6,1,4
+SC2,11/03/2025,Kelty Hearts,Cove Rangers,0,4,A,4,10,2,7
+SC2,11/03/2025,Inverness C,Stenhousemuir,4,1,H,8,9,4,6
+SC2,15/03/2025,Arbroath,Dumbarton,1,1,D,11,8,4,1
+SC2,15/03/2025,Inverness C,Annan Athletic,0,1,A,17,2,7,1
+SC2,15/03/2025,Montrose,Cove Rangers,2,2,D,12,10,3,8
+SC2,15/03/2025,Queen of Sth,Alloa,3,2,H,10,10,4,4
+SC2,15/03/2025,Stenhousemuir,Kelty Hearts,0,0,D,6,7,2,1
+SC2,22/03/2025,Dumbarton,Queen of Sth,0,0,D,9,11,1,1
+SC2,22/03/2025,Inverness C,Alloa,1,1,D,14,5,5,4
+SC2,22/03/2025,Kelty Hearts,Arbroath,1,1,D,10,8,6,6
+SC2,22/03/2025,Montrose,Annan Athletic,3,1,H,9,10,4,3
+SC2,22/03/2025,Cove Rangers,Stenhousemuir,0,0,D,7,7,2,2
+SC2,29/03/2025,Alloa,Dumbarton,2,3,A,10,12,3,4
+SC2,29/03/2025,Annan Athletic,Kelty Hearts,2,1,H,12,2,4,2
+SC2,29/03/2025,Arbroath,Cove Rangers,1,0,H,6,4,4,1
+SC2,29/03/2025,Queen of Sth,Inverness C,4,1,H,9,6,5,5
+SC2,29/03/2025,Stenhousemuir,Montrose,2,3,A,12,12,4,8
+SC2,05/04/2025,Annan Athletic,Queen of Sth,0,2,A,8,8,4,7
+SC2,05/04/2025,Cove Rangers,Inverness C,0,3,A,6,9,0,5
+SC2,05/04/2025,Kelty Hearts,Dumbarton,0,6,A,3,12,0,8
+SC2,05/04/2025,Montrose,Arbroath,0,1,A,6,7,4,2
+SC2,05/04/2025,Stenhousemuir,Alloa,1,4,A,9,19,3,10
+SC2,12/04/2025,Alloa,Annan Athletic,1,0,H,10,3,2,0
+SC2,12/04/2025,Dumbarton,Cove Rangers,1,3,A,5,6,3,5
+SC2,12/04/2025,Inverness C,Kelty Hearts,0,2,A,11,8,1,4
+SC2,12/04/2025,Queen of Sth,Montrose,2,1,H,11,6,5,1
+SC2,12/04/2025,Arbroath,Stenhousemuir,4,0,H,15,3,9,0
+SC2,19/04/2025,Annan Athletic,Arbroath,5,1,H,12,7,8,4
+SC2,19/04/2025,Cove Rangers,Alloa,1,1,D,8,5,4,4
+SC2,19/04/2025,Kelty Hearts,Queen of Sth,1,3,A,2,12,2,5
+SC2,19/04/2025,Montrose,Dumbarton,2,2,D,11,9,6,5
+SC2,19/04/2025,Stenhousemuir,Inverness C,1,1,D,7,6,5,3
+SC2,26/04/2025,Alloa,Montrose,2,1,H,14,10,5,3
+SC2,26/04/2025,Cove Rangers,Kelty Hearts,2,2,D,16,8,7,3
+SC2,26/04/2025,Dumbarton,Annan Athletic,3,1,H,13,8,7,4
+SC2,26/04/2025,Inverness C,Arbroath,3,0,H,9,1,6,1
+SC2,26/04/2025,Queen of Sth,Stenhousemuir,2,0,H,7,12,5,8
+SC2,03/05/2025,Annan Athletic,Cove Rangers,2,4,A,8,11,4,6
+SC2,03/05/2025,Arbroath,Queen of Sth,1,1,D,13,4,4,2
+SC2,03/05/2025,Kelty Hearts,Alloa,2,1,H,12,11,9,3
+SC2,03/05/2025,Montrose,Inverness C,0,2,A,9,22,4,9
+SC2,03/05/2025,Stenhousemuir,Dumbarton,2,1,H,14,9,9,5

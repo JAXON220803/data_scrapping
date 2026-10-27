@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "uniqueTournament": {
+      "category": {
+        "alpha2": "NL",
+        "country": {
+          "alpha2": "NL",
+          "name": "Netherlands"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هولندا",
+            "ru": "Нидерланды"
+          },
+          "shortNameTranslation": {}
+        },
+        "flag": "netherlands",
+        "id": 35,
+        "name": "Netherlands",
+        "priority": 0,
+        "slug": "netherlands",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        }
+      },
+      "country": {},
+      "darkLogo": {
+        "id": 2392646,
+        "md5": "39b646af8c9f036d9794cef060fd4955"
+      },
+      "disabledHomeAwayStandings": false,
+      "displayInverseHomeAwayTeams": false,
+      "editorCoverageNeeded": false,
+      "endDateTimestamp": 1812240000,
+      "excludeFromCareerStats": false,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري الهولندي الممتاز",
+          "bn": "এরেডিভিসি",
+          "hi": "इरेडीवीसी",
+          "ru": "Эредивизи VriendenLoterij"
+        },
+        "shortNameTranslation": {}
+      },
+      "gender": "M",
+      "hasGroups": false,
+      "hasPerformanceGraphFeature": true,
+      "hasPlayoffSeries": false,
+      "hasRounds": true,
+      "id": 37,
+      "linkedUniqueTournaments": [],
+      "liveActivityEnabled": true,
+      "logo": {
+        "id": 2392645,
+        "md5": "ade1e1f6e45b504a5cc0fd45390c3d85"
+      },
+      "lowerDivisions": [
+        {
+          "category": {
+            "alpha2": "NL",
+            "country": {
+              "alpha2": "NL",
+              "name": "Netherlands"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {
+                "ar": "هولندا",
+                "ru": "Нидерланды"
+              },
+              "shortNameTranslation": {}
+            },
+            "flag": "netherlands",
+            "id": 35,
+            "name": "Netherlands",
+            "priority": 0,
+            "slug": "netherlands",
+            "sport": {
+              "id": 1,
+              "name": "Football",
+              "slug": "football"
+            }
+          },
+          "country": {},
+          "disabledHomeAwayStandings": false,
+          "displayInverseHomeAwayTeams": false,
+          "editorCoverageNeeded": false,
+          "endDateTimestamp": 1810339200,
+          "excludeFromCareerStats": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "الدوري الهولندي الدرجة الثانية",
+              "bn": "এরেস্টে ডিভিশন",
+              "hi": "ईर्स्टे डिविज़ी",
+              "ru": "Дивизион 1"
+            },
+            "shortNameTranslation": {}
+          },
+          "gender": "M",
+          "hasGroups": false,
+          "hasPerformanceGraphFeature": true,
+          "hasPlayoffSeries": false,
+          "hasRounds": true,
+          "id": 131,
+          "liveActivityEnabled": true,
+          "logo": {
+            "id": 300717,
+            "md5": "ff9e1bbfa04b420a2e02563515650dd4"
+          },
+          "mostTitlesTeams": [
+            {
+              "country": {
+                "alpha2": "NL",
+                "name": "Netherlands"
+              },
+              "disabled": false,
+              "fieldTranslations": {
+                "nameTranslation": {
+                  "ar": "إف سي فوليندام",
+                  "hi": "ऍफ़सी वोलेंदम",
+                  "ru": "ФК Волендам"
+                },
+                "shortNameTranslation": {}
+              },
+              "gender": "M",
+              "id": 2968,
+              "name": "FC Volendam",
+              "nameCode": "VOL",
+              "national": false,
+              "shortName": "Volendam",
+              "slug": "fc-volendam",
+              "sport": {
+                "id": 1,
+                "name": "Football",
+                "slug": "football"
+              },
+              "teamColors": {
+                "primary": "#f5762f",
+                "secondary": "#f5762f",
+                "text": "#f5762f"
+              },
+              "type": 0,
+              "userCount": 27904
+            }
+          ],
+          "name": "Eerste Divisie",
+          "periodLength": {},
+          "primaryColorHex": "#b0192e",
+          "secondaryColorHex": "#a3a3a3",
+          "slug": "eerste-divisie",
+          "startDateTimestamp": 1786060800,
+          "tier": 2
+        }
+      ],
+      "mostTitles": 36,
+      "mostTitlesTeams": [
+        {
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "disabled": false,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أياكس أمستردام",
+              "bn": "আয়াক্স",
+              "hi": "अजाक्स",
+              "ru": "Аякс"
+            },
+            "shortNameTranslation": {
+              "ar": "أياكس"
+            }
+          },
+          "gender": "M",
+          "id": 2953,
+          "name": "AFC Ajax",
+          "nameCode": "AJA",
+          "national": false,
+          "shortName": "Ajax",
+          "slug": "ajax",
+          "sport": {
+            "id": 1,
+            "name": "Football",
+            "slug": "football"
+          },
+          "teamColors": {
+            "primary": "#bb002b",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "type": 0,
+          "userCount": 472566
+        }
+      ],
+      "name": "VriendenLoterij Eredivisie",
+      "periodLength": {},
+      "primaryColorHex": "#292766",
+      "secondaryColorHex": "#7c79c3",
+      "slug": "eredivisie",
+      "startDateTimestamp": 1786060800,
+      "tier": 1,
+      "titleHolder": {
+        "country": {
+          "alpha2": "NL",
+          "name": "Netherlands"
+        },
+        "disabled": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بي اس في ايندهوفن",
+            "hi": "पिऐसवि आइन्डहोवेन",
+            "ru": "ПСВ Эйндховен"
+          },
+          "shortNameTranslation": {
+            "ar": "ايندهوفن",
+            "bn": "পিএসভি",
+            "hi": "पीएसवी"
+          }
+        },
+        "gender": "M",
+        "id": 2952,
+        "name": "PSV Eindhoven",
+        "nameCode": "PSV",
+        "national": false,
+        "shortName": "PSV",
+        "slug": "psv-eindhoven",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "userCount": 463603
+      },
+      "titleHolderTitles": 27,
+      "upperDivisions": [],
+      "userCount": 154006
+    }
+  },
+  "seasons": [
+    {
+      "editor": false,
+      "id": 96143,
+      "name": "Eredivisie 26/27",
+      "seasonCoverageInfo": {},
+      "year": "26/27"
+    },
+    {
+      "editor": false,
+      "id": 77012,
+      "name": "VriendenLoterij Eredivisie 25/26",
+      "year": "25/26"
+    },
+    {
+      "editor": false,
+      "id": 61666,
+      "name": "Eredivisie 24/25",
+      "year": "24/25"
+    },
+    {
+      "editor": false,
+      "id": 52554,
+      "name": "Eredivisie 23/24",
+      "year": "23/24"
+    },
+    {
+      "editor": false,
+      "id": 42256,
+      "name": "Eredivisie 22/23",
+      "seasonCoverageInfo": {},
+      "year": "22/23"
+    },
+    {
+      "editor": false,
+      "id": 36890,
+      "name": "Eredivisie 21/22",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "21/22"
+    },
+    {
+      "editor": false,
+      "id": 29186,
+      "name": "Eredivisie 20/21",
+      "year": "20/21"
+    },
+    {
+      "editor": false,
+      "id": 23873,
+      "name": "Eredivisie 19/20",
+      "year": "19/20"
+    },
+    {
+      "editor": false,
+      "id": 17353,
+      "name": "Eredivisie 18/19",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "18/19"
+    },
+    {
+      "editor": false,
+      "id": 13399,
+      "name": "Eredivisie 17/18",
+      "year": "17/18"
+    },
+    {
+      "editor": false,
+      "id": 11777,
+      "name": "Eredivisie 16/17",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "16/17"
+    },
+    {
+      "editor": false,
+      "id": 10370,
+      "name": "Eredivisie 15/16",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "15/16"
+    },
+    {
+      "editor": false,
+      "id": 8170,
+      "name": "Eredivisie 14/15",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "14/15"
+    },
+    {
+      "editor": false,
+      "id": 6267,
+      "name": "Eredivisie 13/14",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "13/14"
+    },
+    {
+      "editor": false,
+      "id": 4746,
+      "name": "Eredivisie 12/13",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "12/13"
+    },
+    {
+      "editor": false,
+      "id": 3432,
+      "name": "Eredivisie 11/12",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "11/12"
+    },
+    {
+      "editor": false,
+      "id": 2745,
+      "name": "Eredivisie 10/11",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "10/11"
+    },
+    {
+      "editor": false,
+      "id": 2144,
+      "name": "Eredivisie 09/10",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "09/10"
+    },
+    {
+      "editor": false,
+      "id": 1711,
+      "name": "Eredivisie 08/09",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "08/09"
+    },
+    {
+      "editor": false,
+      "id": 90605,
+      "name": "Eredivisie 07/08",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "07/08"
+    },
+    {
+      "editor": false,
+      "id": 90606,
+      "name": "Eredivisie 06/07",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "06/07"
+    },
+    {
+      "editor": false,
+      "id": 10063,
+      "name": "Eredivisie 05/06",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "05/06"
+    },
+    {
+      "editor": false,
+      "id": 10006,
+      "name": "Eredivisie 04/05",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "04/05"
+    },
+    {
+      "editor": false,
+      "id": 9921,
+      "name": "Eredivisie 03/04",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "03/04"
+    },
+    {
+      "editor": false,
+      "id": 90612,
+      "name": "Eredivisie 02/03",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "02/03"
+    },
+    {
+      "editor": false,
+      "id": 90613,
+      "name": "Eredivisie 01/02",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "01/02"
+    },
+    {
+      "editor": false,
+      "id": 90614,
+      "name": "Eredivisie 00/01",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "00/01"
+    },
+    {
+      "editor": false,
+      "id": 90617,
+      "name": "Eredivisie 99/00",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "99/00"
+    },
+    {
+      "editor": false,
+      "id": 90621,
+      "name": "Eredivisie 98/99",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "98/99"
+    },
+    {
+      "editor": false,
+      "id": 90622,
+      "name": "Eredivisie 97/98",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "97/98"
+    },
+    {
+      "editor": false,
+      "id": 90645,
+      "name": "Eredivisie 96/97",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "96/97"
+    },
+    {
+      "editor": false,
+      "id": 90647,
+      "name": "Eredivisie 95/96",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "95/96"
+    },
+    {
+      "editor": false,
+      "id": 90648,
+      "name": "Eredivisie 94/95",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "94/95"
+    },
+    {
+      "editor": false,
+      "id": 90651,
+      "name": "Eredivisie 93/94",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "93/94"
+    },
+    {
+      "editor": false,
+      "id": 90653,
+      "name": "Eredivisie 92/93",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "92/93"
+    },
+    {
+      "editor": false,
+      "id": 90654,
+      "name": "Eredivisie 91/92",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "91/92"
+    },
+    {
+      "editor": false,
+      "id": 90655,
+      "name": "Eredivisie 90/91",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "90/91"
+    },
+    {
+      "editor": false,
+      "id": 90656,
+      "name": "Eredivisie 89/90",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "89/90"
+    },
+    {
+      "editor": false,
+      "id": 90657,
+      "name": "Eredivisie 88/89",
+      "seasonCoverageInfo": {
+        "editorCoverageLevel": 1
+      },
+      "year": "88/89"
+    }
+  ]
+}

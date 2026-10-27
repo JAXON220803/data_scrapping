@@ -1,0 +1,2190 @@
+{
+  "version": 1,
+  "targets": [
+    {
+      "id": "Belgium/B1/2010-2011",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Belgium/2010-2011/B1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2011-2012",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Belgium/2011-2012/B1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2012-2013",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Belgium/2012-2013/B1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2013-2014",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Belgium/2013-2014/B1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2014-2015",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Belgium/2014-2015/B1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2015-2016",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Belgium/2015-2016/B1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2016-2017",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Belgium/2016-2017/B1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2021-2022",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2021-2022",
+      "start_year": 2021,
+      "reference": "reference/Belgium/2021-2022/B1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 3,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2021-2022/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2022-2023",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2022-2023",
+      "start_year": 2022,
+      "reference": "reference/Belgium/2022-2023/B1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 2,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2022-2023/results/"
+        }
+      }
+    },
+    {
+      "id": "Belgium/B1/2024-2025",
+      "country": "Belgium",
+      "division": "B1",
+      "season": "2024-2025",
+      "start_year": 2024,
+      "reference": "reference/Belgium/2024-2025/B1.csv",
+      "reference_matches": 312,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 38
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/belgium/jupiler-pro-league-2024-2025/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2016-2017",
+      "country": "England",
+      "division": "EC",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/England/2016-2017/EC.csv",
+      "reference_matches": 552,
+      "missing_shot_matches": 552,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2017-2018",
+      "country": "England",
+      "division": "EC",
+      "season": "2017-2018",
+      "start_year": 2017,
+      "reference": "reference/England/2017-2018/EC.csv",
+      "reference_matches": 552,
+      "missing_shot_matches": 552,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2017-2018/results/"
+        }
+      }
+    },
+    {
+      "id": "England/E1/2018-2019",
+      "country": "England",
+      "division": "E1",
+      "season": "2018-2019",
+      "start_year": 2018,
+      "reference": "reference/England/2018-2019/E1.csv",
+      "reference_matches": 552,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 18
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/championship-2018-2019/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2018-2019",
+      "country": "England",
+      "division": "EC",
+      "season": "2018-2019",
+      "start_year": 2018,
+      "reference": "reference/England/2018-2019/EC.csv",
+      "reference_matches": 552,
+      "missing_shot_matches": 552,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2018-2019/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2019-2020",
+      "country": "England",
+      "division": "EC",
+      "season": "2019-2020",
+      "start_year": 2019,
+      "reference": "reference/England/2019-2020/EC.csv",
+      "reference_matches": 451,
+      "missing_shot_matches": 451,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2019-2020/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2020-2021",
+      "country": "England",
+      "division": "EC",
+      "season": "2020-2021",
+      "start_year": 2020,
+      "reference": "reference/England/2020-2021/EC.csv",
+      "reference_matches": 477,
+      "missing_shot_matches": 477,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2020-2021/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2021-2022",
+      "country": "England",
+      "division": "EC",
+      "season": "2021-2022",
+      "start_year": 2021,
+      "reference": "reference/England/2021-2022/EC.csv",
+      "reference_matches": 506,
+      "missing_shot_matches": 506,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2021-2022/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2022-2023",
+      "country": "England",
+      "division": "EC",
+      "season": "2022-2023",
+      "start_year": 2022,
+      "reference": "reference/England/2022-2023/EC.csv",
+      "reference_matches": 552,
+      "missing_shot_matches": 552,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2022-2023/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2023-2024",
+      "country": "England",
+      "division": "EC",
+      "season": "2023-2024",
+      "start_year": 2023,
+      "reference": "reference/England/2023-2024/EC.csv",
+      "reference_matches": 552,
+      "missing_shot_matches": 552,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2023-2024/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2024-2025",
+      "country": "England",
+      "division": "EC",
+      "season": "2024-2025",
+      "start_year": 2024,
+      "reference": "reference/England/2024-2025/EC.csv",
+      "reference_matches": 552,
+      "missing_shot_matches": 552,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2024-2025/results/"
+        }
+      }
+    },
+    {
+      "id": "England/EC/2025-2026",
+      "country": "England",
+      "division": "EC",
+      "season": "2025-2026",
+      "start_year": 2025,
+      "reference": "reference/England/2025-2026/EC.csv",
+      "reference_matches": 552,
+      "missing_shot_matches": 552,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 173
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/england/national-league-2025-2026/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2010-2011",
+      "country": "France",
+      "division": "F2",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/France/2010-2011/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 380,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2011-2012",
+      "country": "France",
+      "division": "F2",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/France/2011-2012/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 380,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2012-2013",
+      "country": "France",
+      "division": "F2",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/France/2012-2013/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 380,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2013-2014",
+      "country": "France",
+      "division": "F2",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/France/2013-2014/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 380,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2014-2015",
+      "country": "France",
+      "division": "F2",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/France/2014-2015/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 380,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2015-2016",
+      "country": "France",
+      "division": "F2",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/France/2015-2016/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 380,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F1/2016-2017",
+      "country": "France",
+      "division": "F1",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/France/2016-2017/F1.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 34
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-1-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2016-2017",
+      "country": "France",
+      "division": "F2",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/France/2016-2017/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 380,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2020-2021",
+      "country": "France",
+      "division": "F2",
+      "season": "2020-2021",
+      "start_year": 2020,
+      "reference": "reference/France/2020-2021/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2020-2021/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2021-2022",
+      "country": "France",
+      "division": "F2",
+      "season": "2021-2022",
+      "start_year": 2021,
+      "reference": "reference/France/2021-2022/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2021-2022/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2022-2023",
+      "country": "France",
+      "division": "F2",
+      "season": "2022-2023",
+      "start_year": 2022,
+      "reference": "reference/France/2022-2023/F2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2022-2023/results/"
+        }
+      }
+    },
+    {
+      "id": "France/F2/2025-2026",
+      "country": "France",
+      "division": "F2",
+      "season": "2025-2026",
+      "start_year": 2025,
+      "reference": "reference/France/2025-2026/F2.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 182
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/france/ligue-2-2025-2026/results/"
+        }
+      }
+    },
+    {
+      "id": "Germany/D2/2010-2011",
+      "country": "Germany",
+      "division": "D2",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Germany/2010-2011/D2.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 304,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 44
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/germany/2-bundesliga-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Germany/D2/2011-2012",
+      "country": "Germany",
+      "division": "D2",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Germany/2011-2012/D2.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 44
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/germany/2-bundesliga-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Germany/D2/2012-2013",
+      "country": "Germany",
+      "division": "D2",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Germany/2012-2013/D2.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 44
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/germany/2-bundesliga-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Germany/D2/2013-2014",
+      "country": "Germany",
+      "division": "D2",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Germany/2013-2014/D2.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 44
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/germany/2-bundesliga-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Germany/D2/2014-2015",
+      "country": "Germany",
+      "division": "D2",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Germany/2014-2015/D2.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 44
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/germany/2-bundesliga-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Germany/D2/2015-2016",
+      "country": "Germany",
+      "division": "D2",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Germany/2015-2016/D2.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 44
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/germany/2-bundesliga-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Germany/D2/2016-2017",
+      "country": "Germany",
+      "division": "D2",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Germany/2016-2017/D2.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 44
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/germany/2-bundesliga-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2010-2011",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Greece/2010-2011/G1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2011-2012",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Greece/2011-2012/G1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2012-2013",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Greece/2012-2013/G1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2013-2014",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Greece/2013-2014/G1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2014-2015",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Greece/2014-2015/G1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2015-2016",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Greece/2015-2016/G1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2016-2017",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Greece/2016-2017/G1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2017-2018",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2017-2018",
+      "start_year": 2017,
+      "reference": "reference/Greece/2017-2018/G1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 2,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2017-2018/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2018-2019",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2018-2019",
+      "start_year": 2018,
+      "reference": "reference/Greece/2018-2019/G1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2018-2019/results/"
+        }
+      }
+    },
+    {
+      "id": "Greece/G1/2023-2024",
+      "country": "Greece",
+      "division": "G1",
+      "season": "2023-2024",
+      "start_year": 2023,
+      "reference": "reference/Greece/2023-2024/G1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 185
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/greece/super-league-2023-2024/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2010-2011",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Italy/2010-2011/I2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2011-2012",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Italy/2011-2012/I2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I1/2012-2013",
+      "country": "Italy",
+      "division": "I1",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Italy/2012-2013/I1.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 23
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-a-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2012-2013",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Italy/2012-2013/I2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2013-2014",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Italy/2013-2014/I2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2014-2015",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Italy/2014-2015/I2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2015-2016",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Italy/2015-2016/I2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2016-2017",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Italy/2016-2017/I2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2018-2019",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2018-2019",
+      "start_year": 2018,
+      "reference": "reference/Italy/2018-2019/I2.csv",
+      "reference_matches": 342,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2018-2019/results/"
+        }
+      }
+    },
+    {
+      "id": "Italy/I2/2020-2021",
+      "country": "Italy",
+      "division": "I2",
+      "season": "2020-2021",
+      "start_year": 2020,
+      "reference": "reference/Italy/2020-2021/I2.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 53
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/italy/serie-b-2020-2021/results/"
+        }
+      }
+    },
+    {
+      "id": "Netherlands/N1/2010-2011",
+      "country": "Netherlands",
+      "division": "N1",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Netherlands/2010-2011/N1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 37
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/netherlands/eredivisie-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Netherlands/N1/2011-2012",
+      "country": "Netherlands",
+      "division": "N1",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Netherlands/2011-2012/N1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 37
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/netherlands/eredivisie-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Netherlands/N1/2012-2013",
+      "country": "Netherlands",
+      "division": "N1",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Netherlands/2012-2013/N1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 37
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/netherlands/eredivisie-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Netherlands/N1/2013-2014",
+      "country": "Netherlands",
+      "division": "N1",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Netherlands/2013-2014/N1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 37
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/netherlands/eredivisie-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Netherlands/N1/2014-2015",
+      "country": "Netherlands",
+      "division": "N1",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Netherlands/2014-2015/N1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 37
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/netherlands/eredivisie-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Netherlands/N1/2015-2016",
+      "country": "Netherlands",
+      "division": "N1",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Netherlands/2015-2016/N1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 37
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/netherlands/eredivisie-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Netherlands/N1/2016-2017",
+      "country": "Netherlands",
+      "division": "N1",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Netherlands/2016-2017/N1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 37
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/netherlands/eredivisie-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Portugal/P1/2010-2011",
+      "country": "Portugal",
+      "division": "P1",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Portugal/2010-2011/P1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 238
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/portugal/liga-portugal-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Portugal/P1/2011-2012",
+      "country": "Portugal",
+      "division": "P1",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Portugal/2011-2012/P1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 238
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/portugal/liga-portugal-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Portugal/P1/2012-2013",
+      "country": "Portugal",
+      "division": "P1",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Portugal/2012-2013/P1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 238
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/portugal/liga-portugal-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Portugal/P1/2013-2014",
+      "country": "Portugal",
+      "division": "P1",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Portugal/2013-2014/P1.csv",
+      "reference_matches": 240,
+      "missing_shot_matches": 240,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 238
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/portugal/liga-portugal-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Portugal/P1/2014-2015",
+      "country": "Portugal",
+      "division": "P1",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Portugal/2014-2015/P1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 238
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/portugal/liga-portugal-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Portugal/P1/2015-2016",
+      "country": "Portugal",
+      "division": "P1",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Portugal/2015-2016/P1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 238
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/portugal/liga-portugal-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Portugal/P1/2016-2017",
+      "country": "Portugal",
+      "division": "P1",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Portugal/2016-2017/P1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 238
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/portugal/liga-portugal-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC1/2010-2011",
+      "country": "Scotland",
+      "division": "SC1",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Scotland/2010-2011/SC1.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 206
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/championship-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC2/2010-2011",
+      "country": "Scotland",
+      "division": "SC2",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Scotland/2010-2011/SC2.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 207
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-one-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC3/2010-2011",
+      "country": "Scotland",
+      "division": "SC3",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Scotland/2010-2011/SC3.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 209
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-two-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC1/2011-2012",
+      "country": "Scotland",
+      "division": "SC1",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Scotland/2011-2012/SC1.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 206
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/championship-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC2/2011-2012",
+      "country": "Scotland",
+      "division": "SC2",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Scotland/2011-2012/SC2.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 207
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-one-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC3/2011-2012",
+      "country": "Scotland",
+      "division": "SC3",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Scotland/2011-2012/SC3.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 209
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-two-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC1/2012-2013",
+      "country": "Scotland",
+      "division": "SC1",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Scotland/2012-2013/SC1.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 206
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/championship-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC2/2012-2013",
+      "country": "Scotland",
+      "division": "SC2",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Scotland/2012-2013/SC2.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 207
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-one-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC3/2012-2013",
+      "country": "Scotland",
+      "division": "SC3",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Scotland/2012-2013/SC3.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 209
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-two-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC1/2013-2014",
+      "country": "Scotland",
+      "division": "SC1",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Scotland/2013-2014/SC1.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 206
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/championship-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC2/2013-2014",
+      "country": "Scotland",
+      "division": "SC2",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Scotland/2013-2014/SC2.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 207
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-one-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC3/2013-2014",
+      "country": "Scotland",
+      "division": "SC3",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Scotland/2013-2014/SC3.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 209
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-two-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC1/2014-2015",
+      "country": "Scotland",
+      "division": "SC1",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Scotland/2014-2015/SC1.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 206
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/championship-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC2/2014-2015",
+      "country": "Scotland",
+      "division": "SC2",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Scotland/2014-2015/SC2.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 207
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-one-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC3/2014-2015",
+      "country": "Scotland",
+      "division": "SC3",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Scotland/2014-2015/SC3.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 209
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-two-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC1/2015-2016",
+      "country": "Scotland",
+      "division": "SC1",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Scotland/2015-2016/SC1.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 206
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/championship-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC2/2015-2016",
+      "country": "Scotland",
+      "division": "SC2",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Scotland/2015-2016/SC2.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 207
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-one-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC3/2015-2016",
+      "country": "Scotland",
+      "division": "SC3",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Scotland/2015-2016/SC3.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 209
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-two-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC1/2016-2017",
+      "country": "Scotland",
+      "division": "SC1",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Scotland/2016-2017/SC1.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 206
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/championship-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC2/2016-2017",
+      "country": "Scotland",
+      "division": "SC2",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Scotland/2016-2017/SC2.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 207
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-one-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC3/2016-2017",
+      "country": "Scotland",
+      "division": "SC3",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Scotland/2016-2017/SC3.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 180,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 209
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-two-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC3/2020-2021",
+      "country": "Scotland",
+      "division": "SC3",
+      "season": "2020-2021",
+      "start_year": 2020,
+      "reference": "reference/Scotland/2020-2021/SC3.csv",
+      "reference_matches": 110,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 209
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-two-2020-2021/results/"
+        }
+      }
+    },
+    {
+      "id": "Scotland/SC2/2024-2025",
+      "country": "Scotland",
+      "division": "SC2",
+      "season": "2024-2025",
+      "start_year": 2024,
+      "reference": "reference/Scotland/2024-2025/SC2.csv",
+      "reference_matches": 180,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 207
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/scotland/league-one-2024-2025/results/"
+        }
+      }
+    },
+    {
+      "id": "Spain/SP2/2010-2011",
+      "country": "Spain",
+      "division": "SP2",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Spain/2010-2011/SP2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 54
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/spain/laliga2-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Spain/SP2/2011-2012",
+      "country": "Spain",
+      "division": "SP2",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Spain/2011-2012/SP2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 54
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/spain/laliga2-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Spain/SP2/2012-2013",
+      "country": "Spain",
+      "division": "SP2",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Spain/2012-2013/SP2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 54
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/spain/laliga2-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Spain/SP2/2013-2014",
+      "country": "Spain",
+      "division": "SP2",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Spain/2013-2014/SP2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 54
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/spain/laliga2-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Spain/SP2/2014-2015",
+      "country": "Spain",
+      "division": "SP2",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Spain/2014-2015/SP2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 54
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/spain/laliga2-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Spain/SP2/2015-2016",
+      "country": "Spain",
+      "division": "SP2",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Spain/2015-2016/SP2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 54
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/spain/laliga2-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Spain/SP2/2016-2017",
+      "country": "Spain",
+      "division": "SP2",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Spain/2016-2017/SP2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 462,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 54
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/spain/laliga2-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Spain/SP2/2018-2019",
+      "country": "Spain",
+      "division": "SP2",
+      "season": "2018-2019",
+      "start_year": 2018,
+      "reference": "reference/Spain/2018-2019/SP2.csv",
+      "reference_matches": 462,
+      "missing_shot_matches": 21,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 54
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/spain/laliga2-2018-2019/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2010-2011",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2010-2011",
+      "start_year": 2010,
+      "reference": "reference/Turkey/2010-2011/T1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2010-2011/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2011-2012",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2011-2012",
+      "start_year": 2011,
+      "reference": "reference/Turkey/2011-2012/T1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2011-2012/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2012-2013",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2012-2013",
+      "start_year": 2012,
+      "reference": "reference/Turkey/2012-2013/T1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2012-2013/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2013-2014",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2013-2014",
+      "start_year": 2013,
+      "reference": "reference/Turkey/2013-2014/T1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2013-2014/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2014-2015",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2014-2015",
+      "start_year": 2014,
+      "reference": "reference/Turkey/2014-2015/T1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2014-2015/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2015-2016",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2015-2016",
+      "start_year": 2015,
+      "reference": "reference/Turkey/2015-2016/T1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2015-2016/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2016-2017",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2016-2017",
+      "start_year": 2016,
+      "reference": "reference/Turkey/2016-2017/T1.csv",
+      "reference_matches": 306,
+      "missing_shot_matches": 306,
+      "whole_season_missing": true,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2016-2017/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2022-2023",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2022-2023",
+      "start_year": 2022,
+      "reference": "reference/Turkey/2022-2023/T1.csv",
+      "reference_matches": 342,
+      "missing_shot_matches": 29,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2022-2023/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2023-2024",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2023-2024",
+      "start_year": 2023,
+      "reference": "reference/Turkey/2023-2024/T1.csv",
+      "reference_matches": 380,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2023-2024/results/"
+        }
+      }
+    },
+    {
+      "id": "Turkey/T1/2024-2025",
+      "country": "Turkey",
+      "division": "T1",
+      "season": "2024-2025",
+      "start_year": 2024,
+      "reference": "reference/Turkey/2024-2025/T1.csv",
+      "reference_matches": 342,
+      "missing_shot_matches": 1,
+      "whole_season_missing": false,
+      "sources": {
+        "sofascore": {
+          "tournament_id": 52
+        },
+        "flashscore": {
+          "url": "https://www.flashscore.com/football/turkey/super-lig-2024-2025/results/"
+        }
+      }
+    }
+  ]
+}
