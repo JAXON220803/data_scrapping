@@ -1,13 +1,13 @@
 # Collection progress: in_progress
 
-Updated: 2026-10-27T22:03:21.679424+00:00
+Updated: 2026-10-28T01:24:18.770623+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 0/230
 - Provider match records downloaded: 436
-- Provider records with all four shot values: 15
-- Previously empty reference cells recovered: 60
-- Reference matches still missing shot values: 30058
+- Provider records with all four shot values: 21
+- Previously empty reference cells recovered: 84
+- Reference matches still missing shot values: 30052
 
 | Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps |
 |---|---:|---:|---:|
@@ -77,7 +77,7 @@ Updated: 2026-10-27T22:03:21.679424+00:00
 | Netherlands/N1/2013-2014 | 0 / 0 / 0 | 0 / 0 / 0 | 306 |
 | Netherlands/N1/2014-2015 | 0 / 0 / 0 | 0 / 0 / 0 | 306 |
 | Netherlands/N1/2015-2016 | 0 / 0 / 0 | 0 / 0 / 0 | 306 |
-| Netherlands/N1/2016-2017 | 328 / 6 / 6 | 108 / 9 / 9 | 291 |
+| Netherlands/N1/2016-2017 | 328 / 6 / 6 | 108 / 15 / 15 | 285 |
 | Portugal/P1/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 240 |
 | Portugal/P1/2011-2012 | 0 / 0 / 0 | 0 / 0 / 0 | 240 |
 | Portugal/P1/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 240 |
