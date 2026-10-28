@@ -188,6 +188,9 @@ class CollectionTests(unittest.TestCase):
         self.assertEqual(report['status'], 'in_progress')
         self.assertEqual(report['source_tasks_done'], 0)
         self.assertEqual(report['last_run']['sofascore']['status'], 'Blocked')
+        second = Engine(self.root, adapters={'sofascore': Fake()}).run(('sofascore',))
+        self.assertEqual(second['last_run']['sofascore']['status'], 'waiting_after_error')
+        self.assertEqual(second['last_run']['sofascore']['requests'], 0)
 
     def test_one_unrendered_match_does_not_prevent_checking_other_matches(self):
         self.make_repository()

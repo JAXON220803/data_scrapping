@@ -48,7 +48,8 @@ class Engine:
         if self.options.get('retry_blocked'):
             source_states.pop(source, None)
         if state.get('retry_at', 0) > self.now() and not self.options.get('retry_blocked'):
-            self.run_summary[source] = {'status': 'waiting_after_error', **state, 'requests': 0}
+            self.run_summary[source] = {**state, 'status': 'waiting_after_error',
+                                       'previous_status': state.get('status'), 'requests': 0}
             return
         budget = Budget(self.store, source, self.settings['interval_seconds'],
                         self.settings['daily_requests_per_source'],
