@@ -16,11 +16,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 436,
-  "provider_records_with_all_shots": 27,
-  "provider_records_with_statistics": 27,
-  "recovered_cells": 108,
+  "provider_records_with_all_shots": 33,
+  "provider_records_with_statistics": 33,
+  "recovered_cells": 132,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 30046,
+  "reference_matches_still_missing_shots": 30040,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2003,21 +2003,21 @@
       }
     },
     {
-      "cells_recovered": 108,
+      "cells_recovered": 132,
       "id": "Netherlands/N1/2016-2017",
       "reference_matches": 306,
-      "remaining_missing_shots": 279,
+      "remaining_missing_shots": 273,
       "sources": {
         "flashscore": {
-          "all_shot_values": 21,
+          "all_shot_values": 27,
           "fixtures": 108,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 21,
-          "statistics_checked": 21
+          "statistics_available": 27,
+          "statistics_checked": 27
         },
         "sofascore": {
           "all_shot_values": 6,
@@ -3477,5 +3477,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-28T08:31:13.185228+00:00"
+  "updated_utc": "2026-10-28T16:04:40.584105+00:00"
 }
