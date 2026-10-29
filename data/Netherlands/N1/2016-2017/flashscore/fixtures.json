@@ -354,8 +354,68 @@
     "home": "Utrecht",
     "home_goals": 3,
     "id": "4UQcT339",
+    "shots": {
+      "AS": 13,
+      "AST": 6,
+      "HS": 14,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "09.04.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/summary/stats/?mid=4UQcT339",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=4UQcT339"
   },
@@ -1494,8 +1554,68 @@
     "home": "PSV",
     "home_goals": 5,
     "id": "MTcVYxqD",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 29,
+      "HST": 14
+    },
     "source": "flashscore",
     "source_status": "09.04.2017",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "29",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "29",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "14",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/summary/stats/?mid=MTcVYxqD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/?mid=MTcVYxqD"
   },
@@ -1698,8 +1818,68 @@
     "home": "Zwolle",
     "home_goals": 2,
     "id": "S6bRZIT6",
+    "shots": {
+      "AS": 22,
+      "AST": 10,
+      "HS": 7,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "09.04.2017",
+    "statistics": [
+      {
+        "away": "66%",
+        "home": "34%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "22",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "22",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/zwolle-r1L5w2EB/summary/stats/?mid=S6bRZIT6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/zwolle-r1L5w2EB/?mid=S6bRZIT6"
   },
@@ -2394,8 +2574,68 @@
     "home": "Vitesse",
     "home_goals": 4,
     "id": "bVhjrsMQ",
+    "shots": {
+      "AS": 11,
+      "AST": 6,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "08.04.2017",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/summary/stats/?mid=bVhjrsMQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/?mid=bVhjrsMQ"
   },
@@ -2922,8 +3162,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 1,
     "id": "lGaNzaE0",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 26,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "09.04.2017",
+    "statistics": [
+      {
+        "away": "35%",
+        "home": "65%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/roda-6FRTNZ8p/summary/stats/?mid=lGaNzaE0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/roda-6FRTNZ8p/?mid=lGaNzaE0"
   },
@@ -3858,8 +4158,68 @@
     "home": "Den Haag",
     "home_goals": 4,
     "id": "zipIw1Us",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 11,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "08.04.2017",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/summary/stats/?mid=zipIw1Us",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/?mid=zipIw1Us"
   },
