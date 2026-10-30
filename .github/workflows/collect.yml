@@ -19,6 +19,7 @@ on:
         default: false
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: season-collection
   cancel-in-progress: false
@@ -80,6 +81,16 @@ jobs:
             git push origin HEAD:main
           fi
           cat PROGRESS.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Check for another runnable batch
+        id: next
+        if: success() && steps.batch.outcome == 'success'
+        run: python -m collector.continuation --source "$COLLECTION_SOURCE"
+      - name: Queue next batch immediately
+        if: success() && steps.next.outputs.continue == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NEXT_SOURCE: ${{ steps.next.outputs.source }}
+        run: gh workflow run collect.yml --repo "$GITHUB_REPOSITORY" --ref main -f source="$NEXT_SOURCE"
       - name: Preserve checkpoint snapshot if publication fails
         if: failure()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2

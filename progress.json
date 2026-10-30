@@ -1,4 +1,9 @@
 {
+  "completed_missing_matches": 73,
+  "filled_cells_percent": 0.2427,
+  "filled_percent": 0.2427,
+  "initial_missing_cells": 120292,
+  "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
       "reason": "Run request budget reached (20/20)",
@@ -24,7 +29,10 @@
   "seasons": [
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2010-2011",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -54,7 +62,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2011-2012",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -84,7 +95,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2012-2013",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -114,7 +128,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2013-2014",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -144,7 +161,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2014-2015",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -174,7 +194,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2015-2016",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -204,7 +227,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2016-2017",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -234,7 +260,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2021-2022",
+      "initial_missing_matches": 3,
       "reference_matches": 306,
       "remaining_missing_shots": 3,
       "sources": {
@@ -264,7 +293,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2022-2023",
+      "initial_missing_matches": 2,
       "reference_matches": 306,
       "remaining_missing_shots": 2,
       "sources": {
@@ -294,7 +326,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Belgium/B1/2024-2025",
+      "initial_missing_matches": 1,
       "reference_matches": 312,
       "remaining_missing_shots": 1,
       "sources": {
@@ -324,7 +359,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2016-2017",
+      "initial_missing_matches": 552,
       "reference_matches": 552,
       "remaining_missing_shots": 552,
       "sources": {
@@ -354,7 +392,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2017-2018",
+      "initial_missing_matches": 552,
       "reference_matches": 552,
       "remaining_missing_shots": 552,
       "sources": {
@@ -384,7 +425,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/E1/2018-2019",
+      "initial_missing_matches": 1,
       "reference_matches": 552,
       "remaining_missing_shots": 1,
       "sources": {
@@ -414,7 +458,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2018-2019",
+      "initial_missing_matches": 552,
       "reference_matches": 552,
       "remaining_missing_shots": 552,
       "sources": {
@@ -444,7 +491,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2019-2020",
+      "initial_missing_matches": 451,
       "reference_matches": 451,
       "remaining_missing_shots": 451,
       "sources": {
@@ -474,7 +524,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2020-2021",
+      "initial_missing_matches": 477,
       "reference_matches": 477,
       "remaining_missing_shots": 477,
       "sources": {
@@ -504,7 +557,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2021-2022",
+      "initial_missing_matches": 506,
       "reference_matches": 506,
       "remaining_missing_shots": 506,
       "sources": {
@@ -534,7 +590,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2022-2023",
+      "initial_missing_matches": 552,
       "reference_matches": 552,
       "remaining_missing_shots": 552,
       "sources": {
@@ -564,7 +623,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2023-2024",
+      "initial_missing_matches": 552,
       "reference_matches": 552,
       "remaining_missing_shots": 552,
       "sources": {
@@ -594,7 +656,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2024-2025",
+      "initial_missing_matches": 552,
       "reference_matches": 552,
       "remaining_missing_shots": 552,
       "sources": {
@@ -624,7 +689,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "England/EC/2025-2026",
+      "initial_missing_matches": 552,
       "reference_matches": 552,
       "remaining_missing_shots": 552,
       "sources": {
@@ -654,7 +722,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2010-2011",
+      "initial_missing_matches": 380,
       "reference_matches": 380,
       "remaining_missing_shots": 380,
       "sources": {
@@ -684,7 +755,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2011-2012",
+      "initial_missing_matches": 380,
       "reference_matches": 380,
       "remaining_missing_shots": 380,
       "sources": {
@@ -714,7 +788,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2012-2013",
+      "initial_missing_matches": 380,
       "reference_matches": 380,
       "remaining_missing_shots": 380,
       "sources": {
@@ -744,7 +821,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2013-2014",
+      "initial_missing_matches": 380,
       "reference_matches": 380,
       "remaining_missing_shots": 380,
       "sources": {
@@ -774,7 +854,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2014-2015",
+      "initial_missing_matches": 380,
       "reference_matches": 380,
       "remaining_missing_shots": 380,
       "sources": {
@@ -804,7 +887,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2015-2016",
+      "initial_missing_matches": 380,
       "reference_matches": 380,
       "remaining_missing_shots": 380,
       "sources": {
@@ -834,7 +920,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F1/2016-2017",
+      "initial_missing_matches": 1,
       "reference_matches": 380,
       "remaining_missing_shots": 1,
       "sources": {
@@ -864,7 +953,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2016-2017",
+      "initial_missing_matches": 380,
       "reference_matches": 380,
       "remaining_missing_shots": 380,
       "sources": {
@@ -894,7 +986,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2020-2021",
+      "initial_missing_matches": 1,
       "reference_matches": 380,
       "remaining_missing_shots": 1,
       "sources": {
@@ -924,7 +1019,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2021-2022",
+      "initial_missing_matches": 1,
       "reference_matches": 380,
       "remaining_missing_shots": 1,
       "sources": {
@@ -954,7 +1052,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2022-2023",
+      "initial_missing_matches": 1,
       "reference_matches": 380,
       "remaining_missing_shots": 1,
       "sources": {
@@ -984,7 +1085,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "France/F2/2025-2026",
+      "initial_missing_matches": 1,
       "reference_matches": 306,
       "remaining_missing_shots": 1,
       "sources": {
@@ -1014,7 +1118,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Germany/D2/2010-2011",
+      "initial_missing_matches": 304,
       "reference_matches": 306,
       "remaining_missing_shots": 304,
       "sources": {
@@ -1044,7 +1151,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Germany/D2/2011-2012",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1074,7 +1184,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Germany/D2/2012-2013",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1104,7 +1217,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Germany/D2/2013-2014",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1134,7 +1250,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Germany/D2/2014-2015",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1164,7 +1283,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Germany/D2/2015-2016",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1194,7 +1316,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Germany/D2/2016-2017",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1224,7 +1349,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2010-2011",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -1254,7 +1382,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2011-2012",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -1284,7 +1415,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2012-2013",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -1314,7 +1448,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2013-2014",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1344,7 +1481,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2014-2015",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1374,7 +1514,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2015-2016",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -1404,7 +1547,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2016-2017",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -1434,7 +1580,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2017-2018",
+      "initial_missing_matches": 2,
       "reference_matches": 240,
       "remaining_missing_shots": 2,
       "sources": {
@@ -1464,7 +1613,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2018-2019",
+      "initial_missing_matches": 1,
       "reference_matches": 240,
       "remaining_missing_shots": 1,
       "sources": {
@@ -1494,7 +1646,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Greece/G1/2023-2024",
+      "initial_missing_matches": 1,
       "reference_matches": 240,
       "remaining_missing_shots": 1,
       "sources": {
@@ -1524,7 +1679,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2010-2011",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -1554,7 +1712,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2011-2012",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -1584,7 +1745,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I1/2012-2013",
+      "initial_missing_matches": 1,
       "reference_matches": 380,
       "remaining_missing_shots": 1,
       "sources": {
@@ -1614,7 +1778,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2012-2013",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -1644,7 +1811,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2013-2014",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -1674,7 +1844,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2014-2015",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -1704,7 +1877,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2015-2016",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -1734,7 +1910,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2016-2017",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -1764,7 +1943,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2018-2019",
+      "initial_missing_matches": 1,
       "reference_matches": 342,
       "remaining_missing_shots": 1,
       "sources": {
@@ -1794,7 +1976,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Italy/I2/2020-2021",
+      "initial_missing_matches": 1,
       "reference_matches": 380,
       "remaining_missing_shots": 1,
       "sources": {
@@ -1824,7 +2009,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Netherlands/N1/2010-2011",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1854,7 +2042,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Netherlands/N1/2011-2012",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1884,7 +2075,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Netherlands/N1/2012-2013",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1914,7 +2108,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Netherlands/N1/2013-2014",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1944,7 +2141,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Netherlands/N1/2014-2015",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -1974,7 +2174,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Netherlands/N1/2015-2016",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -2004,7 +2207,10 @@
     },
     {
       "cells_recovered": 292,
+      "completed_missing_matches": 73,
+      "filled_percent": 23.8562,
       "id": "Netherlands/N1/2016-2017",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 233,
       "sources": {
@@ -2034,7 +2240,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Portugal/P1/2010-2011",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -2064,7 +2273,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Portugal/P1/2011-2012",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -2094,7 +2306,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Portugal/P1/2012-2013",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -2124,7 +2339,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Portugal/P1/2013-2014",
+      "initial_missing_matches": 240,
       "reference_matches": 240,
       "remaining_missing_shots": 240,
       "sources": {
@@ -2154,7 +2372,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Portugal/P1/2014-2015",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -2184,7 +2405,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Portugal/P1/2015-2016",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -2214,7 +2438,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Portugal/P1/2016-2017",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -2244,7 +2471,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC1/2010-2011",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2274,7 +2504,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC2/2010-2011",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2304,7 +2537,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC3/2010-2011",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2334,7 +2570,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC1/2011-2012",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2364,7 +2603,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC2/2011-2012",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2394,7 +2636,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC3/2011-2012",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2424,7 +2669,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC1/2012-2013",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2454,7 +2702,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC2/2012-2013",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2484,7 +2735,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC3/2012-2013",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2514,7 +2768,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC1/2013-2014",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2544,7 +2801,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC2/2013-2014",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2574,7 +2834,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC3/2013-2014",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2604,7 +2867,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC1/2014-2015",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2634,7 +2900,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC2/2014-2015",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2664,7 +2933,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC3/2014-2015",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2694,7 +2966,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC1/2015-2016",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2724,7 +2999,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC2/2015-2016",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2754,7 +3032,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC3/2015-2016",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2784,7 +3065,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC1/2016-2017",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2814,7 +3098,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC2/2016-2017",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2844,7 +3131,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC3/2016-2017",
+      "initial_missing_matches": 180,
       "reference_matches": 180,
       "remaining_missing_shots": 180,
       "sources": {
@@ -2874,7 +3164,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC3/2020-2021",
+      "initial_missing_matches": 1,
       "reference_matches": 110,
       "remaining_missing_shots": 1,
       "sources": {
@@ -2904,7 +3197,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Scotland/SC2/2024-2025",
+      "initial_missing_matches": 1,
       "reference_matches": 180,
       "remaining_missing_shots": 1,
       "sources": {
@@ -2934,7 +3230,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Spain/SP2/2010-2011",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -2964,7 +3263,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Spain/SP2/2011-2012",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -2994,7 +3296,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Spain/SP2/2012-2013",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -3024,7 +3329,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Spain/SP2/2013-2014",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -3054,7 +3362,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Spain/SP2/2014-2015",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -3084,7 +3395,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Spain/SP2/2015-2016",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -3114,7 +3428,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Spain/SP2/2016-2017",
+      "initial_missing_matches": 462,
       "reference_matches": 462,
       "remaining_missing_shots": 462,
       "sources": {
@@ -3144,7 +3461,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Spain/SP2/2018-2019",
+      "initial_missing_matches": 21,
       "reference_matches": 462,
       "remaining_missing_shots": 21,
       "sources": {
@@ -3174,7 +3494,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2010-2011",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -3204,7 +3527,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2011-2012",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -3234,7 +3560,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2012-2013",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -3264,7 +3593,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2013-2014",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -3294,7 +3626,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2014-2015",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -3324,7 +3659,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2015-2016",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -3354,7 +3692,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2016-2017",
+      "initial_missing_matches": 306,
       "reference_matches": 306,
       "remaining_missing_shots": 306,
       "sources": {
@@ -3384,7 +3725,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2022-2023",
+      "initial_missing_matches": 29,
       "reference_matches": 342,
       "remaining_missing_shots": 29,
       "sources": {
@@ -3414,7 +3758,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2023-2024",
+      "initial_missing_matches": 1,
       "reference_matches": 380,
       "remaining_missing_shots": 1,
       "sources": {
@@ -3444,7 +3791,10 @@
     },
     {
       "cells_recovered": 0,
+      "completed_missing_matches": 0,
+      "filled_percent": 0.0,
       "id": "Turkey/T1/2024-2025",
+      "initial_missing_matches": 1,
       "reference_matches": 342,
       "remaining_missing_shots": 1,
       "sources": {
@@ -3477,5 +3827,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-30T05:48:44.151257+00:00"
+  "updated_utc": "2026-10-30T12:06:44.453104+00:00"
 }

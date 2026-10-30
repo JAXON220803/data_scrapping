@@ -8,6 +8,7 @@ from collector.parsers import flash_fixtures, flash_statistics, sofa_fixture, so
 from collector.run import Engine
 from collector.status import needs_work
 from collector.common import robots_allowed
+from collector.continuation import continuation_plan
 
 
 class CollectionTests(unittest.TestCase):
@@ -249,6 +250,55 @@ class CollectionTests(unittest.TestCase):
         report = Engine(self.root, adapters={'sofascore': Fake()}).run(('sofascore',))
         self.assertEqual(report['source_tasks_done'], 1)
         self.assertEqual(report['last_run']['sofascore']['status'], 'batch_processed')
+
+    def test_fill_percentage_counts_missing_reference_matches_once(self):
+        store = self.make_repository()
+        store.text('reference/N1.csv', store.path('reference/N1.csv').read_text() + '03/01/2011,E,F,1,0,5,4,2,1\n')
+        engine = Engine(self.root)
+        target = engine.targets[0]
+        first = {'id': '1', 'source': 'sofascore', 'date': '2011-01-01', 'home': 'A', 'away': 'B',
+                 'home_goals': 2, 'away_goals': 1, 'status': 'finished',
+                 'shots': {'HS': 10, 'AS': 4, 'HST': 3, 'AST': 1}}
+        second = {'id': '2', 'source': 'sofascore', 'date': '2011-01-02', 'home': 'C', 'away': 'D',
+                  'home_goals': 0, 'away_goals': 0, 'status': 'finished', 'shots': {'HS': 9}}
+        store.write(engine.fixture_path(target, 'sofascore'), {'1': first, '2': second})
+        store.write(engine.fixture_path(target, 'flashscore'), {'1': {**first, 'source': 'flashscore'}})
+        report = engine.export()
+        self.assertEqual(report['initial_missing_matches'], 2)
+        self.assertEqual(report['completed_missing_matches'], 1)
+        self.assertEqual(report['filled_percent'], 50)
+        self.assertEqual(report['filled_cells_percent'], 62.5)
+        self.assertIn('50.00%', store.path('PROGRESS.md').read_text())
+        self.assertEqual(report['seasons'][0]['filled_percent'], 50)
+
+    def test_continuation_stops_at_daily_cap_and_resumes_next_day(self):
+        store = self.make_repository()
+        now = 1800000000
+        import datetime as dt
+        day = dt.datetime.fromtimestamp(now, dt.timezone.utc).date().isoformat()
+        store.write('checkpoints/sources.json', {'sofascore': {'retry_at': now + 172800}})
+        plan = continuation_plan(self.root, now=now)
+        self.assertTrue(plan['continue'])
+        self.assertEqual(plan['source'], 'flashscore')
+        store.write('checkpoints/limits.json', {'flashscore': {'day': day, 'used': 400}})
+        self.assertFalse(continuation_plan(self.root, now=now)['continue'])
+        self.assertTrue(continuation_plan(self.root, now=now + 86400)['continue'])
+
+    def test_continuation_waits_for_fixture_retry_and_stops_after_completion(self):
+        store = self.make_repository()
+        engine = Engine(self.root)
+        target = engine.targets[0]
+        task = engine.task(target, 'flashscore')
+        task.update(phase='statistics', inventory_complete=True)
+        store.write(engine.task_path(target, 'flashscore'), task)
+        store.write(engine.fixture_path(target, 'flashscore'), {'1': {'retry_at': 1800086400}})
+        self.assertFalse(continuation_plan(self.root, sources=('flashscore',), now=1800000000)['continue'])
+        self.assertTrue(continuation_plan(self.root, sources=('flashscore',), now=1800086401)['continue'])
+        for source in ('sofascore', 'flashscore'):
+            task = engine.task(target, source)
+            task['phase'] = 'done'
+            store.write(engine.task_path(target, source), task)
+        self.assertFalse(continuation_plan(self.root, now=1800000000)['continue'])
 
 
 if __name__ == '__main__':

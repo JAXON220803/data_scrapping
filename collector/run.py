@@ -149,6 +149,7 @@ class Engine:
     def export(self):
         season_reports, merged_changes = [], []
         done = fixtures_total = stats_total = full_shots = reference_total = remaining_total = 0
+        initial_missing_total = initial_missing_cells_total = 0
         fields = ['id', 'source', 'date', 'home', 'away', 'home_goals', 'away_goals', 'status',
                   'statistics_status', 'HS', 'AS', 'HST', 'AST', 'statistics_json', 'url', 'statistics_url']
         for target in self.targets:
@@ -182,10 +183,16 @@ class Engine:
             output = f'filled/{target["country"]}/{target["season"]}/{target["division"]}.csv'
             self.store.csv(output, merged, list(originals[0]) if originals else [])
             remaining = sum(any(not str(row.get(key, '')).strip() for key in FIELDS) for row in merged)
+            initial_missing = sum(any(not str(row.get(key, '')).strip() for key in FIELDS) for row in originals)
+            initial_missing_cells_total += sum(not str(row.get(key, '')).strip() for row in originals for key in FIELDS)
+            initial_missing_total += initial_missing
             reference_total += len(merged)
             remaining_total += remaining
             season_reports.append({'id': target['id'], 'reference_matches': len(merged),
-                                   'remaining_missing_shots': remaining, 'cells_recovered': len(changes), 'sources': providers})
+                                   'remaining_missing_shots': remaining, 'initial_missing_matches': initial_missing,
+                                   'completed_missing_matches': initial_missing - remaining,
+                                   'filled_percent': round(100 * (initial_missing - remaining) / initial_missing, 4) if initial_missing else 100.0,
+                                   'cells_recovered': len(changes), 'sources': providers})
         complete = done == len(self.targets) * 2
         report = {'updated_utc': dt.datetime.fromtimestamp(self.now(), dt.timezone.utc).isoformat(),
                   'status': 'complete_with_gaps' if complete and remaining_total else 'complete' if complete else 'in_progress',
@@ -194,6 +201,11 @@ class Engine:
                   'provider_fixture_records': fixtures_total, 'provider_records_with_statistics': stats_total,
                   'provider_records_with_all_shots': full_shots, 'reference_matches': reference_total,
                   'reference_matches_still_missing_shots': remaining_total, 'recovered_cells': len(merged_changes),
+                  'initial_missing_matches': initial_missing_total,
+                  'completed_missing_matches': initial_missing_total - remaining_total,
+                  'filled_percent': round(100 * (initial_missing_total - remaining_total) / initial_missing_total, 4) if initial_missing_total else 100.0,
+                  'initial_missing_cells': initial_missing_cells_total,
+                  'filled_cells_percent': round(100 * len(merged_changes) / initial_missing_cells_total, 4) if initial_missing_cells_total else 100.0,
                   'last_run': self.run_summary, 'seasons': season_reports}
         self.store.write('progress.json', report)
         self.store.write('data/provenance.json', merged_changes)
@@ -202,6 +214,8 @@ class Engine:
         else:
             self.store.path('COMPLETE.json').unlink(missing_ok=True)
         public_lines = [f'# Collection progress: {report["status"]}', '',
+            f'**Missing matches filled: {report["filled_percent"]:.2f}% — {report["completed_missing_matches"]:,} / {initial_missing_total:,}**', '',
+            'A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.', '',
             f'Updated: {report["updated_utc"]}', '',
             f'- Whole league-seasons selected: {len(self.targets)}',
             f'- Provider season tasks completed: {done}/{len(self.targets) * 2}',
@@ -209,12 +223,12 @@ class Engine:
             f'- Provider records with all four shot values: {full_shots}',
             f'- Previously empty reference cells recovered: {len(merged_changes)}',
             f'- Reference matches still missing shot values: {remaining_total}', '',
-            '| Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps |',
-            '|---|---:|---:|---:|']
+            '| Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps | Filled % |',
+            '|---|---:|---:|---:|---:|']
         for season in season_reports:
             values = [season['sources'][source] for source in ('sofascore', 'flashscore')]
             public_lines.append(f'| {season["id"]} | ' + ' | '.join(f'{v["fixtures"]} / {v["statistics_checked"]} / {v["all_shot_values"]}' for v in values)
-                                + f' | {season["remaining_missing_shots"]} |')
+                                + f' | {season["remaining_missing_shots"]} | {season["filled_percent"]:.2f}% |')
         self.store.text('PROGRESS.md', '\n'.join(public_lines) + '\n')
         return report
 
