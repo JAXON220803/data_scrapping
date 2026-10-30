@@ -3381,8 +3381,68 @@
     "home": "Zwolle",
     "home_goals": 2,
     "id": "Y7sCmcF3",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 6,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "72%",
+        "home": "28%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/zwolle-r1L5w2EB/summary/stats/?mid=Y7sCmcF3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/zwolle-r1L5w2EB/?mid=Y7sCmcF3"
   },
@@ -3794,8 +3854,58 @@
     "home": "Helmond",
     "home_goals": 4,
     "id": "fNiQlT9b",
+    "shots": {
+      "AS": 9,
+      "AST": 6,
+      "HS": 15,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "08.05.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "34",
+        "home": "38",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/helmond-sport-SQGBcMU5/summary/stats/?mid=fNiQlT9b",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/helmond-sport-SQGBcMU5/?mid=fNiQlT9b"
   },
@@ -4603,8 +4713,68 @@
     "home": "Roda",
     "home_goals": 1,
     "id": "pn1HRFhp",
+    "shots": {
+      "AS": 18,
+      "AST": 6,
+      "HS": 19,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/willem-ii-6u3qag0G/summary/stats/?mid=pn1HRFhp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/willem-ii-6u3qag0G/?mid=pn1HRFhp"
   },
@@ -5076,8 +5246,68 @@
     "home": "Sparta Rotterdam",
     "home_goals": 1,
     "id": "vmJAQ1mS",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 15,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/twente-dhOKTHGA/summary/stats/?mid=vmJAQ1mS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/twente-dhOKTHGA/?mid=vmJAQ1mS"
   },
@@ -5088,8 +5318,68 @@
     "home": "Nijmegen",
     "home_goals": 2,
     "id": "vor8lw0c",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nijmegen-nRluRF0T/summary/stats/?mid=vor8lw0c",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nijmegen-nRluRF0T/?mid=vor8lw0c"
   },
@@ -5465,8 +5755,58 @@
     "home": "Waalwijk",
     "home_goals": 1,
     "id": "xnsVmmP4",
+    "shots": {
+      "AS": 21,
+      "AST": 14,
+      "HS": 17,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "08.05.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/waalwijk-lvM1vra5/summary/stats/?mid=xnsVmmP4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/waalwijk-lvM1vra5/?mid=xnsVmmP4"
   },
