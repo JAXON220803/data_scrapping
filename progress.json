@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 116,
-  "filled_cells_percent": 0.3857,
-  "filled_percent": 0.3857,
+  "completed_missing_matches": 122,
+  "filled_cells_percent": 0.4057,
+  "filled_percent": 0.4057,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 543,
-  "provider_records_with_all_shots": 138,
-  "provider_records_with_statistics": 138,
-  "recovered_cells": 464,
+  "provider_records_with_all_shots": 144,
+  "provider_records_with_statistics": 144,
+  "recovered_cells": 488,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29957,
+  "reference_matches_still_missing_shots": 29951,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2166,24 +2166,24 @@
       }
     },
     {
-      "cells_recovered": 96,
-      "completed_missing_matches": 24,
-      "filled_percent": 7.8431,
+      "cells_recovered": 120,
+      "completed_missing_matches": 30,
+      "filled_percent": 9.8039,
       "id": "Netherlands/N1/2015-2016",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 282,
+      "remaining_missing_shots": 276,
       "sources": {
         "flashscore": {
-          "all_shot_values": 24,
+          "all_shot_values": 30,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 24,
-          "statistics_checked": 24
+          "statistics_available": 30,
+          "statistics_checked": 30
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-30T13:07:45.703904+00:00"
+  "updated_utc": "2026-10-30T13:13:22.062418+00:00"
 }
