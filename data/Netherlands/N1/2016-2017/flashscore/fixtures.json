@@ -222,8 +222,68 @@
     "home": "Heracles",
     "home_goals": 4,
     "id": "0fq4kJpi",
+    "shots": {
+      "AS": 17,
+      "AST": 5,
+      "HS": 15,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heracles-bB3JbZpA/summary/stats/?mid=0fq4kJpi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heracles-bB3JbZpA/?mid=0fq4kJpi"
   },
@@ -1199,8 +1259,68 @@
     "home": "Excelsior",
     "home_goals": 3,
     "id": "E3AoXyVM",
+    "shots": {
+      "AS": 18,
+      "AST": 5,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/feyenoord-8zjySeoN/summary/stats/?mid=E3AoXyVM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/feyenoord-8zjySeoN/?mid=E3AoXyVM"
   },
@@ -2145,8 +2265,68 @@
     "home": "Utrecht",
     "home_goals": 1,
     "id": "Ox0LQZ7j",
+    "shots": {
+      "AS": 15,
+      "AST": 6,
+      "HS": 22,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/summary/stats/?mid=Ox0LQZ7j",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/?mid=Ox0LQZ7j"
   },
@@ -2229,8 +2409,68 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "S6EkWepT",
+    "shots": {
+      "AS": 22,
+      "AST": 10,
+      "HS": 4,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "22",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "22",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "0",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/psv-M9UEHJWi/summary/stats/?mid=S6EkWepT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/psv-M9UEHJWi/?mid=S6EkWepT"
   },
@@ -3057,8 +3297,68 @@
     "home": "Ajax",
     "home_goals": 4,
     "id": "WvLtYHFG",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 30,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "07.05.2017",
+    "statistics": [
+      {
+        "away": "31%",
+        "home": "69%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "30",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "30",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "0",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/g-a-eagles-hG8POBb8/summary/stats/?mid=WvLtYHFG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/g-a-eagles-hG8POBb8/?mid=WvLtYHFG"
   },
@@ -5088,8 +5388,73 @@
     "home": "Utrecht",
     "home_goals": 1,
     "id": "xbJQy0Gi",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 16,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "23.04.2017",
+    "statistics": [
+      {
+        "away": "32%",
+        "home": "68%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "30",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "5",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/summary/stats/?mid=xbJQy0Gi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/?mid=xbJQy0Gi"
   },
