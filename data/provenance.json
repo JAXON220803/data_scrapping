@@ -1,5 +1,85 @@
 [
   {
+    "away": "AZ Alkmaar",
+    "date": "28/02/16",
+    "field": "AS",
+    "fixture_id": "zNWSM26h",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "AZ Alkmaar",
+    "date": "28/02/16",
+    "field": "AST",
+    "fixture_id": "zNWSM26h",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "AZ Alkmaar",
+    "date": "28/02/16",
+    "field": "HS",
+    "fixture_id": "zNWSM26h",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 13
+  },
+  {
+    "away": "AZ Alkmaar",
+    "date": "28/02/16",
+    "field": "HST",
+    "fixture_id": "zNWSM26h",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Heerenveen",
+    "date": "28/02/16",
+    "field": "AS",
+    "fixture_id": "SdTKOOyt",
+    "home": "Graafschap",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Heerenveen",
+    "date": "28/02/16",
+    "field": "AST",
+    "fixture_id": "SdTKOOyt",
+    "home": "Graafschap",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Heerenveen",
+    "date": "28/02/16",
+    "field": "HS",
+    "fixture_id": "SdTKOOyt",
+    "home": "Graafschap",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 15
+  },
+  {
+    "away": "Heerenveen",
+    "date": "28/02/16",
+    "field": "HST",
+    "fixture_id": "SdTKOOyt",
+    "home": "Graafschap",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 2
+  },
+  {
     "away": "Roda",
     "date": "28/02/16",
     "field": "AS",
@@ -38,6 +118,126 @@
     "source": "flashscore",
     "target": "Netherlands/N1/2015-2016",
     "value": 2
+  },
+  {
+    "away": "Feyenoord",
+    "date": "28/02/16",
+    "field": "AS",
+    "fixture_id": "6mSONrin",
+    "home": "Utrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 13
+  },
+  {
+    "away": "Feyenoord",
+    "date": "28/02/16",
+    "field": "AST",
+    "fixture_id": "6mSONrin",
+    "home": "Utrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Feyenoord",
+    "date": "28/02/16",
+    "field": "HS",
+    "fixture_id": "6mSONrin",
+    "home": "Utrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Feyenoord",
+    "date": "28/02/16",
+    "field": "HST",
+    "fixture_id": "6mSONrin",
+    "home": "Utrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Twente",
+    "date": "04/03/16",
+    "field": "AS",
+    "fixture_id": "EDVWLMLb",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 14
+  },
+  {
+    "away": "Twente",
+    "date": "04/03/16",
+    "field": "AST",
+    "fixture_id": "EDVWLMLb",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Twente",
+    "date": "04/03/16",
+    "field": "HS",
+    "fixture_id": "EDVWLMLb",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Twente",
+    "date": "04/03/16",
+    "field": "HST",
+    "fixture_id": "EDVWLMLb",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "05/03/16",
+    "field": "AS",
+    "fixture_id": "2ZNqJK5H",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 16
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "05/03/16",
+    "field": "AST",
+    "fixture_id": "2ZNqJK5H",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "05/03/16",
+    "field": "HS",
+    "fixture_id": "2ZNqJK5H",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "05/03/16",
+    "field": "HST",
+    "fixture_id": "2ZNqJK5H",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2015-2016",
+    "value": 1
   },
   {
     "away": "Zwolle",
