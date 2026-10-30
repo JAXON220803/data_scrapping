@@ -294,8 +294,63 @@
     "home": "FC Emmen",
     "home_goals": 1,
     "id": "0neWkiwC",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 5,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "18.05.2017",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/nijmegen-nRluRF0T/summary/stats/?mid=0neWkiwC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/nijmegen-nRluRF0T/?mid=0neWkiwC"
   },
@@ -306,8 +361,63 @@
     "home": "Maastricht",
     "home_goals": 1,
     "id": "2FZIjkun",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "18.05.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/maastricht-YPQnAtpC/summary/stats/?mid=2FZIjkun",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/maastricht-YPQnAtpC/?mid=2FZIjkun"
   },
@@ -896,8 +1006,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 4,
     "id": "8hIc6CNh",
+    "shots": {
+      "AS": 9,
+      "AST": 1,
+      "HS": 20,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "20.05.2017",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/summary/stats/?mid=8hIc6CNh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=8hIc6CNh"
   },
@@ -1417,8 +1587,68 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "CQOl8Yht",
+    "shots": {
+      "AS": 16,
+      "AST": 7,
+      "HS": 20,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "17.05.2017",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/summary/stats/?mid=CQOl8Yht",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=CQOl8Yht"
   },
@@ -4302,8 +4532,63 @@
     "home": "FC Volendam",
     "home_goals": 2,
     "id": "dxZMk9fh",
+    "shots": {
+      "AS": 13,
+      "AST": 8,
+      "HS": 9,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "18.05.2017",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fc-volendam-6VbkuOqa/nac-breda-nLNrHc14/summary/stats/?mid=dxZMk9fh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-volendam-6VbkuOqa/nac-breda-nLNrHc14/?mid=dxZMk9fh"
   },
@@ -4765,8 +5050,63 @@
     "home": "Helmond",
     "home_goals": 0,
     "id": "lCiSjXN5",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "18.05.2017",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/helmond-sport-SQGBcMU5/roda-6FRTNZ8p/summary/stats/?mid=lCiSjXN5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/helmond-sport-SQGBcMU5/roda-6FRTNZ8p/?mid=lCiSjXN5"
   },

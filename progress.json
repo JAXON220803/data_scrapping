@@ -14,8 +14,8 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 436,
-  "provider_records_with_all_shots": 97,
-  "provider_records_with_statistics": 97,
+  "provider_records_with_all_shots": 103,
+  "provider_records_with_statistics": 103,
   "recovered_cells": 368,
   "reference_matches": 36942,
   "reference_matches_still_missing_shots": 29981,
@@ -2208,15 +2208,15 @@
       "remaining_missing_shots": 214,
       "sources": {
         "flashscore": {
-          "all_shot_values": 91,
+          "all_shot_values": 97,
           "fixtures": 108,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 91,
-          "statistics_checked": 91
+          "statistics_available": 97,
+          "statistics_checked": 97
         },
         "sofascore": {
           "all_shot_values": 6,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-30T12:29:08.023425+00:00"
+  "updated_utc": "2026-10-30T12:34:37.201174+00:00"
 }
