@@ -487,8 +487,63 @@
     "home": "Cambuur",
     "home_goals": 1,
     "id": "2yi6k43A",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 20,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "21.04.2016",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/willem-ii-6u3qag0G/summary/stats/?mid=2yi6k43A",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/willem-ii-6u3qag0G/?mid=2yi6k43A"
   },
@@ -1385,8 +1440,63 @@
     "home": "Zwolle",
     "home_goals": 2,
     "id": "Cnbgh6Ji",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 12,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "20.04.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/zwolle-r1L5w2EB/summary/stats/?mid=Cnbgh6Ji",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/zwolle-r1L5w2EB/?mid=Cnbgh6Ji"
   },
@@ -1780,8 +1890,63 @@
     "home": "Heracles",
     "home_goals": 2,
     "id": "GveAlOIG",
+    "shots": {
+      "AS": 21,
+      "AST": 10,
+      "HS": 6,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "20.04.2016",
+    "statistics": [
+      {
+        "away": "63%",
+        "home": "37%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heracles-bB3JbZpA/summary/stats/?mid=GveAlOIG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heracles-bB3JbZpA/?mid=GveAlOIG"
   },
@@ -1895,8 +2060,63 @@
     "home": "Utrecht",
     "home_goals": 0,
     "id": "KC11jpl4",
+    "shots": {
+      "AS": 14,
+      "AST": 4,
+      "HS": 23,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "20.04.2016",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/utrecht-p6QXMgOj/summary/stats/?mid=KC11jpl4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/utrecht-p6QXMgOj/?mid=KC11jpl4"
   },
@@ -2786,8 +3006,63 @@
     "home": "Twente",
     "home_goals": 2,
     "id": "WjL6U2Rp",
+    "shots": {
+      "AS": 6,
+      "AST": 0,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "20.04.2016",
+    "statistics": [
+      {
+        "away": "34%",
+        "home": "66%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/twente-dhOKTHGA/summary/stats/?mid=WjL6U2Rp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/twente-dhOKTHGA/?mid=WjL6U2Rp"
   },
@@ -4191,8 +4466,63 @@
     "home": "Heerenveen",
     "home_goals": 0,
     "id": "tM2ciQYc",
+    "shots": {
+      "AS": 17,
+      "AST": 5,
+      "HS": 9,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "20.04.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/summary/stats/?mid=tM2ciQYc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/?mid=tM2ciQYc"
   },
