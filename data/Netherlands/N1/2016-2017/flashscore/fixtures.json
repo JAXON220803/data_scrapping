@@ -618,8 +618,58 @@
     "home": "FC Emmen",
     "home_goals": 0,
     "id": "6RYop5OT",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/waalwijk-lvM1vra5/summary/stats/?mid=6RYop5OT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/waalwijk-lvM1vra5/?mid=6RYop5OT"
   },
@@ -702,8 +752,68 @@
     "home": "Feyenoord",
     "home_goals": 3,
     "id": "6cZOpeaM",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 23,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "14.05.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heracles-bB3JbZpA/summary/stats/?mid=6cZOpeaM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heracles-bB3JbZpA/?mid=6cZOpeaM"
   },
@@ -1924,8 +2034,68 @@
     "home": "Willem II",
     "home_goals": 1,
     "id": "K4Favgxj",
+    "shots": {
+      "AS": 19,
+      "AST": 7,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "14.05.2017",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/summary/stats/?mid=K4Favgxj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/?mid=K4Favgxj"
   },
@@ -2181,8 +2351,58 @@
     "home": "Almere City",
     "home_goals": 0,
     "id": "O2qsoo9N",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "34",
+        "home": "53",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/helmond-sport-SQGBcMU5/summary/stats/?mid=O2qsoo9N",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/helmond-sport-SQGBcMU5/?mid=O2qsoo9N"
   },
@@ -2625,8 +2845,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 2,
     "id": "S6zLoypG",
+    "shots": {
+      "AS": 20,
+      "AST": 11,
+      "HS": 22,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "14.05.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/summary/stats/?mid=S6zLoypG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=S6zLoypG"
   },
@@ -3285,8 +3565,68 @@
     "home": "Twente",
     "home_goals": 3,
     "id": "WvBxMLeq",
+    "shots": {
+      "AS": 11,
+      "AST": 6,
+      "HS": 17,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "14.05.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/summary/stats/?mid=WvBxMLeq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/?mid=WvBxMLeq"
   },
