@@ -456,8 +456,63 @@
     "home": "Utrecht",
     "home_goals": 3,
     "id": "4ItqxfTg",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 15,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "10.04.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/summary/stats/?mid=4ItqxfTg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/?mid=4ItqxfTg"
   },
@@ -784,8 +839,63 @@
     "home": "PSV",
     "home_goals": 2,
     "id": "8jmzvGbs",
+    "shots": {
+      "AS": 12,
+      "AST": 3,
+      "HS": 17,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/summary/stats/?mid=8jmzvGbs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/?mid=8jmzvGbs"
   },
@@ -1098,8 +1208,63 @@
     "home": "Cambuur",
     "home_goals": 0,
     "id": "CK14qxyK",
+    "shots": {
+      "AS": 18,
+      "AST": 3,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/cambuur-QRyYgO7J/summary/stats/?mid=CK14qxyK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/cambuur-QRyYgO7J/?mid=CK14qxyK"
   },
@@ -1189,8 +1354,63 @@
     "home": "Twente",
     "home_goals": 0,
     "id": "CrpizYc6",
+    "shots": {
+      "AS": 18,
+      "AST": 4,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "10.04.2016",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/twente-dhOKTHGA/summary/stats/?mid=CrpizYc6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/twente-dhOKTHGA/?mid=CrpizYc6"
   },
@@ -1292,8 +1512,63 @@
     "home": "Excelsior",
     "home_goals": 1,
     "id": "EZr1pILD",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/heracles-bB3JbZpA/summary/stats/?mid=EZr1pILD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/heracles-bB3JbZpA/?mid=EZr1pILD"
   },
@@ -1795,8 +2070,63 @@
     "home": "Heerenveen",
     "home_goals": 4,
     "id": "QRsuwzEm",
+    "shots": {
+      "AS": 17,
+      "AST": 7,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "5",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/summary/stats/?mid=QRsuwzEm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/?mid=QRsuwzEm"
   },
