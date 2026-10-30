@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 98,
-  "filled_cells_percent": 0.3259,
-  "filled_percent": 0.3259,
+  "completed_missing_matches": 104,
+  "filled_cells_percent": 0.3458,
+  "filled_percent": 0.3458,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 543,
-  "provider_records_with_all_shots": 120,
-  "provider_records_with_statistics": 120,
-  "recovered_cells": 392,
+  "provider_records_with_all_shots": 126,
+  "provider_records_with_statistics": 126,
+  "recovered_cells": 416,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29975,
+  "reference_matches_still_missing_shots": 29969,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2166,24 +2166,24 @@
       }
     },
     {
-      "cells_recovered": 24,
-      "completed_missing_matches": 6,
-      "filled_percent": 1.9608,
+      "cells_recovered": 48,
+      "completed_missing_matches": 12,
+      "filled_percent": 3.9216,
       "id": "Netherlands/N1/2015-2016",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 300,
+      "remaining_missing_shots": 294,
       "sources": {
         "flashscore": {
-          "all_shot_values": 6,
+          "all_shot_values": 12,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 6,
-          "statistics_checked": 6
+          "statistics_available": 12,
+          "statistics_checked": 12
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-30T12:51:09.452431+00:00"
+  "updated_utc": "2026-10-30T12:56:37.060376+00:00"
 }
