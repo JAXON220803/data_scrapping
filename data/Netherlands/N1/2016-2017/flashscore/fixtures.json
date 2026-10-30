@@ -2593,8 +2593,63 @@
     "home": "NAC Breda",
     "home_goals": 1,
     "id": "Kh9eEtCh",
+    "shots": {
+      "AS": 14,
+      "AST": 2,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "25.05.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "12",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "12",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/summary/stats/?mid=Kh9eEtCh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/?mid=Kh9eEtCh"
   },
@@ -4395,8 +4450,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 3,
     "id": "YwKBieT5",
+    "shots": {
+      "AS": 14,
+      "AST": 2,
+      "HS": 21,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "25.05.2017",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/summary/stats/?mid=YwKBieT5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=YwKBieT5"
   },
@@ -4556,8 +4671,58 @@
     "home": "Roda",
     "home_goals": 1,
     "id": "bq8aD0Rb",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "28.05.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "32",
+        "home": "13",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/maastricht-YPQnAtpC/roda-6FRTNZ8p/summary/stats/?mid=bq8aD0Rb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/maastricht-YPQnAtpC/roda-6FRTNZ8p/?mid=bq8aD0Rb"
   },
@@ -4913,8 +5078,73 @@
     "home": "Nijmegen",
     "home_goals": 1,
     "id": "h673CKt5",
+    "shots": {
+      "AS": 13,
+      "AST": 8,
+      "HS": 15,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "28.05.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/summary/stats/?mid=h673CKt5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/?mid=h673CKt5"
   },
@@ -5861,8 +6091,68 @@
     "home": "Utrecht",
     "home_goals": 3,
     "id": "pENFjFrC",
+    "shots": {
+      "AS": 3,
+      "AST": 1,
+      "HS": 32,
+      "HST": 13
+    },
     "source": "flashscore",
     "source_status": "28.05.2017 Pen",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "32",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "32",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "13",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "14",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "27",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "25",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/summary/stats/?mid=pENFjFrC",
     "status": "special_result",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=pENFjFrC"
   },
