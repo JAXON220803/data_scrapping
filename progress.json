@@ -9,13 +9,14 @@
       "reason": "Daily request budget reached (400/400); resumes next UTC day",
       "requests": 0,
       "status": "paused_by_budget",
-      "target": "Netherlands/N1/2014-2015"
+      "target": "Netherlands/N1/2016-2017"
     },
     "sofascore": {
+      "previous_status": "Blocked",
       "reason": "HTTP 403: source denied access",
-      "requests": 1,
+      "requests": 0,
       "retry_at": 1793525738.6912324,
-      "status": "Blocked",
+      "status": "waiting_after_error",
       "target": "Netherlands/N1/2016-2017"
     }
   },
@@ -3827,5 +3828,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-31T09:35:41.977591+00:00"
+  "updated_utc": "2026-10-31T15:44:13.223866+00:00"
 }
