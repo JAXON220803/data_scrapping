@@ -9,13 +9,13 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "Netherlands/N1/2015-2016"
+      "target": "Netherlands/N1/2014-2015"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 543,
-  "provider_records_with_all_shots": 215,
-  "provider_records_with_statistics": 215,
+  "provider_fixture_records": 650,
+  "provider_records_with_all_shots": 221,
+  "provider_records_with_statistics": 221,
   "recovered_cells": 708,
   "reference_matches": 36942,
   "reference_matches_still_missing_shots": 29896,
@@ -2143,11 +2143,11 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 0,
-          "inventory_complete": false,
-          "inventory_shortfall": null,
+          "fixtures": 107,
+          "inventory_complete": true,
+          "inventory_shortfall": 199,
           "last_error": null,
-          "phase": "inventory",
+          "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
           "statistics_checked": 0
@@ -2175,15 +2175,15 @@
       "remaining_missing_shots": 221,
       "sources": {
         "flashscore": {
-          "all_shot_values": 101,
+          "all_shot_values": 107,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
-          "phase": "statistics",
-          "reason": null,
-          "statistics_available": 101,
-          "statistics_checked": 101
+          "phase": "done",
+          "reason": "all_source_fixtures_checked",
+          "statistics_available": 107,
+          "statistics_checked": 107
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3816,9 +3816,9 @@
       }
     }
   ],
-  "source_tasks_done": 0,
+  "source_tasks_done": 1,
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-31T02:47:26.772492+00:00"
+  "updated_utc": "2026-10-31T02:52:48.764946+00:00"
 }

@@ -604,8 +604,63 @@
     "home": "NAC Breda",
     "home_goals": 2,
     "id": "42jvqKEk",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "19.05.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/willem-ii-6u3qag0G/summary/stats/?mid=42jvqKEk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/willem-ii-6u3qag0G/?mid=42jvqKEk"
   },
@@ -884,8 +939,63 @@
     "home": "G.A. Eagles",
     "home_goals": 4,
     "id": "6HXzp0aq",
+    "shots": {
+      "AS": 8,
+      "AST": 4,
+      "HS": 20,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "19.05.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/g-a-eagles-hG8POBb8/summary/stats/?mid=6HXzp0aq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/g-a-eagles-hG8POBb8/?mid=6HXzp0aq"
   },
@@ -2313,8 +2423,63 @@
     "home": "Heracles",
     "home_goals": 1,
     "id": "GpIAk8dd",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 17,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "19.05.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/utrecht-p6QXMgOj/summary/stats/?mid=GpIAk8dd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/utrecht-p6QXMgOj/?mid=GpIAk8dd"
   },
@@ -2526,8 +2691,63 @@
     "home": "Utrecht",
     "home_goals": 0,
     "id": "IkdgEiZd",
+    "shots": {
+      "AS": 18,
+      "AST": 9,
+      "HS": 13,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "22.05.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/utrecht-p6QXMgOj/summary/stats/?mid=IkdgEiZd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/utrecht-p6QXMgOj/?mid=IkdgEiZd"
   },
@@ -4476,8 +4696,58 @@
     "home": "De Graafschap",
     "home_goals": 1,
     "id": "bPkrrvUe",
+    "shots": {
+      "AS": 4,
+      "AST": 3,
+      "HS": 29,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "22.05.2016",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "29",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "29",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "20",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "15",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/g-a-eagles-hG8POBb8/summary/stats/?mid=bPkrrvUe",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/g-a-eagles-hG8POBb8/?mid=bPkrrvUe"
   },
@@ -6483,8 +6753,58 @@
     "home": "Willem II",
     "home_goals": 3,
     "id": "xGlnsbq2",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 14,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "22.05.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "6",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/willem-ii-6u3qag0G/summary/stats/?mid=xGlnsbq2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/willem-ii-6u3qag0G/?mid=xGlnsbq2"
   },
