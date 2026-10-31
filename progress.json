@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 189,
-  "filled_cells_percent": 0.6285,
-  "filled_percent": 0.6285,
+  "completed_missing_matches": 195,
+  "filled_cells_percent": 0.6484,
+  "filled_percent": 0.6484,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 650,
-  "provider_records_with_all_shots": 233,
-  "provider_records_with_statistics": 233,
-  "recovered_cells": 756,
+  "provider_records_with_all_shots": 239,
+  "provider_records_with_statistics": 239,
+  "recovered_cells": 780,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29884,
+  "reference_matches_still_missing_shots": 29878,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2133,24 +2133,24 @@
       }
     },
     {
-      "cells_recovered": 48,
-      "completed_missing_matches": 12,
-      "filled_percent": 3.9216,
+      "cells_recovered": 72,
+      "completed_missing_matches": 18,
+      "filled_percent": 5.8824,
       "id": "Netherlands/N1/2014-2015",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 294,
+      "remaining_missing_shots": 288,
       "sources": {
         "flashscore": {
-          "all_shot_values": 12,
+          "all_shot_values": 18,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 12,
-          "statistics_checked": 12
+          "statistics_available": 18,
+          "statistics_checked": 18
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-31T03:03:41.418672+00:00"
+  "updated_utc": "2026-10-31T03:09:09.937231+00:00"
 }
