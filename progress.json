@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 249,
-  "filled_cells_percent": 0.828,
-  "filled_percent": 0.828,
+  "completed_missing_matches": 254,
+  "filled_cells_percent": 0.8446,
+  "filled_percent": 0.8446,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 650,
-  "provider_records_with_all_shots": 293,
-  "provider_records_with_statistics": 293,
-  "recovered_cells": 996,
+  "provider_records_with_all_shots": 298,
+  "provider_records_with_statistics": 298,
+  "recovered_cells": 1016,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29824,
+  "reference_matches_still_missing_shots": 29819,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2133,24 +2133,24 @@
       }
     },
     {
-      "cells_recovered": 288,
-      "completed_missing_matches": 72,
-      "filled_percent": 23.5294,
+      "cells_recovered": 308,
+      "completed_missing_matches": 77,
+      "filled_percent": 25.1634,
       "id": "Netherlands/N1/2014-2015",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 234,
+      "remaining_missing_shots": 229,
       "sources": {
         "flashscore": {
-          "all_shot_values": 72,
+          "all_shot_values": 77,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 72,
-          "statistics_checked": 72
+          "statistics_available": 77,
+          "statistics_checked": 81
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-10-31T03:59:59.110185+00:00"
+  "updated_utc": "2026-10-31T04:05:28.134867+00:00"
 }
