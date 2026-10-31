@@ -73,8 +73,58 @@
     "home": "Maastricht",
     "home_goals": 0,
     "id": "2Lx3ff6K",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 9,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "13.05.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "34",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/maastricht-YPQnAtpC/summary/stats/?mid=2Lx3ff6K",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/maastricht-YPQnAtpC/?mid=2Lx3ff6K"
   },
@@ -1449,8 +1499,63 @@
     "home": "Groningen",
     "home_goals": 2,
     "id": "ANyaRAfO",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "12.05.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heracles-bB3JbZpA/summary/stats/?mid=ANyaRAfO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heracles-bB3JbZpA/?mid=ANyaRAfO"
   },
@@ -2653,8 +2758,58 @@
     "home": "G.A. Eagles",
     "home_goals": 1,
     "id": "MB2gShCT",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "13.05.2016",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "30",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/venlo-UNA6IKFC/summary/stats/?mid=MB2gShCT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/venlo-UNA6IKFC/?mid=MB2gShCT"
   },
@@ -4912,8 +5067,63 @@
     "home": "Zwolle",
     "home_goals": 0,
     "id": "hnsfSjuI",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 11,
+      "HST": 0
+    },
     "source": "flashscore",
     "source_status": "12.05.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/zwolle-r1L5w2EB/summary/stats/?mid=hnsfSjuI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/zwolle-r1L5w2EB/?mid=hnsfSjuI"
   },
@@ -5405,8 +5615,63 @@
     "home": "Almere City",
     "home_goals": 0,
     "id": "ppS7gELQ",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 10,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "13.05.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "37",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/willem-ii-6u3qag0G/summary/stats/?mid=ppS7gELQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/willem-ii-6u3qag0G/?mid=ppS7gELQ"
   },
@@ -5881,8 +6146,58 @@
     "home": "Eindhoven FC",
     "home_goals": 1,
     "id": "vikLNCKp",
+    "shots": {
+      "AS": 12,
+      "AST": 3,
+      "HS": 6,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "13.05.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "30",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/eindhoven-fc-YJaj0Opm/nac-breda-nLNrHc14/summary/stats/?mid=vikLNCKp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eindhoven-fc-YJaj0Opm/nac-breda-nLNrHc14/?mid=vikLNCKp"
   },
