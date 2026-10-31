@@ -4,12 +4,12 @@
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-10-31T02:41:53.086543+00:00
+Updated: 2026-10-31T02:47:26.772492+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 0/230
 - Provider match records downloaded: 543
-- Provider records with all four shot values: 209
+- Provider records with all four shot values: 215
 - Previously empty reference cells recovered: 708
 - Reference matches still missing shot values: 29896
 
@@ -80,7 +80,7 @@ Updated: 2026-10-31T02:41:53.086543+00:00
 | Netherlands/N1/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 306 | 0.00% |
 | Netherlands/N1/2013-2014 | 0 / 0 / 0 | 0 / 0 / 0 | 306 | 0.00% |
 | Netherlands/N1/2014-2015 | 0 / 0 / 0 | 0 / 0 / 0 | 306 | 0.00% |
-| Netherlands/N1/2015-2016 | 0 / 0 / 0 | 107 / 95 / 95 | 221 | 27.78% |
+| Netherlands/N1/2015-2016 | 0 / 0 / 0 | 107 / 101 / 101 | 221 | 27.78% |
 | Netherlands/N1/2016-2017 | 328 / 6 / 6 | 108 / 108 / 108 | 214 | 30.07% |
 | Portugal/P1/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
 | Portugal/P1/2011-2012 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |

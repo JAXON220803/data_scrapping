@@ -2179,8 +2179,63 @@
     "home": "Willem II",
     "home_goals": 5,
     "id": "EaIwlhql",
+    "shots": {
+      "AS": 15,
+      "AST": 10,
+      "HS": 15,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "16.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/willem-ii-6u3qag0G/summary/stats/?mid=EaIwlhql",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/willem-ii-6u3qag0G/?mid=EaIwlhql"
   },
@@ -2746,8 +2801,63 @@
     "home": "De Graafschap",
     "home_goals": 2,
     "id": "KxJZlYTs",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 18,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "16.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/maastricht-YPQnAtpC/summary/stats/?mid=KxJZlYTs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/maastricht-YPQnAtpC/?mid=KxJZlYTs"
   },
@@ -3284,8 +3394,63 @@
     "home": "Heracles",
     "home_goals": 5,
     "id": "QZB8oEut",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 39,
+      "HST": 15
+    },
     "source": "flashscore",
     "source_status": "15.05.2016 AET",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "39",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "39",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "15",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heracles-bB3JbZpA/summary/stats/?mid=QZB8oEut",
     "status": "special_result",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heracles-bB3JbZpA/?mid=QZB8oEut"
   },
@@ -3708,8 +3873,63 @@
     "home": "NAC Breda",
     "home_goals": 2,
     "id": "UuIDT283",
+    "shots": {
+      "AS": 6,
+      "AST": 1,
+      "HS": 9,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "16.05.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/eindhoven-fc-YJaj0Opm/nac-breda-nLNrHc14/summary/stats/?mid=UuIDT283",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eindhoven-fc-YJaj0Opm/nac-breda-nLNrHc14/?mid=UuIDT283"
   },
@@ -5335,8 +5555,63 @@
     "home": "Utrecht",
     "home_goals": 5,
     "id": "lEz3QU9U",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "15.05.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/zwolle-r1L5w2EB/summary/stats/?mid=lEz3QU9U",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/zwolle-r1L5w2EB/?mid=lEz3QU9U"
   },
@@ -6287,8 +6562,63 @@
     "home": "Venlo",
     "home_goals": 2,
     "id": "zJI9Urgc",
+    "shots": {
+      "AS": 9,
+      "AST": 7,
+      "HS": 20,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "16.05.2016",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/venlo-UNA6IKFC/summary/stats/?mid=zJI9Urgc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/venlo-UNA6IKFC/?mid=zJI9Urgc"
   },
