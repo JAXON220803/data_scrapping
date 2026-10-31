@@ -642,8 +642,68 @@
     "home": "Dordrecht",
     "home_goals": 2,
     "id": "ChatjyJU",
+    "shots": {
+      "AS": 23,
+      "AST": 9,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "04.04.2015",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "23",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "23",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "36",
+        "home": "35",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dordrecht-fT0n14Vt/heracles-bB3JbZpA/summary/stats/?mid=ChatjyJU",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dordrecht-fT0n14Vt/heracles-bB3JbZpA/?mid=ChatjyJU"
   },
@@ -654,8 +714,68 @@
     "home": "Heerenveen",
     "home_goals": 0,
     "id": "E7twiH3O",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "04.04.2015",
+    "statistics": [
+      {
+        "away": "35%",
+        "home": "65%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "27",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nac-breda-nLNrHc14/summary/stats/?mid=E7twiH3O",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nac-breda-nLNrHc14/?mid=E7twiH3O"
   },
@@ -1734,8 +1854,68 @@
     "home": "Vitesse",
     "home_goals": 1,
     "id": "WriYiclI",
+    "shots": {
+      "AS": 13,
+      "AST": 7,
+      "HS": 23,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "04.04.2015",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "22",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/summary/stats/?mid=WriYiclI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=WriYiclI"
   },
@@ -2226,8 +2406,68 @@
     "home": "Zwolle",
     "home_goals": 1,
     "id": "hhhUhwZB",
+    "shots": {
+      "AS": 3,
+      "AST": 1,
+      "HS": 19,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "04.04.2015",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "29",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/willem-ii-6u3qag0G/zwolle-r1L5w2EB/summary/stats/?mid=hhhUhwZB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/willem-ii-6u3qag0G/zwolle-r1L5w2EB/?mid=hhhUhwZB"
   },
@@ -2442,8 +2682,68 @@
     "home": "Twente",
     "home_goals": 0,
     "id": "lEznBKlt",
+    "shots": {
+      "AS": 21,
+      "AST": 10,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "04.04.2015",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/twente-dhOKTHGA/summary/stats/?mid=lEznBKlt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/twente-dhOKTHGA/?mid=lEznBKlt"
   },
@@ -2670,8 +2970,68 @@
     "home": "Groningen",
     "home_goals": 2,
     "id": "pSlMfa4a",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 21,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "22.03.2015",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/summary/stats/?mid=pSlMfa4a",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/?mid=pSlMfa4a"
   },

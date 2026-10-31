@@ -1160,6 +1160,46 @@
     "value": 7
   },
   {
+    "away": "Twente",
+    "date": "22/03/15",
+    "field": "AS",
+    "fixture_id": "pSlMfa4a",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 10
+  },
+  {
+    "away": "Twente",
+    "date": "22/03/15",
+    "field": "AST",
+    "fixture_id": "pSlMfa4a",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "Twente",
+    "date": "22/03/15",
+    "field": "HS",
+    "fixture_id": "pSlMfa4a",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 21
+  },
+  {
+    "away": "Twente",
+    "date": "22/03/15",
+    "field": "HST",
+    "fixture_id": "pSlMfa4a",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 7
+  },
+  {
     "away": "Excelsior",
     "date": "22/03/15",
     "field": "AS",
@@ -1198,6 +1238,206 @@
     "source": "flashscore",
     "target": "Netherlands/N1/2014-2015",
     "value": 8
+  },
+  {
+    "away": "Heracles",
+    "date": "04/04/15",
+    "field": "AS",
+    "fixture_id": "ChatjyJU",
+    "home": "Dordrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 23
+  },
+  {
+    "away": "Heracles",
+    "date": "04/04/15",
+    "field": "AST",
+    "fixture_id": "ChatjyJU",
+    "home": "Dordrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 9
+  },
+  {
+    "away": "Heracles",
+    "date": "04/04/15",
+    "field": "HS",
+    "fixture_id": "ChatjyJU",
+    "home": "Dordrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 11
+  },
+  {
+    "away": "Heracles",
+    "date": "04/04/15",
+    "field": "HST",
+    "fixture_id": "ChatjyJU",
+    "home": "Dordrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "NAC Breda",
+    "date": "04/04/15",
+    "field": "AS",
+    "fixture_id": "E7twiH3O",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 9
+  },
+  {
+    "away": "NAC Breda",
+    "date": "04/04/15",
+    "field": "AST",
+    "fixture_id": "E7twiH3O",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 2
+  },
+  {
+    "away": "NAC Breda",
+    "date": "04/04/15",
+    "field": "HS",
+    "fixture_id": "E7twiH3O",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 14
+  },
+  {
+    "away": "NAC Breda",
+    "date": "04/04/15",
+    "field": "HST",
+    "fixture_id": "E7twiH3O",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 3
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "04/04/15",
+    "field": "AS",
+    "fixture_id": "lEznBKlt",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 21
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "04/04/15",
+    "field": "AST",
+    "fixture_id": "lEznBKlt",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 10
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "04/04/15",
+    "field": "HS",
+    "fixture_id": "lEznBKlt",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "04/04/15",
+    "field": "HST",
+    "fixture_id": "lEznBKlt",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 3
+  },
+  {
+    "away": "Groningen",
+    "date": "04/04/15",
+    "field": "AS",
+    "fixture_id": "WriYiclI",
+    "home": "Vitesse",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Groningen",
+    "date": "04/04/15",
+    "field": "AST",
+    "fixture_id": "WriYiclI",
+    "home": "Vitesse",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 7
+  },
+  {
+    "away": "Groningen",
+    "date": "04/04/15",
+    "field": "HS",
+    "fixture_id": "WriYiclI",
+    "home": "Vitesse",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 23
+  },
+  {
+    "away": "Groningen",
+    "date": "04/04/15",
+    "field": "HST",
+    "fixture_id": "WriYiclI",
+    "home": "Vitesse",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 9
+  },
+  {
+    "away": "Willem II",
+    "date": "04/04/15",
+    "field": "AS",
+    "fixture_id": "hhhUhwZB",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 3
+  },
+  {
+    "away": "Willem II",
+    "date": "04/04/15",
+    "field": "AST",
+    "fixture_id": "hhhUhwZB",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 1
+  },
+  {
+    "away": "Willem II",
+    "date": "04/04/15",
+    "field": "HS",
+    "fixture_id": "hhhUhwZB",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 19
+  },
+  {
+    "away": "Willem II",
+    "date": "04/04/15",
+    "field": "HST",
+    "fixture_id": "hhhUhwZB",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 6
   },
   {
     "away": "AZ Alkmaar",
