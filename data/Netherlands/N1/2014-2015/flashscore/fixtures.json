@@ -1974,8 +1974,68 @@
     "home": "Groningen",
     "home_goals": 0,
     "id": "Mm2p8UeD",
+    "shots": {
+      "AS": 17,
+      "AST": 4,
+      "HS": 13,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "10.05.2015",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/zwolle-r1L5w2EB/summary/stats/?mid=Mm2p8UeD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/zwolle-r1L5w2EB/?mid=Mm2p8UeD"
   },
@@ -2298,8 +2358,68 @@
     "home": "Ajax",
     "home_goals": 3,
     "id": "QL8yAjR0",
+    "shots": {
+      "AS": 11,
+      "AST": 1,
+      "HS": 14,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "10.05.2015",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "22",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/cambuur-QRyYgO7J/summary/stats/?mid=QL8yAjR0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/cambuur-QRyYgO7J/?mid=QL8yAjR0"
   },
@@ -3114,8 +3234,68 @@
     "home": "Utrecht",
     "home_goals": 2,
     "id": "d0VhIEJK",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 15,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.05.2015",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/utrecht-p6QXMgOj/summary/stats/?mid=d0VhIEJK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/utrecht-p6QXMgOj/?mid=d0VhIEJK"
   },
@@ -3498,8 +3678,68 @@
     "home": "Willem II",
     "home_goals": 1,
     "id": "h8ATBCdl",
+    "shots": {
+      "AS": 20,
+      "AST": 4,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.05.2015",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "10",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/willem-ii-6u3qag0G/summary/stats/?mid=h8ATBCdl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/willem-ii-6u3qag0G/?mid=h8ATBCdl"
   },
@@ -4350,8 +4590,68 @@
     "home": "G.A. Eagles",
     "home_goals": 1,
     "id": "nV9XAWBf",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.05.2015",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heerenveen-EDjXSyWG/summary/stats/?mid=nV9XAWBf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heerenveen-EDjXSyWG/?mid=nV9XAWBf"
   },
@@ -4362,8 +4662,68 @@
     "home": "Zwolle",
     "home_goals": 1,
     "id": "nVm2eiC7",
+    "shots": {
+      "AS": 18,
+      "AST": 6,
+      "HS": 16,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "26.04.2015",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/summary/stats/?mid=nVm2eiC7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/?mid=nVm2eiC7"
   },
