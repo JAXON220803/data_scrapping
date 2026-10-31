@@ -2382,8 +2382,68 @@
     "home": "Twente",
     "home_goals": 0,
     "id": "SQQlJf4E",
+    "shots": {
+      "AS": 12,
+      "AST": 7,
+      "HS": 26,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "26.04.2015",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "16",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "26",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/twente-dhOKTHGA/summary/stats/?mid=SQQlJf4E",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/twente-dhOKTHGA/?mid=SQQlJf4E"
   },
@@ -2898,8 +2958,68 @@
     "home": "Dordrecht",
     "home_goals": 0,
     "id": "YRqbdXd1",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "26.04.2015",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "14",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "31",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/dordrecht-fT0n14Vt/summary/stats/?mid=YRqbdXd1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/dordrecht-fT0n14Vt/?mid=YRqbdXd1"
   },
@@ -2910,8 +3030,68 @@
     "home": "NAC Breda",
     "home_goals": 1,
     "id": "YiFgaZCr",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 21,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "25.04.2015",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nac-breda-nLNrHc14/summary/stats/?mid=YiFgaZCr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nac-breda-nLNrHc14/?mid=YiFgaZCr"
   },
@@ -2958,8 +3138,68 @@
     "home": "Heerenveen",
     "home_goals": 1,
     "id": "dSiQG1rG",
+    "shots": {
+      "AS": 16,
+      "AST": 6,
+      "HS": 15,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "25.04.2015",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/summary/stats/?mid=dSiQG1rG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/?mid=dSiQG1rG"
   },
@@ -4038,8 +4278,68 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "lzSpKzk8",
+    "shots": {
+      "AS": 11,
+      "AST": 2,
+      "HS": 12,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "26.04.2015",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/summary/stats/?mid=lzSpKzk8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/?mid=lzSpKzk8"
   },
@@ -4638,8 +4938,68 @@
     "home": "Excelsior",
     "home_goals": 2,
     "id": "v5pfcDse",
+    "shots": {
+      "AS": 16,
+      "AST": 9,
+      "HS": 15,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "25.04.2015",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/psv-M9UEHJWi/summary/stats/?mid=v5pfcDse",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/psv-M9UEHJWi/?mid=v5pfcDse"
   },
