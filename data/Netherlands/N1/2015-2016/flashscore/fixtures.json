@@ -700,8 +700,63 @@
     "home": "De Graafschap",
     "home_goals": 1,
     "id": "4vzOgJfd",
+    "shots": {
+      "AS": 21,
+      "AST": 6,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "08.05.2016",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/de-graafschap-naL1J006/summary/stats/?mid=4vzOgJfd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/de-graafschap-naL1J006/?mid=4vzOgJfd"
   },
@@ -1751,8 +1806,63 @@
     "home": "Den Haag",
     "home_goals": 1,
     "id": "E9HEGt29",
+    "shots": {
+      "AS": 8,
+      "AST": 1,
+      "HS": 18,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "08.05.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heerenveen-EDjXSyWG/summary/stats/?mid=E9HEGt29",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heerenveen-EDjXSyWG/?mid=E9HEGt29"
   },
@@ -1763,8 +1873,63 @@
     "home": "Cambuur",
     "home_goals": 0,
     "id": "E9eq112M",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 17,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "08.05.2016",
+    "statistics": [
+      {
+        "away": "24%",
+        "home": "76%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/excelsior-nNlLsRUr/summary/stats/?mid=E9eq112M",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/excelsior-nNlLsRUr/?mid=E9eq112M"
   },
@@ -2713,8 +2878,58 @@
     "home": "FC Emmen",
     "home_goals": 1,
     "id": "OvBMRtwG",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "18",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/fc-emmen-Stafar0g/summary/stats/?mid=OvBMRtwG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/fc-emmen-Stafar0g/?mid=OvBMRtwG"
   },
@@ -4013,8 +4228,58 @@
     "home": "Almere City",
     "home_goals": 4,
     "id": "dSJ5VOwi",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 15,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "02.05.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/fc-emmen-Stafar0g/summary/stats/?mid=dSJ5VOwi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/fc-emmen-Stafar0g/?mid=dSJ5VOwi"
   },
@@ -4944,8 +5209,58 @@
     "home": "FC Volendam",
     "home_goals": 1,
     "id": "tGLHSMN9",
+    "shots": {
+      "AS": 20,
+      "AST": 10,
+      "HS": 16,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "20",
+        "home": "19",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fc-volendam-6VbkuOqa/maastricht-YPQnAtpC/summary/stats/?mid=tGLHSMN9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-volendam-6VbkuOqa/maastricht-YPQnAtpC/?mid=tGLHSMN9"
   },
