@@ -90,8 +90,68 @@
     "home": "Excelsior",
     "home_goals": 3,
     "id": "27e1YBiS",
+    "shots": {
+      "AS": 18,
+      "AST": 3,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "01.03.2015",
+    "statistics": [
+      {
+        "away": "61%",
+        "home": "39%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "31",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/heerenveen-EDjXSyWG/summary/stats/?mid=27e1YBiS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/heerenveen-EDjXSyWG/?mid=27e1YBiS"
   },
@@ -126,8 +186,68 @@
     "home": "Den Haag",
     "home_goals": 0,
     "id": "4lXVmiiF",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 16,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "07.03.2015",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "40",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heerenveen-EDjXSyWG/summary/stats/?mid=4lXVmiiF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heerenveen-EDjXSyWG/?mid=4lXVmiiF"
   },
@@ -354,8 +474,68 @@
     "home": "PSV",
     "home_goals": 1,
     "id": "GEyxS9Ue",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 22,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "01.03.2015",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "26",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/summary/stats/?mid=GEyxS9Ue",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/?mid=GEyxS9Ue"
   },
@@ -462,8 +642,68 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "MixYSkFk",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.03.2015",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/summary/stats/?mid=MixYSkFk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/?mid=MixYSkFk"
   },
@@ -642,8 +882,68 @@
     "home": "Willem II",
     "home_goals": 2,
     "id": "UHutRTq2",
+    "shots": {
+      "AS": 15,
+      "AST": 4,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "06.03.2015",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "32",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/summary/stats/?mid=UHutRTq2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/?mid=UHutRTq2"
   },
@@ -1134,8 +1434,68 @@
     "home": "Utrecht",
     "home_goals": 0,
     "id": "r1wUTVaq",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.03.2015",
+    "statistics": [
+      {
+        "away": "61%",
+        "home": "39%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/utrecht-p6QXMgOj/summary/stats/?mid=r1wUTVaq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/utrecht-p6QXMgOj/?mid=r1wUTVaq"
   },
