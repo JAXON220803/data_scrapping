@@ -330,8 +330,68 @@
     "home": "Dordrecht",
     "home_goals": 1,
     "id": "6L1ft0k6",
+    "shots": {
+      "AS": 26,
+      "AST": 11,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "15.03.2015",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "26",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "26",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "15",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dordrecht-fT0n14Vt/feyenoord-8zjySeoN/summary/stats/?mid=6L1ft0k6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dordrecht-fT0n14Vt/feyenoord-8zjySeoN/?mid=6L1ft0k6"
   },
@@ -558,8 +618,68 @@
     "home": "G.A. Eagles",
     "home_goals": 0,
     "id": "Eo52vvKI",
+    "shots": {
+      "AS": 21,
+      "AST": 7,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "21.03.2015",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "16",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/vitesse-xdFA0eGc/summary/stats/?mid=Eo52vvKI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/vitesse-xdFA0eGc/?mid=Eo52vvKI"
   },
@@ -786,8 +906,68 @@
     "home": "Utrecht",
     "home_goals": 3,
     "id": "KO5buK4C",
+    "shots": {
+      "AS": 17,
+      "AST": 9,
+      "HS": 23,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "20.03.2015",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "32",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "10",
+        "home": "3",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/utrecht-p6QXMgOj/summary/stats/?mid=KO5buK4C",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/utrecht-p6QXMgOj/?mid=KO5buK4C"
   },
@@ -954,8 +1134,68 @@
     "home": "Den Haag",
     "home_goals": 1,
     "id": "OdCkstz0",
+    "shots": {
+      "AS": 18,
+      "AST": 7,
+      "HS": 24,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "15.03.2015",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heracles-bB3JbZpA/summary/stats/?mid=OdCkstz0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heracles-bB3JbZpA/?mid=OdCkstz0"
   },
@@ -1206,8 +1446,68 @@
     "home": "PSV",
     "home_goals": 2,
     "id": "W44Nw7T7",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 19,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "15.03.2015",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/psv-M9UEHJWi/summary/stats/?mid=W44Nw7T7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/psv-M9UEHJWi/?mid=W44Nw7T7"
   },
@@ -1854,8 +2154,68 @@
     "home": "Heerenveen",
     "home_goals": 1,
     "id": "p6DorMKg",
+    "shots": {
+      "AS": 12,
+      "AST": 6,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "15.03.2015",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "16",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/summary/stats/?mid=p6DorMKg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/?mid=p6DorMKg"
   },
