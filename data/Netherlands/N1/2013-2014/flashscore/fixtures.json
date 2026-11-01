@@ -90,8 +90,68 @@
     "home": "Vitesse",
     "home_goals": 2,
     "id": "2B5cxB2E",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 16,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "29.03.2014",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "30",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/summary/stats/?mid=2B5cxB2E",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/?mid=2B5cxB2E"
   },
@@ -702,8 +762,68 @@
     "home": "Nijmegen",
     "home_goals": 1,
     "id": "Ay95zkXQ",
+    "shots": {
+      "AS": 12,
+      "AST": 7,
+      "HS": 15,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "29.03.2014",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nijmegen-nRluRF0T/summary/stats/?mid=Ay95zkXQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nijmegen-nRluRF0T/?mid=Ay95zkXQ"
   },
@@ -1506,8 +1626,68 @@
     "home": "NAC Breda",
     "home_goals": 2,
     "id": "OK6gwim8",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 18,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "28.03.2014",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/utrecht-p6QXMgOj/summary/stats/?mid=OK6gwim8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/utrecht-p6QXMgOj/?mid=OK6gwim8"
   },
@@ -1794,8 +1974,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 2,
     "id": "ShiFPXI8",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 20,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "23.03.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "27",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/zwolle-r1L5w2EB/summary/stats/?mid=ShiFPXI8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/zwolle-r1L5w2EB/?mid=ShiFPXI8"
   },
@@ -2358,8 +2598,68 @@
     "home": "PSV",
     "home_goals": 3,
     "id": "l8uONBmL",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 19,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "22.03.2014",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/roda-6FRTNZ8p/summary/stats/?mid=l8uONBmL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/roda-6FRTNZ8p/?mid=l8uONBmL"
   },
@@ -2562,8 +2862,68 @@
     "home": "Groningen",
     "home_goals": 3,
     "id": "n3NAE7A7",
+    "shots": {
+      "AS": 19,
+      "AST": 11,
+      "HS": 15,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "22.03.2014",
+    "statistics": [
+      {
+        "away": "73%",
+        "home": "27%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "26",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/summary/stats/?mid=n3NAE7A7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=n3NAE7A7"
   },

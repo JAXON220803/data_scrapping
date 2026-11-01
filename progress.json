@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 294,
-  "filled_cells_percent": 0.9776,
-  "filled_percent": 0.9776,
+  "completed_missing_matches": 300,
+  "filled_cells_percent": 0.9976,
+  "filled_percent": 0.9976,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 757,
-  "provider_records_with_all_shots": 348,
-  "provider_records_with_statistics": 348,
-  "recovered_cells": 1176,
+  "provider_records_with_all_shots": 354,
+  "provider_records_with_statistics": 354,
+  "recovered_cells": 1200,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29779,
+  "reference_matches_still_missing_shots": 29773,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2100,24 +2100,24 @@
       }
     },
     {
-      "cells_recovered": 128,
-      "completed_missing_matches": 32,
-      "filled_percent": 10.4575,
+      "cells_recovered": 152,
+      "completed_missing_matches": 38,
+      "filled_percent": 12.4183,
       "id": "Netherlands/N1/2013-2014",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 274,
+      "remaining_missing_shots": 268,
       "sources": {
         "flashscore": {
-          "all_shot_values": 32,
+          "all_shot_values": 38,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 32,
-          "statistics_checked": 32
+          "statistics_available": 38,
+          "statistics_checked": 38
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-01T06:41:49.376975+00:00"
+  "updated_utc": "2026-11-01T06:47:17.569356+00:00"
 }
