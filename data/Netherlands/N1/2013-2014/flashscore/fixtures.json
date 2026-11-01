@@ -594,8 +594,68 @@
     "home": "PSV",
     "home_goals": 2,
     "id": "4Ez79FT3",
+    "shots": {
+      "AS": 5,
+      "AST": 1,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "03.05.2014",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "0",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/psv-M9UEHJWi/summary/stats/?mid=4Ez79FT3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/psv-M9UEHJWi/?mid=4Ez79FT3"
   },
@@ -1134,8 +1194,11 @@
     "home": "De Graafschap",
     "home_goals": 3,
     "id": "AJmGvyVE",
+    "shots": {},
     "source": "flashscore",
     "source_status": "02.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/sittard-YH8HX5iP/?mid=AJmGvyVE"
   },
@@ -1290,8 +1353,68 @@
     "home": "Ajax",
     "home_goals": 2,
     "id": "AwM3AeEc",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 17,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "03.05.2014",
+    "statistics": [
+      {
+        "away": "32%",
+        "home": "68%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nijmegen-nRluRF0T/summary/stats/?mid=AwM3AeEc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nijmegen-nRluRF0T/?mid=AwM3AeEc"
   },
@@ -1926,8 +2049,11 @@
     "home": "Eindhoven FC",
     "home_goals": 0,
     "id": "GdlCuHF8",
+    "shots": {},
     "source": "flashscore",
     "source_status": "02.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eindhoven-fc-YJaj0Opm/sparta-rotterdam-KK4FaFV3/?mid=GdlCuHF8"
   },
@@ -2010,8 +2136,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 1,
     "id": "GvuDmY6p",
+    "shots": {
+      "AS": 17,
+      "AST": 5,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "03.05.2014",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "11",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/feyenoord-8zjySeoN/summary/stats/?mid=GvuDmY6p",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/feyenoord-8zjySeoN/?mid=GvuDmY6p"
   },
@@ -2190,8 +2376,11 @@
     "home": "Sittard",
     "home_goals": 1,
     "id": "KUKNYpsd",
+    "shots": {},
     "source": "flashscore",
     "source_status": "28.04.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/sittard-YH8HX5iP/?mid=KUKNYpsd"
   },
@@ -2874,8 +3063,11 @@
     "home": "Sparta Rotterdam",
     "home_goals": 1,
     "id": "Q7LJZQRk",
+    "shots": {},
     "source": "flashscore",
     "source_status": "28.04.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eindhoven-fc-YJaj0Opm/sparta-rotterdam-KK4FaFV3/?mid=Q7LJZQRk"
   },
@@ -4302,8 +4494,68 @@
     "home": "Heerenveen",
     "home_goals": 4,
     "id": "lQ21hNhC",
+    "shots": {
+      "AS": 8,
+      "AST": 4,
+      "HS": 14,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "27.04.2014",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "26",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/summary/stats/?mid=lQ21hNhC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=lQ21hNhC"
   },
@@ -4386,8 +4638,68 @@
     "home": "Heracles",
     "home_goals": 1,
     "id": "lW5BqS9s",
+    "shots": {
+      "AS": 14,
+      "AST": 2,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "27.04.2014",
+    "statistics": [
+      {
+        "away": "66%",
+        "home": "34%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heracles-bB3JbZpA/summary/stats/?mid=lW5BqS9s",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heracles-bB3JbZpA/?mid=lW5BqS9s"
   },
