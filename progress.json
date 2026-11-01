@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 276,
-  "filled_cells_percent": 0.9178,
-  "filled_percent": 0.9178,
+  "completed_missing_matches": 282,
+  "filled_cells_percent": 0.9377,
+  "filled_percent": 0.9377,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 757,
-  "provider_records_with_all_shots": 330,
-  "provider_records_with_statistics": 330,
-  "recovered_cells": 1104,
+  "provider_records_with_all_shots": 336,
+  "provider_records_with_statistics": 336,
+  "recovered_cells": 1128,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29797,
+  "reference_matches_still_missing_shots": 29791,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2100,24 +2100,24 @@
       }
     },
     {
-      "cells_recovered": 56,
-      "completed_missing_matches": 14,
-      "filled_percent": 4.5752,
+      "cells_recovered": 80,
+      "completed_missing_matches": 20,
+      "filled_percent": 6.5359,
       "id": "Netherlands/N1/2013-2014",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 292,
+      "remaining_missing_shots": 286,
       "sources": {
         "flashscore": {
-          "all_shot_values": 14,
+          "all_shot_values": 20,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 14,
-          "statistics_checked": 14
+          "statistics_available": 20,
+          "statistics_checked": 20
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-01T06:25:15.668927+00:00"
+  "updated_utc": "2026-11-01T06:30:42.201360+00:00"
 }
