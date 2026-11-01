@@ -894,8 +894,68 @@
     "home": "Zwolle",
     "home_goals": 1,
     "id": "6wNx9XSh",
+    "shots": {
+      "AS": 23,
+      "AST": 8,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "21.05.2015",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "23",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "23",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/summary/stats/?mid=6wNx9XSh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/?mid=6wNx9XSh"
   },
@@ -978,8 +1038,11 @@
     "home": "Venlo",
     "home_goals": 0,
     "id": "82Jg5kSH",
+    "shots": {},
     "source": "flashscore",
     "source_status": "22.05.2015",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/venlo-UNA6IKFC/?mid=82Jg5kSH"
   },
@@ -1821,8 +1884,11 @@
     "home": "FC Volendam",
     "home_goals": 2,
     "id": "Gh6Xac0E",
+    "shots": {},
     "source": "flashscore",
     "source_status": "22.05.2015",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eindhoven-fc-YJaj0Opm/fc-volendam-6VbkuOqa/?mid=Gh6Xac0E"
   },
@@ -2904,8 +2970,68 @@
     "home": "Heerenveen",
     "home_goals": 1,
     "id": "SnOY9DDn",
+    "shots": {
+      "AS": 13,
+      "AST": 2,
+      "HS": 5,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "21.05.2015",
+    "statistics": [
+      {
+        "away": "65%",
+        "home": "35%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/summary/stats/?mid=SnOY9DDn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/?mid=SnOY9DDn"
   },
@@ -4938,8 +5064,68 @@
     "home": "Heerenveen",
     "home_goals": 1,
     "id": "lffWVXmK",
+    "shots": {
+      "AS": 17,
+      "AST": 10,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "17.05.2015",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/summary/stats/?mid=lffWVXmK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/?mid=lffWVXmK"
   },
@@ -5826,8 +6012,68 @@
     "home": "NAC Breda",
     "home_goals": 4,
     "id": "thV6PVQm",
+    "shots": {
+      "AS": 13,
+      "AST": 8,
+      "HS": 13,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "17.05.2015",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nac-breda-nLNrHc14/summary/stats/?mid=thV6PVQm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nac-breda-nLNrHc14/?mid=thV6PVQm"
   },

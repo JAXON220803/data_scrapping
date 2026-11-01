@@ -3200,6 +3200,46 @@
     "value": 1
   },
   {
+    "away": "Twente",
+    "date": "17/05/15",
+    "field": "AS",
+    "fixture_id": "lffWVXmK",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 17
+  },
+  {
+    "away": "Twente",
+    "date": "17/05/15",
+    "field": "AST",
+    "fixture_id": "lffWVXmK",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 10
+  },
+  {
+    "away": "Twente",
+    "date": "17/05/15",
+    "field": "HS",
+    "fixture_id": "lffWVXmK",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 14
+  },
+  {
+    "away": "Twente",
+    "date": "17/05/15",
+    "field": "HST",
+    "fixture_id": "lffWVXmK",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 3
+  },
+  {
     "away": "Go Ahead Eagles",
     "date": "17/05/15",
     "field": "AS",
@@ -3238,6 +3278,46 @@
     "source": "flashscore",
     "target": "Netherlands/N1/2014-2015",
     "value": 5
+  },
+  {
+    "away": "Groningen",
+    "date": "17/05/15",
+    "field": "AS",
+    "fixture_id": "thV6PVQm",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Groningen",
+    "date": "17/05/15",
+    "field": "AST",
+    "fixture_id": "thV6PVQm",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Groningen",
+    "date": "17/05/15",
+    "field": "HS",
+    "fixture_id": "thV6PVQm",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Groningen",
+    "date": "17/05/15",
+    "field": "HST",
+    "fixture_id": "thV6PVQm",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2014-2015",
+    "value": 9
   },
   {
     "away": "Utrecht",
