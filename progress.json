@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 341,
-  "filled_cells_percent": 1.1339,
-  "filled_percent": 1.1339,
+  "completed_missing_matches": 347,
+  "filled_cells_percent": 1.1539,
+  "filled_percent": 1.1539,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 757,
-  "provider_records_with_all_shots": 395,
-  "provider_records_with_statistics": 395,
-  "recovered_cells": 1364,
+  "provider_records_with_all_shots": 401,
+  "provider_records_with_statistics": 401,
+  "recovered_cells": 1388,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29732,
+  "reference_matches_still_missing_shots": 29726,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2100,24 +2100,24 @@
       }
     },
     {
-      "cells_recovered": 316,
-      "completed_missing_matches": 79,
-      "filled_percent": 25.817,
+      "cells_recovered": 340,
+      "completed_missing_matches": 85,
+      "filled_percent": 27.7778,
       "id": "Netherlands/N1/2013-2014",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 227,
+      "remaining_missing_shots": 221,
       "sources": {
         "flashscore": {
-          "all_shot_values": 79,
+          "all_shot_values": 85,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 79,
-          "statistics_checked": 83
+          "statistics_available": 85,
+          "statistics_checked": 89
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-01T07:25:29.484522+00:00"
+  "updated_utc": "2026-11-01T07:30:57.291158+00:00"
 }
