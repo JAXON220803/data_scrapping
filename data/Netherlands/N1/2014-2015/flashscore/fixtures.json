@@ -294,8 +294,73 @@
     "home": "Vitesse",
     "home_goals": 1,
     "id": "25Go7Bc5",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 20,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "24.05.2015",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/summary/stats/?mid=25Go7Bc5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/?mid=25Go7Bc5"
   },
@@ -1197,8 +1262,11 @@
     "home": "Eindhoven FC",
     "home_goals": 1,
     "id": "AFsTlXiD",
+    "shots": {},
     "source": "flashscore",
     "source_status": "25.05.2015",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eindhoven-fc-YJaj0Opm/fc-volendam-6VbkuOqa/?mid=AFsTlXiD"
   },
@@ -1281,8 +1349,11 @@
     "home": "Roda",
     "home_goals": 2,
     "id": "CKLBDGUD",
+    "shots": {},
     "source": "flashscore",
     "source_status": "25.05.2015",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/roda-6FRTNZ8p/?mid=CKLBDGUD"
   },
@@ -1899,8 +1970,58 @@
     "home": "De Graafschap",
     "home_goals": 0,
     "id": "GvuzhXLr",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 12,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "28.05.2015",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "22",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/fc-volendam-6VbkuOqa/summary/stats/?mid=GvuzhXLr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/fc-volendam-6VbkuOqa/?mid=GvuzhXLr"
   },
@@ -2370,8 +2491,68 @@
     "home": "Feyenoord",
     "home_goals": 2,
     "id": "OEHs8ira",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 31,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "24.05.2015 AET",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "31",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "31",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "12",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "17",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "30",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/summary/stats/?mid=OEHs8ira",
     "status": "special_result",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/?mid=OEHs8ira"
   },
@@ -2886,8 +3067,68 @@
     "home": "Heerenveen",
     "home_goals": 2,
     "id": "SYIp9n3A",
+    "shots": {
+      "AS": 14,
+      "AST": 4,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "28.05.2015",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "22",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/summary/stats/?mid=SYIp9n3A",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/?mid=SYIp9n3A"
   },
@@ -3042,8 +3283,11 @@
     "home": "NAC Breda",
     "home_goals": 3,
     "id": "UH723TdU",
+    "shots": {},
     "source": "flashscore",
     "source_status": "25.05.2015",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/venlo-UNA6IKFC/?mid=UH723TdU"
   },
@@ -3717,8 +3961,11 @@
     "home": "FC Emmen",
     "home_goals": 0,
     "id": "bHexaHFK",
+    "shots": {},
     "source": "flashscore",
     "source_status": "22.05.2015",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/roda-6FRTNZ8p/?mid=bHexaHFK"
   },
@@ -3801,8 +4048,11 @@
     "home": "De Graafschap",
     "home_goals": 1,
     "id": "dSFk6VCB",
+    "shots": {},
     "source": "flashscore",
     "source_status": "22.05.2015",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/g-a-eagles-hG8POBb8/?mid=dSFk6VCB"
   },
@@ -4692,8 +4942,11 @@
     "home": "G.A. Eagles",
     "home_goals": 0,
     "id": "jR8b49sO",
+    "shots": {},
     "source": "flashscore",
     "source_status": "25.05.2015",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/g-a-eagles-hG8POBb8/?mid=jR8b49sO"
   },

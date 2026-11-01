@@ -10,20 +10,12 @@
       "requests": 20,
       "status": "paused_by_budget",
       "target": "Netherlands/N1/2014-2015"
-    },
-    "sofascore": {
-      "previous_status": "Blocked",
-      "reason": "HTTP 403: source denied access",
-      "requests": 0,
-      "retry_at": 1793525738.6912324,
-      "status": "waiting_after_error",
-      "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 650,
-  "provider_records_with_all_shots": 308,
-  "provider_records_with_statistics": 308,
+  "provider_records_with_all_shots": 312,
+  "provider_records_with_statistics": 312,
   "recovered_cells": 1048,
   "reference_matches": 36942,
   "reference_matches_still_missing_shots": 29811,
@@ -2150,15 +2142,15 @@
       "remaining_missing_shots": 221,
       "sources": {
         "flashscore": {
-          "all_shot_values": 87,
+          "all_shot_values": 91,
           "fixtures": 107,
           "inventory_complete": true,
           "inventory_shortfall": 199,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 87,
-          "statistics_checked": 93
+          "statistics_available": 91,
+          "statistics_checked": 103
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3828,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-01T06:03:23.990354+00:00"
+  "updated_utc": "2026-11-01T06:08:50.022727+00:00"
 }
