@@ -6,8 +6,68 @@
     "home": "Nijmegen",
     "home_goals": 2,
     "id": "0naT1UQ1",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 19,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "16.03.2014",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "31",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "24",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/summary/stats/?mid=0naT1UQ1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/?mid=0naT1UQ1"
   },
@@ -846,8 +906,68 @@
     "home": "Feyenoord",
     "home_goals": 2,
     "id": "EkmBQD32",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "16.03.2014",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "32",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "4",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/summary/stats/?mid=EkmBQD32",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/?mid=EkmBQD32"
   },
@@ -978,8 +1098,68 @@
     "home": "NAC Breda",
     "home_goals": 0,
     "id": "GrVO4Wtq",
+    "shots": {
+      "AS": 20,
+      "AST": 7,
+      "HS": 4,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "16.03.2014",
+    "statistics": [
+      {
+        "away": "65%",
+        "home": "35%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "0",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "0",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "34",
+        "home": "13",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "12",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nac-breda-nLNrHc14/summary/stats/?mid=GrVO4Wtq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nac-breda-nLNrHc14/?mid=GrVO4Wtq"
   },
@@ -1014,8 +1194,68 @@
     "home": "Heerenveen",
     "home_goals": 2,
     "id": "IspSMV2R",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 17,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "22.03.2014",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "32",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nijmegen-nRluRF0T/summary/stats/?mid=IspSMV2R",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nijmegen-nRluRF0T/?mid=IspSMV2R"
   },
@@ -1182,8 +1422,68 @@
     "home": "Zwolle",
     "home_goals": 2,
     "id": "Me0P2ABe",
+    "shots": {
+      "AS": 13,
+      "AST": 2,
+      "HS": 14,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.03.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/zwolle-r1L5w2EB/summary/stats/?mid=Me0P2ABe",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/zwolle-r1L5w2EB/?mid=Me0P2ABe"
   },
@@ -1902,8 +2202,68 @@
     "home": "Twente",
     "home_goals": 2,
     "id": "fZTS3jdk",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 18,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.03.2014",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/twente-dhOKTHGA/summary/stats/?mid=fZTS3jdk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/twente-dhOKTHGA/?mid=fZTS3jdk"
   },
