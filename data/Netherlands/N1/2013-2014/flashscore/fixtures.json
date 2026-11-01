@@ -882,8 +882,68 @@
     "home": "G.A. Eagles",
     "home_goals": 0,
     "id": "AJFZwOwJ",
+    "shots": {
+      "AS": 15,
+      "AST": 6,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "12.04.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "22",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heerenveen-EDjXSyWG/summary/stats/?mid=AJFZwOwJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heerenveen-EDjXSyWG/?mid=AJFZwOwJ"
   },
@@ -1146,8 +1206,68 @@
     "home": "Cambuur",
     "home_goals": 4,
     "id": "COgI27GJ",
+    "shots": {
+      "AS": 22,
+      "AST": 11,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "12.04.2014",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "22",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "22",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/vitesse-xdFA0eGc/summary/stats/?mid=COgI27GJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/vitesse-xdFA0eGc/?mid=COgI27GJ"
   },
@@ -2826,8 +2946,68 @@
     "home": "Groningen",
     "home_goals": 2,
     "id": "WSGVv4OC",
+    "shots": {
+      "AS": 12,
+      "AST": 6,
+      "HS": 10,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "11.04.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nac-breda-nLNrHc14/summary/stats/?mid=WSGVv4OC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nac-breda-nLNrHc14/?mid=WSGVv4OC"
   },
@@ -3930,8 +4110,68 @@
     "home": "Twente",
     "home_goals": 3,
     "id": "r7plcovs",
+    "shots": {
+      "AS": 3,
+      "AST": 0,
+      "HS": 22,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "12.04.2014",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/twente-dhOKTHGA/summary/stats/?mid=r7plcovs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/twente-dhOKTHGA/?mid=r7plcovs"
   },
@@ -4014,8 +4254,68 @@
     "home": "Den Haag",
     "home_goals": 4,
     "id": "rg5FrnPm",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 16,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "06.04.2014",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/utrecht-p6QXMgOj/summary/stats/?mid=rg5FrnPm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/utrecht-p6QXMgOj/?mid=rg5FrnPm"
   },
@@ -4182,8 +4482,68 @@
     "home": "Feyenoord",
     "home_goals": 2,
     "id": "tvOIs6vf",
+    "shots": {
+      "AS": 6,
+      "AST": 1,
+      "HS": 17,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "06.04.2014",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/waalwijk-lvM1vra5/summary/stats/?mid=tvOIs6vf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/waalwijk-lvM1vra5/?mid=tvOIs6vf"
   },
