@@ -126,8 +126,68 @@
     "home": "Feyenoord",
     "home_goals": 1,
     "id": "4IAfUzmt",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 14,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "02.03.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/feyenoord-8zjySeoN/summary/stats/?mid=4IAfUzmt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/feyenoord-8zjySeoN/?mid=4IAfUzmt"
   },
@@ -234,8 +294,68 @@
     "home": "PSV",
     "home_goals": 1,
     "id": "8GfONjWN",
+    "shots": {
+      "AS": 6,
+      "AST": 0,
+      "HS": 27,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "08.03.2014",
+    "statistics": [
+      {
+        "away": "35%",
+        "home": "65%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "27",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "27",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "15",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "34",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/summary/stats/?mid=8GfONjWN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/?mid=8GfONjWN"
   },
@@ -930,8 +1050,68 @@
     "home": "Utrecht",
     "home_goals": 1,
     "id": "QXb3SEHh",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "02.03.2014",
+    "statistics": [
+      {
+        "away": "65%",
+        "home": "35%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/summary/stats/?mid=QXb3SEHh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=QXb3SEHh"
   },
@@ -1602,8 +1782,68 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "r99bTf2n",
+    "shots": {
+      "AS": 18,
+      "AST": 5,
+      "HS": 15,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "02.03.2014",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "21",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/groningen-MBUGcjb9/summary/stats/?mid=r99bTf2n",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/groningen-MBUGcjb9/?mid=r99bTf2n"
   },
@@ -1686,8 +1926,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 4,
     "id": "vysxCgXB",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 27,
+      "HST": 14
+    },
     "source": "flashscore",
     "source_status": "02.03.2014",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "27",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "27",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "14",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/waalwijk-lvM1vra5/summary/stats/?mid=vysxCgXB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/waalwijk-lvM1vra5/?mid=vysxCgXB"
   },
@@ -1734,8 +2034,68 @@
     "home": "Vitesse",
     "home_goals": 3,
     "id": "z3zoAX1O",
+    "shots": {
+      "AS": 3,
+      "AST": 0,
+      "HS": 24,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "01.03.2014",
+    "statistics": [
+      {
+        "away": "30%",
+        "home": "70%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/vitesse-xdFA0eGc/summary/stats/?mid=z3zoAX1O",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/vitesse-xdFA0eGc/?mid=z3zoAX1O"
   },
