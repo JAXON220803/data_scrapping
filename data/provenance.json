@@ -1,5 +1,85 @@
 [
   {
+    "away": "Heerenveen",
+    "date": "17/02/13",
+    "field": "AS",
+    "fixture_id": "YJVuJj8q",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 11
+  },
+  {
+    "away": "Heerenveen",
+    "date": "17/02/13",
+    "field": "AST",
+    "fixture_id": "YJVuJj8q",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 11
+  },
+  {
+    "away": "Heerenveen",
+    "date": "17/02/13",
+    "field": "HS",
+    "fixture_id": "YJVuJj8q",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 6
+  },
+  {
+    "away": "Heerenveen",
+    "date": "17/02/13",
+    "field": "HST",
+    "fixture_id": "YJVuJj8q",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 6
+  },
+  {
+    "away": "Groningen",
+    "date": "17/02/13",
+    "field": "AS",
+    "fixture_id": "CAUqIANk",
+    "home": "Vitesse",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Groningen",
+    "date": "17/02/13",
+    "field": "AST",
+    "fixture_id": "CAUqIANk",
+    "home": "Vitesse",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Groningen",
+    "date": "17/02/13",
+    "field": "HS",
+    "fixture_id": "CAUqIANk",
+    "home": "Vitesse",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Groningen",
+    "date": "17/02/13",
+    "field": "HST",
+    "fixture_id": "CAUqIANk",
+    "home": "Vitesse",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
     "away": "AZ Alkmaar",
     "date": "23/02/14",
     "field": "AS",

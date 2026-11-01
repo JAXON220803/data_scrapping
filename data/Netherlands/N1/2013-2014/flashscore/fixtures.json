@@ -510,8 +510,11 @@
     "home": "Waalwijk",
     "home_goals": 2,
     "id": "2uJplZRg",
+    "shots": {},
     "source": "flashscore",
     "source_status": "18.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/waalwijk-lvM1vra5/?mid=2uJplZRg"
   },
@@ -1026,8 +1029,11 @@
     "home": "Dordrecht",
     "home_goals": 3,
     "id": "8IJtkFCm",
+    "shots": {},
     "source": "flashscore",
     "source_status": "18.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dordrecht-fT0n14Vt/sparta-rotterdam-KK4FaFV3/?mid=8IJtkFCm"
   },
@@ -2481,8 +2487,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 0,
     "id": "K2Wx10lo",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 17,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "15.05.2014",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/summary/stats/?mid=K2Wx10lo",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=K2Wx10lo"
   },
@@ -2724,8 +2790,68 @@
     "home": "Groningen",
     "home_goals": 3,
     "id": "M7ALPqRo",
+    "shots": {
+      "AS": 14,
+      "AST": 4,
+      "HS": 9,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "18.05.2014",
+    "statistics": [
+      {
+        "away": "61%",
+        "home": "39%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/summary/stats/?mid=M7ALPqRo",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=M7ALPqRo"
   },
@@ -3774,8 +3900,11 @@
     "home": "Excelsior",
     "home_goals": 2,
     "id": "URKxjecs",
+    "shots": {},
     "source": "flashscore",
     "source_status": "15.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/waalwijk-lvM1vra5/?mid=URKxjecs"
   },
@@ -5271,8 +5400,11 @@
     "home": "Sparta Rotterdam",
     "home_goals": 2,
     "id": "lYxAfykQ",
+    "shots": {},
     "source": "flashscore",
     "source_status": "15.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dordrecht-fT0n14Vt/sparta-rotterdam-KK4FaFV3/?mid=lYxAfykQ"
   },
@@ -6291,8 +6423,11 @@
     "home": "Excelsior",
     "home_goals": 2,
     "id": "x6k8tc02",
+    "shots": {},
     "source": "flashscore",
     "source_status": "11.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-bosch-4IzxgrNP/excelsior-nNlLsRUr/?mid=x6k8tc02"
   },
