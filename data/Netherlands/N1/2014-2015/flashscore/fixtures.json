@@ -947,8 +947,58 @@
     "home": "NAC Breda",
     "home_goals": 1,
     "id": "6TXnkV51",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "31.05.2015 AET",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "25",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/roda-6FRTNZ8p/summary/stats/?mid=6TXnkV51",
     "status": "special_result",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/roda-6FRTNZ8p/?mid=6TXnkV51"
   },
@@ -2479,8 +2529,58 @@
     "home": "FC Volendam",
     "home_goals": 0,
     "id": "O4rrjBje",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 16,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "31.05.2015",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "33",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/fc-volendam-6VbkuOqa/summary/stats/?mid=O4rrjBje",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/fc-volendam-6VbkuOqa/?mid=O4rrjBje"
   },
@@ -5749,8 +5849,58 @@
     "home": "Roda",
     "home_goals": 0,
     "id": "pEqviiyk",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 19,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "28.05.2015",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "11",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/roda-6FRTNZ8p/summary/stats/?mid=pEqviiyk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/roda-6FRTNZ8p/?mid=pEqviiyk"
   },
@@ -6337,8 +6487,68 @@
     "home": "Vitesse",
     "home_goals": 5,
     "id": "txNl86IG",
+    "shots": {
+      "AS": 8,
+      "AST": 5,
+      "HS": 23,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "31.05.2015",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "28",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/summary/stats/?mid=txNl86IG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/?mid=txNl86IG"
   },

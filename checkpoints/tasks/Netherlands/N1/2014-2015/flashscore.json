@@ -1,6 +1,7 @@
 {
   "inventory_complete": true,
   "next_page": 0,
-  "phase": "statistics",
+  "phase": "done",
+  "reason": "all_source_fixtures_checked",
   "signature": "cf6178cb242e4a9d63d47cb08fee64a17694361ed36ac88c104187e3271da214"
 }
