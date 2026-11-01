@@ -1038,8 +1038,11 @@
     "home": "Venlo",
     "home_goals": 1,
     "id": "8jumum4S",
+    "shots": {},
     "source": "flashscore",
     "source_status": "08.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dordrecht-fT0n14Vt/venlo-UNA6IKFC/?mid=8jumum4S"
   },
@@ -1497,8 +1500,68 @@
     "home": "Heerenveen",
     "home_goals": 1,
     "id": "C47ELxUj",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 29,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "10.05.2014",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "29",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "29",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "10",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/summary/stats/?mid=C47ELxUj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/?mid=C47ELxUj"
   },
@@ -1653,8 +1716,11 @@
     "home": "Den Bosch",
     "home_goals": 1,
     "id": "EXHFz7Cq",
+    "shots": {},
     "source": "flashscore",
     "source_status": "08.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-bosch-4IzxgrNP/excelsior-nNlLsRUr/?mid=EXHFz7Cq"
   },
@@ -1953,8 +2019,68 @@
     "home": "AZ Alkmaar",
     "home_goals": 3,
     "id": "GYLrRb6T",
+    "shots": {
+      "AS": 12,
+      "AST": 6,
+      "HS": 17,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "07.05.2014",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/summary/stats/?mid=GYLrRb6T",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/?mid=GYLrRb6T"
   },
@@ -2037,8 +2163,11 @@
     "home": "Nijmegen",
     "home_goals": 1,
     "id": "GYsEtv6G",
+    "shots": {},
     "source": "flashscore",
     "source_status": "11.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/sparta-rotterdam-KK4FaFV3/?mid=GYsEtv6G"
   },
@@ -2607,8 +2736,11 @@
     "home": "Sparta Rotterdam",
     "home_goals": 1,
     "id": "MZl5r0y4",
+    "shots": {},
     "source": "flashscore",
     "source_status": "09.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/sparta-rotterdam-KK4FaFV3/?mid=MZl5r0y4"
   },
@@ -4014,8 +4146,11 @@
     "home": "De Graafschap",
     "home_goals": 0,
     "id": "Y9h9sKjA",
+    "shots": {},
     "source": "flashscore",
     "source_status": "08.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/waalwijk-lvM1vra5/?mid=Y9h9sKjA"
   },
@@ -4026,8 +4161,68 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "YD8AMIEp",
+    "shots": {
+      "AS": 14,
+      "AST": 2,
+      "HS": 5,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "07.05.2014",
+    "statistics": [
+      {
+        "away": "70%",
+        "home": "30%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "32",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/summary/stats/?mid=YD8AMIEp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=YD8AMIEp"
   },
@@ -4110,8 +4305,11 @@
     "home": "Dordrecht",
     "home_goals": 2,
     "id": "bLJRX4d2",
+    "shots": {},
     "source": "flashscore",
     "source_status": "11.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dordrecht-fT0n14Vt/venlo-UNA6IKFC/?mid=bLJRX4d2"
   },
@@ -4410,8 +4608,11 @@
     "home": "Waalwijk",
     "home_goals": 1,
     "id": "fPtIubLM",
+    "shots": {},
     "source": "flashscore",
     "source_status": "11.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/de-graafschap-naL1J006/waalwijk-lvM1vra5/?mid=fPtIubLM"
   },
@@ -4782,8 +4983,68 @@
     "home": "Vitesse",
     "home_goals": 1,
     "id": "lMjcpM6i",
+    "shots": {
+      "AS": 14,
+      "AST": 11,
+      "HS": 22,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.05.2014",
+    "statistics": [
+      {
+        "away": "34%",
+        "home": "66%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "14",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/summary/stats/?mid=lMjcpM6i",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=lMjcpM6i"
   },
