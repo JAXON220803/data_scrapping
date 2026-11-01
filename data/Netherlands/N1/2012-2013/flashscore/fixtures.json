@@ -548,8 +548,58 @@
     "home": "Heracles",
     "home_goals": 3,
     "id": "KYQuxWEL",
+    "shots": {
+      "AS": 9,
+      "AST": 9,
+      "HS": 11,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "23.02.2013",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "35",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "33",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/vitesse-xdFA0eGc/summary/stats/?mid=KYQuxWEL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/vitesse-xdFA0eGc/?mid=KYQuxWEL"
   },
@@ -740,8 +790,58 @@
     "home": "Willem II",
     "home_goals": 2,
     "id": "WCpoGlh2",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "22.02.2013",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/willem-ii-6u3qag0G/summary/stats/?mid=WCpoGlh2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/willem-ii-6u3qag0G/?mid=WCpoGlh2"
   },
@@ -862,8 +962,58 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "bJxXwhp9",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "23.02.2013",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "24",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/zwolle-r1L5w2EB/summary/stats/?mid=bJxXwhp9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/zwolle-r1L5w2EB/?mid=bJxXwhp9"
   },
@@ -1030,8 +1180,58 @@
     "home": "Waalwijk",
     "home_goals": 0,
     "id": "hMosHUxd",
+    "shots": {
+      "AS": 10,
+      "AST": 10,
+      "HS": 4,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "17.02.2013",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/waalwijk-lvM1vra5/summary/stats/?mid=hMosHUxd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/waalwijk-lvM1vra5/?mid=hMosHUxd"
   },
@@ -1054,8 +1254,58 @@
     "home": "Heerenveen",
     "home_goals": 2,
     "id": "jHHBW9xq",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 4,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "23.02.2013",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/summary/stats/?mid=jHHBW9xq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/?mid=jHHBW9xq"
   },
@@ -1246,8 +1496,58 @@
     "home": "Zwolle",
     "home_goals": 3,
     "id": "tO7CzJwH",
+    "shots": {
+      "AS": 10,
+      "AST": 10,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "17.02.2013",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/zwolle-r1L5w2EB/summary/stats/?mid=tO7CzJwH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/zwolle-r1L5w2EB/?mid=tO7CzJwH"
   },
