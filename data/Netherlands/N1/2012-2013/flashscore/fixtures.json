@@ -297,8 +297,58 @@
     "home": "PSV",
     "home_goals": 2,
     "id": "4OuEcbbd",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "14.04.2013",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/summary/stats/?mid=4OuEcbbd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/?mid=4OuEcbbd"
   },
@@ -1173,8 +1223,58 @@
     "home": "Waalwijk",
     "home_goals": 1,
     "id": "GCnaL1j3",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 3,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "14.04.2013",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/waalwijk-lvM1vra5/summary/stats/?mid=GCnaL1j3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/waalwijk-lvM1vra5/?mid=GCnaL1j3"
   },
@@ -1457,8 +1557,58 @@
     "home": "Heerenveen",
     "home_goals": 3,
     "id": "IRTeMsyc",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "14.04.2013",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/summary/stats/?mid=IRTeMsyc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/?mid=IRTeMsyc"
   },
@@ -1839,8 +1989,58 @@
     "home": "AZ Alkmaar",
     "home_goals": 6,
     "id": "QXtAbvqj",
+    "shots": {
+      "AS": 1,
+      "AST": 1,
+      "HS": 11,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "14.04.2013",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/summary/stats/?mid=QXtAbvqj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=QXtAbvqj"
   },
@@ -2543,8 +2743,58 @@
     "home": "NAC Breda",
     "home_goals": 2,
     "id": "bNdV5MjG",
+    "shots": {
+      "AS": 4,
+      "AST": 4,
+      "HS": 5,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "13.04.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/summary/stats/?mid=bNdV5MjG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/?mid=bNdV5MjG"
   },
@@ -2579,8 +2829,58 @@
     "home": "Ajax",
     "home_goals": 1,
     "id": "byx4KL59",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 7,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "19.04.2013",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/summary/stats/?mid=byx4KL59",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/?mid=byx4KL59"
   },
