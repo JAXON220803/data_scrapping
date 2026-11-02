@@ -421,8 +421,58 @@
     "home": "Feyenoord",
     "home_goals": 2,
     "id": "4xLnCcDk",
+    "shots": {
+      "AS": 1,
+      "AST": 1,
+      "HS": 13,
+      "HST": 13
+    },
     "source": "flashscore",
     "source_status": "21.04.2013",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "1",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "13",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/vitesse-xdFA0eGc/summary/stats/?mid=4xLnCcDk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/vitesse-xdFA0eGc/?mid=4xLnCcDk"
   },
@@ -433,8 +483,58 @@
     "home": "Groningen",
     "home_goals": 2,
     "id": "61uCIazM",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "20.04.2013",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/summary/stats/?mid=61uCIazM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/?mid=61uCIazM"
   },
@@ -2805,8 +2905,58 @@
     "home": "Utrecht",
     "home_goals": 3,
     "id": "baKjBHSe",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 9,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "21.04.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/utrecht-p6QXMgOj/summary/stats/?mid=baKjBHSe",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/utrecht-p6QXMgOj/?mid=baKjBHSe"
   },
@@ -3361,8 +3511,58 @@
     "home": "Willem II",
     "home_goals": 2,
     "id": "jZGrDwbq",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 11,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "20.04.2013",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/willem-ii-6u3qag0G/summary/stats/?mid=jZGrDwbq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/willem-ii-6u3qag0G/?mid=jZGrDwbq"
   },
@@ -3881,8 +4081,58 @@
     "home": "Heracles",
     "home_goals": 4,
     "id": "phvGHJkS",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "20.04.2013",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/waalwijk-lvM1vra5/summary/stats/?mid=phvGHJkS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/waalwijk-lvM1vra5/?mid=phvGHJkS"
   },
@@ -4425,8 +4675,58 @@
     "home": "AZ Alkmaar",
     "home_goals": 1,
     "id": "xSz8JuLF",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "20.04.2013",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/psv-M9UEHJWi/summary/stats/?mid=xSz8JuLF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/psv-M9UEHJWi/?mid=xSz8JuLF"
   },

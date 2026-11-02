@@ -270,13 +270,13 @@ N1,14/04/13,Heerenveen,Willem II,3,2,H,6,7,6,7
 N1,14/04/13,PSV Eindhoven,Ajax,2,3,A,10,8,10,8
 N1,14/04/13,Waalwijk,Feyenoord,1,1,D,3,8,3,8
 N1,19/04/13,Ajax,Heerenveen,1,1,D,7,6,7,6
-N1,20/04/13,AZ Alkmaar,PSV Eindhoven,1,3,A,,,,
-N1,20/04/13,Groningen,Den Haag,2,1,H,,,,
-N1,20/04/13,Heracles,Waalwijk,4,0,H,,,,
-N1,20/04/13,Willem II,Roda,2,1,H,,,,
-N1,21/04/13,Feyenoord,Vitesse,2,0,H,,,,
+N1,20/04/13,AZ Alkmaar,PSV Eindhoven,1,3,A,6,8,6,8
+N1,20/04/13,Groningen,Den Haag,2,1,H,6,5,6,5
+N1,20/04/13,Heracles,Waalwijk,4,0,H,8,5,8,5
+N1,20/04/13,Willem II,Roda,2,1,H,11,6,11,6
+N1,21/04/13,Feyenoord,Vitesse,2,0,H,13,1,13,1
 N1,21/04/13,Nijmegen,Zwolle,1,3,A,,,,
-N1,21/04/13,Utrecht,NAC Breda,3,0,H,,,,
+N1,21/04/13,Utrecht,NAC Breda,3,0,H,9,7,9,7
 N1,21/04/13,VVV Venlo,Twente,2,2,D,,,,
 N1,26/04/13,Heerenveen,AZ Alkmaar,0,4,A,,,,
 N1,27/04/13,Den Haag,VVV Venlo,1,1,D,,,,
