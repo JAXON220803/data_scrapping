@@ -1360,6 +1360,206 @@
     "value": 14
   },
   {
+    "away": "Twente",
+    "date": "17/03/13",
+    "field": "AS",
+    "fixture_id": "fiH7fYom",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Twente",
+    "date": "17/03/13",
+    "field": "AST",
+    "fixture_id": "fiH7fYom",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Twente",
+    "date": "17/03/13",
+    "field": "HS",
+    "fixture_id": "fiH7fYom",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Twente",
+    "date": "17/03/13",
+    "field": "HST",
+    "fixture_id": "fiH7fYom",
+    "home": "Groningen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Willem II",
+    "date": "17/03/13",
+    "field": "AS",
+    "fixture_id": "bLVy0fOP",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "Willem II",
+    "date": "17/03/13",
+    "field": "AST",
+    "fixture_id": "bLVy0fOP",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "Willem II",
+    "date": "17/03/13",
+    "field": "HS",
+    "fixture_id": "bLVy0fOP",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Willem II",
+    "date": "17/03/13",
+    "field": "HST",
+    "fixture_id": "bLVy0fOP",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Feyenoord",
+    "date": "30/03/13",
+    "field": "AS",
+    "fixture_id": "04n8hCGa",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 11
+  },
+  {
+    "away": "Feyenoord",
+    "date": "30/03/13",
+    "field": "AST",
+    "fixture_id": "04n8hCGa",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 11
+  },
+  {
+    "away": "Feyenoord",
+    "date": "30/03/13",
+    "field": "HS",
+    "fixture_id": "04n8hCGa",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Feyenoord",
+    "date": "30/03/13",
+    "field": "HST",
+    "fixture_id": "04n8hCGa",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "NAC Breda",
+    "date": "30/03/13",
+    "field": "AS",
+    "fixture_id": "jguLkA0I",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "NAC Breda",
+    "date": "30/03/13",
+    "field": "AST",
+    "fixture_id": "jguLkA0I",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "NAC Breda",
+    "date": "30/03/13",
+    "field": "HS",
+    "fixture_id": "jguLkA0I",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "NAC Breda",
+    "date": "30/03/13",
+    "field": "HST",
+    "fixture_id": "jguLkA0I",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Groningen",
+    "date": "30/03/13",
+    "field": "AS",
+    "fixture_id": "fRoCiWV5",
+    "home": "Willem II",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Groningen",
+    "date": "30/03/13",
+    "field": "AST",
+    "fixture_id": "fRoCiWV5",
+    "home": "Willem II",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Groningen",
+    "date": "30/03/13",
+    "field": "HS",
+    "fixture_id": "fRoCiWV5",
+    "home": "Willem II",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Groningen",
+    "date": "30/03/13",
+    "field": "HST",
+    "fixture_id": "fRoCiWV5",
+    "home": "Willem II",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
     "away": "AZ Alkmaar",
     "date": "23/02/14",
     "field": "AS",
