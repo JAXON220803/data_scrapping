@@ -706,8 +706,58 @@
     "home": "Vitesse",
     "home_goals": 2,
     "id": "QmPNT7M1",
+    "shots": {
+      "AS": 11,
+      "AST": 11,
+      "HS": 4,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.03.2013",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/summary/stats/?mid=QmPNT7M1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/?mid=QmPNT7M1"
   },
@@ -852,8 +902,58 @@
     "home": "Ajax",
     "home_goals": 1,
     "id": "WQPJUm7e",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 15,
+      "HST": 15
+    },
     "source": "flashscore",
     "source_status": "24.02.2013",
+    "statistics": [
+      {
+        "away": "28%",
+        "home": "72%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/summary/stats/?mid=WQPJUm7e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/?mid=WQPJUm7e"
   },
@@ -950,8 +1050,58 @@
     "home": "AZ Alkmaar",
     "home_goals": 0,
     "id": "Yu7GVTik",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 7,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "24.02.2013",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nac-breda-nLNrHc14/summary/stats/?mid=Yu7GVTik",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nac-breda-nLNrHc14/?mid=Yu7GVTik"
   },
@@ -1352,8 +1502,58 @@
     "home": "Feyenoord",
     "home_goals": 2,
     "id": "l8VqyjUR",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 14,
+      "HST": 14
+    },
     "source": "flashscore",
     "source_status": "24.02.2013",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/psv-M9UEHJWi/summary/stats/?mid=l8VqyjUR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/psv-M9UEHJWi/?mid=l8VqyjUR"
   },
@@ -1412,8 +1612,58 @@
     "home": "Utrecht",
     "home_goals": 4,
     "id": "pGYSvYU2",
+    "shots": {
+      "AS": 9,
+      "AST": 9,
+      "HS": 12,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "24.02.2013",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/summary/stats/?mid=pGYSvYU2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/?mid=pGYSvYU2"
   },
@@ -1558,8 +1808,58 @@
     "home": "Venlo",
     "home_goals": 1,
     "id": "trSywCaF",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "23.02.2013",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/venlo-UNA6IKFC/waalwijk-lvM1vra5/summary/stats/?mid=trSywCaF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/venlo-UNA6IKFC/waalwijk-lvM1vra5/?mid=trSywCaF"
   },
