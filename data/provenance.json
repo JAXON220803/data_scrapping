@@ -520,6 +520,206 @@
     "value": 4
   },
   {
+    "away": "Heerenveen",
+    "date": "02/03/13",
+    "field": "AS",
+    "fixture_id": "4vORSRy8",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Heerenveen",
+    "date": "02/03/13",
+    "field": "AST",
+    "fixture_id": "4vORSRy8",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Heerenveen",
+    "date": "02/03/13",
+    "field": "HS",
+    "fixture_id": "4vORSRy8",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 5
+  },
+  {
+    "away": "Heerenveen",
+    "date": "02/03/13",
+    "field": "HST",
+    "fixture_id": "4vORSRy8",
+    "home": "NAC Breda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 5
+  },
+  {
+    "away": "Ajax",
+    "date": "02/03/13",
+    "field": "AS",
+    "fixture_id": "MFhCzveE",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 8
+  },
+  {
+    "away": "Ajax",
+    "date": "02/03/13",
+    "field": "AST",
+    "fixture_id": "MFhCzveE",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 8
+  },
+  {
+    "away": "Ajax",
+    "date": "02/03/13",
+    "field": "HS",
+    "fixture_id": "MFhCzveE",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 6
+  },
+  {
+    "away": "Ajax",
+    "date": "02/03/13",
+    "field": "HST",
+    "fixture_id": "MFhCzveE",
+    "home": "Twente",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 6
+  },
+  {
+    "away": "Willem II",
+    "date": "02/03/13",
+    "field": "AS",
+    "fixture_id": "rPg8yKu8",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 1
+  },
+  {
+    "away": "Willem II",
+    "date": "02/03/13",
+    "field": "AST",
+    "fixture_id": "rPg8yKu8",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 1
+  },
+  {
+    "away": "Willem II",
+    "date": "02/03/13",
+    "field": "HS",
+    "fixture_id": "rPg8yKu8",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 6
+  },
+  {
+    "away": "Willem II",
+    "date": "02/03/13",
+    "field": "HST",
+    "fixture_id": "rPg8yKu8",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 6
+  },
+  {
+    "away": "Heracles",
+    "date": "03/03/13",
+    "field": "AS",
+    "fixture_id": "MwXfSF2f",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 8
+  },
+  {
+    "away": "Heracles",
+    "date": "03/03/13",
+    "field": "AST",
+    "fixture_id": "MwXfSF2f",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 8
+  },
+  {
+    "away": "Heracles",
+    "date": "03/03/13",
+    "field": "HS",
+    "fixture_id": "MwXfSF2f",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 8
+  },
+  {
+    "away": "Heracles",
+    "date": "03/03/13",
+    "field": "HST",
+    "fixture_id": "MwXfSF2f",
+    "home": "Den Haag",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 8
+  },
+  {
+    "away": "Feyenoord",
+    "date": "03/03/13",
+    "field": "AS",
+    "fixture_id": "EDXjTeml",
+    "home": "Nijmegen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Feyenoord",
+    "date": "03/03/13",
+    "field": "AST",
+    "fixture_id": "EDXjTeml",
+    "home": "Nijmegen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 9
+  },
+  {
+    "away": "Feyenoord",
+    "date": "03/03/13",
+    "field": "HS",
+    "fixture_id": "EDXjTeml",
+    "home": "Nijmegen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 5
+  },
+  {
+    "away": "Feyenoord",
+    "date": "03/03/13",
+    "field": "HST",
+    "fixture_id": "EDXjTeml",
+    "home": "Nijmegen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 5
+  },
+  {
     "away": "AZ Alkmaar",
     "date": "23/02/14",
     "field": "AS",
