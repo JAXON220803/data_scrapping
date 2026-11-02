@@ -273,8 +273,58 @@
     "home": "Venlo",
     "home_goals": 0,
     "id": "4G7cQmYa",
+    "shots": {
+      "AS": 3,
+      "AST": 3,
+      "HS": 5,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "05.05.2013",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/venlo-UNA6IKFC/summary/stats/?mid=4G7cQmYa",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/venlo-UNA6IKFC/?mid=4G7cQmYa"
   },
@@ -2069,8 +2119,58 @@
     "home": "PSV",
     "home_goals": 4,
     "id": "Ia5oTkls",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 12,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "05.05.2013",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/psv-M9UEHJWi/summary/stats/?mid=Ia5oTkls",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/psv-M9UEHJWi/?mid=Ia5oTkls"
   },
@@ -2081,8 +2181,58 @@
     "home": "NAC Breda",
     "home_goals": 5,
     "id": "K6A9NoII",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "05.05.2013",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/roda-6FRTNZ8p/summary/stats/?mid=K6A9NoII",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/roda-6FRTNZ8p/?mid=K6A9NoII"
   },
@@ -2465,8 +2615,58 @@
     "home": "Ajax",
     "home_goals": 5,
     "id": "ObmDob48",
+    "shots": {
+      "AS": 4,
+      "AST": 4,
+      "HS": 15,
+      "HST": 15
+    },
     "source": "flashscore",
     "source_status": "05.05.2013",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "15",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/summary/stats/?mid=ObmDob48",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/?mid=ObmDob48"
   },
@@ -2477,8 +2677,58 @@
     "home": "Heracles",
     "home_goals": 1,
     "id": "QVe6OR2C",
+    "shots": {
+      "AS": 4,
+      "AST": 4,
+      "HS": 5,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "05.05.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "25",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/summary/stats/?mid=QVe6OR2C",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/?mid=QVe6OR2C"
   },
@@ -3615,8 +3865,58 @@
     "home": "Waalwijk",
     "home_goals": 3,
     "id": "dj4kS93m",
+    "shots": {
+      "AS": 9,
+      "AST": 9,
+      "HS": 7,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "05.05.2013",
+    "statistics": [
+      {
+        "away": "69%",
+        "home": "31%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "12",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/waalwijk-lvM1vra5/summary/stats/?mid=dj4kS93m",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/waalwijk-lvM1vra5/?mid=dj4kS93m"
   },
