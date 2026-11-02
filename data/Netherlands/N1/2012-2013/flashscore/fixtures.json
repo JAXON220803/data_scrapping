@@ -1489,8 +1489,58 @@
     "home": "Nijmegen",
     "home_goals": 1,
     "id": "C0Zny5nI",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 7,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "12.05.2013",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/waalwijk-lvM1vra5/summary/stats/?mid=C0Zny5nI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/waalwijk-lvM1vra5/?mid=C0Zny5nI"
   },
@@ -3063,8 +3113,58 @@
     "home": "Groningen",
     "home_goals": 0,
     "id": "SCXzv72a",
+    "shots": {
+      "AS": 4,
+      "AST": 4,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "12.05.2013",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/summary/stats/?mid=SCXzv72a",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/?mid=SCXzv72a"
   },
@@ -3409,8 +3509,58 @@
     "home": "Heerenveen",
     "home_goals": 0,
     "id": "WjVsDWcl",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "16.05.2013",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/summary/stats/?mid=WjVsDWcl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=WjVsDWcl"
   },
@@ -3421,8 +3571,58 @@
     "home": "Zwolle",
     "home_goals": 4,
     "id": "WpvSuTXn",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 16,
+      "HST": 16
+    },
     "source": "flashscore",
     "source_status": "12.05.2013",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/zwolle-r1L5w2EB/summary/stats/?mid=WpvSuTXn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/zwolle-r1L5w2EB/?mid=WpvSuTXn"
   },
@@ -3867,8 +4067,58 @@
     "home": "Roda",
     "home_goals": 1,
     "id": "bc9DM5XO",
+    "shots": {
+      "AS": 9,
+      "AST": 9,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "12.05.2013",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/summary/stats/?mid=bc9DM5XO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/?mid=bc9DM5XO"
   },
@@ -5763,8 +6013,58 @@
     "home": "Willem II",
     "home_goals": 2,
     "id": "xOvOt9It",
+    "shots": {
+      "AS": 9,
+      "AST": 9,
+      "HS": 4,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "12.05.2013",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "15",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/willem-ii-6u3qag0G/summary/stats/?mid=xOvOt9It",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/willem-ii-6u3qag0G/?mid=xOvOt9It"
   },
