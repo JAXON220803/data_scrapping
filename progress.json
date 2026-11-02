@@ -9,13 +9,13 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "Netherlands/N1/2012-2013"
+      "target": "Netherlands/N1/2011-2012"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 866,
-  "provider_records_with_all_shots": 511,
-  "provider_records_with_statistics": 511,
+  "provider_fixture_records": 975,
+  "provider_records_with_all_shots": 516,
+  "provider_records_with_statistics": 516,
   "recovered_cells": 1756,
   "reference_matches": 36942,
   "reference_matches_still_missing_shots": 29634,
@@ -2044,14 +2044,14 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 0,
-          "inventory_complete": false,
-          "inventory_shortfall": null,
+          "fixtures": 109,
+          "inventory_complete": true,
+          "inventory_shortfall": 197,
           "last_error": null,
-          "phase": "inventory",
+          "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 0
+          "statistics_checked": 3
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -2076,15 +2076,15 @@
       "remaining_missing_shots": 214,
       "sources": {
         "flashscore": {
-          "all_shot_values": 104,
+          "all_shot_values": 109,
           "fixtures": 109,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
+          "phase": "inventory",
           "reason": null,
-          "statistics_available": 104,
-          "statistics_checked": 104
+          "statistics_available": 109,
+          "statistics_checked": 109
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-02T03:57:23.198184+00:00"
+  "updated_utc": "2026-11-02T04:02:45.550486+00:00"
 }
