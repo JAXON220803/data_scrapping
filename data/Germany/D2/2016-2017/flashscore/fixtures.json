@@ -310,8 +310,63 @@
     "home": "Dusseldorf",
     "home_goals": 1,
     "id": "4A8PNeEd",
+    "shots": {
+      "AS": 13,
+      "AST": 4,
+      "HS": 14,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "24",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/summary/stats/?mid=4A8PNeEd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/?mid=4A8PNeEd"
   },
@@ -1409,8 +1464,63 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 1,
     "id": "IaHYXux4",
+    "shots": {
+      "AS": 17,
+      "AST": 7,
+      "HS": 12,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.04.2017",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/summary/stats/?mid=IaHYXux4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/?mid=IaHYXux4"
   },
@@ -1737,8 +1847,63 @@
     "home": "Munich 1860",
     "home_goals": 1,
     "id": "OxIUYLMc",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 7,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.04.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "24",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/summary/stats/?mid=OxIUYLMc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/?mid=OxIUYLMc"
   },
@@ -2199,8 +2364,63 @@
     "home": "Union Berlin",
     "home_goals": 3,
     "id": "UwyvCbFp",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 21,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "16.04.2017",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/union-berlin-pzHW4oaE/summary/stats/?mid=UwyvCbFp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/union-berlin-pzHW4oaE/?mid=UwyvCbFp"
   },
@@ -2235,8 +2455,63 @@
     "home": "St. Pauli",
     "home_goals": 1,
     "id": "bep8HKiN",
+    "shots": {
+      "AS": 13,
+      "AST": 4,
+      "HS": 17,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "16.04.2017",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/wurzburger-kickers-nVM1YUFj/summary/stats/?mid=bep8HKiN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/wurzburger-kickers-nVM1YUFj/?mid=bep8HKiN"
   },
@@ -3238,8 +3513,63 @@
     "home": "Arminia Bielefeld",
     "home_goals": 2,
     "id": "pnJQZ17i",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "17.04.2017",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/vfb-stuttgart-nJQmYp1B/summary/stats/?mid=pnJQZ17i",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/vfb-stuttgart-nJQmYp1B/?mid=pnJQZ17i"
   },
