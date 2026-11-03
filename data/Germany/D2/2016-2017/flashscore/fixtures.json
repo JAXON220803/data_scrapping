@@ -500,8 +500,63 @@
     "home": "Kaiserslautern",
     "home_goals": 1,
     "id": "GAugodBR",
+    "shots": {
+      "AS": 9,
+      "AST": 1,
+      "HS": 13,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "12.03.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/kaiserslautern-naWckLmC/summary/stats/?mid=GAugodBR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/kaiserslautern-naWckLmC/?mid=GAugodBR"
   },
@@ -656,8 +711,63 @@
     "home": "Wurzburger Kickers",
     "home_goals": 0,
     "id": "MBKXwE31",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 14,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "11.03.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/wurzburger-kickers-nVM1YUFj/summary/stats/?mid=MBKXwE31",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/wurzburger-kickers-nVM1YUFj/?mid=MBKXwE31"
   },
@@ -735,8 +845,63 @@
     "home": "St. Pauli",
     "home_goals": 1,
     "id": "MmtknxdL",
+    "shots": {
+      "AS": 18,
+      "AST": 6,
+      "HS": 19,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.03.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/union-berlin-pzHW4oaE/summary/stats/?mid=MmtknxdL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/union-berlin-pzHW4oaE/?mid=MmtknxdL"
   },
@@ -783,8 +948,63 @@
     "home": "Hannover",
     "home_goals": 1,
     "id": "QLntlbR8",
+    "shots": {
+      "AS": 14,
+      "AST": 6,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "11.03.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/munich-1860-byXHwsJa/summary/stats/?mid=QLntlbR8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/munich-1860-byXHwsJa/?mid=QLntlbR8"
   },
@@ -1126,8 +1346,63 @@
     "home": "Sandhausen",
     "home_goals": 1,
     "id": "hWWKtGJr",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 10,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "12.03.2017",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/summary/stats/?mid=hWWKtGJr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/?mid=hWWKtGJr"
   },
@@ -1222,8 +1497,63 @@
     "home": "Stuttgart",
     "home_goals": 1,
     "id": "nVmxkvC2",
+    "shots": {
+      "AS": 11,
+      "AST": 2,
+      "HS": 19,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.03.2017",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "13",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/vfb-stuttgart-nJQmYp1B/summary/stats/?mid=nVmxkvC2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/vfb-stuttgart-nJQmYp1B/?mid=nVmxkvC2"
   },

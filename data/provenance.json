@@ -120,6 +120,206 @@
     "value": 5
   },
   {
+    "away": "Union Berlin",
+    "date": "10/03/17",
+    "field": "AS",
+    "fixture_id": "MmtknxdL",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 18
+  },
+  {
+    "away": "Union Berlin",
+    "date": "10/03/17",
+    "field": "AST",
+    "fixture_id": "MmtknxdL",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Union Berlin",
+    "date": "10/03/17",
+    "field": "HS",
+    "fixture_id": "MmtknxdL",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 19
+  },
+  {
+    "away": "Union Berlin",
+    "date": "10/03/17",
+    "field": "HST",
+    "fixture_id": "MmtknxdL",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Bochum",
+    "date": "10/03/17",
+    "field": "AS",
+    "fixture_id": "nVmxkvC2",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Bochum",
+    "date": "10/03/17",
+    "field": "AST",
+    "fixture_id": "nVmxkvC2",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Bochum",
+    "date": "10/03/17",
+    "field": "HS",
+    "fixture_id": "nVmxkvC2",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 19
+  },
+  {
+    "away": "Bochum",
+    "date": "10/03/17",
+    "field": "HST",
+    "fixture_id": "nVmxkvC2",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Munich 1860",
+    "date": "11/03/17",
+    "field": "AS",
+    "fixture_id": "QLntlbR8",
+    "home": "Hannover",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "Munich 1860",
+    "date": "11/03/17",
+    "field": "AST",
+    "fixture_id": "QLntlbR8",
+    "home": "Hannover",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Munich 1860",
+    "date": "11/03/17",
+    "field": "HS",
+    "fixture_id": "QLntlbR8",
+    "home": "Hannover",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Munich 1860",
+    "date": "11/03/17",
+    "field": "HST",
+    "fixture_id": "QLntlbR8",
+    "home": "Hannover",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Heidenheim",
+    "date": "12/03/17",
+    "field": "AS",
+    "fixture_id": "GAugodBR",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Heidenheim",
+    "date": "12/03/17",
+    "field": "AST",
+    "fixture_id": "GAugodBR",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 1
+  },
+  {
+    "away": "Heidenheim",
+    "date": "12/03/17",
+    "field": "HS",
+    "fixture_id": "GAugodBR",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 13
+  },
+  {
+    "away": "Heidenheim",
+    "date": "12/03/17",
+    "field": "HST",
+    "fixture_id": "GAugodBR",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 1
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "12/03/17",
+    "field": "AS",
+    "fixture_id": "hWWKtGJr",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "12/03/17",
+    "field": "AST",
+    "fixture_id": "hWWKtGJr",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "12/03/17",
+    "field": "HS",
+    "fixture_id": "hWWKtGJr",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "12/03/17",
+    "field": "HST",
+    "fixture_id": "hWWKtGJr",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 2
+  },
+  {
     "away": "Heerenveen",
     "date": "17/02/13",
     "field": "AS",
