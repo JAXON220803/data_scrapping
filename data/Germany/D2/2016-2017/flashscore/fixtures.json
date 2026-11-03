@@ -509,8 +509,63 @@
     "home": "Union Berlin",
     "home_goals": 0,
     "id": "8tt1Aovt",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 6,
+      "HST": 0
+    },
     "source": "flashscore",
     "source_status": "05.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "0",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/summary/stats/?mid=8tt1Aovt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/?mid=8tt1Aovt"
   },
@@ -861,8 +916,63 @@
     "home": "Greuther Furth",
     "home_goals": 0,
     "id": "G6q98P8h",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 16,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "05.04.2017",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/greuther-furth-CCQGbik8/summary/stats/?mid=G6q98P8h",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/greuther-furth-CCQGbik8/?mid=G6q98P8h"
   },
@@ -1613,8 +1723,63 @@
     "home": "Wurzburger Kickers",
     "home_goals": 0,
     "id": "UFdeKM74",
+    "shots": {
+      "AS": 8,
+      "AST": 0,
+      "HS": 5,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "07.04.2017",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "0",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/wurzburger-kickers-nVM1YUFj/summary/stats/?mid=UFdeKM74",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/wurzburger-kickers-nVM1YUFj/?mid=UFdeKM74"
   },
@@ -2463,8 +2628,63 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 2,
     "id": "ldyM5NhB",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 15,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "05.04.2017",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/heidenheim-KWixEVWi/summary/stats/?mid=ldyM5NhB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/heidenheim-KWixEVWi/?mid=ldyM5NhB"
   },
@@ -2645,8 +2865,63 @@
     "home": "Bochum",
     "home_goals": 0,
     "id": "rJEfk28U",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 19,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "05.04.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "8",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/summary/stats/?mid=rJEfk28U",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/?mid=rJEfk28U"
   },
@@ -2954,8 +3229,63 @@
     "home": "Munich 1860",
     "home_goals": 1,
     "id": "xMXH63w5",
+    "shots": {
+      "AS": 16,
+      "AST": 6,
+      "HS": 6,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "05.04.2017",
+    "statistics": [
+      {
+        "away": "68%",
+        "home": "32%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/vfb-stuttgart-nJQmYp1B/summary/stats/?mid=xMXH63w5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/vfb-stuttgart-nJQmYp1B/?mid=xMXH63w5"
   },
