@@ -1,5 +1,8 @@
 {
+  "inventory_complete": false,
+  "inventory_retry_at": 1793763527.076704,
+  "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
   "next_page": 0,
-  "phase": "inventory",
+  "phase": "statistics",
   "signature": "b4f06208f29901815beecfebfdbcc9c18bba6827b89a51c9857c523955843af0"
 }

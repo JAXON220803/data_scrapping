@@ -1,1 +1,1537 @@
-{}
+{
+  "00lVdS9t": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2017-04-02",
+    "home": "Kaiserslautern",
+    "home_goals": 0,
+    "id": "00lVdS9t",
+    "source": "flashscore",
+    "source_status": "02.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/kaiserslautern-naWckLmC/?mid=00lVdS9t"
+  },
+  "02JywYI7": {
+    "away": "Hannover",
+    "away_goals": 0,
+    "date": "2017-03-18",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "02JywYI7",
+    "source": "flashscore",
+    "source_status": "18.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/st-pauli-ILyJuN3g/?mid=02JywYI7"
+  },
+  "0GbkUIhQ": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2017-05-07",
+    "home": "Stuttgart",
+    "home_goals": 3,
+    "id": "0GbkUIhQ",
+    "source": "flashscore",
+    "source_status": "07.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/vfb-stuttgart-nJQmYp1B/?mid=0GbkUIhQ"
+  },
+  "27cK1He8": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2017-03-19",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "27cK1He8",
+    "source": "flashscore",
+    "source_status": "19.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/bochum-8Y2m6ADe/?mid=27cK1He8"
+  },
+  "2PpHPx1s": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 1,
+    "date": "2017-05-07",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "2PpHPx1s",
+    "source": "flashscore",
+    "source_status": "07.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/bochum-8Y2m6ADe/?mid=2PpHPx1s"
+  },
+  "2R5JXiaI": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2017-05-14",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "2R5JXiaI",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/kaiserslautern-naWckLmC/?mid=2R5JXiaI"
+  },
+  "2Vu7hDIf": {
+    "away": "Wurzburger Kickers",
+    "away_goals": 1,
+    "date": "2017-03-17",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "2Vu7hDIf",
+    "source": "flashscore",
+    "source_status": "17.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/wurzburger-kickers-nVM1YUFj/?mid=2Vu7hDIf"
+  },
+  "4A8PNeEd": {
+    "away": "St. Pauli",
+    "away_goals": 3,
+    "date": "2017-04-21",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "4A8PNeEd",
+    "source": "flashscore",
+    "source_status": "21.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/?mid=4A8PNeEd"
+  },
+  "4USlQlze": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 2,
+    "date": "2017-04-28",
+    "home": "Bochum",
+    "home_goals": 4,
+    "id": "4USlQlze",
+    "source": "flashscore",
+    "source_status": "28.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/?mid=4USlQlze"
+  },
+  "6HsYLf06": {
+    "away": "Hannover",
+    "away_goals": 2,
+    "date": "2017-05-05",
+    "home": "Heidenheim",
+    "home_goals": 0,
+    "id": "6HsYLf06",
+    "source": "flashscore",
+    "source_status": "05.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/heidenheim-KWixEVWi/?mid=6HsYLf06"
+  },
+  "6ZSlUcyT": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2017-04-21",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "6ZSlUcyT",
+    "source": "flashscore",
+    "source_status": "21.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/?mid=6ZSlUcyT"
+  },
+  "6gaoVbwK": {
+    "away": "Wurzburger Kickers",
+    "away_goals": 1,
+    "date": "2017-04-30",
+    "home": "Aue",
+    "home_goals": 3,
+    "id": "6gaoVbwK",
+    "source": "flashscore",
+    "source_status": "30.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/wurzburger-kickers-nVM1YUFj/?mid=6gaoVbwK"
+  },
+  "808nMrwh": {
+    "away": "Union Berlin",
+    "away_goals": 2,
+    "date": "2017-04-09",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "808nMrwh",
+    "source": "flashscore",
+    "source_status": "09.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/union-berlin-pzHW4oaE/?mid=808nMrwh"
+  },
+  "82ZuSA5r": {
+    "away": "Stuttgart",
+    "away_goals": 3,
+    "date": "2017-04-29",
+    "home": "Nurnberg",
+    "home_goals": 2,
+    "id": "82ZuSA5r",
+    "source": "flashscore",
+    "source_status": "29.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/vfb-stuttgart-nJQmYp1B/?mid=82ZuSA5r"
+  },
+  "846FYXqC": {
+    "away": "Bochum",
+    "away_goals": 2,
+    "date": "2017-05-14",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "846FYXqC",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/munich-1860-byXHwsJa/?mid=846FYXqC"
+  },
+  "84SplDqa": {
+    "away": "Nurnberg",
+    "away_goals": 0,
+    "date": "2017-05-21",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "84SplDqa",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/nurnberg-6FDqshzF/?mid=84SplDqa"
+  },
+  "88t3gg3l": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2017-03-17",
+    "home": "Arminia Bielefeld",
+    "home_goals": 2,
+    "id": "88t3gg3l",
+    "source": "flashscore",
+    "source_status": "17.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/kaiserslautern-naWckLmC/?mid=88t3gg3l"
+  },
+  "8UZsBIUj": {
+    "away": "Heidenheim",
+    "away_goals": 1,
+    "date": "2017-04-16",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "8UZsBIUj",
+    "source": "flashscore",
+    "source_status": "16.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/karlsruher-EB3q7jbk/?mid=8UZsBIUj"
+  },
+  "8rFGPHqp": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 2,
+    "date": "2017-04-22",
+    "home": "Heidenheim",
+    "home_goals": 2,
+    "id": "8rFGPHqp",
+    "source": "flashscore",
+    "source_status": "22.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/heidenheim-KWixEVWi/?mid=8rFGPHqp"
+  },
+  "8tt1Aovt": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2017-04-05",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "8tt1Aovt",
+    "source": "flashscore",
+    "source_status": "05.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/?mid=8tt1Aovt"
+  },
+  "AX0SaeQK": {
+    "away": "Dusseldorf",
+    "away_goals": 3,
+    "date": "2017-03-19",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "AX0SaeQK",
+    "source": "flashscore",
+    "source_status": "19.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/karlsruher-EB3q7jbk/?mid=AX0SaeQK"
+  },
+  "CblCGv7T": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2017-04-16",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "CblCGv7T",
+    "source": "flashscore",
+    "source_status": "16.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/?mid=CblCGv7T"
+  },
+  "CfWdOS47": {
+    "away": "Kaiserslautern",
+    "away_goals": 3,
+    "date": "2017-04-29",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "CfWdOS47",
+    "source": "flashscore",
+    "source_status": "29.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/?mid=CfWdOS47"
+  },
+  "CxD6zfFa": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 4,
+    "date": "2017-05-14",
+    "home": "Karlsruher SC",
+    "home_goals": 3,
+    "id": "CxD6zfFa",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/karlsruher-EB3q7jbk/?mid=CxD6zfFa"
+  },
+  "E19NWBEO": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2017-05-14",
+    "home": "Wurzburger Kickers",
+    "home_goals": 0,
+    "id": "E19NWBEO",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/wurzburger-kickers-nVM1YUFj/?mid=E19NWBEO"
+  },
+  "E5qBiXX0": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2017-03-19",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 2,
+    "id": "E5qBiXX0",
+    "source": "flashscore",
+    "source_status": "19.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/sandhausen-UZxEj1R4/?mid=E5qBiXX0"
+  },
+  "ERhrTdkq": {
+    "away": "Sandhausen",
+    "away_goals": 2,
+    "date": "2017-03-05",
+    "home": "Heidenheim",
+    "home_goals": 2,
+    "id": "ERhrTdkq",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 13,
+      "HST": 5
+    },
+    "source": "flashscore",
+    "source_status": "05.03.2017",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/sandhausen-UZxEj1R4/summary/stats/?mid=ERhrTdkq",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/sandhausen-UZxEj1R4/?mid=ERhrTdkq"
+  },
+  "EoLTvfle": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2017-03-10",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "EoLTvfle",
+    "shots": {
+      "AS": 14,
+      "AST": 3,
+      "HS": 5,
+      "HST": 4
+    },
+    "source": "flashscore",
+    "source_status": "10.03.2017",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/summary/stats/?mid=EoLTvfle",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/?mid=EoLTvfle"
+  },
+  "G6BCqwyG": {
+    "away": "Dusseldorf",
+    "away_goals": 0,
+    "date": "2017-04-30",
+    "home": "Hannover",
+    "home_goals": 1,
+    "id": "G6BCqwyG",
+    "source": "flashscore",
+    "source_status": "30.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/hannover-dfNCCCzS/?mid=G6BCqwyG"
+  },
+  "G6m6eeiP": {
+    "away": "Wurzburger Kickers",
+    "away_goals": 1,
+    "date": "2017-05-21",
+    "home": "Stuttgart",
+    "home_goals": 4,
+    "id": "G6m6eeiP",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/vfb-stuttgart-nJQmYp1B/wurzburger-kickers-nVM1YUFj/?mid=G6m6eeiP"
+  },
+  "G6q98P8h": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2017-04-05",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "G6q98P8h",
+    "source": "flashscore",
+    "source_status": "05.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/greuther-furth-CCQGbik8/?mid=G6q98P8h"
+  },
+  "GA1O0yBE": {
+    "away": "Nurnberg",
+    "away_goals": 0,
+    "date": "2017-03-20",
+    "home": "Union Berlin",
+    "home_goals": 1,
+    "id": "GA1O0yBE",
+    "source": "flashscore",
+    "source_status": "20.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/union-berlin-pzHW4oaE/?mid=GA1O0yBE"
+  },
+  "GAugodBR": {
+    "away": "Heidenheim",
+    "away_goals": 1,
+    "date": "2017-03-12",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "GAugodBR",
+    "source": "flashscore",
+    "source_status": "12.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/kaiserslautern-naWckLmC/?mid=GAugodBR"
+  },
+  "GUVhniEB": {
+    "away": "Hannover",
+    "away_goals": 1,
+    "date": "2017-05-21",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "GUVhniEB",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/sandhausen-UZxEj1R4/?mid=GUVhniEB"
+  },
+  "GWf3I0xH": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2017-04-15",
+    "home": "Nurnberg",
+    "home_goals": 2,
+    "id": "GWf3I0xH",
+    "source": "flashscore",
+    "source_status": "15.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/nurnberg-6FDqshzF/?mid=GWf3I0xH"
+  },
+  "GpzxXaiA": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2017-04-24",
+    "home": "Stuttgart",
+    "home_goals": 3,
+    "id": "GpzxXaiA",
+    "source": "flashscore",
+    "source_status": "24.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/union-berlin-pzHW4oaE/vfb-stuttgart-nJQmYp1B/?mid=GpzxXaiA"
+  },
+  "IDd7nuic": {
+    "away": "Hannover",
+    "away_goals": 2,
+    "date": "2017-04-22",
+    "home": "Aue",
+    "home_goals": 2,
+    "id": "IDd7nuic",
+    "source": "flashscore",
+    "source_status": "22.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/hannover-dfNCCCzS/?mid=IDd7nuic"
+  },
+  "IFZXjFat": {
+    "away": "St. Pauli",
+    "away_goals": 3,
+    "date": "2017-05-21",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "IFZXjFat",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/?mid=IFZXjFat"
+  },
+  "IJBL6ti0": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2017-05-26",
+    "home": "Regensburg",
+    "home_goals": 1,
+    "id": "IJBL6ti0",
+    "source": "flashscore",
+    "source_status": "26.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/regensburg-UiCmEP56/?mid=IJBL6ti0"
+  },
+  "IaHYXux4": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2017-04-16",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "IaHYXux4",
+    "source": "flashscore",
+    "source_status": "16.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/?mid=IaHYXux4"
+  },
+  "K0uMOdGm": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2017-05-08",
+    "home": "Braunschweig",
+    "home_goals": 3,
+    "id": "K0uMOdGm",
+    "source": "flashscore",
+    "source_status": "08.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/union-berlin-pzHW4oaE/?mid=K0uMOdGm"
+  },
+  "KvYRsxNP": {
+    "away": "Stuttgart",
+    "away_goals": 0,
+    "date": "2017-05-14",
+    "home": "Hannover",
+    "home_goals": 1,
+    "id": "KvYRsxNP",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/vfb-stuttgart-nJQmYp1B/?mid=KvYRsxNP"
+  },
+  "M5wpRUKl": {
+    "away": "Heidenheim",
+    "away_goals": 0,
+    "date": "2017-04-28",
+    "home": "St. Pauli",
+    "home_goals": 3,
+    "id": "M5wpRUKl",
+    "source": "flashscore",
+    "source_status": "28.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/?mid=M5wpRUKl"
+  },
+  "M7WlmXb5": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2017-05-21",
+    "home": "Heidenheim",
+    "home_goals": 2,
+    "id": "M7WlmXb5",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/munich-1860-byXHwsJa/?mid=M7WlmXb5"
+  },
+  "M9ZT31NN": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2017-04-10",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "M9ZT31NN",
+    "source": "flashscore",
+    "source_status": "10.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dresden-zL1YsOi1/?mid=M9ZT31NN"
+  },
+  "MBKXwE31": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 2,
+    "date": "2017-03-11",
+    "home": "Wurzburger Kickers",
+    "home_goals": 0,
+    "id": "MBKXwE31",
+    "source": "flashscore",
+    "source_status": "11.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/wurzburger-kickers-nVM1YUFj/?mid=MBKXwE31"
+  },
+  "MZ0GXxsS": {
+    "away": "Nurnberg",
+    "away_goals": 0,
+    "date": "2017-03-05",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "MZ0GXxsS",
+    "shots": {
+      "AS": 7,
+      "AST": 1,
+      "HS": 14,
+      "HST": 5
+    },
+    "source": "flashscore",
+    "source_status": "05.03.2017",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/nurnberg-6FDqshzF/summary/stats/?mid=MZ0GXxsS",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/nurnberg-6FDqshzF/?mid=MZ0GXxsS"
+  },
+  "MmtknxdL": {
+    "away": "Union Berlin",
+    "away_goals": 2,
+    "date": "2017-03-10",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "MmtknxdL",
+    "source": "flashscore",
+    "source_status": "10.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/union-berlin-pzHW4oaE/?mid=MmtknxdL"
+  },
+  "OxIUYLMc": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2017-04-16",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "OxIUYLMc",
+    "source": "flashscore",
+    "source_status": "16.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/?mid=OxIUYLMc"
+  },
+  "OzR1EfuE": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2017-03-31",
+    "home": "Nurnberg",
+    "home_goals": 2,
+    "id": "OzR1EfuE",
+    "source": "flashscore",
+    "source_status": "31.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/nurnberg-6FDqshzF/?mid=OzR1EfuE"
+  },
+  "QLAfwdVt": {
+    "away": "Dusseldorf",
+    "away_goals": 3,
+    "date": "2017-05-14",
+    "home": "Nurnberg",
+    "home_goals": 2,
+    "id": "QLAfwdVt",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/nurnberg-6FDqshzF/?mid=QLAfwdVt"
+  },
+  "QLntlbR8": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2017-03-11",
+    "home": "Hannover",
+    "home_goals": 1,
+    "id": "QLntlbR8",
+    "source": "flashscore",
+    "source_status": "11.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/munich-1860-byXHwsJa/?mid=QLntlbR8"
+  },
+  "QuwtkgUh": {
+    "away": "Union Berlin",
+    "away_goals": 2,
+    "date": "2017-05-21",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "QuwtkgUh",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/?mid=QuwtkgUh"
+  },
+  "SWVtKYUI": {
+    "away": "Wurzburger Kickers",
+    "away_goals": 1,
+    "date": "2017-05-06",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "SWVtKYUI",
+    "source": "flashscore",
+    "source_status": "06.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/wurzburger-kickers-nVM1YUFj/?mid=SWVtKYUI"
+  },
+  "UD7BZDU5": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2017-05-14",
+    "home": "Arminia Bielefeld",
+    "home_goals": 6,
+    "id": "UD7BZDU5",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/braunschweig-QqLCC3il/?mid=UD7BZDU5"
+  },
+  "UFAjjrgO": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2017-04-04",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "UFAjjrgO",
+    "source": "flashscore",
+    "source_status": "04.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/?mid=UFAjjrgO"
+  },
+  "UFdeKM74": {
+    "away": "Hannover",
+    "away_goals": 0,
+    "date": "2017-04-07",
+    "home": "Wurzburger Kickers",
+    "home_goals": 0,
+    "id": "UFdeKM74",
+    "source": "flashscore",
+    "source_status": "07.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/wurzburger-kickers-nVM1YUFj/?mid=UFdeKM74"
+  },
+  "UHsafZmr": {
+    "away": "Stuttgart",
+    "away_goals": 0,
+    "date": "2017-03-18",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "UHsafZmr",
+    "source": "flashscore",
+    "source_status": "18.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/vfb-stuttgart-nJQmYp1B/?mid=UHsafZmr"
+  },
+  "Uutngp95": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2017-03-31",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "Uutngp95",
+    "source": "flashscore",
+    "source_status": "31.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/?mid=Uutngp95"
+  },
+  "UwyvCbFp": {
+    "away": "Kaiserslautern",
+    "away_goals": 1,
+    "date": "2017-04-16",
+    "home": "Union Berlin",
+    "home_goals": 3,
+    "id": "UwyvCbFp",
+    "source": "flashscore",
+    "source_status": "16.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/union-berlin-pzHW4oaE/?mid=UwyvCbFp"
+  },
+  "YoE2yz0g": {
+    "away": "Heidenheim",
+    "away_goals": 1,
+    "date": "2017-05-14",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "YoE2yz0g",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/union-berlin-pzHW4oaE/?mid=YoE2yz0g"
+  },
+  "b9PtWJ6G": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2017-04-23",
+    "home": "Braunschweig",
+    "home_goals": 2,
+    "id": "b9PtWJ6G",
+    "source": "flashscore",
+    "source_status": "23.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/braunschweig-QqLCC3il/?mid=b9PtWJ6G"
+  },
+  "bep8HKiN": {
+    "away": "Wurzburger Kickers",
+    "away_goals": 0,
+    "date": "2017-04-16",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "bep8HKiN",
+    "source": "flashscore",
+    "source_status": "16.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/wurzburger-kickers-nVM1YUFj/?mid=bep8HKiN"
+  },
+  "bivQNGVg": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2017-05-07",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "bivQNGVg",
+    "source": "flashscore",
+    "source_status": "07.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/karlsruher-EB3q7jbk/?mid=bivQNGVg"
+  },
+  "d2Crh4OB": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 1,
+    "date": "2017-04-01",
+    "home": "Wurzburger Kickers",
+    "home_goals": 1,
+    "id": "d2Crh4OB",
+    "source": "flashscore",
+    "source_status": "01.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/wurzburger-kickers-nVM1YUFj/?mid=d2Crh4OB"
+  },
+  "d4eBoa63": {
+    "away": "Nurnberg",
+    "away_goals": 1,
+    "date": "2017-04-23",
+    "home": "Wurzburger Kickers",
+    "home_goals": 1,
+    "id": "d4eBoa63",
+    "source": "flashscore",
+    "source_status": "23.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/wurzburger-kickers-nVM1YUFj/?mid=d4eBoa63"
+  },
+  "dAAP5066": {
+    "away": "Regensburg",
+    "away_goals": 2,
+    "date": "2017-05-30",
+    "home": "Munich 1860",
+    "home_goals": 0,
+    "id": "dAAP5066",
+    "source": "flashscore",
+    "source_status": "30.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/regensburg-UiCmEP56/?mid=dAAP5066"
+  },
+  "dSsve6vg": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2017-04-01",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "dSsve6vg",
+    "source": "flashscore",
+    "source_status": "01.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/sandhausen-UZxEj1R4/?mid=dSsve6vg"
+  },
+  "dUYFjim7": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 3,
+    "date": "2017-04-02",
+    "home": "Stuttgart",
+    "home_goals": 3,
+    "id": "dUYFjim7",
+    "source": "flashscore",
+    "source_status": "02.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/vfb-stuttgart-nJQmYp1B/?mid=dUYFjim7"
+  },
+  "fJesWvOD": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2017-04-30",
+    "home": "Munich 1860",
+    "home_goals": 0,
+    "id": "fJesWvOD",
+    "source": "flashscore",
+    "source_status": "30.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/?mid=fJesWvOD"
+  },
+  "fLUdoBTH": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2017-05-21",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "fLUdoBTH",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dusseldorf-ne1oL3y7/?mid=fLUdoBTH"
+  },
+  "fc4rNONo": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 3,
+    "date": "2017-04-07",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "fc4rNONo",
+    "source": "flashscore",
+    "source_status": "07.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/sandhausen-UZxEj1R4/?mid=fc4rNONo"
+  },
+  "fcrD7qOb": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2017-04-04",
+    "home": "Arminia Bielefeld",
+    "home_goals": 2,
+    "id": "fcrD7qOb",
+    "source": "flashscore",
+    "source_status": "04.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dusseldorf-ne1oL3y7/?mid=fcrD7qOb"
+  },
+  "hEwUMzo0": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2017-05-05",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "hEwUMzo0",
+    "source": "flashscore",
+    "source_status": "05.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/?mid=hEwUMzo0"
+  },
+  "hIinSG4k": {
+    "away": "Aue",
+    "away_goals": 2,
+    "date": "2017-03-05",
+    "home": "Arminia Bielefeld",
+    "home_goals": 2,
+    "id": "hIinSG4k",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 9,
+      "HST": 2
+    },
+    "source": "flashscore",
+    "source_status": "05.03.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "24",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/aue-vsXIDreP/summary/stats/?mid=hIinSG4k",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/aue-vsXIDreP/?mid=hIinSG4k"
+  },
+  "hWWKtGJr": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2017-03-12",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "hWWKtGJr",
+    "source": "flashscore",
+    "source_status": "12.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/?mid=hWWKtGJr"
+  },
+  "j74LOyaj": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2017-04-23",
+    "home": "Sandhausen",
+    "home_goals": 4,
+    "id": "j74LOyaj",
+    "source": "flashscore",
+    "source_status": "23.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/?mid=j74LOyaj"
+  },
+  "jPciL2hb": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2017-04-09",
+    "home": "Aue",
+    "home_goals": 3,
+    "id": "jPciL2hb",
+    "source": "flashscore",
+    "source_status": "09.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/munich-1860-byXHwsJa/?mid=jPciL2hb"
+  },
+  "jksrfQga": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2017-03-31",
+    "home": "Dusseldorf",
+    "home_goals": 0,
+    "id": "jksrfQga",
+    "source": "flashscore",
+    "source_status": "31.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/?mid=jksrfQga"
+  },
+  "joV0NnKD": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2017-04-29",
+    "home": "Arminia Bielefeld",
+    "home_goals": 1,
+    "id": "joV0NnKD",
+    "source": "flashscore",
+    "source_status": "29.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/greuther-furth-CCQGbik8/?mid=joV0NnKD"
+  },
+  "lOaWbFuR": {
+    "away": "Heidenheim",
+    "away_goals": 2,
+    "date": "2017-03-17",
+    "home": "Braunschweig",
+    "home_goals": 3,
+    "id": "lOaWbFuR",
+    "source": "flashscore",
+    "source_status": "17.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/heidenheim-KWixEVWi/?mid=lOaWbFuR"
+  },
+  "ldyM5NhB": {
+    "away": "Heidenheim",
+    "away_goals": 1,
+    "date": "2017-04-05",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 2,
+    "id": "ldyM5NhB",
+    "source": "flashscore",
+    "source_status": "05.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/heidenheim-KWixEVWi/?mid=ldyM5NhB"
+  },
+  "ltXxLEFC": {
+    "away": "Nurnberg",
+    "away_goals": 1,
+    "date": "2017-05-06",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "ltXxLEFC",
+    "source": "flashscore",
+    "source_status": "06.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/sandhausen-UZxEj1R4/?mid=ltXxLEFC"
+  },
+  "nVmxkvC2": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2017-03-10",
+    "home": "Stuttgart",
+    "home_goals": 1,
+    "id": "nVmxkvC2",
+    "source": "flashscore",
+    "source_status": "10.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/vfb-stuttgart-nJQmYp1B/?mid=nVmxkvC2"
+  },
+  "nXv595gn": {
+    "away": "Wurzburger Kickers",
+    "away_goals": 1,
+    "date": "2017-04-04",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "nXv595gn",
+    "source": "flashscore",
+    "source_status": "04.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/wurzburger-kickers-nVM1YUFj/?mid=nXv595gn"
+  },
+  "nkvxjZEn": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2017-05-21",
+    "home": "Braunschweig",
+    "home_goals": 2,
+    "id": "nkvxjZEn",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/karlsruher-EB3q7jbk/?mid=nkvxjZEn"
+  },
+  "pnJQZ17i": {
+    "away": "Stuttgart",
+    "away_goals": 3,
+    "date": "2017-04-17",
+    "home": "Arminia Bielefeld",
+    "home_goals": 2,
+    "id": "pnJQZ17i",
+    "source": "flashscore",
+    "source_status": "17.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/vfb-stuttgart-nJQmYp1B/?mid=pnJQZ17i"
+  },
+  "rJEfk28U": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2017-04-05",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "rJEfk28U",
+    "source": "flashscore",
+    "source_status": "05.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/?mid=rJEfk28U"
+  },
+  "rJzQ4s8H": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2017-04-07",
+    "home": "Nurnberg",
+    "home_goals": 0,
+    "id": "rJzQ4s8H",
+    "source": "flashscore",
+    "source_status": "07.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/st-pauli-ILyJuN3g/?mid=rJzQ4s8H"
+  },
+  "rLRhP8k1": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2017-04-28",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "rLRhP8k1",
+    "source": "flashscore",
+    "source_status": "28.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/?mid=rLRhP8k1"
+  },
+  "rPwzdnPn": {
+    "away": "Greuther Furth",
+    "away_goals": 2,
+    "date": "2017-04-02",
+    "home": "Heidenheim",
+    "home_goals": 0,
+    "id": "rPwzdnPn",
+    "source": "flashscore",
+    "source_status": "02.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/heidenheim-KWixEVWi/?mid=rPwzdnPn"
+  },
+  "rcsomItF": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 0,
+    "date": "2017-03-12",
+    "home": "Nurnberg",
+    "home_goals": 1,
+    "id": "rcsomItF",
+    "source": "flashscore",
+    "source_status": "12.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/nurnberg-6FDqshzF/?mid=rcsomItF"
+  },
+  "rq2CYIRL": {
+    "away": "Stuttgart",
+    "away_goals": 1,
+    "date": "2017-03-06",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "rq2CYIRL",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 14,
+      "HST": 5
+    },
+    "source": "flashscore",
+    "source_status": "06.03.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/vfb-stuttgart-nJQmYp1B/summary/stats/?mid=rq2CYIRL",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/vfb-stuttgart-nJQmYp1B/?mid=rq2CYIRL"
+  },
+  "tfG0buoo": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2017-04-08",
+    "home": "Heidenheim",
+    "home_goals": 0,
+    "id": "tfG0buoo",
+    "source": "flashscore",
+    "source_status": "08.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/heidenheim-KWixEVWi/?mid=tfG0buoo"
+  },
+  "tlZNrI7J": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2017-05-05",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "tlZNrI7J",
+    "source": "flashscore",
+    "source_status": "05.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/munich-1860-byXHwsJa/?mid=tlZNrI7J"
+  },
+  "vPEbxGpm": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2017-05-14",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "vPEbxGpm",
+    "source": "flashscore",
+    "source_status": "14.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/st-pauli-ILyJuN3g/?mid=vPEbxGpm"
+  },
+  "voUY2LxU": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2017-04-08",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "voUY2LxU",
+    "source": "flashscore",
+    "source_status": "08.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/kaiserslautern-naWckLmC/?mid=voUY2LxU"
+  },
+  "x0OpVwMM": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2017-04-21",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "x0OpVwMM",
+    "source": "flashscore",
+    "source_status": "21.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/greuther-furth-CCQGbik8/?mid=x0OpVwMM"
+  },
+  "xGC8pJL9": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2017-04-09",
+    "home": "Stuttgart",
+    "home_goals": 2,
+    "id": "xGC8pJL9",
+    "source": "flashscore",
+    "source_status": "09.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/vfb-stuttgart-nJQmYp1B/?mid=xGC8pJL9"
+  },
+  "xMXH63w5": {
+    "away": "Stuttgart",
+    "away_goals": 1,
+    "date": "2017-04-05",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "xMXH63w5",
+    "source": "flashscore",
+    "source_status": "05.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/vfb-stuttgart-nJQmYp1B/?mid=xMXH63w5"
+  },
+  "xtdaJtNA": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2017-04-15",
+    "home": "Hannover",
+    "home_goals": 1,
+    "id": "xtdaJtNA",
+    "source": "flashscore",
+    "source_status": "15.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/hannover-dfNCCCzS/?mid=xtdaJtNA"
+  },
+  "zLXJkB2D": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2017-04-01",
+    "home": "Hannover",
+    "home_goals": 2,
+    "id": "zLXJkB2D",
+    "source": "flashscore",
+    "source_status": "01.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/union-berlin-pzHW4oaE/?mid=zLXJkB2D"
+  },
+  "zXofpVrO": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 1,
+    "date": "2017-05-21",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "zXofpVrO",
+    "source": "flashscore",
+    "source_status": "21.05.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dresden-zL1YsOi1/?mid=zXofpVrO"
+  },
+  "zeMPuzZl": {
+    "away": "Braunschweig",
+    "away_goals": 2,
+    "date": "2017-03-13",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "zeMPuzZl",
+    "source": "flashscore",
+    "source_status": "13.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dusseldorf-ne1oL3y7/?mid=zeMPuzZl"
+  },
+  "zgBniOwI": {
+    "away": "Nurnberg",
+    "away_goals": 0,
+    "date": "2017-04-04",
+    "home": "Hannover",
+    "home_goals": 1,
+    "id": "zgBniOwI",
+    "source": "flashscore",
+    "source_status": "04.04.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/nurnberg-6FDqshzF/?mid=zgBniOwI"
+  }
+}
