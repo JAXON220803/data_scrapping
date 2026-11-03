@@ -9,7 +9,7 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "Netherlands/N1/2010-2011"
+      "target": "Germany/D2/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
@@ -2015,10 +2015,10 @@
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
+          "phase": "inventory",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 84
+          "statistics_checked": 104
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-03T03:32:01.805371+00:00"
+  "updated_utc": "2026-11-03T03:37:35.177074+00:00"
 }
