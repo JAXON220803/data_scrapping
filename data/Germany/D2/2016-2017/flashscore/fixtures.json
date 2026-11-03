@@ -377,8 +377,63 @@
     "home": "Bochum",
     "home_goals": 4,
     "id": "4USlQlze",
+    "shots": {
+      "AS": 15,
+      "AST": 6,
+      "HS": 13,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/summary/stats/?mid=4USlQlze",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/?mid=4USlQlze"
   },
@@ -547,8 +602,63 @@
     "home": "Nurnberg",
     "home_goals": 2,
     "id": "82ZuSA5r",
+    "shots": {
+      "AS": 15,
+      "AST": 9,
+      "HS": 14,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "29.04.2017",
+    "statistics": [
+      {
+        "away": "66%",
+        "home": "34%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/vfb-stuttgart-nJQmYp1B/summary/stats/?mid=82ZuSA5r",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/vfb-stuttgart-nJQmYp1B/?mid=82ZuSA5r"
   },
@@ -1526,8 +1636,63 @@
     "home": "Stuttgart",
     "home_goals": 3,
     "id": "GpzxXaiA",
+    "shots": {
+      "AS": 15,
+      "AST": 7,
+      "HS": 19,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "24.04.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/union-berlin-pzHW4oaE/vfb-stuttgart-nJQmYp1B/summary/stats/?mid=GpzxXaiA",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/union-berlin-pzHW4oaE/vfb-stuttgart-nJQmYp1B/?mid=GpzxXaiA"
   },
@@ -1720,8 +1885,63 @@
     "home": "St. Pauli",
     "home_goals": 3,
     "id": "M5wpRUKl",
+    "shots": {
+      "AS": 5,
+      "AST": 0,
+      "HS": 14,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/summary/stats/?mid=M5wpRUKl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/?mid=M5wpRUKl"
   },
@@ -3338,8 +3558,63 @@
     "home": "Sandhausen",
     "home_goals": 4,
     "id": "j74LOyaj",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 16,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "23.04.2017",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/summary/stats/?mid=j74LOyaj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/?mid=j74LOyaj"
   },
@@ -3989,8 +4264,63 @@
     "home": "Union Berlin",
     "home_goals": 2,
     "id": "rLRhP8k1",
+    "shots": {
+      "AS": 7,
+      "AST": 1,
+      "HS": 17,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/summary/stats/?mid=rLRhP8k1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/?mid=rLRhP8k1"
   },
