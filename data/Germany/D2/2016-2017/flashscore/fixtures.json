@@ -444,8 +444,63 @@
     "home": "Heidenheim",
     "home_goals": 0,
     "id": "6HsYLf06",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "05.05.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/heidenheim-KWixEVWi/summary/stats/?mid=6HsYLf06",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/hannover-dfNCCCzS/heidenheim-KWixEVWi/?mid=6HsYLf06"
   },
@@ -2632,8 +2687,63 @@
     "home": "Dusseldorf",
     "home_goals": 1,
     "id": "SWVtKYUI",
+    "shots": {
+      "AS": 16,
+      "AST": 2,
+      "HS": 11,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "06.05.2017",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/wurzburger-kickers-nVM1YUFj/summary/stats/?mid=SWVtKYUI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/wurzburger-kickers-nVM1YUFj/?mid=SWVtKYUI"
   },
@@ -3429,8 +3539,63 @@
     "home": "Munich 1860",
     "home_goals": 0,
     "id": "fJesWvOD",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 22,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "30.04.2017",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/summary/stats/?mid=fJesWvOD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/?mid=fJesWvOD"
   },
@@ -3587,8 +3752,63 @@
     "home": "Kaiserslautern",
     "home_goals": 1,
     "id": "hEwUMzo0",
+    "shots": {
+      "AS": 10,
+      "AST": 2,
+      "HS": 16,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "05.05.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/summary/stats/?mid=hEwUMzo0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/?mid=hEwUMzo0"
   },
@@ -4135,8 +4355,63 @@
     "home": "Sandhausen",
     "home_goals": 0,
     "id": "ltXxLEFC",
+    "shots": {
+      "AS": 15,
+      "AST": 6,
+      "HS": 11,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "06.05.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/sandhausen-UZxEj1R4/summary/stats/?mid=ltXxLEFC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/sandhausen-UZxEj1R4/?mid=ltXxLEFC"
   },
@@ -4829,8 +5104,63 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 1,
     "id": "tlZNrI7J",
+    "shots": {
+      "AS": 23,
+      "AST": 8,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "05.05.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "23",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "23",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/munich-1860-byXHwsJa/summary/stats/?mid=tlZNrI7J",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/munich-1860-byXHwsJa/?mid=tlZNrI7J"
   },
