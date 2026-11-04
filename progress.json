@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 520,
-  "filled_cells_percent": 1.7291,
-  "filled_percent": 1.7291,
+  "completed_missing_matches": 525,
+  "filled_cells_percent": 1.7458,
+  "filled_percent": 1.7458,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 1288,
-  "provider_records_with_all_shots": 632,
-  "provider_records_with_statistics": 632,
-  "recovered_cells": 2080,
+  "provider_records_with_all_shots": 638,
+  "provider_records_with_statistics": 638,
+  "recovered_cells": 2100,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29553,
+  "reference_matches_still_missing_shots": 29548,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1275,24 +1275,24 @@
       }
     },
     {
-      "cells_recovered": 40,
-      "completed_missing_matches": 10,
-      "filled_percent": 3.268,
+      "cells_recovered": 60,
+      "completed_missing_matches": 15,
+      "filled_percent": 4.902,
       "id": "Germany/D2/2015-2016",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 296,
+      "remaining_missing_shots": 291,
       "sources": {
         "flashscore": {
-          "all_shot_values": 11,
+          "all_shot_values": 17,
           "fixtures": 104,
           "inventory_complete": true,
           "inventory_shortfall": 202,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 11,
-          "statistics_checked": 11
+          "statistics_available": 17,
+          "statistics_checked": 17
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-04T06:57:22.465338+00:00"
+  "updated_utc": "2026-11-04T07:03:11.052231+00:00"
 }
