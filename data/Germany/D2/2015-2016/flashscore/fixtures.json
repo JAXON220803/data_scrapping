@@ -212,8 +212,63 @@
     "home": "Paderborn",
     "home_goals": 0,
     "id": "4zUYxjOO",
+    "shots": {
+      "AS": 13,
+      "AST": 2,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "18.03.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/paderborn-G2Op923t/summary/stats/?mid=4zUYxjOO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/paderborn-G2Op923t/?mid=4zUYxjOO"
   },
@@ -224,8 +279,63 @@
     "home": "Sandhausen",
     "home_goals": 0,
     "id": "63j4hVNB",
+    "shots": {
+      "AS": 10,
+      "AST": 2,
+      "HS": 7,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "19.03.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/summary/stats/?mid=63j4hVNB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/?mid=63j4hVNB"
   },
@@ -303,8 +413,63 @@
     "home": "Kaiserslautern",
     "home_goals": 0,
     "id": "6JWtkdHJ",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 20,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "14.03.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/summary/stats/?mid=6JWtkdHJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/?mid=6JWtkdHJ"
   },
@@ -1534,8 +1699,63 @@
     "home": "Heidenheim",
     "home_goals": 2,
     "id": "Ov1agB85",
+    "shots": {
+      "AS": 12,
+      "AST": 3,
+      "HS": 22,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "18.03.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/heidenheim-KWixEVWi/summary/stats/?mid=Ov1agB85",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/heidenheim-KWixEVWi/?mid=Ov1agB85"
   },
@@ -2006,8 +2226,63 @@
     "home": "Dusseldorf",
     "home_goals": 4,
     "id": "fa9rcg9t",
+    "shots": {
+      "AS": 12,
+      "AST": 2,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "19.03.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/summary/stats/?mid=fa9rcg9t",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/?mid=fa9rcg9t"
   },
@@ -2710,8 +2985,63 @@
     "home": "Union Berlin",
     "home_goals": 3,
     "id": "xObmdDOn",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 17,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "18.03.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/union-berlin-pzHW4oaE/summary/stats/?mid=xObmdDOn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/union-berlin-pzHW4oaE/?mid=xObmdDOn"
   },
