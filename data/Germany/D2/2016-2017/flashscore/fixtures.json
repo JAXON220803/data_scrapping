@@ -523,8 +523,73 @@
     "home": "Aue",
     "home_goals": 3,
     "id": "6gaoVbwK",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "30.04.2017",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "28",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "32",
+        "home": "15",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "26",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/wurzburger-kickers-nVM1YUFj/summary/stats/?mid=6gaoVbwK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/wurzburger-kickers-nVM1YUFj/?mid=6gaoVbwK"
   },
@@ -1095,8 +1160,63 @@
     "home": "Karlsruher SC",
     "home_goals": 1,
     "id": "CfWdOS47",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 15,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "29.04.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "8",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/summary/stats/?mid=CfWdOS47",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/?mid=CfWdOS47"
   },
@@ -1332,8 +1452,63 @@
     "home": "Hannover",
     "home_goals": 1,
     "id": "G6BCqwyG",
+    "shots": {
+      "AS": 10,
+      "AST": 1,
+      "HS": 19,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "30.04.2017",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/hannover-dfNCCCzS/summary/stats/?mid=G6BCqwyG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/hannover-dfNCCCzS/?mid=G6BCqwyG"
   },
@@ -3759,8 +3934,63 @@
     "home": "Arminia Bielefeld",
     "home_goals": 1,
     "id": "joV0NnKD",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 16,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "29.04.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/greuther-furth-CCQGbik8/summary/stats/?mid=joV0NnKD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/greuther-furth-CCQGbik8/?mid=joV0NnKD"
   },
