@@ -6,8 +6,63 @@
     "home": "Duisburg",
     "home_goals": 2,
     "id": "02kaKvDL",
+    "shots": {
+      "AS": 14,
+      "AST": 4,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/munich-1860-byXHwsJa/summary/stats/?mid=02kaKvDL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/munich-1860-byXHwsJa/?mid=02kaKvDL"
   },
@@ -1617,8 +1672,63 @@
     "home": "Dusseldorf",
     "home_goals": 1,
     "id": "IJX89Nb3",
+    "shots": {
+      "AS": 13,
+      "AST": 7,
+      "HS": 6,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "11.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/rb-leipzig-KbS1suSm/summary/stats/?mid=IJX89Nb3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/rb-leipzig-KbS1suSm/?mid=IJX89Nb3"
   },
@@ -2285,8 +2395,63 @@
     "home": "RB Leipzig",
     "home_goals": 0,
     "id": "QP6h1a6q",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 17,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/sandhausen-UZxEj1R4/summary/stats/?mid=QP6h1a6q",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/sandhausen-UZxEj1R4/?mid=QP6h1a6q"
   },
@@ -2297,8 +2462,63 @@
     "home": "Kaiserslautern",
     "home_goals": 0,
     "id": "QPpNoK6d",
+    "shots": {
+      "AS": 3,
+      "AST": 0,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.04.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/summary/stats/?mid=QPpNoK6d",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/?mid=QPpNoK6d"
   },
@@ -2455,8 +2675,63 @@
     "home": "Freiburg",
     "home_goals": 4,
     "id": "UciEmtxp",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 14,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "10.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/freiburg-fiEQZ7C7/st-pauli-ILyJuN3g/summary/stats/?mid=UciEmtxp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/freiburg-fiEQZ7C7/st-pauli-ILyJuN3g/?mid=UciEmtxp"
   },
@@ -3719,8 +3994,63 @@
     "home": "Nurnberg",
     "home_goals": 1,
     "id": "vTY4A3qc",
+    "shots": {
+      "AS": 13,
+      "AST": 7,
+      "HS": 19,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.04.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/nurnberg-6FDqshzF/summary/stats/?mid=vTY4A3qc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/nurnberg-6FDqshzF/?mid=vTY4A3qc"
   },
