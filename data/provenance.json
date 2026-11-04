@@ -1680,6 +1680,246 @@
     "value": 4
   },
   {
+    "away": "Freiburg",
+    "date": "04/04/16",
+    "field": "AS",
+    "fixture_id": "UHNQ9Whn",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 16
+  },
+  {
+    "away": "Freiburg",
+    "date": "04/04/16",
+    "field": "AST",
+    "fixture_id": "UHNQ9Whn",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Freiburg",
+    "date": "04/04/16",
+    "field": "HS",
+    "fixture_id": "UHNQ9Whn",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 13
+  },
+  {
+    "away": "Freiburg",
+    "date": "04/04/16",
+    "field": "HST",
+    "fixture_id": "UHNQ9Whn",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Braunschweig",
+    "date": "08/04/16",
+    "field": "AS",
+    "fixture_id": "EoRH71TF",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 15
+  },
+  {
+    "away": "Braunschweig",
+    "date": "08/04/16",
+    "field": "AST",
+    "fixture_id": "EoRH71TF",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Braunschweig",
+    "date": "08/04/16",
+    "field": "HS",
+    "fixture_id": "EoRH71TF",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 15
+  },
+  {
+    "away": "Braunschweig",
+    "date": "08/04/16",
+    "field": "HST",
+    "fixture_id": "EoRH71TF",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "08/04/16",
+    "field": "AS",
+    "fixture_id": "zeSD8sE9",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "08/04/16",
+    "field": "AST",
+    "fixture_id": "zeSD8sE9",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "08/04/16",
+    "field": "HS",
+    "fixture_id": "zeSD8sE9",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 18
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "08/04/16",
+    "field": "HST",
+    "fixture_id": "zeSD8sE9",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Union Berlin",
+    "date": "08/04/16",
+    "field": "AS",
+    "fixture_id": "CMtJn0ij",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Union Berlin",
+    "date": "08/04/16",
+    "field": "AST",
+    "fixture_id": "CMtJn0ij",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Union Berlin",
+    "date": "08/04/16",
+    "field": "HS",
+    "fixture_id": "CMtJn0ij",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Union Berlin",
+    "date": "08/04/16",
+    "field": "HST",
+    "fixture_id": "CMtJn0ij",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "09/04/16",
+    "field": "AS",
+    "fixture_id": "hYTp587H",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 17
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "09/04/16",
+    "field": "AST",
+    "fixture_id": "hYTp587H",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "09/04/16",
+    "field": "HS",
+    "fixture_id": "hYTp587H",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 21
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "09/04/16",
+    "field": "HST",
+    "fixture_id": "hYTp587H",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Bielefeld",
+    "date": "09/04/16",
+    "field": "AS",
+    "fixture_id": "88QL6LrM",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Bielefeld",
+    "date": "09/04/16",
+    "field": "AST",
+    "fixture_id": "88QL6LrM",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Bielefeld",
+    "date": "09/04/16",
+    "field": "HS",
+    "fixture_id": "88QL6LrM",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Bielefeld",
+    "date": "09/04/16",
+    "field": "HST",
+    "fixture_id": "88QL6LrM",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 2
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
