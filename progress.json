@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 541,
-  "filled_cells_percent": 1.799,
-  "filled_percent": 1.799,
+  "completed_missing_matches": 547,
+  "filled_cells_percent": 1.8189,
+  "filled_percent": 1.8189,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 1288,
-  "provider_records_with_all_shots": 656,
-  "provider_records_with_statistics": 656,
-  "recovered_cells": 2164,
+  "provider_records_with_all_shots": 662,
+  "provider_records_with_statistics": 662,
+  "recovered_cells": 2188,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29532,
+  "reference_matches_still_missing_shots": 29526,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1275,24 +1275,24 @@
       }
     },
     {
-      "cells_recovered": 124,
-      "completed_missing_matches": 31,
-      "filled_percent": 10.1307,
+      "cells_recovered": 148,
+      "completed_missing_matches": 37,
+      "filled_percent": 12.0915,
       "id": "Germany/D2/2015-2016",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 275,
+      "remaining_missing_shots": 269,
       "sources": {
         "flashscore": {
-          "all_shot_values": 35,
+          "all_shot_values": 41,
           "fixtures": 104,
           "inventory_complete": true,
           "inventory_shortfall": 202,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 35,
-          "statistics_checked": 35
+          "statistics_available": 41,
+          "statistics_checked": 41
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-04T07:20:04.913097+00:00"
+  "updated_utc": "2026-11-04T07:25:41.083807+00:00"
 }
