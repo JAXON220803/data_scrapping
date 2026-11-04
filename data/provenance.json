@@ -2520,6 +2520,206 @@
     "value": 13
   },
   {
+    "away": "Greuther Furth",
+    "date": "24/04/16",
+    "field": "AS",
+    "fixture_id": "MXRVXcsL",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/04/16",
+    "field": "AST",
+    "fixture_id": "MXRVXcsL",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/04/16",
+    "field": "HS",
+    "fixture_id": "MXRVXcsL",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 19
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/04/16",
+    "field": "HST",
+    "fixture_id": "MXRVXcsL",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Braunschweig",
+    "date": "24/04/16",
+    "field": "AS",
+    "fixture_id": "C2puBzz8",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Braunschweig",
+    "date": "24/04/16",
+    "field": "AST",
+    "fixture_id": "C2puBzz8",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Braunschweig",
+    "date": "24/04/16",
+    "field": "HS",
+    "fixture_id": "C2puBzz8",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 20
+  },
+  {
+    "away": "Braunschweig",
+    "date": "24/04/16",
+    "field": "HST",
+    "fixture_id": "C2puBzz8",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "24/04/16",
+    "field": "AS",
+    "fixture_id": "v9xRYwSE",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "24/04/16",
+    "field": "AST",
+    "fixture_id": "v9xRYwSE",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "24/04/16",
+    "field": "HS",
+    "fixture_id": "v9xRYwSE",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "24/04/16",
+    "field": "HST",
+    "fixture_id": "v9xRYwSE",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "RB Leipzig",
+    "date": "25/04/16",
+    "field": "AS",
+    "fixture_id": "rNhOEIzq",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "RB Leipzig",
+    "date": "25/04/16",
+    "field": "AST",
+    "fixture_id": "rNhOEIzq",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "RB Leipzig",
+    "date": "25/04/16",
+    "field": "HS",
+    "fixture_id": "rNhOEIzq",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "RB Leipzig",
+    "date": "25/04/16",
+    "field": "HST",
+    "fixture_id": "rNhOEIzq",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Bochum",
+    "date": "29/04/16",
+    "field": "AS",
+    "fixture_id": "CGPDPZl1",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Bochum",
+    "date": "29/04/16",
+    "field": "AST",
+    "fixture_id": "CGPDPZl1",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Bochum",
+    "date": "29/04/16",
+    "field": "HS",
+    "fixture_id": "CGPDPZl1",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 16
+  },
+  {
+    "away": "Bochum",
+    "date": "29/04/16",
+    "field": "HST",
+    "fixture_id": "CGPDPZl1",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 4
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
