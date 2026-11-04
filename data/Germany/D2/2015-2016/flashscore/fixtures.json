@@ -73,8 +73,63 @@
     "home": "Heidenheim",
     "home_goals": 1,
     "id": "0IwNZJC8",
+    "shots": {
+      "AS": 18,
+      "AST": 6,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "23.04.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/paderborn-G2Op923t/summary/stats/?mid=0IwNZJC8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/paderborn-G2Op923t/?mid=0IwNZJC8"
   },
@@ -255,8 +310,63 @@
     "home": "Braunschweig",
     "home_goals": 2,
     "id": "4G5d0JLk",
+    "shots": {
+      "AS": 8,
+      "AST": 6,
+      "HS": 18,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "18.04.2016",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/freiburg-fiEQZ7C7/summary/stats/?mid=4G5d0JLk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/freiburg-fiEQZ7C7/?mid=4G5d0JLk"
   },
@@ -3041,8 +3151,63 @@
     "home": "Bochum",
     "home_goals": 1,
     "id": "YBoyCGK1",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 20,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "22.04.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/summary/stats/?mid=YBoyCGK1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/?mid=YBoyCGK1"
   },
@@ -3771,8 +3936,63 @@
     "home": "Dusseldorf",
     "home_goals": 1,
     "id": "jmdWCd5e",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 13,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "22.04.2016",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/summary/stats/?mid=jmdWCd5e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/?mid=jmdWCd5e"
   },
@@ -4288,8 +4508,63 @@
     "home": "Freiburg",
     "home_goals": 3,
     "id": "tE6dJbSR",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 10,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "22.04.2016",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/freiburg-fiEQZ7C7/summary/stats/?mid=tE6dJbSR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/freiburg-fiEQZ7C7/?mid=tE6dJbSR"
   },
@@ -4683,8 +4958,63 @@
     "home": "Nurnberg",
     "home_goals": 6,
     "id": "xphSDxjk",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 26,
+      "HST": 13
+    },
     "source": "flashscore",
     "source_status": "23.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "13",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/union-berlin-pzHW4oaE/summary/stats/?mid=xphSDxjk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/union-berlin-pzHW4oaE/?mid=xphSDxjk"
   },
