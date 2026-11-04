@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 515,
-  "filled_cells_percent": 1.7125,
-  "filled_percent": 1.7125,
+  "completed_missing_matches": 520,
+  "filled_cells_percent": 1.7291,
+  "filled_percent": 1.7291,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 1288,
-  "provider_records_with_all_shots": 626,
-  "provider_records_with_statistics": 626,
-  "recovered_cells": 2060,
+  "provider_records_with_all_shots": 632,
+  "provider_records_with_statistics": 632,
+  "recovered_cells": 2080,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29558,
+  "reference_matches_still_missing_shots": 29553,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1275,24 +1275,24 @@
       }
     },
     {
-      "cells_recovered": 20,
-      "completed_missing_matches": 5,
-      "filled_percent": 1.634,
+      "cells_recovered": 40,
+      "completed_missing_matches": 10,
+      "filled_percent": 3.268,
       "id": "Germany/D2/2015-2016",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 301,
+      "remaining_missing_shots": 296,
       "sources": {
         "flashscore": {
-          "all_shot_values": 5,
+          "all_shot_values": 11,
           "fixtures": 104,
           "inventory_complete": true,
           "inventory_shortfall": 202,
           "last_error": null,
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 5,
-          "statistics_checked": 5
+          "statistics_available": 11,
+          "statistics_checked": 11
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-04T06:51:52.409659+00:00"
+  "updated_utc": "2026-11-04T06:57:22.465338+00:00"
 }
