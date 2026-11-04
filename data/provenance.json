@@ -1,5 +1,205 @@
 [
   {
+    "away": "Frankfurt FSV",
+    "date": "28/02/16",
+    "field": "AS",
+    "fixture_id": "29tkM6sG",
+    "home": "Braunschweig",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "28/02/16",
+    "field": "AST",
+    "fixture_id": "29tkM6sG",
+    "home": "Braunschweig",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "28/02/16",
+    "field": "HS",
+    "fixture_id": "29tkM6sG",
+    "home": "Braunschweig",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "28/02/16",
+    "field": "HST",
+    "fixture_id": "29tkM6sG",
+    "home": "Braunschweig",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "St Pauli",
+    "date": "28/02/16",
+    "field": "AS",
+    "fixture_id": "AF3GxSRd",
+    "home": "Duisburg",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "St Pauli",
+    "date": "28/02/16",
+    "field": "AST",
+    "fixture_id": "AF3GxSRd",
+    "home": "Duisburg",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "St Pauli",
+    "date": "28/02/16",
+    "field": "HS",
+    "fixture_id": "AF3GxSRd",
+    "home": "Duisburg",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 19
+  },
+  {
+    "away": "St Pauli",
+    "date": "28/02/16",
+    "field": "HST",
+    "fixture_id": "AF3GxSRd",
+    "home": "Duisburg",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Bielefeld",
+    "date": "28/02/16",
+    "field": "AS",
+    "fixture_id": "8APXDrkd",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 17
+  },
+  {
+    "away": "Bielefeld",
+    "date": "28/02/16",
+    "field": "AST",
+    "fixture_id": "8APXDrkd",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Bielefeld",
+    "date": "28/02/16",
+    "field": "HS",
+    "fixture_id": "8APXDrkd",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Bielefeld",
+    "date": "28/02/16",
+    "field": "HST",
+    "fixture_id": "8APXDrkd",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Munich 1860",
+    "date": "01/03/16",
+    "field": "AS",
+    "fixture_id": "f35SZPBF",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Munich 1860",
+    "date": "01/03/16",
+    "field": "AST",
+    "fixture_id": "f35SZPBF",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Munich 1860",
+    "date": "01/03/16",
+    "field": "HS",
+    "fixture_id": "f35SZPBF",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 18
+  },
+  {
+    "away": "Munich 1860",
+    "date": "01/03/16",
+    "field": "HST",
+    "fixture_id": "f35SZPBF",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Paderborn",
+    "date": "01/03/16",
+    "field": "AS",
+    "fixture_id": "GC6Oz6d9",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Paderborn",
+    "date": "01/03/16",
+    "field": "AST",
+    "fixture_id": "GC6Oz6d9",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 0
+  },
+  {
+    "away": "Paderborn",
+    "date": "01/03/16",
+    "field": "HS",
+    "fixture_id": "GC6Oz6d9",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Paderborn",
+    "date": "01/03/16",
+    "field": "HST",
+    "fixture_id": "GC6Oz6d9",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 0
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",

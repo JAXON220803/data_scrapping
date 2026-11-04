@@ -54,8 +54,63 @@
     "home": "Braunschweig",
     "home_goals": 0,
     "id": "29tkM6sG",
+    "shots": {
+      "AS": 11,
+      "AST": 1,
+      "HS": 10,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "28.02.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/fsv-frankfurt-CG1hDqLC/summary/stats/?mid=29tkM6sG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/fsv-frankfurt-CG1hDqLC/?mid=29tkM6sG"
   },
@@ -210,8 +265,63 @@
     "home": "Heidenheim",
     "home_goals": 3,
     "id": "8APXDrkd",
+    "shots": {
+      "AS": 17,
+      "AST": 5,
+      "HS": 11,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "28.02.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/heidenheim-KWixEVWi/summary/stats/?mid=8APXDrkd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/heidenheim-KWixEVWi/?mid=8APXDrkd"
   },
@@ -234,8 +344,63 @@
     "home": "Duisburg",
     "home_goals": 0,
     "id": "AF3GxSRd",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 19,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "28.02.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/st-pauli-ILyJuN3g/summary/stats/?mid=AF3GxSRd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/st-pauli-ILyJuN3g/?mid=AF3GxSRd"
   },
@@ -402,8 +567,63 @@
     "home": "Karlsruher SC",
     "home_goals": 0,
     "id": "GC6Oz6d9",
+    "shots": {
+      "AS": 8,
+      "AST": 0,
+      "HS": 6,
+      "HST": 0
+    },
     "source": "flashscore",
     "source_status": "01.03.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/paderborn-G2Op923t/summary/stats/?mid=GC6Oz6d9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/paderborn-G2Op923t/?mid=GC6Oz6d9"
   },
@@ -882,8 +1102,63 @@
     "home": "Kaiserslautern",
     "home_goals": 0,
     "id": "f35SZPBF",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 18,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "01.03.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/summary/stats/?mid=f35SZPBF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/?mid=f35SZPBF"
   },
