@@ -1277,8 +1277,63 @@
     "home": "Greuther Furth",
     "home_goals": 3,
     "id": "Ct94bcj2",
+    "shots": {
+      "AS": 18,
+      "AST": 5,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "17.04.2016",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "28",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/summary/stats/?mid=Ct94bcj2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/?mid=Ct94bcj2"
   },
@@ -1368,8 +1423,63 @@
     "home": "St. Pauli",
     "home_goals": 2,
     "id": "EommNtT2",
+    "shots": {
+      "AS": 17,
+      "AST": 5,
+      "HS": 14,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "16.04.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/summary/stats/?mid=EommNtT2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/?mid=EommNtT2"
   },
@@ -2031,8 +2141,63 @@
     "home": "Karlsruher SC",
     "home_goals": 2,
     "id": "KrUP5ubS",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.04.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/nurnberg-6FDqshzF/summary/stats/?mid=KrUP5ubS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/nurnberg-6FDqshzF/?mid=KrUP5ubS"
   },
@@ -2055,8 +2220,63 @@
     "home": "Arminia Bielefeld",
     "home_goals": 0,
     "id": "MBjeLKcF",
+    "shots": {
+      "AS": 12,
+      "AST": 4,
+      "HS": 15,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "17.04.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/kaiserslautern-naWckLmC/summary/stats/?mid=MBjeLKcF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/kaiserslautern-naWckLmC/?mid=MBjeLKcF"
   },
@@ -2596,8 +2816,63 @@
     "home": "FSV Frankfurt",
     "home_goals": 0,
     "id": "SliiM0r9",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/paderborn-G2Op923t/summary/stats/?mid=SliiM0r9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/paderborn-G2Op923t/?mid=SliiM0r9"
   },
@@ -2857,8 +3132,63 @@
     "home": "Union Berlin",
     "home_goals": 1,
     "id": "YkA0awyd",
+    "shots": {
+      "AS": 5,
+      "AST": 1,
+      "HS": 14,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "17.04.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/union-berlin-pzHW4oaE/summary/stats/?mid=YkA0awyd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/union-berlin-pzHW4oaE/?mid=YkA0awyd"
   },
