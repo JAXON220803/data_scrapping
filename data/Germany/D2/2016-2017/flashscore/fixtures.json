@@ -2562,8 +2562,73 @@
     "home": "Regensburg",
     "home_goals": 1,
     "id": "IJBL6ti0",
+    "shots": {
+      "AS": 5,
+      "AST": 1,
+      "HS": 15,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "26.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "37",
+        "name": "Free kicks"
+      },
+      {
+        "away": "12",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "27",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/regensburg-UiCmEP56/summary/stats/?mid=IJBL6ti0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/regensburg-UiCmEP56/?mid=IJBL6ti0"
   },
@@ -3445,8 +3510,63 @@
     "home": "Greuther Furth",
     "home_goals": 1,
     "id": "QuwtkgUh",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 12,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "21.05.2017",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/summary/stats/?mid=QuwtkgUh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/?mid=QuwtkgUh"
   },
@@ -4328,8 +4448,63 @@
     "home": "Munich 1860",
     "home_goals": 0,
     "id": "dAAP5066",
+    "shots": {
+      "AS": 18,
+      "AST": 4,
+      "HS": 10,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "30.05.2017",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/regensburg-UiCmEP56/summary/stats/?mid=dAAP5066",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/regensburg-UiCmEP56/?mid=dAAP5066"
   },
@@ -4541,8 +4716,63 @@
     "home": "Dusseldorf",
     "home_goals": 1,
     "id": "fLUdoBTH",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 10,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "21.05.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dusseldorf-ne1oL3y7/summary/stats/?mid=fLUdoBTH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dusseldorf-ne1oL3y7/?mid=fLUdoBTH"
   },
@@ -5491,8 +5721,63 @@
     "home": "Braunschweig",
     "home_goals": 2,
     "id": "nkvxjZEn",
+    "shots": {
+      "AS": 16,
+      "AST": 5,
+      "HS": 26,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "21.05.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/karlsruher-EB3q7jbk/summary/stats/?mid=nkvxjZEn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/karlsruher-EB3q7jbk/?mid=nkvxjZEn"
   },
@@ -6575,8 +6860,63 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 1,
     "id": "zXofpVrO",
+    "shots": {
+      "AS": 14,
+      "AST": 4,
+      "HS": 15,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "21.05.2017",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dresden-zL1YsOi1/summary/stats/?mid=zXofpVrO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dresden-zL1YsOi1/?mid=zXofpVrO"
   },
