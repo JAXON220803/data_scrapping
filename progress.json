@@ -1,24 +1,25 @@
 {
-  "completed_missing_matches": 600,
-  "filled_cells_percent": 1.9951,
-  "filled_percent": 1.9951,
+  "completed_missing_matches": 601,
+  "filled_cells_percent": 1.9985,
+  "filled_percent": 1.9985,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Run request budget reached (20/20)",
-      "requests": 20,
-      "status": "paused_by_budget",
-      "target": "Germany/D2/2015-2016"
+      "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
+      "requests": 11,
+      "retry_at": 1793850237.0874774,
+      "status": "adapter_error",
+      "target": "Germany/D2/2014-2015"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 1288,
-  "provider_records_with_all_shots": 722,
-  "provider_records_with_statistics": 722,
-  "recovered_cells": 2400,
+  "provider_fixture_records": 1393,
+  "provider_records_with_all_shots": 725,
+  "provider_records_with_statistics": 725,
+  "recovered_cells": 2404,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29473,
+  "reference_matches_still_missing_shots": 29472,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1252,7 +1253,7 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 0,
+          "fixtures": 105,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": null,
@@ -1275,24 +1276,24 @@
       }
     },
     {
-      "cells_recovered": 360,
-      "completed_missing_matches": 90,
-      "filled_percent": 29.4118,
+      "cells_recovered": 364,
+      "completed_missing_matches": 91,
+      "filled_percent": 29.7386,
       "id": "Germany/D2/2015-2016",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 216,
+      "remaining_missing_shots": 215,
       "sources": {
         "flashscore": {
-          "all_shot_values": 101,
+          "all_shot_values": 104,
           "fixtures": 104,
           "inventory_complete": true,
           "inventory_shortfall": 202,
           "last_error": null,
-          "phase": "statistics",
-          "reason": null,
-          "statistics_available": 101,
-          "statistics_checked": 101
+          "phase": "done",
+          "reason": "all_source_fixtures_checked",
+          "statistics_available": 104,
+          "statistics_checked": 104
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3816,9 +3817,9 @@
       }
     }
   ],
-  "source_tasks_done": 4,
+  "source_tasks_done": 5,
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-05T02:40:21.627164+00:00"
+  "updated_utc": "2026-11-05T02:44:03.620579+00:00"
 }

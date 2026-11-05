@@ -3480,6 +3480,46 @@
     "value": 6
   },
   {
+    "away": "Bielefeld",
+    "date": "15/05/16",
+    "field": "AS",
+    "fixture_id": "rNUHQzih",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 13
+  },
+  {
+    "away": "Bielefeld",
+    "date": "15/05/16",
+    "field": "AST",
+    "fixture_id": "rNUHQzih",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Bielefeld",
+    "date": "15/05/16",
+    "field": "HS",
+    "fixture_id": "rNUHQzih",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 12
+  },
+  {
+    "away": "Bielefeld",
+    "date": "15/05/16",
+    "field": "HST",
+    "fixture_id": "rNUHQzih",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2015-2016",
+    "value": 2
+  },
+  {
     "away": "Nurnberg",
     "date": "15/05/16",
     "field": "AS",
