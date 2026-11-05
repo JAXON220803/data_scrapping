@@ -169,8 +169,63 @@
     "home": "Aalen",
     "home_goals": 2,
     "id": "4tTEL9f2",
+    "shots": {
+      "AS": 12,
+      "AST": 8,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "05.04.2015",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/karlsruher-EB3q7jbk/summary/stats/?mid=4tTEL9f2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/karlsruher-EB3q7jbk/?mid=4tTEL9f2"
   },
@@ -701,8 +756,63 @@
     "home": "Kaiserslautern",
     "home_goals": 4,
     "id": "CrlzTi2S",
+    "shots": {
+      "AS": 3,
+      "AST": 1,
+      "HS": 22,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "04.04.2015",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/kaiserslautern-naWckLmC/summary/stats/?mid=CrlzTi2S",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/kaiserslautern-naWckLmC/?mid=CrlzTi2S"
   },
@@ -725,8 +835,63 @@
     "home": "Darmstadt",
     "home_goals": 2,
     "id": "EBA5rX1F",
+    "shots": {
+      "AS": 13,
+      "AST": 4,
+      "HS": 24,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "05.04.2015",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "16",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/darmstadt-S0hPB9rA/summary/stats/?mid=EBA5rX1F",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/darmstadt-S0hPB9rA/?mid=EBA5rX1F"
   },
@@ -1949,8 +2114,63 @@
     "home": "Greuther Furth",
     "home_goals": 1,
     "id": "YikWTXnM",
+    "shots": {
+      "AS": 13,
+      "AST": 6,
+      "HS": 6,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "04.04.2015",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "6",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/greuther-furth-CCQGbik8/summary/stats/?mid=YikWTXnM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/greuther-furth-CCQGbik8/?mid=YikWTXnM"
   },
@@ -2246,8 +2466,63 @@
     "home": "Heidenheim",
     "home_goals": 1,
     "id": "htYYUDXF",
+    "shots": {
+      "AS": 13,
+      "AST": 4,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "22.03.2015",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/rb-leipzig-KbS1suSm/summary/stats/?mid=htYYUDXF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/rb-leipzig-KbS1suSm/?mid=htYYUDXF"
   },
@@ -2699,8 +2974,63 @@
     "home": "Nurnberg",
     "home_goals": 1,
     "id": "x6ybT0dB",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 30,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "23.03.2015",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "30",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "30",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/nurnberg-6FDqshzF/summary/stats/?mid=x6ybT0dB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/nurnberg-6FDqshzF/?mid=x6ybT0dB"
   },
