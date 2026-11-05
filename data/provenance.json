@@ -1081,6 +1081,166 @@
   },
   {
     "away": "Frankfurt FSV",
+    "date": "05/04/15",
+    "field": "AS",
+    "fixture_id": "QkUAMkud",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 4
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "05/04/15",
+    "field": "AST",
+    "fixture_id": "QkUAMkud",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 0
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "05/04/15",
+    "field": "HS",
+    "fixture_id": "QkUAMkud",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 21
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "05/04/15",
+    "field": "HST",
+    "fixture_id": "QkUAMkud",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 4
+  },
+  {
+    "away": "Nurnberg",
+    "date": "05/04/15",
+    "field": "AS",
+    "fixture_id": "WnL0qDn9",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 16
+  },
+  {
+    "away": "Nurnberg",
+    "date": "05/04/15",
+    "field": "AST",
+    "fixture_id": "WnL0qDn9",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "Nurnberg",
+    "date": "05/04/15",
+    "field": "HS",
+    "fixture_id": "WnL0qDn9",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Nurnberg",
+    "date": "05/04/15",
+    "field": "HST",
+    "fixture_id": "WnL0qDn9",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 4
+  },
+  {
+    "away": "Union Berlin",
+    "date": "05/04/15",
+    "field": "AS",
+    "fixture_id": "hdMdpgX2",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 7
+  },
+  {
+    "away": "Union Berlin",
+    "date": "05/04/15",
+    "field": "AST",
+    "fixture_id": "hdMdpgX2",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 2
+  },
+  {
+    "away": "Union Berlin",
+    "date": "05/04/15",
+    "field": "HS",
+    "fixture_id": "hdMdpgX2",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 7
+  },
+  {
+    "away": "Union Berlin",
+    "date": "05/04/15",
+    "field": "HST",
+    "fixture_id": "hdMdpgX2",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 0
+  },
+  {
+    "away": "St Pauli",
+    "date": "10/04/15",
+    "field": "AS",
+    "fixture_id": "8SEvxVvq",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 10
+  },
+  {
+    "away": "St Pauli",
+    "date": "10/04/15",
+    "field": "AST",
+    "fixture_id": "8SEvxVvq",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "St Pauli",
+    "date": "10/04/15",
+    "field": "HS",
+    "fixture_id": "8SEvxVvq",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 14
+  },
+  {
+    "away": "St Pauli",
+    "date": "10/04/15",
+    "field": "HST",
+    "fixture_id": "8SEvxVvq",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "Frankfurt FSV",
     "date": "28/02/16",
     "field": "AS",
     "fixture_id": "29tkM6sG",
