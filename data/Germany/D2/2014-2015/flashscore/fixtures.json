@@ -6,8 +6,63 @@
     "home": "Greuther Furth",
     "home_goals": 1,
     "id": "069ajtHj",
+    "shots": {
+      "AS": 20,
+      "AST": 8,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "17.05.2015",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/greuther-furth-CCQGbik8/summary/stats/?mid=069ajtHj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/greuther-furth-CCQGbik8/?mid=069ajtHj"
   },
@@ -231,8 +286,63 @@
     "home": "Munich 1860",
     "home_goals": 2,
     "id": "2BmrFPgi",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "17.05.2015",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/nurnberg-6FDqshzF/summary/stats/?mid=2BmrFPgi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/nurnberg-6FDqshzF/?mid=2BmrFPgi"
   },
@@ -523,8 +633,63 @@
     "home": "Sandhausen",
     "home_goals": 0,
     "id": "63paBsgG",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "17.05.2015",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/sandhausen-UZxEj1R4/summary/stats/?mid=63paBsgG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/sandhausen-UZxEj1R4/?mid=63paBsgG"
   },
@@ -1093,8 +1258,63 @@
     "home": "Ingolstadt",
     "home_goals": 2,
     "id": "AyijD3O3",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 12,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "17.05.2015",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "31",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/rb-leipzig-KbS1suSm/summary/stats/?mid=AyijD3O3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/rb-leipzig-KbS1suSm/?mid=AyijD3O3"
   },
@@ -2637,8 +2857,63 @@
     "home": "Karlsruher SC",
     "home_goals": 0,
     "id": "QPx416Pi",
+    "shots": {
+      "AS": 16,
+      "AST": 3,
+      "HS": 12,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "11.05.2015",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/karlsruher-EB3q7jbk/summary/stats/?mid=QPx416Pi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/karlsruher-EB3q7jbk/?mid=QPx416Pi"
   },
@@ -3465,8 +3740,63 @@
     "home": "Nurnberg",
     "home_goals": 3,
     "id": "YVkIw3Xp",
+    "shots": {
+      "AS": 24,
+      "AST": 2,
+      "HS": 13,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "10.05.2015",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "24",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "24",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "10",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/nurnberg-6FDqshzF/summary/stats/?mid=YVkIw3Xp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/nurnberg-6FDqshzF/?mid=YVkIw3Xp"
   },
