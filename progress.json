@@ -7,10 +7,18 @@
   "last_run": {
     "flashscore": {
       "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
-      "requests": 11,
-      "retry_at": 1793850237.0874774,
+      "requests": 9,
+      "retry_at": 1793879581.653315,
       "status": "adapter_error",
-      "target": "Germany/D2/2014-2015"
+      "target": "Germany/D2/2016-2017"
+    },
+    "sofascore": {
+      "previous_status": "Blocked",
+      "reason": "HTTP 403: source denied access",
+      "requests": 0,
+      "retry_at": 1793931867.639878,
+      "status": "waiting_after_error",
+      "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
@@ -3821,5 +3829,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-05T02:44:03.620579+00:00"
+  "updated_utc": "2026-11-05T10:53:05.513851+00:00"
 }

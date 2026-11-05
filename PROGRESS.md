@@ -4,7 +4,7 @@
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-05T02:44:03.620579+00:00
+Updated: 2026-11-05T10:53:05.513851+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 5/230
