@@ -42,8 +42,63 @@
     "home": "St. Pauli",
     "home_goals": 1,
     "id": "0pGKYGkl",
+    "shots": {
+      "AS": 18,
+      "AST": 6,
+      "HS": 7,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "17.04.2015",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/st-pauli-ILyJuN3g/summary/stats/?mid=0pGKYGkl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/st-pauli-ILyJuN3g/?mid=0pGKYGkl"
   },
@@ -1414,8 +1469,63 @@
     "home": "Bochum",
     "home_goals": 1,
     "id": "Ghxxsur8",
+    "shots": {
+      "AS": 21,
+      "AST": 6,
+      "HS": 7,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "12.04.2015",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/rb-leipzig-KbS1suSm/summary/stats/?mid=Ghxxsur8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/rb-leipzig-KbS1suSm/?mid=Ghxxsur8"
   },
@@ -1965,8 +2075,63 @@
     "home": "Dusseldorf",
     "home_goals": 1,
     "id": "Q39qykfk",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 15,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "13.04.2015",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/summary/stats/?mid=Q39qykfk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/?mid=Q39qykfk"
   },
@@ -2542,8 +2707,63 @@
     "home": "Aalen",
     "home_goals": 2,
     "id": "YcESWfK0",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 14,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "18.04.2015",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/braunschweig-QqLCC3il/summary/stats/?mid=YcESWfK0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/braunschweig-QqLCC3il/?mid=YcESWfK0"
   },
@@ -2858,8 +3078,63 @@
     "home": "Ingolstadt",
     "home_goals": 3,
     "id": "f7FOXz5f",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 34,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "17.04.2015",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "34",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "34",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "14",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/ingolstadt-ne5QkLtB/summary/stats/?mid=f7FOXz5f",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/ingolstadt-ne5QkLtB/?mid=f7FOXz5f"
   },
@@ -3150,8 +3425,63 @@
     "home": "Sandhausen",
     "home_goals": 0,
     "id": "jZ8XVEZ6",
+    "shots": {
+      "AS": 13,
+      "AST": 1,
+      "HS": 16,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "17.04.2015",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/summary/stats/?mid=jZ8XVEZ6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/?mid=jZ8XVEZ6"
   },
