@@ -1,5 +1,125 @@
 [
   {
+    "away": "Union Berlin",
+    "date": "01/03/15",
+    "field": "AS",
+    "fixture_id": "GIqZ3pTa",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 9
+  },
+  {
+    "away": "Union Berlin",
+    "date": "01/03/15",
+    "field": "AST",
+    "fixture_id": "GIqZ3pTa",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "Union Berlin",
+    "date": "01/03/15",
+    "field": "HS",
+    "fixture_id": "GIqZ3pTa",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Union Berlin",
+    "date": "01/03/15",
+    "field": "HST",
+    "fixture_id": "GIqZ3pTa",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Munich 1860",
+    "date": "02/03/15",
+    "field": "AS",
+    "fixture_id": "OK4fBSzQ",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 9
+  },
+  {
+    "away": "Munich 1860",
+    "date": "02/03/15",
+    "field": "AST",
+    "fixture_id": "OK4fBSzQ",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 1
+  },
+  {
+    "away": "Munich 1860",
+    "date": "02/03/15",
+    "field": "HS",
+    "fixture_id": "OK4fBSzQ",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Munich 1860",
+    "date": "02/03/15",
+    "field": "HST",
+    "fixture_id": "OK4fBSzQ",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Heidenheim",
+    "date": "06/03/15",
+    "field": "AS",
+    "fixture_id": "AHxr2OcC",
+    "home": "Nurnberg",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Heidenheim",
+    "date": "06/03/15",
+    "field": "AST",
+    "fixture_id": "AHxr2OcC",
+    "home": "Nurnberg",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 1
+  },
+  {
+    "away": "Heidenheim",
+    "date": "06/03/15",
+    "field": "HS",
+    "fixture_id": "AHxr2OcC",
+    "home": "Nurnberg",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 27
+  },
+  {
+    "away": "Heidenheim",
+    "date": "06/03/15",
+    "field": "HST",
+    "fixture_id": "AHxr2OcC",
+    "home": "Nurnberg",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 1
+  },
+  {
     "away": "Frankfurt FSV",
     "date": "28/02/16",
     "field": "AS",

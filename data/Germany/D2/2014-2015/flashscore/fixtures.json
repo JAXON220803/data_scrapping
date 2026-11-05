@@ -222,8 +222,63 @@
     "home": "St. Pauli",
     "home_goals": 0,
     "id": "AH0jC8LJ",
+    "shots": {
+      "AS": 17,
+      "AST": 1,
+      "HS": 19,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "01.03.2015",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/summary/stats/?mid=AH0jC8LJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/?mid=AH0jC8LJ"
   },
@@ -234,8 +289,63 @@
     "home": "Nurnberg",
     "home_goals": 0,
     "id": "AHxr2OcC",
+    "shots": {
+      "AS": 8,
+      "AST": 1,
+      "HS": 27,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "06.03.2015",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "27",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "27",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/nurnberg-6FDqshzF/summary/stats/?mid=AHxr2OcC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/nurnberg-6FDqshzF/?mid=AHxr2OcC"
   },
@@ -402,8 +512,63 @@
     "home": "RB Leipzig",
     "home_goals": 3,
     "id": "GIqZ3pTa",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 13,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "01.03.2015",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/union-berlin-pzHW4oaE/summary/stats/?mid=GIqZ3pTa",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/union-berlin-pzHW4oaE/?mid=GIqZ3pTa"
   },
@@ -558,8 +723,63 @@
     "home": "Ingolstadt",
     "home_goals": 1,
     "id": "OK4fBSzQ",
+    "shots": {
+      "AS": 9,
+      "AST": 1,
+      "HS": 13,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "02.03.2015",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/munich-1860-byXHwsJa/summary/stats/?mid=OK4fBSzQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/munich-1860-byXHwsJa/?mid=OK4fBSzQ"
   },
@@ -1230,8 +1450,63 @@
     "home": "Heidenheim",
     "home_goals": 1,
     "id": "xSpV4QDg",
+    "shots": {
+      "AS": 27,
+      "AST": 14,
+      "HS": 15,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "01.03.2015",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "27",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "27",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/heidenheim-KWixEVWi/summary/stats/?mid=xSpV4QDg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/heidenheim-KWixEVWi/?mid=xSpV4QDg"
   },
