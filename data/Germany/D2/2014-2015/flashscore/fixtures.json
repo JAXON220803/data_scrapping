@@ -1373,8 +1373,63 @@
     "home": "Heidenheim",
     "home_goals": 3,
     "id": "CtPPdrvN",
+    "shots": {
+      "AS": 6,
+      "AST": 1,
+      "HS": 19,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "10.05.2015",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "25",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/heidenheim-KWixEVWi/summary/stats/?mid=CtPPdrvN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/heidenheim-KWixEVWi/?mid=CtPPdrvN"
   },
@@ -2304,8 +2359,63 @@
     "home": "Union Berlin",
     "home_goals": 1,
     "id": "MiWCapf4",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 19,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "09.05.2015",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "0",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "5",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/summary/stats/?mid=MiWCapf4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/?mid=MiWCapf4"
   },
@@ -2740,8 +2850,63 @@
     "home": "Bochum",
     "home_goals": 3,
     "id": "UHZKcOOG",
+    "shots": {
+      "AS": 20,
+      "AST": 5,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "10.05.2015",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/ingolstadt-ne5QkLtB/summary/stats/?mid=UHZKcOOG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/ingolstadt-ne5QkLtB/?mid=UHZKcOOG"
   },
@@ -4128,8 +4293,63 @@
     "home": "RB Leipzig",
     "home_goals": 0,
     "id": "jXNTe2gT",
+    "shots": {
+      "AS": 14,
+      "AST": 7,
+      "HS": 12,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "08.05.2015",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/sandhausen-UZxEj1R4/summary/stats/?mid=jXNTe2gT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/sandhausen-UZxEj1R4/?mid=jXNTe2gT"
   },
@@ -4432,8 +4652,63 @@
     "home": "Kaiserslautern",
     "home_goals": 0,
     "id": "nZw02nAo",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 22,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "09.05.2015",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/summary/stats/?mid=nZw02nAo",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/?mid=nZw02nAo"
   },
@@ -4602,8 +4877,63 @@
     "home": "Dusseldorf",
     "home_goals": 0,
     "id": "r1X80Qvb",
+    "shots": {
+      "AS": 14,
+      "AST": 6,
+      "HS": 12,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "08.05.2015",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dusseldorf-ne1oL3y7/summary/stats/?mid=r1X80Qvb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dusseldorf-ne1oL3y7/?mid=r1X80Qvb"
   },
