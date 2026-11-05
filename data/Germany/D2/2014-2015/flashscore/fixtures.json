@@ -18,8 +18,63 @@
     "home": "Braunschweig",
     "home_goals": 2,
     "id": "0IFIk9Qu",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "02.05.2015",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/fsv-frankfurt-CG1hDqLC/summary/stats/?mid=0IFIk9Qu",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/fsv-frankfurt-CG1hDqLC/?mid=0IFIk9Qu"
   },
@@ -825,8 +880,63 @@
     "home": "Aalen",
     "home_goals": 2,
     "id": "8l6woouB",
+    "shots": {
+      "AS": 19,
+      "AST": 10,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "03.05.2015",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/bochum-8Y2m6ADe/summary/stats/?mid=8l6woouB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/bochum-8Y2m6ADe/?mid=8l6woouB"
   },
@@ -1409,8 +1519,63 @@
     "home": "Aue",
     "home_goals": 3,
     "id": "GE9oqP9N",
+    "shots": {
+      "AS": 21,
+      "AST": 7,
+      "HS": 20,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "03.05.2015",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/summary/stats/?mid=GE9oqP9N",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/?mid=GE9oqP9N"
   },
@@ -3183,8 +3348,63 @@
     "home": "Darmstadt",
     "home_goals": 3,
     "id": "bwajrqPT",
+    "shots": {
+      "AS": 19,
+      "AST": 6,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "02.05.2015",
+    "statistics": [
+      {
+        "away": "62%",
+        "home": "38%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/kaiserslautern-naWckLmC/summary/stats/?mid=bwajrqPT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/kaiserslautern-naWckLmC/?mid=bwajrqPT"
   },
@@ -4703,8 +4923,63 @@
     "home": "Braunschweig",
     "home_goals": 4,
     "id": "xSlSiddQ",
+    "shots": {
+      "AS": 18,
+      "AST": 10,
+      "HS": 22,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "27.04.2015",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/braunschweig-QqLCC3il/summary/stats/?mid=xSlSiddQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/braunschweig-QqLCC3il/?mid=xSlSiddQ"
   },
@@ -4782,8 +5057,63 @@
     "home": "Heidenheim",
     "home_goals": 2,
     "id": "xjXErhJC",
+    "shots": {
+      "AS": 22,
+      "AST": 8,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "26.04.2015",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "22",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "22",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/summary/stats/?mid=xjXErhJC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/?mid=xjXErhJC"
   },
