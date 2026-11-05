@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 618,
-  "filled_cells_percent": 2.055,
-  "filled_percent": 2.055,
+  "completed_missing_matches": 622,
+  "filled_cells_percent": 2.0683,
+  "filled_percent": 2.0683,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 1393,
-  "provider_records_with_all_shots": 748,
-  "provider_records_with_statistics": 748,
-  "recovered_cells": 2472,
+  "provider_records_with_all_shots": 754,
+  "provider_records_with_statistics": 754,
+  "recovered_cells": 2488,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29455,
+  "reference_matches_still_missing_shots": 29451,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1242,24 +1242,24 @@
       }
     },
     {
-      "cells_recovered": 68,
-      "completed_missing_matches": 17,
-      "filled_percent": 5.5556,
+      "cells_recovered": 84,
+      "completed_missing_matches": 21,
+      "filled_percent": 6.8627,
       "id": "Germany/D2/2014-2015",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 289,
+      "remaining_missing_shots": 285,
       "sources": {
         "flashscore": {
-          "all_shot_values": 23,
+          "all_shot_values": 29,
           "fixtures": 105,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 23,
-          "statistics_checked": 23
+          "statistics_available": 29,
+          "statistics_checked": 29
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-05T19:05:32.983944+00:00"
+  "updated_utc": "2026-11-05T19:11:04.988916+00:00"
 }
