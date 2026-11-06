@@ -1,17 +1,17 @@
 # Collection progress: in_progress
 
-**Missing matches filled: 2.44% — 734 / 30,073**
+**Missing matches filled: 2.46% — 739 / 30,073**
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-06T07:55:09.716529+00:00
+Updated: 2026-11-06T08:00:37.063209+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 5/230
 - Provider match records downloaded: 1498
-- Provider records with all four shot values: 907
-- Previously empty reference cells recovered: 2936
-- Reference matches still missing shot values: 29339
+- Provider records with all four shot values: 913
+- Previously empty reference cells recovered: 2956
+- Reference matches still missing shot values: 29334
 
 | Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps | Filled % |
 |---|---:|---:|---:|---:|
@@ -51,7 +51,7 @@ Updated: 2026-11-06T07:55:09.716529+00:00
 | Germany/D2/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 304 | 0.00% |
 | Germany/D2/2011-2012 | 0 / 0 / 0 | 0 / 0 / 0 | 306 | 0.00% |
 | Germany/D2/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 306 | 0.00% |
-| Germany/D2/2013-2014 | 0 / 0 / 0 | 105 / 77 / 77 | 252 | 17.65% |
+| Germany/D2/2013-2014 | 0 / 0 / 0 | 105 / 83 / 83 | 247 | 19.28% |
 | Germany/D2/2014-2015 | 0 / 0 / 0 | 105 / 105 / 105 | 227 | 25.82% |
 | Germany/D2/2015-2016 | 0 / 0 / 0 | 104 / 104 / 104 | 215 | 29.74% |
 | Germany/D2/2016-2017 | 0 / 0 / 0 | 105 / 105 / 105 | 235 | 23.20% |
