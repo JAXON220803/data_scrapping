@@ -1880,6 +1880,46 @@
     "value": 13
   },
   {
+    "away": "Union Berlin",
+    "date": "19/04/14",
+    "field": "AS",
+    "fixture_id": "MNvg1WZD",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "Union Berlin",
+    "date": "19/04/14",
+    "field": "AST",
+    "fixture_id": "MNvg1WZD",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 8
+  },
+  {
+    "away": "Union Berlin",
+    "date": "19/04/14",
+    "field": "HS",
+    "fixture_id": "MNvg1WZD",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "Union Berlin",
+    "date": "19/04/14",
+    "field": "HST",
+    "fixture_id": "MNvg1WZD",
+    "home": "Karlsruhe",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
     "away": "Bielefeld",
     "date": "19/04/14",
     "field": "AS",
@@ -1918,6 +1958,206 @@
     "source": "flashscore",
     "target": "Germany/D2/2013-2014",
     "value": 5
+  },
+  {
+    "away": "Ingolstadt",
+    "date": "20/04/14",
+    "field": "AS",
+    "fixture_id": "80laukDf",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "Ingolstadt",
+    "date": "20/04/14",
+    "field": "AST",
+    "fixture_id": "80laukDf",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 5
+  },
+  {
+    "away": "Ingolstadt",
+    "date": "20/04/14",
+    "field": "HS",
+    "fixture_id": "80laukDf",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "Ingolstadt",
+    "date": "20/04/14",
+    "field": "HST",
+    "fixture_id": "80laukDf",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 8
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "20/04/14",
+    "field": "AS",
+    "fixture_id": "G29KnXKK",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 17
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "20/04/14",
+    "field": "AST",
+    "fixture_id": "G29KnXKK",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "20/04/14",
+    "field": "HS",
+    "fixture_id": "G29KnXKK",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 8
+  },
+  {
+    "away": "Frankfurt FSV",
+    "date": "20/04/14",
+    "field": "HST",
+    "fixture_id": "G29KnXKK",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 5
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "20/04/14",
+    "field": "AS",
+    "fixture_id": "tS16wTs7",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 17
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "20/04/14",
+    "field": "AST",
+    "fixture_id": "tS16wTs7",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "20/04/14",
+    "field": "HS",
+    "fixture_id": "tS16wTs7",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 20
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "20/04/14",
+    "field": "HST",
+    "fixture_id": "tS16wTs7",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 4
+  },
+  {
+    "away": "Bochum",
+    "date": "21/04/14",
+    "field": "AS",
+    "fixture_id": "fg8OoizR",
+    "home": "FC Koln",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 5
+  },
+  {
+    "away": "Bochum",
+    "date": "21/04/14",
+    "field": "AST",
+    "fixture_id": "fg8OoizR",
+    "home": "FC Koln",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 5
+  },
+  {
+    "away": "Bochum",
+    "date": "21/04/14",
+    "field": "HS",
+    "fixture_id": "fg8OoizR",
+    "home": "FC Koln",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 20
+  },
+  {
+    "away": "Bochum",
+    "date": "21/04/14",
+    "field": "HST",
+    "fixture_id": "fg8OoizR",
+    "home": "FC Koln",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 14
+  },
+  {
+    "away": "Bielefeld",
+    "date": "25/04/14",
+    "field": "AS",
+    "fixture_id": "GpGlj6RC",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 17
+  },
+  {
+    "away": "Bielefeld",
+    "date": "25/04/14",
+    "field": "AST",
+    "fixture_id": "GpGlj6RC",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "Bielefeld",
+    "date": "25/04/14",
+    "field": "HS",
+    "fixture_id": "GpGlj6RC",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 14
+  },
+  {
+    "away": "Bielefeld",
+    "date": "25/04/14",
+    "field": "HST",
+    "fixture_id": "GpGlj6RC",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 4
   },
   {
     "away": "Union Berlin",
