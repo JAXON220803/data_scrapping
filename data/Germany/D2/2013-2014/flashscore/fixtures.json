@@ -186,8 +186,68 @@
     "home": "Arminia Bielefeld",
     "home_goals": 1,
     "id": "2wWG9x6C",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 11,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "23.03.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "24",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/energie-cottbus-6g44VD52/summary/stats/?mid=2wWG9x6C",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/energie-cottbus-6g44VD52/?mid=2wWG9x6C"
   },
@@ -762,8 +822,68 @@
     "home": "Bochum",
     "home_goals": 0,
     "id": "GMT4CvMg",
+    "shots": {
+      "AS": 14,
+      "AST": 9,
+      "HS": 19,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "21.03.2014",
+    "statistics": [
+      {
+        "away": "34%",
+        "home": "66%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "29",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/sandhausen-UZxEj1R4/summary/stats/?mid=GMT4CvMg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/sandhausen-UZxEj1R4/?mid=GMT4CvMg"
   },
@@ -1734,8 +1854,68 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 1,
     "id": "fDS8Bby0",
+    "shots": {
+      "AS": 9,
+      "AST": 6,
+      "HS": 14,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "21.03.2014",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "30",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "23",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/greuther-furth-CCQGbik8/summary/stats/?mid=fDS8Bby0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/greuther-furth-CCQGbik8/?mid=fDS8Bby0"
   },
@@ -1890,8 +2070,68 @@
     "home": "St. Pauli",
     "home_goals": 0,
     "id": "l0c8DK6m",
+    "shots": {
+      "AS": 17,
+      "AST": 9,
+      "HS": 7,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "22.03.2014",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "30",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/st-pauli-ILyJuN3g/summary/stats/?mid=l0c8DK6m",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/st-pauli-ILyJuN3g/?mid=l0c8DK6m"
   },
@@ -2346,8 +2586,68 @@
     "home": "FC Koln",
     "home_goals": 0,
     "id": "vR7YJMTJ",
+    "shots": {
+      "AS": 8,
+      "AST": 5,
+      "HS": 30,
+      "HST": 15
+    },
     "source": "flashscore",
     "source_status": "22.03.2014",
+    "statistics": [
+      {
+        "away": "35%",
+        "home": "65%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "30",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "30",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "15",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/aalen-Oh2C15j0/summary/stats/?mid=vR7YJMTJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/aalen-Oh2C15j0/?mid=vR7YJMTJ"
   },
@@ -2454,8 +2754,68 @@
     "home": "FSV Frankfurt",
     "home_goals": 0,
     "id": "xMTkewiJ",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "22.03.2014",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "28",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/summary/stats/?mid=xMTkewiJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/?mid=xMTkewiJ"
   },
