@@ -1,24 +1,25 @@
 {
-  "completed_missing_matches": 751,
-  "filled_cells_percent": 2.4973,
-  "filled_percent": 2.4973,
+  "completed_missing_matches": 752,
+  "filled_cells_percent": 2.5006,
+  "filled_percent": 2.5006,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Run request budget reached (20/20)",
-      "requests": 20,
-      "status": "paused_by_budget",
-      "target": "Germany/D2/2013-2014"
+      "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
+      "requests": 12,
+      "retry_at": 1793957950.617575,
+      "status": "adapter_error",
+      "target": "Germany/D2/2012-2013"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 1498,
-  "provider_records_with_all_shots": 931,
-  "provider_records_with_statistics": 931,
-  "recovered_cells": 3004,
+  "provider_fixture_records": 1603,
+  "provider_records_with_all_shots": 934,
+  "provider_records_with_statistics": 934,
+  "recovered_cells": 3008,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29322,
+  "reference_matches_still_missing_shots": 29321,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1186,7 +1187,7 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 0,
+          "fixtures": 105,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": null,
@@ -1209,24 +1210,24 @@
       }
     },
     {
-      "cells_recovered": 284,
-      "completed_missing_matches": 71,
-      "filled_percent": 23.2026,
+      "cells_recovered": 288,
+      "completed_missing_matches": 72,
+      "filled_percent": 23.5294,
       "id": "Germany/D2/2013-2014",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 235,
+      "remaining_missing_shots": 234,
       "sources": {
         "flashscore": {
-          "all_shot_values": 101,
+          "all_shot_values": 104,
           "fixtures": 105,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
+          "phase": "inventory",
           "reason": null,
-          "statistics_available": 101,
-          "statistics_checked": 101
+          "statistics_available": 104,
+          "statistics_checked": 105
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3821,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-06T08:26:29.131868+00:00"
+  "updated_utc": "2026-11-06T08:39:14.438134+00:00"
 }

@@ -2948,8 +2948,11 @@
     "home": "Darmstadt",
     "home_goals": 1,
     "id": "OjZh4iHb",
+    "shots": {},
     "source": "flashscore",
     "source_status": "16.05.2014",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/darmstadt-S0hPB9rA/?mid=OjZh4iHb"
   },
@@ -6416,8 +6419,68 @@
     "home": "Arminia Bielefeld",
     "home_goals": 2,
     "id": "tSTc3BW4",
+    "shots": {
+      "AS": 22,
+      "AST": 14,
+      "HS": 19,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "19.05.2014 AET",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "22",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "22",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "14",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "28",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/darmstadt-S0hPB9rA/summary/stats/?mid=tSTc3BW4",
     "status": "special_result",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/darmstadt-S0hPB9rA/?mid=tSTc3BW4"
   },
@@ -6644,8 +6707,68 @@
     "home": "Greuther Furth",
     "home_goals": 2,
     "id": "tn8zA0Io",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "11.05.2014",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "32",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/summary/stats/?mid=tn8zA0Io",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/?mid=tn8zA0Io"
   },
@@ -6800,8 +6923,68 @@
     "home": "Dusseldorf",
     "home_goals": 4,
     "id": "vsUioHuo",
+    "shots": {
+      "AS": 16,
+      "AST": 5,
+      "HS": 10,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "11.05.2014",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "21",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/summary/stats/?mid=vsUioHuo",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/?mid=vsUioHuo"
   },

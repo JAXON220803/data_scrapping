@@ -2720,6 +2720,46 @@
     "value": 5
   },
   {
+    "away": "Sandhausen",
+    "date": "11/05/14",
+    "field": "AS",
+    "fixture_id": "tn8zA0Io",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 10
+  },
+  {
+    "away": "Sandhausen",
+    "date": "11/05/14",
+    "field": "AST",
+    "fixture_id": "tn8zA0Io",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 5
+  },
+  {
+    "away": "Sandhausen",
+    "date": "11/05/14",
+    "field": "HS",
+    "fixture_id": "tn8zA0Io",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "Sandhausen",
+    "date": "11/05/14",
+    "field": "HST",
+    "fixture_id": "tn8zA0Io",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 4
+  },
+  {
     "away": "Cottbus",
     "date": "11/05/14",
     "field": "AS",
