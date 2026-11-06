@@ -2400,6 +2400,46 @@
     "value": 7
   },
   {
+    "away": "Union Berlin",
+    "date": "04/05/14",
+    "field": "AS",
+    "fixture_id": "zkmF6RBg",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "Union Berlin",
+    "date": "04/05/14",
+    "field": "AST",
+    "fixture_id": "zkmF6RBg",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 9
+  },
+  {
+    "away": "Union Berlin",
+    "date": "04/05/14",
+    "field": "HS",
+    "fixture_id": "zkmF6RBg",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 25
+  },
+  {
+    "away": "Union Berlin",
+    "date": "04/05/14",
+    "field": "HST",
+    "fixture_id": "zkmF6RBg",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 15
+  },
+  {
     "away": "Frankfurt FSV",
     "date": "04/05/14",
     "field": "AS",
@@ -2438,6 +2478,46 @@
     "source": "flashscore",
     "target": "Germany/D2/2013-2014",
     "value": 13
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "04/05/14",
+    "field": "AS",
+    "fixture_id": "tSmB77dm",
+    "home": "Cottbus",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 18
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "04/05/14",
+    "field": "AST",
+    "fixture_id": "tSmB77dm",
+    "home": "Cottbus",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "04/05/14",
+    "field": "HS",
+    "fixture_id": "tSmB77dm",
+    "home": "Cottbus",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 12
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "04/05/14",
+    "field": "HST",
+    "fixture_id": "tSmB77dm",
+    "home": "Cottbus",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 4
   },
   {
     "away": "St Pauli",
@@ -2558,6 +2638,46 @@
     "source": "flashscore",
     "target": "Germany/D2/2013-2014",
     "value": 7
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "11/05/14",
+    "field": "AS",
+    "fixture_id": "2ZHb4dnN",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 10
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "11/05/14",
+    "field": "AST",
+    "fixture_id": "2ZHb4dnN",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 4
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "11/05/14",
+    "field": "HS",
+    "fixture_id": "2ZHb4dnN",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 12
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "11/05/14",
+    "field": "HST",
+    "fixture_id": "2ZHb4dnN",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 10
   },
   {
     "away": "Union Berlin",
