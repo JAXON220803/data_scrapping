@@ -258,8 +258,68 @@
     "home": "Paderborn",
     "home_goals": 3,
     "id": "2whnPH5a",
+    "shots": {
+      "AS": 8,
+      "AST": 7,
+      "HS": 22,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "25.03.2014",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "13",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "29",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "24",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/st-pauli-ILyJuN3g/summary/stats/?mid=2whnPH5a",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/st-pauli-ILyJuN3g/?mid=2whnPH5a"
   },
@@ -354,8 +414,68 @@
     "home": "Sandhausen",
     "home_goals": 2,
     "id": "8GhrQcjg",
+    "shots": {
+      "AS": 23,
+      "AST": 10,
+      "HS": 18,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "25.03.2014",
+    "statistics": [
+      {
+        "away": "63%",
+        "home": "37%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "23",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "23",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "13",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/summary/stats/?mid=8GhrQcjg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/?mid=8GhrQcjg"
   },
@@ -1842,8 +1962,68 @@
     "home": "Aalen",
     "home_goals": 1,
     "id": "dtkvRwym",
+    "shots": {
+      "AS": 16,
+      "AST": 11,
+      "HS": 7,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "25.03.2014",
+    "statistics": [
+      {
+        "away": "63%",
+        "home": "37%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "30",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dresden-zL1YsOi1/summary/stats/?mid=dtkvRwym",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dresden-zL1YsOi1/?mid=dtkvRwym"
   },
@@ -1986,8 +2166,68 @@
     "home": "Munich 1860",
     "home_goals": 0,
     "id": "hUBxJtqQ",
+    "shots": {
+      "AS": 20,
+      "AST": 9,
+      "HS": 14,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "23.03.2014",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/summary/stats/?mid=hUBxJtqQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/?mid=hUBxJtqQ"
   },
@@ -2238,8 +2478,68 @@
     "home": "Karlsruher SC",
     "home_goals": 1,
     "id": "lzSCAIj6",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "23.03.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "26",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/summary/stats/?mid=lzSCAIj6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/?mid=lzSCAIj6"
   },
@@ -2274,8 +2574,68 @@
     "home": "Greuther Furth",
     "home_goals": 4,
     "id": "p2LL8dLI",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 20,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "25.03.2014",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "35",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "21",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/summary/stats/?mid=p2LL8dLI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/?mid=p2LL8dLI"
   },
