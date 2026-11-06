@@ -90,8 +90,68 @@
     "home": "Greuther Furth",
     "home_goals": 2,
     "id": "2aqoYX5R",
+    "shots": {
+      "AS": 10,
+      "AST": 2,
+      "HS": 18,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "12.04.2014",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/summary/stats/?mid=2aqoYX5R",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/?mid=2aqoYX5R"
   },
@@ -390,8 +450,68 @@
     "home": "FSV Frankfurt",
     "home_goals": 0,
     "id": "48VCTiEr",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "13.04.2014",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "29",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/sandhausen-UZxEj1R4/summary/stats/?mid=48VCTiEr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/sandhausen-UZxEj1R4/?mid=48VCTiEr"
   },
@@ -474,8 +594,68 @@
     "home": "Bochum",
     "home_goals": 2,
     "id": "6XRTP9D7",
+    "shots": {
+      "AS": 9,
+      "AST": 7,
+      "HS": 20,
+      "HST": 13
+    },
     "source": "flashscore",
     "source_status": "13.04.2014",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "29",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "37",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "28",
+        "home": "5",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/energie-cottbus-6g44VD52/summary/stats/?mid=6XRTP9D7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/energie-cottbus-6g44VD52/?mid=6XRTP9D7"
   },
@@ -2790,8 +2970,68 @@
     "home": "Union Berlin",
     "home_goals": 1,
     "id": "YszHSBTl",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 13,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "11.04.2014",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "27",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/union-berlin-pzHW4oaE/summary/stats/?mid=YszHSBTl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/union-berlin-pzHW4oaE/?mid=YszHSBTl"
   },
@@ -2874,8 +3114,68 @@
     "home": "Arminia Bielefeld",
     "home_goals": 0,
     "id": "bREFmD5E",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 16,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "12.04.2014",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "27",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/karlsruher-EB3q7jbk/summary/stats/?mid=bREFmD5E",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/karlsruher-EB3q7jbk/?mid=bREFmD5E"
   },
@@ -3246,8 +3546,68 @@
     "home": "Ingolstadt",
     "home_goals": 1,
     "id": "fcOPQkb1",
+    "shots": {
+      "AS": 15,
+      "AST": 8,
+      "HS": 21,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "11.04.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "13",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "23",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/paderborn-G2Op923t/summary/stats/?mid=fcOPQkb1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/paderborn-G2Op923t/?mid=fcOPQkb1"
   },
