@@ -486,8 +486,68 @@
     "home": "Aue",
     "home_goals": 3,
     "id": "6XkxzfyF",
+    "shots": {
+      "AS": 18,
+      "AST": 8,
+      "HS": 23,
+      "HST": 16
+    },
     "source": "flashscore",
     "source_status": "06.04.2014",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "33",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/summary/stats/?mid=6XkxzfyF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/?mid=6XkxzfyF"
   },
@@ -1038,8 +1098,68 @@
     "home": "Ingolstadt",
     "home_goals": 0,
     "id": "CAjYzzM8",
+    "shots": {
+      "AS": 11,
+      "AST": 8,
+      "HS": 15,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "07.04.2014",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "34",
+        "home": "33",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/ingolstadt-ne5QkLtB/summary/stats/?mid=CAjYzzM8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/ingolstadt-ne5QkLtB/?mid=CAjYzzM8"
   },
@@ -1122,8 +1242,68 @@
     "home": "St. Pauli",
     "home_goals": 2,
     "id": "CYYKRVre",
+    "shots": {
+      "AS": 25,
+      "AST": 15,
+      "HS": 16,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "11.04.2014",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "25",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "25",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "32",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/summary/stats/?mid=CYYKRVre",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/?mid=CYYKRVre"
   },
@@ -2034,8 +2214,68 @@
     "home": "Kaiserslautern",
     "home_goals": 1,
     "id": "SMW8Yt0A",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 12,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "06.04.2014",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "27",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "30",
+        "home": "24",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/summary/stats/?mid=SMW8Yt0A",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/?mid=SMW8Yt0A"
   },
@@ -2394,8 +2634,68 @@
     "home": "Sandhausen",
     "home_goals": 2,
     "id": "YRogDWT1",
+    "shots": {
+      "AS": 14,
+      "AST": 9,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "05.04.2014",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "42",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/summary/stats/?mid=YRogDWT1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/?mid=YRogDWT1"
   },
@@ -3450,8 +3750,68 @@
     "home": "Munich 1860",
     "home_goals": 0,
     "id": "nBqsGYqq",
+    "shots": {
+      "AS": 14,
+      "AST": 11,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "06.04.2014",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/summary/stats/?mid=nBqsGYqq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/?mid=nBqsGYqq"
   },
