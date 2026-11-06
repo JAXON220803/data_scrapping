@@ -2960,6 +2960,46 @@
     "value": 2
   },
   {
+    "away": "Ingolstadt",
+    "date": "24/05/15",
+    "field": "AS",
+    "fixture_id": "rqvw4aoj",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 9
+  },
+  {
+    "away": "Ingolstadt",
+    "date": "24/05/15",
+    "field": "AST",
+    "fixture_id": "rqvw4aoj",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 4
+  },
+  {
+    "away": "Ingolstadt",
+    "date": "24/05/15",
+    "field": "HS",
+    "fixture_id": "rqvw4aoj",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 7
+  },
+  {
+    "away": "Ingolstadt",
+    "date": "24/05/15",
+    "field": "HST",
+    "fixture_id": "rqvw4aoj",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 5
+  },
+  {
     "away": "Munich 1860",
     "date": "24/05/15",
     "field": "AS",
@@ -3038,6 +3078,46 @@
     "source": "flashscore",
     "target": "Germany/D2/2014-2015",
     "value": 11
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/05/15",
+    "field": "AS",
+    "fixture_id": "vVNuOKxM",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 3
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/05/15",
+    "field": "AST",
+    "fixture_id": "vVNuOKxM",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 1
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/05/15",
+    "field": "HS",
+    "fixture_id": "vVNuOKxM",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/05/15",
+    "field": "HST",
+    "fixture_id": "vVNuOKxM",
+    "home": "RB Leipzig",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 6
   },
   {
     "away": "Braunschweig",

@@ -408,8 +408,63 @@
     "home": "Holstein Kiel",
     "home_goals": 0,
     "id": "2NmRaxRk",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 7,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "29.05.2015",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "33",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/holstein-kiel-63WsD2ei/munich-1860-byXHwsJa/summary/stats/?mid=2NmRaxRk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/holstein-kiel-63WsD2ei/munich-1860-byXHwsJa/?mid=2NmRaxRk"
   },
@@ -4594,8 +4649,63 @@
     "home": "Munich 1860",
     "home_goals": 2,
     "id": "dpmVbdtd",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "02.06.2015",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/holstein-kiel-63WsD2ei/munich-1860-byXHwsJa/summary/stats/?mid=dpmVbdtd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/holstein-kiel-63WsD2ei/munich-1860-byXHwsJa/?mid=dpmVbdtd"
   },
@@ -6147,8 +6257,63 @@
     "home": "Kaiserslautern",
     "home_goals": 1,
     "id": "rqvw4aoj",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 7,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "24.05.2015",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "24",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/kaiserslautern-naWckLmC/summary/stats/?mid=rqvw4aoj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/kaiserslautern-naWckLmC/?mid=rqvw4aoj"
   },
@@ -6360,8 +6525,63 @@
     "home": "RB Leipzig",
     "home_goals": 2,
     "id": "vVNuOKxM",
+    "shots": {
+      "AS": 3,
+      "AST": 1,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "24.05.2015",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/rb-leipzig-KbS1suSm/summary/stats/?mid=vVNuOKxM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/rb-leipzig-KbS1suSm/?mid=vVNuOKxM"
   },
