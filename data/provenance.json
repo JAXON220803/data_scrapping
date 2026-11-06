@@ -1840,6 +1840,86 @@
     "value": 6
   },
   {
+    "away": "St Pauli",
+    "date": "17/04/14",
+    "field": "AS",
+    "fixture_id": "QyaftVcl",
+    "home": "Cottbus",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 16
+  },
+  {
+    "away": "St Pauli",
+    "date": "17/04/14",
+    "field": "AST",
+    "fixture_id": "QyaftVcl",
+    "home": "Cottbus",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 12
+  },
+  {
+    "away": "St Pauli",
+    "date": "17/04/14",
+    "field": "HS",
+    "fixture_id": "QyaftVcl",
+    "home": "Cottbus",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 25
+  },
+  {
+    "away": "St Pauli",
+    "date": "17/04/14",
+    "field": "HST",
+    "fixture_id": "QyaftVcl",
+    "home": "Cottbus",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "Bielefeld",
+    "date": "19/04/14",
+    "field": "AS",
+    "fixture_id": "CYfjsBrr",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 14
+  },
+  {
+    "away": "Bielefeld",
+    "date": "19/04/14",
+    "field": "AST",
+    "fixture_id": "CYfjsBrr",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
+    "away": "Bielefeld",
+    "date": "19/04/14",
+    "field": "HS",
+    "fixture_id": "CYfjsBrr",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 12
+  },
+  {
+    "away": "Bielefeld",
+    "date": "19/04/14",
+    "field": "HST",
+    "fixture_id": "CYfjsBrr",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 5
+  },
+  {
     "away": "Union Berlin",
     "date": "01/03/15",
     "field": "AS",

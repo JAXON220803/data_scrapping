@@ -1494,8 +1494,68 @@
     "home": "Munich 1860",
     "home_goals": 2,
     "id": "CYfjsBrr",
+    "shots": {
+      "AS": 14,
+      "AST": 7,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "19.04.2014",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "29",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/munich-1860-byXHwsJa/summary/stats/?mid=CYfjsBrr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/munich-1860-byXHwsJa/?mid=CYfjsBrr"
   },
@@ -1758,8 +1818,68 @@
     "home": "Aue",
     "home_goals": 2,
     "id": "KI0AxmcD",
+    "shots": {
+      "AS": 21,
+      "AST": 11,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "17.04.2014",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "13",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "23",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dresden-zL1YsOi1/summary/stats/?mid=KI0AxmcD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dresden-zL1YsOi1/?mid=KI0AxmcD"
   },
@@ -1926,8 +2046,68 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 4,
     "id": "KzGBlgj8",
+    "shots": {
+      "AS": 22,
+      "AST": 13,
+      "HS": 17,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "14.04.2014",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "38",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/munich-1860-byXHwsJa/summary/stats/?mid=KzGBlgj8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/munich-1860-byXHwsJa/?mid=KzGBlgj8"
   },
@@ -1938,8 +2118,68 @@
     "home": "Dusseldorf",
     "home_goals": 3,
     "id": "KzftZDjL",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 19,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "13.04.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dusseldorf-ne1oL3y7/summary/stats/?mid=KzftZDjL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dusseldorf-ne1oL3y7/?mid=KzftZDjL"
   },
@@ -2286,8 +2526,68 @@
     "home": "Cottbus",
     "home_goals": 1,
     "id": "QyaftVcl",
+    "shots": {
+      "AS": 16,
+      "AST": 12,
+      "HS": 25,
+      "HST": 13
+    },
     "source": "flashscore",
     "source_status": "17.04.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "25",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "25",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "25",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "28",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/st-pauli-ILyJuN3g/summary/stats/?mid=QyaftVcl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/st-pauli-ILyJuN3g/?mid=QyaftVcl"
   },
@@ -4182,8 +4482,68 @@
     "home": "Sandhausen",
     "home_goals": 0,
     "id": "nim3v9S0",
+    "shots": {
+      "AS": 8,
+      "AST": 5,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "17.04.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/sandhausen-UZxEj1R4/summary/stats/?mid=nim3v9S0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/sandhausen-UZxEj1R4/?mid=nim3v9S0"
   },
