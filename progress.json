@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 783,
-  "filled_cells_percent": 2.6037,
-  "filled_percent": 2.6037,
+  "completed_missing_matches": 787,
+  "filled_cells_percent": 2.617,
+  "filled_percent": 2.617,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 1812,
-  "provider_records_with_all_shots": 972,
-  "provider_records_with_statistics": 972,
-  "recovered_cells": 3132,
+  "provider_records_with_all_shots": 978,
+  "provider_records_with_statistics": 978,
+  "recovered_cells": 3148,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 29290,
+  "reference_matches_still_missing_shots": 29286,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -945,24 +945,24 @@
       }
     },
     {
-      "cells_recovered": 124,
-      "completed_missing_matches": 31,
-      "filled_percent": 8.1579,
+      "cells_recovered": 140,
+      "completed_missing_matches": 35,
+      "filled_percent": 9.2105,
       "id": "France/F2/2016-2017",
       "initial_missing_matches": 380,
       "reference_matches": 380,
-      "remaining_missing_shots": 349,
+      "remaining_missing_shots": 345,
       "sources": {
         "flashscore": {
-          "all_shot_values": 36,
+          "all_shot_values": 42,
           "fixtures": 105,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 36,
-          "statistics_checked": 36
+          "statistics_available": 42,
+          "statistics_checked": 42
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-07T02:34:02.938192+00:00"
+  "updated_utc": "2026-11-07T02:39:37.817472+00:00"
 }

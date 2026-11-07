@@ -252,8 +252,58 @@
     "home": "Reims",
     "home_goals": 1,
     "id": "4rClCsPN",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "08.04.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/reims-tItR6sEf/strasbourg-nP6UzIU1/summary/stats/?mid=4rClCsPN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/strasbourg-nP6UzIU1/?mid=4rClCsPN"
   },
@@ -1456,8 +1506,58 @@
     "home": "Red Star",
     "home_goals": 0,
     "id": "QiDpDN9H",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 12,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "08.04.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/red-star-2kM6ufaS/summary/stats/?mid=QiDpDN9H",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/red-star-2kM6ufaS/?mid=QiDpDN9H"
   },
@@ -2268,8 +2368,58 @@
     "home": "Clermont",
     "home_goals": 2,
     "id": "jL5YFPPb",
+    "shots": {
+      "AS": 8,
+      "AST": 5,
+      "HS": 15,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "07.04.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "32",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/nimes-pOtlc1qr/summary/stats/?mid=jL5YFPPb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/nimes-pOtlc1qr/?mid=jL5YFPPb"
   },
@@ -2450,8 +2600,58 @@
     "home": "Le Havre",
     "home_goals": 2,
     "id": "pr5xFqu5",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 11,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "07.04.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "22",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/summary/stats/?mid=pr5xFqu5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/?mid=pr5xFqu5"
   },
@@ -2536,8 +2736,58 @@
     "home": "Orleans",
     "home_goals": 1,
     "id": "rTNuE3fB",
+    "shots": {
+      "AS": 9,
+      "AST": 6,
+      "HS": 17,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "07.04.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "14",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "15",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/orleans-AqswAEFD/summary/stats/?mid=rTNuE3fB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/orleans-AqswAEFD/?mid=rTNuE3fB"
   },
@@ -2954,8 +3204,58 @@
     "home": "Valenciennes",
     "home_goals": 2,
     "id": "zR2K6Lno",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 11,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "07.04.2017",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "40",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/troyes-fsfAHubD/valenciennes-O8dsB372/summary/stats/?mid=zR2K6Lno",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/troyes-fsfAHubD/valenciennes-O8dsB372/?mid=zR2K6Lno"
   },
