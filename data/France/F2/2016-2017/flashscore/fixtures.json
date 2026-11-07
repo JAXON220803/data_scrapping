@@ -116,8 +116,58 @@
     "home": "Red Star",
     "home_goals": 0,
     "id": "44LLm7t6",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 7,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "17.03.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/red-star-2kM6ufaS/summary/stats/?mid=44LLm7t6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/red-star-2kM6ufaS/?mid=44LLm7t6"
   },
@@ -212,8 +262,58 @@
     "home": "Sochaux",
     "home_goals": 2,
     "id": "A1OTooBI",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "17.03.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "19",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/sochaux-jPojkLXK/summary/stats/?mid=A1OTooBI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/sochaux-jPojkLXK/?mid=A1OTooBI"
   },
@@ -236,8 +336,58 @@
     "home": "Lens",
     "home_goals": 2,
     "id": "A7RwwjSm",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 14,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "13.03.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "37",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/sochaux-jPojkLXK/summary/stats/?mid=A7RwwjSm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/sochaux-jPojkLXK/?mid=A7RwwjSm"
   },
@@ -272,8 +422,58 @@
     "home": "Brest",
     "home_goals": 3,
     "id": "EFS8j9dm",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "17.03.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "19",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/laval-E1wDrLsJ/summary/stats/?mid=EFS8j9dm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/laval-E1wDrLsJ/?mid=EFS8j9dm"
   },
@@ -406,8 +606,58 @@
     "home": "AC Ajaccio",
     "home_goals": 0,
     "id": "GvmYdBJJ",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "17.03.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "33",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/le-havre-CIEe04GT/summary/stats/?mid=GvmYdBJJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/le-havre-CIEe04GT/?mid=GvmYdBJJ"
   },
@@ -638,8 +888,58 @@
     "home": "Orleans",
     "home_goals": 1,
     "id": "MuWGlmRa",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 7,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "17.03.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/orleans-AqswAEFD/summary/stats/?mid=MuWGlmRa",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/orleans-AqswAEFD/?mid=MuWGlmRa"
   },
