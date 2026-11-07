@@ -1193,7 +1193,7 @@
           "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 80
+          "statistics_checked": 100
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-07T01:21:14.992745+00:00"
+  "updated_utc": "2026-11-07T01:26:36.671367+00:00"
 }
