@@ -1440,6 +1440,46 @@
     "value": 5
   },
   {
+    "away": "Le Havre",
+    "date": "14/04/17",
+    "field": "AS",
+    "fixture_id": "xWt3V4Po",
+    "home": "Amiens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Le Havre",
+    "date": "14/04/17",
+    "field": "AST",
+    "fixture_id": "xWt3V4Po",
+    "home": "Amiens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Le Havre",
+    "date": "14/04/17",
+    "field": "HS",
+    "fixture_id": "xWt3V4Po",
+    "home": "Amiens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 16
+  },
+  {
+    "away": "Le Havre",
+    "date": "14/04/17",
+    "field": "HST",
+    "fixture_id": "xWt3V4Po",
+    "home": "Amiens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 10
+  },
+  {
     "away": "Reims",
     "date": "14/04/17",
     "field": "AS",
@@ -1475,6 +1515,86 @@
     "field": "HST",
     "fixture_id": "OnqFS294",
     "home": "Laval",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Orleans",
+    "date": "14/04/17",
+    "field": "AS",
+    "fixture_id": "rkaGQtvH",
+    "home": "Nimes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Orleans",
+    "date": "14/04/17",
+    "field": "AST",
+    "fixture_id": "rkaGQtvH",
+    "home": "Nimes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Orleans",
+    "date": "14/04/17",
+    "field": "HS",
+    "fixture_id": "rkaGQtvH",
+    "home": "Nimes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 13
+  },
+  {
+    "away": "Orleans",
+    "date": "14/04/17",
+    "field": "HST",
+    "fixture_id": "rkaGQtvH",
+    "home": "Nimes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Brest",
+    "date": "14/04/17",
+    "field": "AS",
+    "fixture_id": "zoNq9E8q",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "Brest",
+    "date": "14/04/17",
+    "field": "AST",
+    "fixture_id": "zoNq9E8q",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "Brest",
+    "date": "14/04/17",
+    "field": "HS",
+    "fixture_id": "zoNq9E8q",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Brest",
+    "date": "14/04/17",
+    "field": "HST",
+    "fixture_id": "zoNq9E8q",
+    "home": "Niort",
     "source": "flashscore",
     "target": "France/F2/2016-2017",
     "value": 5
@@ -1558,6 +1678,86 @@
     "source": "flashscore",
     "target": "France/F2/2016-2017",
     "value": 7
+  },
+  {
+    "away": "Auxerre",
+    "date": "15/04/17",
+    "field": "AS",
+    "fixture_id": "4b0CRMOA",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Auxerre",
+    "date": "15/04/17",
+    "field": "AST",
+    "fixture_id": "4b0CRMOA",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Auxerre",
+    "date": "15/04/17",
+    "field": "HS",
+    "fixture_id": "4b0CRMOA",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "Auxerre",
+    "date": "15/04/17",
+    "field": "HST",
+    "fixture_id": "4b0CRMOA",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "Ajaccio",
+    "date": "17/04/17",
+    "field": "AS",
+    "fixture_id": "llRm8YNk",
+    "home": "Strasbourg",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "Ajaccio",
+    "date": "17/04/17",
+    "field": "AST",
+    "fixture_id": "llRm8YNk",
+    "home": "Strasbourg",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Ajaccio",
+    "date": "17/04/17",
+    "field": "HS",
+    "fixture_id": "llRm8YNk",
+    "home": "Strasbourg",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Ajaccio",
+    "date": "17/04/17",
+    "field": "HST",
+    "fixture_id": "llRm8YNk",
+    "home": "Strasbourg",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 9
   },
   {
     "away": "Karlsruhe",
