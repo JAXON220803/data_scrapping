@@ -276,17 +276,17 @@ F2,03/03/17,Brest,Ajaccio,1,2,A,,,,
 F2,03/03/17,Clermont,Laval,1,1,D,,,,
 F2,03/03/17,Red Star,Lens,2,3,A,,,,
 F2,03/03/17,Sochaux,Le Havre,0,1,A,,,,
-F2,04/03/17,Orleans,Niort,1,1,D,,,,
-F2,04/03/17,Troyes,Amiens,4,0,H,,,,
-F2,06/03/17,Valenciennes,Strasbourg,2,1,H,,,,
+F2,04/03/17,Orleans,Niort,1,1,D,9,6,6,3
+F2,04/03/17,Troyes,Amiens,4,0,H,12,11,5,4
+F2,06/03/17,Valenciennes,Strasbourg,2,1,H,17,7,6,4
 F2,10/03/17,Ajaccio GFCO,Troyes,3,1,H,,,,
 F2,10/03/17,Amiens,Bourg Peronnas,2,1,H,,,,
 F2,10/03/17,Laval,Auxerre,0,0,D,,,,
 F2,10/03/17,Le Havre,Clermont,0,1,A,,,,
 F2,10/03/17,Nimes,Red Star,2,0,H,,,,
-F2,10/03/17,Niort,Valenciennes,2,1,H,,,,
+F2,10/03/17,Niort,Valenciennes,2,1,H,9,13,5,7
 F2,10/03/17,Reims,Ajaccio,3,0,H,,,,
-F2,10/03/17,Tours,Orleans,3,1,H,,,,
+F2,10/03/17,Tours,Orleans,3,1,H,17,10,9,4
 F2,11/03/17,Strasbourg,Brest,4,1,H,,,,
 F2,13/03/17,Lens,Sochaux,2,1,H,,,,
 F2,17/03/17,Ajaccio,Le Havre,0,0,D,,,,
