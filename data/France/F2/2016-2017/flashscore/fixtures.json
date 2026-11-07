@@ -1060,8 +1060,58 @@
     "home": "Laval",
     "home_goals": 1,
     "id": "Muhn4SQn",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "31.03.2017",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/laval-E1wDrLsJ/summary/stats/?mid=Muhn4SQn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/laval-E1wDrLsJ/?mid=Muhn4SQn"
   },
@@ -1232,8 +1282,58 @@
     "home": "Amiens",
     "home_goals": 0,
     "id": "Q96G9l3P",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 14,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "31.03.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/clermont-IRuMRua1/summary/stats/?mid=Q96G9l3P",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/clermont-IRuMRua1/?mid=Q96G9l3P"
   },
@@ -1268,8 +1368,58 @@
     "home": "Tours",
     "home_goals": 3,
     "id": "QwYBbOfO",
+    "shots": {
+      "AS": 7,
+      "AST": 6,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "31.03.2017",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "30",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/tours-lrpZ4Lr7/summary/stats/?mid=QwYBbOfO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/tours-lrpZ4Lr7/?mid=QwYBbOfO"
   },
@@ -1292,8 +1442,58 @@
     "home": "GFC Ajaccio",
     "home_goals": 2,
     "id": "SIhr58Bt",
+    "shots": {
+      "AS": 14,
+      "AST": 7,
+      "HS": 20,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "31.03.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/gfc-ajaccio-QZuxDxup/summary/stats/?mid=SIhr58Bt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/gfc-ajaccio-QZuxDxup/?mid=SIhr58Bt"
   },
@@ -1660,8 +1860,58 @@
     "home": "Nimes",
     "home_goals": 1,
     "id": "dbpa1QA5",
+    "shots": {
+      "AS": 3,
+      "AST": 2,
+      "HS": 19,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "31.03.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "14",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/valenciennes-O8dsB372/summary/stats/?mid=dbpa1QA5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/valenciennes-O8dsB372/?mid=dbpa1QA5"
   },
@@ -2294,8 +2544,58 @@
     "home": "Troyes",
     "home_goals": 4,
     "id": "vsxGcrAU",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 11,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "31.03.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/troyes-fsfAHubD/summary/stats/?mid=vsxGcrAU",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/troyes-fsfAHubD/?mid=vsxGcrAU"
   },
