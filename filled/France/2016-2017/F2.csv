@@ -281,13 +281,13 @@ F2,04/03/17,Troyes,Amiens,4,0,H,12,11,5,4
 F2,06/03/17,Valenciennes,Strasbourg,2,1,H,17,7,6,4
 F2,10/03/17,Ajaccio GFCO,Troyes,3,1,H,,,,
 F2,10/03/17,Amiens,Bourg Peronnas,2,1,H,,,,
-F2,10/03/17,Laval,Auxerre,0,0,D,,,,
-F2,10/03/17,Le Havre,Clermont,0,1,A,,,,
-F2,10/03/17,Nimes,Red Star,2,0,H,,,,
+F2,10/03/17,Laval,Auxerre,0,0,D,7,9,2,2
+F2,10/03/17,Le Havre,Clermont,0,1,A,11,9,3,3
+F2,10/03/17,Nimes,Red Star,2,0,H,14,13,7,8
 F2,10/03/17,Niort,Valenciennes,2,1,H,9,13,5,7
-F2,10/03/17,Reims,Ajaccio,3,0,H,,,,
+F2,10/03/17,Reims,Ajaccio,3,0,H,14,7,7,2
 F2,10/03/17,Tours,Orleans,3,1,H,17,10,9,4
-F2,11/03/17,Strasbourg,Brest,4,1,H,,,,
+F2,11/03/17,Strasbourg,Brest,4,1,H,13,7,9,2
 F2,13/03/17,Lens,Sochaux,2,1,H,,,,
 F2,17/03/17,Ajaccio,Le Havre,0,0,D,,,,
 F2,17/03/17,Bourg Peronnas,Troyes,2,4,A,,,,

@@ -686,8 +686,58 @@
     "home": "Nimes",
     "home_goals": 2,
     "id": "OAVsxAsf",
+    "shots": {
+      "AS": 13,
+      "AST": 8,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "10.03.2017",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "38",
+        "home": "37",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/red-star-2kM6ufaS/summary/stats/?mid=OAVsxAsf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/red-star-2kM6ufaS/?mid=OAVsxAsf"
   },
@@ -710,8 +760,58 @@
     "home": "Strasbourg",
     "home_goals": 4,
     "id": "Op0nZ7RC",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 13,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "11.03.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/summary/stats/?mid=Op0nZ7RC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/?mid=Op0nZ7RC"
   },
@@ -794,8 +894,58 @@
     "home": "Le Havre",
     "home_goals": 0,
     "id": "SrxZwWCs",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "10.03.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/le-havre-CIEe04GT/summary/stats/?mid=SrxZwWCs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/le-havre-CIEe04GT/?mid=SrxZwWCs"
   },
@@ -988,8 +1138,58 @@
     "home": "Reims",
     "home_goals": 3,
     "id": "dOTkzlC6",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "10.03.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "32",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/reims-tItR6sEf/summary/stats/?mid=dOTkzlC6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/reims-tItR6sEf/?mid=dOTkzlC6"
   },
@@ -1096,8 +1296,58 @@
     "home": "Laval",
     "home_goals": 0,
     "id": "jJE5ebrF",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 7,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "10.03.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "41",
+        "home": "32",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/laval-E1wDrLsJ/summary/stats/?mid=jJE5ebrF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/laval-E1wDrLsJ/?mid=jJE5ebrF"
   },
@@ -1300,8 +1550,58 @@
     "home": "Amiens",
     "home_goals": 2,
     "id": "rgBccKD2",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 11,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "10.03.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/bourg-peronnas-Ict2iv2P/summary/stats/?mid=rgBccKD2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/bourg-peronnas-Ict2iv2P/?mid=rgBccKD2"
   },
