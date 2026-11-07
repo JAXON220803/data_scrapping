@@ -9,11 +9,11 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "Germany/D2/2011-2012"
+      "target": "France/F2/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 1707,
+  "provider_fixture_records": 1812,
   "provider_records_with_all_shots": 936,
   "provider_records_with_statistics": 936,
   "recovered_cells": 3008,
@@ -955,11 +955,11 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 0,
+          "fixtures": 105,
           "inventory_complete": false,
           "inventory_shortfall": null,
-          "last_error": null,
-          "phase": "inventory",
+          "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
+          "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
           "statistics_checked": 0
@@ -1157,10 +1157,10 @@
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
+          "phase": "inventory",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 89
+          "statistics_checked": 104
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-07T01:54:13.875103+00:00"
+  "updated_utc": "2026-11-07T02:00:04.050994+00:00"
 }

@@ -4,11 +4,11 @@
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-07T01:54:13.875103+00:00
+Updated: 2026-11-07T02:00:04.050994+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 5/230
-- Provider match records downloaded: 1707
+- Provider match records downloaded: 1812
 - Provider records with all four shot values: 936
 - Previously empty reference cells recovered: 3008
 - Reference matches still missing shot values: 29321
@@ -43,13 +43,13 @@ Updated: 2026-11-07T01:54:13.875103+00:00
 | France/F2/2014-2015 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
 | France/F2/2015-2016 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
 | France/F1/2016-2017 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
-| France/F2/2016-2017 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
+| France/F2/2016-2017 | 0 / 0 / 0 | 105 / 0 / 0 | 380 | 0.00% |
 | France/F2/2020-2021 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2021-2022 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2022-2023 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2025-2026 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | Germany/D2/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 304 | 0.00% |
-| Germany/D2/2011-2012 | 0 / 0 / 0 | 104 / 89 / 0 | 306 | 0.00% |
+| Germany/D2/2011-2012 | 0 / 0 / 0 | 104 / 104 / 0 | 306 | 0.00% |
 | Germany/D2/2012-2013 | 0 / 0 / 0 | 105 / 105 / 2 | 306 | 0.00% |
 | Germany/D2/2013-2014 | 0 / 0 / 0 | 105 / 105 / 104 | 234 | 23.53% |
 | Germany/D2/2014-2015 | 0 / 0 / 0 | 105 / 105 / 105 | 227 | 25.82% |
