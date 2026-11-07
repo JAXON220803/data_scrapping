@@ -448,8 +448,58 @@
     "home": "Brest",
     "home_goals": 1,
     "id": "CU6UG5Ah",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 18,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "07.04.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/tours-lrpZ4Lr7/summary/stats/?mid=CU6UG5Ah",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/tours-lrpZ4Lr7/?mid=CU6UG5Ah"
   },
@@ -790,8 +840,58 @@
     "home": "Lens",
     "home_goals": 0,
     "id": "I7oe26ea",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 4,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "01.04.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/lens-IBmris38/summary/stats/?mid=I7oe26ea",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/lens-IBmris38/?mid=I7oe26ea"
   },
@@ -1774,8 +1874,58 @@
     "home": "Sochaux",
     "home_goals": 2,
     "id": "YHGhB1vU",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 13,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "07.04.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/sochaux-jPojkLXK/summary/stats/?mid=YHGhB1vU",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/sochaux-jPojkLXK/?mid=YHGhB1vU"
   },
@@ -1946,8 +2096,58 @@
     "home": "Auxerre",
     "home_goals": 1,
     "id": "fgCPHoen",
+    "shots": {
+      "AS": 10,
+      "AST": 8,
+      "HS": 9,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "07.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/auxerre-MTLr36WA/summary/stats/?mid=fgCPHoen",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/auxerre-MTLr36WA/?mid=fgCPHoen"
   },
@@ -2274,8 +2474,58 @@
     "home": "Strasbourg",
     "home_goals": 2,
     "id": "rFr7a4uI",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "03.04.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/strasbourg-nP6UzIU1/summary/stats/?mid=rFr7a4uI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/strasbourg-nP6UzIU1/?mid=rFr7a4uI"
   },
@@ -2752,8 +3002,58 @@
     "home": "Le Havre",
     "home_goals": 1,
     "id": "zqdj3ntg",
+    "shots": {
+      "AS": 19,
+      "AST": 11,
+      "HS": 11,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "31.03.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/reims-tItR6sEf/summary/stats/?mid=zqdj3ntg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/reims-tItR6sEf/?mid=zqdj3ntg"
   },
