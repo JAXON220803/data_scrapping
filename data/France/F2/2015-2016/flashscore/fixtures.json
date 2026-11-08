@@ -452,8 +452,58 @@
     "home": "Valenciennes",
     "home_goals": 1,
     "id": "6PiIjiGG",
+    "shots": {
+      "AS": 18,
+      "AST": 10,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/valenciennes-O8dsB372/summary/stats/?mid=6PiIjiGG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/valenciennes-O8dsB372/?mid=6PiIjiGG"
   },
@@ -1428,8 +1478,58 @@
     "home": "Laval",
     "home_goals": 2,
     "id": "K8k6ggWc",
+    "shots": {
+      "AS": 8,
+      "AST": 4,
+      "HS": 13,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "36",
+        "home": "40",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/thonon-evian-ObTOBzBp/summary/stats/?mid=K8k6ggWc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/thonon-evian-ObTOBzBp/?mid=K8k6ggWc"
   },
@@ -2448,8 +2548,58 @@
     "home": "Nancy",
     "home_goals": 1,
     "id": "buIDiCqD",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 17,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "11.04.2016",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "16",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "33",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/nancy-dnIrsS0A/summary/stats/?mid=buIDiCqD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/nancy-dnIrsS0A/?mid=buIDiCqD"
   },

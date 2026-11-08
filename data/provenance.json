@@ -1880,6 +1880,86 @@
     "value": 6
   },
   {
+    "away": "Creteil",
+    "date": "11/04/16",
+    "field": "AS",
+    "fixture_id": "buIDiCqD",
+    "home": "Nancy",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Creteil",
+    "date": "11/04/16",
+    "field": "AST",
+    "fixture_id": "buIDiCqD",
+    "home": "Nancy",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Creteil",
+    "date": "11/04/16",
+    "field": "HS",
+    "fixture_id": "buIDiCqD",
+    "home": "Nancy",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 17
+  },
+  {
+    "away": "Creteil",
+    "date": "11/04/16",
+    "field": "HST",
+    "fixture_id": "buIDiCqD",
+    "home": "Nancy",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Clermont",
+    "date": "15/04/16",
+    "field": "AS",
+    "fixture_id": "6PiIjiGG",
+    "home": "Valenciennes",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 18
+  },
+  {
+    "away": "Clermont",
+    "date": "15/04/16",
+    "field": "AST",
+    "fixture_id": "6PiIjiGG",
+    "home": "Valenciennes",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Clermont",
+    "date": "15/04/16",
+    "field": "HS",
+    "fixture_id": "6PiIjiGG",
+    "home": "Valenciennes",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Clermont",
+    "date": "15/04/16",
+    "field": "HST",
+    "fixture_id": "6PiIjiGG",
+    "home": "Valenciennes",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 4
+  },
+  {
     "away": "Niort",
     "date": "04/03/17",
     "field": "AS",
