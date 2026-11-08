@@ -2272,8 +2272,58 @@
     "home": "Laval",
     "home_goals": 1,
     "id": "MyIbq77A",
+    "shots": {
+      "AS": 19,
+      "AST": 12,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/nimes-pOtlc1qr/summary/stats/?mid=MyIbq77A",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/nimes-pOtlc1qr/?mid=MyIbq77A"
   },
@@ -2780,8 +2830,58 @@
     "home": "Clermont",
     "home_goals": 1,
     "id": "SEIfpmh4",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 17,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/valenciennes-O8dsB372/summary/stats/?mid=SEIfpmh4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/valenciennes-O8dsB372/?mid=SEIfpmh4"
   },
@@ -2978,8 +3078,58 @@
     "home": "Sochaux",
     "home_goals": 2,
     "id": "SxcwxPap",
+    "shots": {
+      "AS": 17,
+      "AST": 10,
+      "HS": 7,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/troyes-fsfAHubD/summary/stats/?mid=SxcwxPap",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/troyes-fsfAHubD/?mid=SxcwxPap"
   },
@@ -3362,8 +3512,58 @@
     "home": "Auxerre",
     "home_goals": 1,
     "id": "WnPon9Ni",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 18,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "22",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/red-star-2kM6ufaS/summary/stats/?mid=WnPon9Ni",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/red-star-2kM6ufaS/?mid=WnPon9Ni"
   },
@@ -3684,8 +3884,58 @@
     "home": "Reims",
     "home_goals": 1,
     "id": "dfABt5iT",
+    "shots": {
+      "AS": 13,
+      "AST": 6,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/reims-tItR6sEf/summary/stats/?mid=dfABt5iT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/reims-tItR6sEf/?mid=dfABt5iT"
   },
@@ -3882,8 +4132,58 @@
     "home": "AC Ajaccio",
     "home_goals": 3,
     "id": "hdQsmk8o",
+    "shots": {
+      "AS": 15,
+      "AST": 9,
+      "HS": 9,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "17",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/tours-lrpZ4Lr7/summary/stats/?mid=hdQsmk8o",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/tours-lrpZ4Lr7/?mid=hdQsmk8o"
   },
