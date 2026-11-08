@@ -42,8 +42,58 @@
     "home": "Niort",
     "home_goals": 2,
     "id": "2kj6Hv2q",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 18,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "11.03.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/paris-fc-0OEHEprs/summary/stats/?mid=2kj6Hv2q",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/paris-fc-0OEHEprs/?mid=2kj6Hv2q"
   },
@@ -54,8 +104,58 @@
     "home": "Nancy",
     "home_goals": 2,
     "id": "42n8JRXT",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 18,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "05.03.2016",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "16",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nancy-dnIrsS0A/red-star-2kM6ufaS/summary/stats/?mid=42n8JRXT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nancy-dnIrsS0A/red-star-2kM6ufaS/?mid=42n8JRXT"
   },
@@ -90,8 +190,58 @@
     "home": "Clermont",
     "home_goals": 2,
     "id": "6BYZEoto",
+    "shots": {
+      "AS": 14,
+      "AST": 6,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "07.03.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "38",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/metz-4v0yqlWc/summary/stats/?mid=6BYZEoto",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/metz-4v0yqlWc/?mid=6BYZEoto"
   },
@@ -800,8 +950,58 @@
     "home": "Valenciennes",
     "home_goals": 0,
     "id": "KnxxVcWr",
+    "shots": {
+      "AS": 10,
+      "AST": 2,
+      "HS": 16,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "11.03.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "16",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/valenciennes-O8dsB372/summary/stats/?mid=KnxxVcWr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/valenciennes-O8dsB372/?mid=KnxxVcWr"
   },
@@ -910,8 +1110,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 2,
     "id": "O4vFFIWe",
+    "shots": {
+      "AS": 7,
+      "AST": 1,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "11.03.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "32",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/nancy-dnIrsS0A/summary/stats/?mid=O4vFFIWe",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/nancy-dnIrsS0A/?mid=O4vFFIWe"
   },
@@ -2152,8 +2402,58 @@
     "home": "Tours",
     "home_goals": 1,
     "id": "zsNxZ6XG",
+    "shots": {
+      "AS": 3,
+      "AST": 1,
+      "HS": 10,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "05.03.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "0",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "33",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/tours-lrpZ4Lr7/summary/stats/?mid=zsNxZ6XG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/tours-lrpZ4Lr7/?mid=zsNxZ6XG"
   },
