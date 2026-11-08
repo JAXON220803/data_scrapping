@@ -6,8 +6,58 @@
     "home": "Tours",
     "home_goals": 0,
     "id": "0A5StEoC",
+    "shots": {
+      "AS": 8,
+      "AST": 6,
+      "HS": 17,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "14",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/tours-lrpZ4Lr7/summary/stats/?mid=0A5StEoC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/tours-lrpZ4Lr7/?mid=0A5StEoC"
   },
@@ -142,8 +192,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 1,
     "id": "0nNujIOP",
+    "shots": {
+      "AS": 17,
+      "AST": 9,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/brest-Cr4VGaUl/summary/stats/?mid=0nNujIOP",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/brest-Cr4VGaUl/?mid=0nNujIOP"
   },
@@ -1058,8 +1158,58 @@
     "home": "Niort",
     "home_goals": 2,
     "id": "Eg3GqG1g",
+    "shots": {
+      "AS": 12,
+      "AST": 4,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "22",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/strasbourg-nP6UzIU1/summary/stats/?mid=Eg3GqG1g",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/strasbourg-nP6UzIU1/?mid=Eg3GqG1g"
   },
@@ -1402,8 +1552,58 @@
     "home": "GFC Ajaccio",
     "home_goals": 0,
     "id": "IR97oxXt",
+    "shots": {
+      "AS": 9,
+      "AST": 7,
+      "HS": 10,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/lens-IBmris38/summary/stats/?mid=IR97oxXt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/lens-IBmris38/?mid=IR97oxXt"
   },
@@ -1662,8 +1862,58 @@
     "home": "Red Star",
     "home_goals": 1,
     "id": "MJ6OsfW5",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 18,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "20",
+        "home": "38",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/sochaux-jPojkLXK/summary/stats/?mid=MJ6OsfW5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/sochaux-jPojkLXK/?mid=MJ6OsfW5"
   },
@@ -1674,8 +1924,58 @@
     "home": "Amiens",
     "home_goals": 3,
     "id": "MeOyib9J",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 15,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "39",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/laval-E1wDrLsJ/summary/stats/?mid=MeOyib9J",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/laval-E1wDrLsJ/?mid=MeOyib9J"
   },
