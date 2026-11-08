@@ -130,8 +130,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 3,
     "id": "2VgSuFp1",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/bourg-peronnas-Ict2iv2P/summary/stats/?mid=2VgSuFp1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/bourg-peronnas-Ict2iv2P/?mid=2VgSuFp1"
   },
@@ -634,8 +684,58 @@
     "home": "Nancy",
     "home_goals": 1,
     "id": "AyVlSeG1",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "19.03.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "32",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/nancy-dnIrsS0A/summary/stats/?mid=AyVlSeG1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/nancy-dnIrsS0A/?mid=AyVlSeG1"
   },
@@ -2180,8 +2280,58 @@
     "home": "Thonon-Evian",
     "home_goals": 0,
     "id": "jX7yja88",
+    "shots": {
+      "AS": 13,
+      "AST": 2,
+      "HS": 3,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "18.03.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "50",
+        "home": "37",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/thonon-evian-ObTOBzBp/summary/stats/?mid=jX7yja88",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/thonon-evian-ObTOBzBp/?mid=jX7yja88"
   },
@@ -2328,8 +2478,58 @@
     "home": "Clermont",
     "home_goals": 0,
     "id": "lSThRFV7",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 15,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "21.03.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "41",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/red-star-2kM6ufaS/summary/stats/?mid=lSThRFV7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/red-star-2kM6ufaS/?mid=lSThRFV7"
   },
@@ -2634,8 +2834,58 @@
     "home": "Auxerre",
     "home_goals": 1,
     "id": "t2QpTy1e",
+    "shots": {
+      "AS": 12,
+      "AST": 9,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "18.03.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/bourg-peronnas-Ict2iv2P/summary/stats/?mid=t2QpTy1e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/bourg-peronnas-Ict2iv2P/?mid=t2QpTy1e"
   },
@@ -2926,8 +3176,58 @@
     "home": "Paris FC",
     "home_goals": 1,
     "id": "zL9mmchR",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 19,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "18.03.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/metz-4v0yqlWc/paris-fc-0OEHEprs/summary/stats/?mid=zL9mmchR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/metz-4v0yqlWc/paris-fc-0OEHEprs/?mid=zL9mmchR"
   },

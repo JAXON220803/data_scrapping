@@ -1160,6 +1160,126 @@
     "value": 8
   },
   {
+    "away": "Metz",
+    "date": "18/03/16",
+    "field": "AS",
+    "fixture_id": "zL9mmchR",
+    "home": "Paris FC",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Metz",
+    "date": "18/03/16",
+    "field": "AST",
+    "fixture_id": "zL9mmchR",
+    "home": "Paris FC",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "Metz",
+    "date": "18/03/16",
+    "field": "HS",
+    "fixture_id": "zL9mmchR",
+    "home": "Paris FC",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 19
+  },
+  {
+    "away": "Metz",
+    "date": "18/03/16",
+    "field": "HST",
+    "fixture_id": "zL9mmchR",
+    "home": "Paris FC",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Lens",
+    "date": "19/03/16",
+    "field": "AS",
+    "fixture_id": "AyVlSeG1",
+    "home": "Nancy",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Lens",
+    "date": "19/03/16",
+    "field": "AST",
+    "fixture_id": "AyVlSeG1",
+    "home": "Nancy",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Lens",
+    "date": "19/03/16",
+    "field": "HS",
+    "fixture_id": "AyVlSeG1",
+    "home": "Nancy",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Lens",
+    "date": "19/03/16",
+    "field": "HST",
+    "fixture_id": "AyVlSeG1",
+    "home": "Nancy",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Red Star",
+    "date": "21/03/16",
+    "field": "AS",
+    "fixture_id": "lSThRFV7",
+    "home": "Clermont",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Red Star",
+    "date": "21/03/16",
+    "field": "AST",
+    "fixture_id": "lSThRFV7",
+    "home": "Clermont",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Red Star",
+    "date": "21/03/16",
+    "field": "HS",
+    "fixture_id": "lSThRFV7",
+    "home": "Clermont",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 15
+  },
+  {
+    "away": "Red Star",
+    "date": "21/03/16",
+    "field": "HST",
+    "fixture_id": "lSThRFV7",
+    "home": "Clermont",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 5
+  },
+  {
     "away": "Niort",
     "date": "04/03/17",
     "field": "AS",
