@@ -328,8 +328,58 @@
     "home": "Auxerre",
     "home_goals": 4,
     "id": "4II9hhU6",
+    "shots": {
+      "AS": 16,
+      "AST": 8,
+      "HS": 18,
+      "HST": 13
+    },
     "source": "flashscore",
     "source_status": "08.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "35",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/metz-4v0yqlWc/summary/stats/?mid=4II9hhU6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/metz-4v0yqlWc/?mid=4II9hhU6"
   },
@@ -414,8 +464,58 @@
     "home": "Brest",
     "home_goals": 0,
     "id": "6oRxhteg",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "08.04.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/summary/stats/?mid=6oRxhteg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/?mid=6oRxhteg"
   },
@@ -648,8 +748,58 @@
     "home": "Niort",
     "home_goals": 0,
     "id": "AFLHjWbJ",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 15,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "08.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/niort-SW30dLbl/summary/stats/?mid=AFLHjWbJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/niort-SW30dLbl/?mid=AFLHjWbJ"
   },
@@ -2012,8 +2162,58 @@
     "home": "Red Star",
     "home_goals": 2,
     "id": "bHZQ0GMQ",
+    "shots": {
+      "AS": 13,
+      "AST": 7,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "04.04.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/paris-fc-0OEHEprs/red-star-2kM6ufaS/summary/stats/?mid=bHZQ0GMQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/paris-fc-0OEHEprs/red-star-2kM6ufaS/?mid=bHZQ0GMQ"
   },
@@ -2740,8 +2940,58 @@
     "home": "Dijon",
     "home_goals": 0,
     "id": "lSkOteVf",
+    "shots": {
+      "AS": 3,
+      "AST": 2,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "02.04.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "14",
+        "home": "18",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/nancy-dnIrsS0A/summary/stats/?mid=lSkOteVf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/nancy-dnIrsS0A/?mid=lSkOteVf"
   },
@@ -3674,8 +3924,58 @@
     "home": "Tours",
     "home_goals": 2,
     "id": "zwRhdzVs",
+    "shots": {
+      "AS": 14,
+      "AST": 7,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "40",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/tours-lrpZ4Lr7/summary/stats/?mid=zwRhdzVs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/tours-lrpZ4Lr7/?mid=zwRhdzVs"
   }
