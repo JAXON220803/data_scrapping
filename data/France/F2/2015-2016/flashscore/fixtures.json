@@ -260,8 +260,58 @@
     "home": "Auxerre",
     "home_goals": 1,
     "id": "Aum4K7IN",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "04.03.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "35",
+        "home": "22",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/niort-SW30dLbl/summary/stats/?mid=Aum4K7IN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/niort-SW30dLbl/?mid=Aum4K7IN"
   },
@@ -818,8 +868,58 @@
     "home": "Red Star",
     "home_goals": 1,
     "id": "SdemOkJb",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "27.02.2016",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "36",
+        "home": "44",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/red-star-2kM6ufaS/summary/stats/?mid=SdemOkJb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/red-star-2kM6ufaS/?mid=SdemOkJb"
   },
@@ -1216,8 +1316,58 @@
     "home": "Lens",
     "home_goals": 1,
     "id": "l6dqPV3h",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 6,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "29.02.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "41",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/thonon-evian-ObTOBzBp/summary/stats/?mid=l6dqPV3h",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/thonon-evian-ObTOBzBp/?mid=l6dqPV3h"
   },
@@ -1372,8 +1522,58 @@
     "home": "AC Ajaccio",
     "home_goals": 2,
     "id": "t0ZH8AJB",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "26.02.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "15",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/nancy-dnIrsS0A/summary/stats/?mid=t0ZH8AJB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/nancy-dnIrsS0A/?mid=t0ZH8AJB"
   },
@@ -1468,8 +1668,58 @@
     "home": "Dijon",
     "home_goals": 3,
     "id": "xSSQ6llO",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 10,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "26.02.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "30",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/tours-lrpZ4Lr7/summary/stats/?mid=xSSQ6llO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/tours-lrpZ4Lr7/?mid=xSSQ6llO"
   },
@@ -1528,8 +1778,58 @@
     "home": "Creteil",
     "home_goals": 0,
     "id": "zNfiN9Y4",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "26.02.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/laval-E1wDrLsJ/summary/stats/?mid=zNfiN9Y4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/laval-E1wDrLsJ/?mid=zNfiN9Y4"
   },
