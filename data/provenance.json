@@ -1800,6 +1800,46 @@
     "value": 5
   },
   {
+    "away": "Tours",
+    "date": "21/04/17",
+    "field": "AS",
+    "fixture_id": "xA7rUFp9",
+    "home": "Auxerre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Tours",
+    "date": "21/04/17",
+    "field": "AST",
+    "fixture_id": "xA7rUFp9",
+    "home": "Auxerre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Tours",
+    "date": "21/04/17",
+    "field": "HS",
+    "fixture_id": "xA7rUFp9",
+    "home": "Auxerre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Tours",
+    "date": "21/04/17",
+    "field": "HST",
+    "fixture_id": "xA7rUFp9",
+    "home": "Auxerre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
     "away": "Troyes",
     "date": "21/04/17",
     "field": "AS",
@@ -1955,6 +1995,166 @@
     "field": "HST",
     "fixture_id": "WWrvJkx8",
     "home": "Valenciennes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Amiens",
+    "date": "22/04/17",
+    "field": "AS",
+    "fixture_id": "KYdmTZaF",
+    "home": "Brest",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Amiens",
+    "date": "22/04/17",
+    "field": "AST",
+    "fixture_id": "KYdmTZaF",
+    "home": "Brest",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Amiens",
+    "date": "22/04/17",
+    "field": "HS",
+    "fixture_id": "KYdmTZaF",
+    "home": "Brest",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Amiens",
+    "date": "22/04/17",
+    "field": "HST",
+    "fixture_id": "KYdmTZaF",
+    "home": "Brest",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Lens",
+    "date": "24/04/17",
+    "field": "AS",
+    "fixture_id": "SvnNMXxq",
+    "home": "Le Havre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Lens",
+    "date": "24/04/17",
+    "field": "AST",
+    "fixture_id": "SvnNMXxq",
+    "home": "Le Havre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Lens",
+    "date": "24/04/17",
+    "field": "HS",
+    "fixture_id": "SvnNMXxq",
+    "home": "Le Havre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Lens",
+    "date": "24/04/17",
+    "field": "HST",
+    "fixture_id": "SvnNMXxq",
+    "home": "Le Havre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Reims",
+    "date": "28/04/17",
+    "field": "AS",
+    "fixture_id": "6722JJml",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Reims",
+    "date": "28/04/17",
+    "field": "AST",
+    "fixture_id": "6722JJml",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Reims",
+    "date": "28/04/17",
+    "field": "HS",
+    "fixture_id": "6722JJml",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Reims",
+    "date": "28/04/17",
+    "field": "HST",
+    "fixture_id": "6722JJml",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Red Star",
+    "date": "28/04/17",
+    "field": "AS",
+    "fixture_id": "0U16Iw3f",
+    "home": "Orleans",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Red Star",
+    "date": "28/04/17",
+    "field": "AST",
+    "fixture_id": "0U16Iw3f",
+    "home": "Orleans",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Red Star",
+    "date": "28/04/17",
+    "field": "HS",
+    "fixture_id": "0U16Iw3f",
+    "home": "Orleans",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Red Star",
+    "date": "28/04/17",
+    "field": "HST",
+    "fixture_id": "0U16Iw3f",
+    "home": "Orleans",
     "source": "flashscore",
     "target": "France/F2/2016-2017",
     "value": 4

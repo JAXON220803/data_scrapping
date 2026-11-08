@@ -30,8 +30,58 @@
     "home": "Orleans",
     "home_goals": 4,
     "id": "0U16Iw3f",
+    "shots": {
+      "AS": 11,
+      "AST": 6,
+      "HS": 7,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "22",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/red-star-2kM6ufaS/summary/stats/?mid=0U16Iw3f",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/red-star-2kM6ufaS/?mid=0U16Iw3f"
   },
@@ -364,8 +414,58 @@
     "home": "Niort",
     "home_goals": 0,
     "id": "6722JJml",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 7,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/reims-tItR6sEf/summary/stats/?mid=6722JJml",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/reims-tItR6sEf/?mid=6722JJml"
   },
@@ -1238,8 +1338,58 @@
     "home": "Brest",
     "home_goals": 2,
     "id": "KYdmTZaF",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 7,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "22.04.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/brest-Cr4VGaUl/summary/stats/?mid=KYdmTZaF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/brest-Cr4VGaUl/?mid=KYdmTZaF"
   },
@@ -2116,8 +2266,58 @@
     "home": "Le Havre",
     "home_goals": 1,
     "id": "SvnNMXxq",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "24.04.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/lens-IBmris38/summary/stats/?mid=SvnNMXxq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/lens-IBmris38/?mid=SvnNMXxq"
   },
@@ -3214,8 +3414,58 @@
     "home": "Red Star",
     "home_goals": 4,
     "id": "pGtSLihk",
+    "shots": {
+      "AS": 11,
+      "AST": 6,
+      "HS": 15,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/red-star-2kM6ufaS/summary/stats/?mid=pGtSLihk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/red-star-2kM6ufaS/?mid=pGtSLihk"
   },
@@ -3856,8 +4106,58 @@
     "home": "Auxerre",
     "home_goals": 1,
     "id": "xA7rUFp9",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 6,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "39",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/tours-lrpZ4Lr7/summary/stats/?mid=xA7rUFp9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/tours-lrpZ4Lr7/?mid=xA7rUFp9"
   },
