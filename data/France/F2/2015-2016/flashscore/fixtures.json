@@ -524,8 +524,58 @@
     "home": "Valenciennes",
     "home_goals": 1,
     "id": "8jP0fEaf",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/thonon-evian-ObTOBzBp/valenciennes-O8dsB372/summary/stats/?mid=8jP0fEaf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/thonon-evian-ObTOBzBp/valenciennes-O8dsB372/?mid=8jP0fEaf"
   },
@@ -1042,8 +1092,58 @@
     "home": "Lens",
     "home_goals": 3,
     "id": "GhpM1d7K",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/lens-IBmris38/summary/stats/?mid=GhpM1d7K",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/lens-IBmris38/?mid=GhpM1d7K"
   },
@@ -1484,8 +1584,58 @@
     "home": "Sochaux",
     "home_goals": 0,
     "id": "OpryvgFD",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 15,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "44",
+        "home": "42",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/sochaux-jPojkLXK/summary/stats/?mid=OpryvgFD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/sochaux-jPojkLXK/?mid=OpryvgFD"
   },
@@ -1716,8 +1866,58 @@
     "home": "Creteil",
     "home_goals": 0,
     "id": "UaQdefpl",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/creteil-tCo0oNc0/summary/stats/?mid=UaQdefpl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/creteil-tCo0oNc0/?mid=UaQdefpl"
   },
@@ -2612,8 +2812,58 @@
     "home": "Metz",
     "home_goals": 2,
     "id": "pfqXvZa7",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 13,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "18",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/metz-4v0yqlWc/niort-SW30dLbl/summary/stats/?mid=pfqXvZa7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/metz-4v0yqlWc/niort-SW30dLbl/?mid=pfqXvZa7"
   },
@@ -2992,8 +3242,58 @@
     "home": "Le Havre",
     "home_goals": 2,
     "id": "x2oI2xhE",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 7,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/summary/stats/?mid=x2oI2xhE",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/?mid=x2oI2xhE"
   },
