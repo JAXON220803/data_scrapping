@@ -1354,8 +1354,58 @@
     "home": "Lens",
     "home_goals": 1,
     "id": "U1V4xtv9",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 5,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "11.03.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "40",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/lens-IBmris38/summary/stats/?mid=U1V4xtv9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/lens-IBmris38/?mid=U1V4xtv9"
   },
@@ -1768,8 +1818,58 @@
     "home": "Sochaux",
     "home_goals": 1,
     "id": "jBW0wMO2",
+    "shots": {
+      "AS": 7,
+      "AST": 1,
+      "HS": 7,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "11.03.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/sochaux-jPojkLXK/summary/stats/?mid=jBW0wMO2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/sochaux-jPojkLXK/?mid=jBW0wMO2"
   },
@@ -1804,8 +1904,58 @@
     "home": "Tours",
     "home_goals": 1,
     "id": "l4o6zK8L",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 5,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "11.03.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "49",
+        "home": "33",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/tours-lrpZ4Lr7/summary/stats/?mid=l4o6zK8L",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/tours-lrpZ4Lr7/?mid=l4o6zK8L"
   },
@@ -1998,8 +2148,58 @@
     "home": "Creteil",
     "home_goals": 0,
     "id": "rRpAZwOR",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "11.03.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/thonon-evian-ObTOBzBp/summary/stats/?mid=rRpAZwOR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/thonon-evian-ObTOBzBp/?mid=rRpAZwOR"
   },
@@ -2158,8 +2358,68 @@
     "home": "Dijon",
     "home_goals": 0,
     "id": "ttkAGbHk",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "12.03.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "50",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/nimes-pOtlc1qr/summary/stats/?mid=ttkAGbHk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/nimes-pOtlc1qr/?mid=ttkAGbHk"
   },
@@ -2194,8 +2454,58 @@
     "home": "Metz",
     "home_goals": 3,
     "id": "x8rJExn2",
+    "shots": {
+      "AS": 14,
+      "AST": 7,
+      "HS": 9,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "11.03.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "19",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/metz-4v0yqlWc/summary/stats/?mid=x8rJExn2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/metz-4v0yqlWc/?mid=x8rJExn2"
   },

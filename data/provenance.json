@@ -640,6 +640,86 @@
     "value": 4
   },
   {
+    "away": "Clermont",
+    "date": "11/03/16",
+    "field": "AS",
+    "fixture_id": "U1V4xtv9",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Clermont",
+    "date": "11/03/16",
+    "field": "AST",
+    "fixture_id": "U1V4xtv9",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "Clermont",
+    "date": "11/03/16",
+    "field": "HS",
+    "fixture_id": "U1V4xtv9",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Clermont",
+    "date": "11/03/16",
+    "field": "HST",
+    "fixture_id": "U1V4xtv9",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Ajaccio",
+    "date": "11/03/16",
+    "field": "AS",
+    "fixture_id": "x8rJExn2",
+    "home": "Metz",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 14
+  },
+  {
+    "away": "Ajaccio",
+    "date": "11/03/16",
+    "field": "AST",
+    "fixture_id": "x8rJExn2",
+    "home": "Metz",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Ajaccio",
+    "date": "11/03/16",
+    "field": "HS",
+    "fixture_id": "x8rJExn2",
+    "home": "Metz",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Ajaccio",
+    "date": "11/03/16",
+    "field": "HST",
+    "fixture_id": "x8rJExn2",
+    "home": "Metz",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 8
+  },
+  {
     "away": "Paris FC",
     "date": "11/03/16",
     "field": "AS",
@@ -680,6 +760,86 @@
     "value": 7
   },
   {
+    "away": "Le Havre",
+    "date": "11/03/16",
+    "field": "AS",
+    "fixture_id": "jBW0wMO2",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Le Havre",
+    "date": "11/03/16",
+    "field": "AST",
+    "fixture_id": "jBW0wMO2",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Le Havre",
+    "date": "11/03/16",
+    "field": "HS",
+    "fixture_id": "jBW0wMO2",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Le Havre",
+    "date": "11/03/16",
+    "field": "HST",
+    "fixture_id": "jBW0wMO2",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Laval",
+    "date": "11/03/16",
+    "field": "AS",
+    "fixture_id": "l4o6zK8L",
+    "home": "Tours",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Laval",
+    "date": "11/03/16",
+    "field": "AST",
+    "fixture_id": "l4o6zK8L",
+    "home": "Tours",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Laval",
+    "date": "11/03/16",
+    "field": "HS",
+    "fixture_id": "l4o6zK8L",
+    "home": "Tours",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Laval",
+    "date": "11/03/16",
+    "field": "HST",
+    "fixture_id": "l4o6zK8L",
+    "home": "Tours",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 2
+  },
+  {
     "away": "Brest",
     "date": "11/03/16",
     "field": "AS",
@@ -718,6 +878,46 @@
     "source": "flashscore",
     "target": "France/F2/2015-2016",
     "value": 9
+  },
+  {
+    "away": "Nimes",
+    "date": "12/03/16",
+    "field": "AS",
+    "fixture_id": "ttkAGbHk",
+    "home": "Dijon",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Nimes",
+    "date": "12/03/16",
+    "field": "AST",
+    "fixture_id": "ttkAGbHk",
+    "home": "Dijon",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "Nimes",
+    "date": "12/03/16",
+    "field": "HS",
+    "fixture_id": "ttkAGbHk",
+    "home": "Dijon",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Nimes",
+    "date": "12/03/16",
+    "field": "HST",
+    "fixture_id": "ttkAGbHk",
+    "home": "Dijon",
+    "source": "flashscore",
+    "target": "France/F2/2015-2016",
+    "value": 5
   },
   {
     "away": "Niort",
