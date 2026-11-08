@@ -500,8 +500,58 @@
     "home": "GFC Ajaccio",
     "home_goals": 1,
     "id": "8WMRPLAK",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "19",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/valenciennes-O8dsB372/summary/stats/?mid=8WMRPLAK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/valenciennes-O8dsB372/?mid=8WMRPLAK"
   },
@@ -846,8 +896,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 0,
     "id": "Ee8OQ1eE",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/sochaux-jPojkLXK/summary/stats/?mid=Ee8OQ1eE",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/sochaux-jPojkLXK/?mid=Ee8OQ1eE"
   },
@@ -2922,8 +3022,58 @@
     "home": "Tours",
     "home_goals": 3,
     "id": "ddeFGHX6",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/tours-lrpZ4Lr7/summary/stats/?mid=ddeFGHX6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/tours-lrpZ4Lr7/?mid=ddeFGHX6"
   },
@@ -3008,8 +3158,58 @@
     "home": "Nimes",
     "home_goals": 0,
     "id": "h4bbKaYs",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 17,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/nimes-pOtlc1qr/summary/stats/?mid=h4bbKaYs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/nimes-pOtlc1qr/?mid=h4bbKaYs"
   },
@@ -4020,8 +4220,58 @@
     "home": "Strasbourg",
     "home_goals": 2,
     "id": "vL0AHcI0",
+    "shots": {
+      "AS": 11,
+      "AST": 6,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/summary/stats/?mid=vL0AHcI0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/?mid=vL0AHcI0"
   },
@@ -4230,8 +4480,58 @@
     "home": "Amiens",
     "home_goals": 2,
     "id": "z59KRst8",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "28.04.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "42",
+        "home": "34",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/amiens-sc-lKkBAsxF/summary/stats/?mid=z59KRst8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/amiens-sc-lKkBAsxF/?mid=z59KRst8"
   },
