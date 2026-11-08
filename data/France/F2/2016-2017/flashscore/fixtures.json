@@ -3716,8 +3716,58 @@
     "home": "Reims",
     "home_goals": 0,
     "id": "ljKhUz26",
+    "shots": {
+      "AS": 5,
+      "AST": 4,
+      "HS": 20,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "05.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "15",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "18",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/reims-tItR6sEf/summary/stats/?mid=ljKhUz26",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/reims-tItR6sEf/?mid=ljKhUz26"
   },
@@ -3728,8 +3778,58 @@
     "home": "AC Ajaccio",
     "home_goals": 1,
     "id": "ljr1vLPD",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 6,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "08.05.2017",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/gfc-ajaccio-QZuxDxup/summary/stats/?mid=ljr1vLPD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/gfc-ajaccio-QZuxDxup/?mid=ljr1vLPD"
   },
@@ -3926,8 +4026,58 @@
     "home": "Clermont",
     "home_goals": 2,
     "id": "pbNyYI2s",
+    "shots": {
+      "AS": 5,
+      "AST": 4,
+      "HS": 17,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "05.05.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/clermont-IRuMRua1/summary/stats/?mid=pbNyYI2s",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/clermont-IRuMRua1/?mid=pbNyYI2s"
   },
@@ -4062,8 +4212,58 @@
     "home": "Sochaux",
     "home_goals": 1,
     "id": "rDJdTfHC",
+    "shots": {
+      "AS": 14,
+      "AST": 2,
+      "HS": 4,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "05.05.2017",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "12",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/sochaux-jPojkLXK/summary/stats/?mid=rDJdTfHC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/sochaux-jPojkLXK/?mid=rDJdTfHC"
   },
@@ -4396,8 +4596,58 @@
     "home": "Brest",
     "home_goals": 2,
     "id": "rkyAxafQ",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "06.05.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "15",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/nimes-pOtlc1qr/summary/stats/?mid=rkyAxafQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/nimes-pOtlc1qr/?mid=rkyAxafQ"
   },
@@ -4916,8 +5166,58 @@
     "home": "Lens",
     "home_goals": 1,
     "id": "zmGlVGn0",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 13,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "08.05.2017",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "26",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/strasbourg-nP6UzIU1/summary/stats/?mid=zmGlVGn0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/strasbourg-nP6UzIU1/?mid=zmGlVGn0"
   },

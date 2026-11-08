@@ -2520,6 +2520,86 @@
     "value": 3
   },
   {
+    "away": "Orleans",
+    "date": "05/05/17",
+    "field": "AS",
+    "fixture_id": "ljKhUz26",
+    "home": "Reims",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Orleans",
+    "date": "05/05/17",
+    "field": "AST",
+    "fixture_id": "ljKhUz26",
+    "home": "Reims",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Orleans",
+    "date": "05/05/17",
+    "field": "HS",
+    "fixture_id": "ljKhUz26",
+    "home": "Reims",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 20
+  },
+  {
+    "away": "Orleans",
+    "date": "05/05/17",
+    "field": "HST",
+    "fixture_id": "ljKhUz26",
+    "home": "Reims",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Amiens",
+    "date": "05/05/17",
+    "field": "AS",
+    "fixture_id": "rDJdTfHC",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "Amiens",
+    "date": "05/05/17",
+    "field": "AST",
+    "fixture_id": "rDJdTfHC",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Amiens",
+    "date": "05/05/17",
+    "field": "HS",
+    "fixture_id": "rDJdTfHC",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Amiens",
+    "date": "05/05/17",
+    "field": "HST",
+    "fixture_id": "rDJdTfHC",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 1
+  },
+  {
     "away": "Red Star",
     "date": "05/05/17",
     "field": "AS",
@@ -2555,6 +2635,86 @@
     "field": "HST",
     "fixture_id": "M3I0SEWI",
     "home": "Valenciennes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Nimes",
+    "date": "06/05/17",
+    "field": "AS",
+    "fixture_id": "rkyAxafQ",
+    "home": "Brest",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Nimes",
+    "date": "06/05/17",
+    "field": "AST",
+    "fixture_id": "rkyAxafQ",
+    "home": "Brest",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Nimes",
+    "date": "06/05/17",
+    "field": "HS",
+    "fixture_id": "rkyAxafQ",
+    "home": "Brest",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Nimes",
+    "date": "06/05/17",
+    "field": "HST",
+    "fixture_id": "rkyAxafQ",
+    "home": "Brest",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Strasbourg",
+    "date": "08/05/17",
+    "field": "AS",
+    "fixture_id": "zmGlVGn0",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Strasbourg",
+    "date": "08/05/17",
+    "field": "AST",
+    "fixture_id": "zmGlVGn0",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Strasbourg",
+    "date": "08/05/17",
+    "field": "HS",
+    "fixture_id": "zmGlVGn0",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 13
+  },
+  {
+    "away": "Strasbourg",
+    "date": "08/05/17",
+    "field": "HST",
+    "fixture_id": "zmGlVGn0",
+    "home": "Lens",
     "source": "flashscore",
     "target": "France/F2/2016-2017",
     "value": 3
