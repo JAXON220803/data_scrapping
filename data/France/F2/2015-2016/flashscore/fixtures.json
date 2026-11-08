@@ -126,8 +126,58 @@
     "home": "Paris FC",
     "home_goals": 2,
     "id": "6s7vQBln",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 21,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "26.02.2016",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/paris-fc-0OEHEprs/summary/stats/?mid=6s7vQBln",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/paris-fc-0OEHEprs/?mid=6s7vQBln"
   },
@@ -270,8 +320,58 @@
     "home": "Valenciennes",
     "home_goals": 2,
     "id": "EDgeMTmB",
+    "shots": {
+      "AS": 12,
+      "AST": 7,
+      "HS": 10,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "26.02.2016",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "26",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/valenciennes-O8dsB372/summary/stats/?mid=EDgeMTmB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/valenciennes-O8dsB372/?mid=EDgeMTmB"
   },
@@ -330,8 +430,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 1,
     "id": "GIRU583U",
+    "shots": {
+      "AS": 12,
+      "AST": 8,
+      "HS": 5,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "26.02.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/clermont-IRuMRua1/summary/stats/?mid=GIRU583U",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/clermont-IRuMRua1/?mid=GIRU583U"
   },
@@ -414,8 +564,58 @@
     "home": "Niort",
     "home_goals": 0,
     "id": "KjYL7UYH",
+    "shots": {
+      "AS": 12,
+      "AST": 4,
+      "HS": 8,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "26.02.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/niort-SW30dLbl/summary/stats/?mid=KjYL7UYH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/niort-SW30dLbl/?mid=KjYL7UYH"
   },
@@ -882,8 +1082,58 @@
     "home": "Metz",
     "home_goals": 2,
     "id": "hv3zRiZu",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 16,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "26.02.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/metz-4v0yqlWc/summary/stats/?mid=hv3zRiZu",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/metz-4v0yqlWc/?mid=hv3zRiZu"
   },
