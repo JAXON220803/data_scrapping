@@ -3200,6 +3200,46 @@
     "value": 4
   },
   {
+    "away": "Orleans",
+    "date": "19/05/17",
+    "field": "AS",
+    "fixture_id": "zuM2rRMG",
+    "home": "Le Havre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "Orleans",
+    "date": "19/05/17",
+    "field": "AST",
+    "fixture_id": "zuM2rRMG",
+    "home": "Le Havre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Orleans",
+    "date": "19/05/17",
+    "field": "HS",
+    "fixture_id": "zuM2rRMG",
+    "home": "Le Havre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 13
+  },
+  {
+    "away": "Orleans",
+    "date": "19/05/17",
+    "field": "HST",
+    "fixture_id": "zuM2rRMG",
+    "home": "Le Havre",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 6
+  },
+  {
     "away": "Niort",
     "date": "19/05/17",
     "field": "AS",

@@ -688,8 +688,58 @@
     "home": "Orleans",
     "home_goals": 1,
     "id": "8O8KnNl7",
+    "shots": {
+      "AS": 8,
+      "AST": 1,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "28.05.2017",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/paris-fc-0OEHEprs/summary/stats/?mid=8O8KnNl7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/paris-fc-0OEHEprs/?mid=8O8KnNl7"
   },
@@ -1010,8 +1060,58 @@
     "home": "Paris FC",
     "home_goals": 0,
     "id": "E19Gm3Z0",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 14,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "23.05.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "18",
+        "home": "26",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/paris-fc-0OEHEprs/summary/stats/?mid=E19Gm3Z0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/paris-fc-0OEHEprs/?mid=E19Gm3Z0"
   },
@@ -4442,8 +4542,58 @@
     "home": "Brest",
     "home_goals": 6,
     "id": "lOJjoTxb",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 13,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/gfc-ajaccio-QZuxDxup/summary/stats/?mid=lOJjoTxb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/gfc-ajaccio-QZuxDxup/?mid=lOJjoTxb"
   },
@@ -6314,8 +6464,58 @@
     "home": "Le Havre",
     "home_goals": 4,
     "id": "zuM2rRMG",
+    "shots": {
+      "AS": 14,
+      "AST": 4,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "16",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/orleans-AqswAEFD/summary/stats/?mid=zuM2rRMG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/orleans-AqswAEFD/?mid=zuM2rRMG"
   }
