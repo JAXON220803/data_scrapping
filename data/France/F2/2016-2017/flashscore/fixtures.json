@@ -626,8 +626,58 @@
     "home": "Strasbourg",
     "home_goals": 2,
     "id": "6TesyqFj",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/strasbourg-nP6UzIU1/summary/stats/?mid=6TesyqFj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/strasbourg-nP6UzIU1/?mid=6TesyqFj"
   },
@@ -1478,8 +1528,58 @@
     "home": "Lens",
     "home_goals": 3,
     "id": "I3B7soxN",
+    "shots": {
+      "AS": 11,
+      "AST": 7,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "19.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "34",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/niort-SW30dLbl/summary/stats/?mid=I3B7soxN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/niort-SW30dLbl/?mid=I3B7soxN"
   },
@@ -3138,8 +3238,58 @@
     "home": "Nimes",
     "home_goals": 3,
     "id": "WUDBpdnm",
+    "shots": {
+      "AS": 3,
+      "AST": 2,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/nimes-pOtlc1qr/summary/stats/?mid=WUDBpdnm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/nimes-pOtlc1qr/?mid=WUDBpdnm"
   },
@@ -3744,8 +3894,58 @@
     "home": "Orleans",
     "home_goals": 2,
     "id": "hp2KrzHa",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "15",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/orleans-AqswAEFD/summary/stats/?mid=hp2KrzHa",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/orleans-AqswAEFD/?mid=hp2KrzHa"
   },
@@ -4698,8 +4898,58 @@
     "home": "Troyes",
     "home_goals": 2,
     "id": "rZfXuY0I",
+    "shots": {
+      "AS": 12,
+      "AST": 6,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/reims-tItR6sEf/troyes-fsfAHubD/summary/stats/?mid=rZfXuY0I",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/troyes-fsfAHubD/?mid=rZfXuY0I"
   },
@@ -5082,8 +5332,58 @@
     "home": "Valenciennes",
     "home_goals": 0,
     "id": "vgx0O5Vp",
+    "shots": {
+      "AS": 7,
+      "AST": 1,
+      "HS": 6,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "12.05.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/valenciennes-O8dsB372/summary/stats/?mid=vgx0O5Vp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/valenciennes-O8dsB372/?mid=vgx0O5Vp"
   },
