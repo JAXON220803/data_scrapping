@@ -1484,8 +1484,58 @@
     "home": "Reims",
     "home_goals": 1,
     "id": "O6uWKB7e",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 4,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/reims-tItR6sEf/summary/stats/?mid=O6uWKB7e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/reims-tItR6sEf/?mid=O6uWKB7e"
   },
@@ -1744,8 +1794,58 @@
     "home": "Laval",
     "home_goals": 1,
     "id": "QVaeRDUR",
+    "shots": {
+      "AS": 8,
+      "AST": 7,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "16",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/strasbourg-nP6UzIU1/summary/stats/?mid=QVaeRDUR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/strasbourg-nP6UzIU1/?mid=QVaeRDUR"
   },
@@ -2164,8 +2264,58 @@
     "home": "Clermont",
     "home_goals": 1,
     "id": "W80iSgFL",
+    "shots": {
+      "AS": 9,
+      "AST": 7,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "39",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/troyes-fsfAHubD/summary/stats/?mid=W80iSgFL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/troyes-fsfAHubD/?mid=W80iSgFL"
   },
@@ -2250,8 +2400,58 @@
     "home": "Valenciennes",
     "home_goals": 4,
     "id": "WWrvJkx8",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/valenciennes-O8dsB372/summary/stats/?mid=WWrvJkx8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/valenciennes-O8dsB372/?mid=WWrvJkx8"
   },
@@ -2336,8 +2536,58 @@
     "home": "AC Ajaccio",
     "home_goals": 3,
     "id": "bJ8vVeV2",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "37",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/niort-SW30dLbl/summary/stats/?mid=bJ8vVeV2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/niort-SW30dLbl/?mid=bJ8vVeV2"
   },
