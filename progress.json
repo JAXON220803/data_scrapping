@@ -6,10 +6,11 @@
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Daily request budget reached (400/400); resumes next UTC day",
-      "requests": 0,
-      "status": "paused_by_budget",
-      "target": "Netherlands/N1/2016-2017"
+      "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
+      "requests": 9,
+      "retry_at": 1794108556.068177,
+      "status": "adapter_error",
+      "target": "Germany/D2/2016-2017"
     },
     "sofascore": {
       "previous_status": "Blocked",
@@ -3828,5 +3829,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-07T22:43:32.851728+00:00"
+  "updated_utc": "2026-11-08T02:29:22.326960+00:00"
 }
