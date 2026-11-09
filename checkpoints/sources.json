@@ -1,7 +1,7 @@
 {
   "flashscore": {
     "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
-    "retry_at": 1794191790.6285691,
+    "retry_at": 1794214726.9647796,
     "status": "adapter_error",
     "target": "France/F2/2014-2015"
   },
