@@ -2046,8 +2046,58 @@
     "home": "Lens",
     "home_goals": 2,
     "id": "OtdceF1o",
+    "shots": {
+      "AS": 8,
+      "AST": 6,
+      "HS": 16,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "20",
+        "home": "33",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/lens-IBmris38/summary/stats/?mid=OtdceF1o",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/lens-IBmris38/?mid=OtdceF1o"
   },
@@ -2156,8 +2206,58 @@
     "home": "Creteil",
     "home_goals": 1,
     "id": "SYhEiX0A",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 18,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/creteil-tCo0oNc0/summary/stats/?mid=SYhEiX0A",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/creteil-tCo0oNc0/?mid=SYhEiX0A"
   },
@@ -2402,8 +2502,58 @@
     "home": "Sochaux",
     "home_goals": 2,
     "id": "YDpnlbfI",
+    "shots": {
+      "AS": 11,
+      "AST": 8,
+      "HS": 8,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "39",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/sochaux-jPojkLXK/summary/stats/?mid=YDpnlbfI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/sochaux-jPojkLXK/?mid=YDpnlbfI"
   },
@@ -2536,8 +2686,58 @@
     "home": "Tours",
     "home_goals": 1,
     "id": "balAhDo4",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 7,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "30",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/tours-lrpZ4Lr7/summary/stats/?mid=balAhDo4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/tours-lrpZ4Lr7/?mid=balAhDo4"
   },
@@ -2870,8 +3070,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 0,
     "id": "h2TlkvuC",
+    "shots": {
+      "AS": 9,
+      "AST": 7,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "19",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/metz-4v0yqlWc/summary/stats/?mid=h2TlkvuC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/metz-4v0yqlWc/?mid=h2TlkvuC"
   },
@@ -4140,8 +4390,58 @@
     "home": "Red Star",
     "home_goals": 0,
     "id": "xp01fZGi",
+    "shots": {
+      "AS": 8,
+      "AST": 4,
+      "HS": 7,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "15.04.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "33",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/red-star-2kM6ufaS/summary/stats/?mid=xp01fZGi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/red-star-2kM6ufaS/?mid=xp01fZGi"
   },
