@@ -1900,8 +1900,58 @@
     "home": "Niort",
     "home_goals": 4,
     "id": "KAOL8Py2",
+    "shots": {
+      "AS": 9,
+      "AST": 7,
+      "HS": 19,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/niort-SW30dLbl/summary/stats/?mid=KAOL8Py2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/niort-SW30dLbl/?mid=KAOL8Py2"
   },
@@ -2234,8 +2284,58 @@
     "home": "Clermont",
     "home_goals": 2,
     "id": "MF24X8E2",
+    "shots": {
+      "AS": 8,
+      "AST": 5,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/clermont-IRuMRua1/summary/stats/?mid=MF24X8E2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/clermont-IRuMRua1/?mid=MF24X8E2"
   },
@@ -3138,8 +3238,58 @@
     "home": "Metz",
     "home_goals": 2,
     "id": "Uu6CVnqF",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/metz-4v0yqlWc/tours-lrpZ4Lr7/summary/stats/?mid=Uu6CVnqF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/metz-4v0yqlWc/tours-lrpZ4Lr7/?mid=Uu6CVnqF"
   },
@@ -3286,8 +3436,58 @@
     "home": "AC Ajaccio",
     "home_goals": 0,
     "id": "YgM9BRiq",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 6,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/sochaux-jPojkLXK/summary/stats/?mid=YgM9BRiq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/sochaux-jPojkLXK/?mid=YgM9BRiq"
   },
@@ -5216,8 +5416,58 @@
     "home": "Nancy",
     "home_goals": 1,
     "id": "tKPH95Me",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 13,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nancy-dnIrsS0A/thonon-evian-ObTOBzBp/summary/stats/?mid=tKPH95Me",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nancy-dnIrsS0A/thonon-evian-ObTOBzBp/?mid=tKPH95Me"
   },
@@ -5300,8 +5550,58 @@
     "home": "Red Star",
     "home_goals": 3,
     "id": "x2NvPpMr",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/red-star-2kM6ufaS/summary/stats/?mid=x2NvPpMr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/red-star-2kM6ufaS/?mid=x2NvPpMr"
   },
