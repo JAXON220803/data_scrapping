@@ -688,8 +688,58 @@
     "home": "Le Havre",
     "home_goals": 5,
     "id": "6sFeL2L7",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 18,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "13.05.2016",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "14",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/le-havre-CIEe04GT/summary/stats/?mid=6sFeL2L7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/le-havre-CIEe04GT/?mid=6sFeL2L7"
   },
@@ -1516,8 +1566,58 @@
     "home": "Laval",
     "home_goals": 3,
     "id": "EoLBRwrs",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "13.05.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "20",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/paris-fc-0OEHEprs/summary/stats/?mid=EoLBRwrs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/paris-fc-0OEHEprs/?mid=EoLBRwrs"
   },
@@ -2272,8 +2372,58 @@
     "home": "Creteil",
     "home_goals": 2,
     "id": "KrOJPHCg",
+    "shots": {
+      "AS": 10,
+      "AST": 7,
+      "HS": 16,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "13.05.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "14",
+        "home": "22",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/red-star-2kM6ufaS/summary/stats/?mid=KrOJPHCg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/creteil-tCo0oNc0/red-star-2kM6ufaS/?mid=KrOJPHCg"
   },
@@ -2718,8 +2868,58 @@
     "home": "Tours",
     "home_goals": 2,
     "id": "QLOFQccm",
+    "shots": {
+      "AS": 17,
+      "AST": 10,
+      "HS": 10,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "13.05.2016",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nancy-dnIrsS0A/tours-lrpZ4Lr7/summary/stats/?mid=QLOFQccm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nancy-dnIrsS0A/tours-lrpZ4Lr7/?mid=QLOFQccm"
   },
@@ -5922,8 +6122,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 2,
     "id": "zJ68WST8",
+    "shots": {
+      "AS": 20,
+      "AST": 5,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "15",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "19",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/lens-IBmris38/summary/stats/?mid=zJ68WST8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/lens-IBmris38/?mid=zJ68WST8"
   },
@@ -6120,8 +6370,58 @@
     "home": "Paris FC",
     "home_goals": 1,
     "id": "zgyDTQDR",
+    "shots": {
+      "AS": 13,
+      "AST": 9,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "15",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/paris-fc-0OEHEprs/valenciennes-O8dsB372/summary/stats/?mid=zgyDTQDR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/paris-fc-0OEHEprs/valenciennes-O8dsB372/?mid=zgyDTQDR"
   },
