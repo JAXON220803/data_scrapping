@@ -1,17 +1,17 @@
 # Collection progress: in_progress
 
-**Missing matches filled: 3.01% — 904 / 30,073**
+**Missing matches filled: 3.03% — 910 / 30,073**
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-09T01:13:42.106749+00:00
+Updated: 2026-11-09T01:19:20.826966+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 5/230
 - Provider match records downloaded: 1922
-- Provider records with all four shot values: 1127
-- Previously empty reference cells recovered: 3616
-- Reference matches still missing shot values: 29169
+- Provider records with all four shot values: 1133
+- Previously empty reference cells recovered: 3640
+- Reference matches still missing shot values: 29163
 
 | Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps | Filled % |
 |---|---:|---:|---:|---:|
@@ -41,7 +41,7 @@ Updated: 2026-11-09T01:13:42.106749+00:00
 | France/F2/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
 | France/F2/2013-2014 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
 | France/F2/2014-2015 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
-| France/F2/2015-2016 | 0 / 0 / 0 | 110 / 86 / 86 | 312 | 17.89% |
+| France/F2/2015-2016 | 0 / 0 / 0 | 110 / 92 / 92 | 306 | 19.47% |
 | France/F1/2016-2017 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2016-2017 | 0 / 0 / 0 | 105 / 105 / 105 | 296 | 22.11% |
 | France/F2/2020-2021 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
