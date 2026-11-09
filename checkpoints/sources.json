@@ -1,13 +1,13 @@
 {
   "flashscore": {
     "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
-    "retry_at": 1794214726.9647796,
+    "retry_at": 1794253629.7178516,
     "status": "adapter_error",
-    "target": "France/F2/2014-2015"
+    "target": "Germany/D2/2012-2013"
   },
   "sofascore": {
     "reason": "HTTP 403: source denied access",
-    "retry_at": 1794219367.435632,
+    "retry_at": 1794336322.3439837,
     "status": "Blocked",
     "target": "Netherlands/N1/2016-2017"
   }
