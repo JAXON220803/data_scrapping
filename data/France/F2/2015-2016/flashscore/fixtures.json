@@ -650,8 +650,58 @@
     "home": "Nimes",
     "home_goals": 4,
     "id": "6wXj5jV9",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "22.04.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "26",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/nimes-pOtlc1qr/summary/stats/?mid=6wXj5jV9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/nimes-pOtlc1qr/?mid=6wXj5jV9"
   },
@@ -922,8 +972,68 @@
     "home": "Le Havre",
     "home_goals": 1,
     "id": "Aw8FWVOp",
+    "shots": {
+      "AS": 14,
+      "AST": 8,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.04.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "10",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/nancy-dnIrsS0A/summary/stats/?mid=Aw8FWVOp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/nancy-dnIrsS0A/?mid=Aw8FWVOp"
   },
@@ -1008,8 +1118,58 @@
     "home": "Dijon",
     "home_goals": 3,
     "id": "EBUpjKP5",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "18.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/paris-fc-0OEHEprs/summary/stats/?mid=EBUpjKP5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dijon-dIvQQaE7/paris-fc-0OEHEprs/?mid=EBUpjKP5"
   },
@@ -1552,8 +1712,58 @@
     "home": "Clermont",
     "home_goals": 0,
     "id": "KMUv8hoi",
+    "shots": {
+      "AS": 3,
+      "AST": 2,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "22.04.2016",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "37",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/tours-lrpZ4Lr7/summary/stats/?mid=KMUv8hoi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/tours-lrpZ4Lr7/?mid=KMUv8hoi"
   },
@@ -2330,8 +2540,58 @@
     "home": "Brest",
     "home_goals": 0,
     "id": "ShLa3UaM",
+    "shots": {
+      "AS": 9,
+      "AST": 6,
+      "HS": 12,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "22.04.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/laval-E1wDrLsJ/summary/stats/?mid=ShLa3UaM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/laval-E1wDrLsJ/?mid=ShLa3UaM"
   },
@@ -2600,8 +2860,58 @@
     "home": "Thonon-Evian",
     "home_goals": 1,
     "id": "bDTr7C0c",
+    "shots": {
+      "AS": 13,
+      "AST": 4,
+      "HS": 5,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "22.04.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "13",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/thonon-evian-ObTOBzBp/summary/stats/?mid=bDTr7C0c",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/thonon-evian-ObTOBzBp/?mid=bDTr7C0c"
   },
