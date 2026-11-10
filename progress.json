@@ -6,11 +6,10 @@
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
-      "requests": 9,
-      "retry_at": 1794307713.7829194,
-      "status": "adapter_error",
-      "target": "France/F2/2015-2016"
+      "reason": "Run request budget reached (20/20)",
+      "requests": 20,
+      "status": "paused_by_budget",
+      "target": "France/F2/2014-2015"
     },
     "sofascore": {
       "previous_status": "Blocked",
@@ -868,11 +867,11 @@
           "fixtures": 110,
           "inventory_complete": false,
           "inventory_shortfall": null,
-          "last_error": null,
-          "phase": "inventory",
+          "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
+          "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 0
+          "statistics_checked": 16
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3829,5 +3828,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-10T09:48:42.443097+00:00"
+  "updated_utc": "2026-11-10T17:52:40.226184+00:00"
 }
