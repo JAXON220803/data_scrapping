@@ -6,14 +6,15 @@
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Run request budget reached (20/20)",
-      "requests": 20,
-      "status": "paused_by_budget",
+      "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
+      "requests": 6,
+      "retry_at": 1794340253.8410115,
+      "status": "adapter_error",
       "target": "France/F2/2012-2013"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 2135,
+  "provider_fixture_records": 2245,
   "provider_records_with_all_shots": 1151,
   "provider_records_with_statistics": 1151,
   "recovered_cells": 3696,
@@ -790,7 +791,7 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 0,
+          "fixtures": 110,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": null,
@@ -3820,5 +3821,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-10T18:48:33.531578+00:00"
+  "updated_utc": "2026-11-10T18:51:01.454000+00:00"
 }
