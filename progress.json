@@ -9,11 +9,11 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "France/F2/2012-2013"
+      "target": "France/F2/2011-2012"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 2245,
+  "provider_fixture_records": 2356,
   "provider_records_with_all_shots": 1151,
   "provider_records_with_statistics": 1151,
   "recovered_cells": 3696,
@@ -757,14 +757,14 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 0,
+          "fixtures": 111,
           "inventory_complete": false,
           "inventory_shortfall": null,
-          "last_error": null,
-          "phase": "inventory",
+          "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
+          "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 0
+          "statistics_checked": 4
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -794,10 +794,10 @@
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
+          "phase": "inventory",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 97
+          "statistics_checked": 110
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-10T23:44:07.653766+00:00"
+  "updated_utc": "2026-11-10T23:49:38.165584+00:00"
 }
