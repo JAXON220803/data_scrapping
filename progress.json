@@ -10,14 +10,6 @@
       "requests": 20,
       "status": "paused_by_budget",
       "target": "France/F2/2014-2015"
-    },
-    "sofascore": {
-      "previous_status": "Blocked",
-      "reason": "HTTP 403: source denied access",
-      "requests": 0,
-      "retry_at": 1794336322.3439837,
-      "status": "waiting_after_error",
-      "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
@@ -871,7 +863,7 @@
           "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 16
+          "statistics_checked": 36
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3828,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-10T17:52:40.226184+00:00"
+  "updated_utc": "2026-11-10T17:58:20.323711+00:00"
 }
