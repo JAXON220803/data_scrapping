@@ -4,7 +4,7 @@
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-10T18:04:05.392292+00:00
+Updated: 2026-11-10T18:09:44.500044+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 5/230
@@ -40,7 +40,7 @@ Updated: 2026-11-10T18:04:05.392292+00:00
 | France/F2/2011-2012 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
 | France/F2/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
 | France/F2/2013-2014 | 0 / 0 / 0 | 0 / 0 / 0 | 380 | 0.00% |
-| France/F2/2014-2015 | 0 / 0 / 0 | 110 / 56 / 0 | 380 | 0.00% |
+| France/F2/2014-2015 | 0 / 0 / 0 | 110 / 76 / 0 | 380 | 0.00% |
 | France/F2/2015-2016 | 0 / 0 / 0 | 110 / 110 / 110 | 292 | 23.16% |
 | France/F1/2016-2017 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2016-2017 | 0 / 0 / 0 | 105 / 105 / 105 | 296 | 22.11% |
