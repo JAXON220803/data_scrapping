@@ -3670,8 +3670,63 @@
     "home": "Perugia",
     "home_goals": 1,
     "id": "nV7XFVj7",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "25.04.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/perugia-ht2m7Kl6/verona-rJVAIaHo/summary/stats/?mid=nV7XFVj7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/perugia-ht2m7Kl6/verona-rJVAIaHo/?mid=nV7XFVj7"
   },
@@ -3967,8 +4022,63 @@
     "home": "Pisa",
     "home_goals": 1,
     "id": "tUlOxgbK",
+    "shots": {
+      "AS": 4,
+      "AST": 3,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "25.04.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/pisa-roasMsOT/pro-vercelli-KjGeTD9G/summary/stats/?mid=tUlOxgbK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/pisa-roasMsOT/pro-vercelli-KjGeTD9G/?mid=tUlOxgbK"
   },
@@ -4113,8 +4223,63 @@
     "home": "Cesena",
     "home_goals": 4,
     "id": "v54PHiMf",
+    "shots": {
+      "AS": 9,
+      "AST": 7,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "25.04.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/cesena-xddf1qfh/summary/stats/?mid=v54PHiMf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/cesena-xddf1qfh/?mid=v54PHiMf"
   },
@@ -4125,8 +4290,63 @@
     "home": "Carpi",
     "home_goals": 2,
     "id": "vJqbWjyl",
+    "shots": {
+      "AS": 10,
+      "AST": 1,
+      "HS": 11,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "25.04.2017",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/trapani-WKvNghE4/summary/stats/?mid=vJqbWjyl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/trapani-WKvNghE4/?mid=vJqbWjyl"
   },
@@ -4601,8 +4821,63 @@
     "home": "Frosinone",
     "home_goals": 2,
     "id": "zilSyDDQ",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "25.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/frosinone-pfo9H1Wp/spezia-re6VD39b/summary/stats/?mid=zilSyDDQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/frosinone-pfo9H1Wp/spezia-re6VD39b/?mid=zilSyDDQ"
   }
