@@ -473,8 +473,63 @@
     "home": "Benevento",
     "home_goals": 0,
     "id": "CjhmytNF",
+    "shots": {
+      "AS": 13,
+      "AST": 4,
+      "HS": 13,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/vicenza-plvm35Pu/summary/stats/?mid=CjhmytNF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/vicenza-plvm35Pu/?mid=CjhmytNF"
   },
@@ -1052,8 +1107,63 @@
     "home": "Cittadella",
     "home_goals": 4,
     "id": "KdT9NMhG",
+    "shots": {
+      "AS": 7,
+      "AST": 1,
+      "HS": 6,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "22.04.2017",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "26",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "25",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/cittadella-C0yUqo8c/summary/stats/?mid=KdT9NMhG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/cittadella-C0yUqo8c/?mid=KdT9NMhG"
   },
@@ -1155,8 +1265,63 @@
     "home": "Trapani",
     "home_goals": 1,
     "id": "OUBhFb0d",
+    "shots": {
+      "AS": 3,
+      "AST": 0,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "22.04.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "24",
+        "home": "28",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/pisa-roasMsOT/trapani-WKvNghE4/summary/stats/?mid=OUBhFb0d",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/pisa-roasMsOT/trapani-WKvNghE4/?mid=OUBhFb0d"
   },
@@ -1366,8 +1531,63 @@
     "home": "Ternana",
     "home_goals": 2,
     "id": "QgWHL0NS",
+    "shots": {
+      "AS": 12,
+      "AST": 7,
+      "HS": 7,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "22.04.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/frosinone-pfo9H1Wp/ternana-zVUNUKkf/summary/stats/?mid=QgWHL0NS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/frosinone-pfo9H1Wp/ternana-zVUNUKkf/?mid=QgWHL0NS"
   },
@@ -2955,8 +3175,63 @@
     "home": "Novara",
     "home_goals": 0,
     "id": "pvDlGvoj",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 5,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "21.04.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/perugia-ht2m7Kl6/summary/stats/?mid=pvDlGvoj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/perugia-ht2m7Kl6/?mid=pvDlGvoj"
   },
@@ -3446,8 +3721,63 @@
     "home": "Frosinone",
     "home_goals": 2,
     "id": "z9g6311p",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 11,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "17.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/frosinone-pfo9H1Wp/novara-rPRQmc5D/summary/stats/?mid=z9g6311p",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/frosinone-pfo9H1Wp/novara-rPRQmc5D/?mid=z9g6311p"
   },
