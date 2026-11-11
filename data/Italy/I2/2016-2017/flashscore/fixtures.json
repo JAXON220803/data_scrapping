@@ -18,8 +18,63 @@
     "home": "Salernitana",
     "home_goals": 0,
     "id": "2c06n9Qh",
+    "shots": {
+      "AS": 5,
+      "AST": 0,
+      "HS": 12,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "04.04.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cittadella-C0yUqo8c/salernitana-Mq05g4BP/summary/stats/?mid=2c06n9Qh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cittadella-C0yUqo8c/salernitana-Mq05g4BP/?mid=2c06n9Qh"
   },
@@ -114,8 +169,63 @@
     "home": "Frosinone",
     "home_goals": 1,
     "id": "6V6clVet",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "03.04.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/avellino-A332L1f5/frosinone-pfo9H1Wp/summary/stats/?mid=6V6clVet",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/avellino-A332L1f5/frosinone-pfo9H1Wp/?mid=6V6clVet"
   },
@@ -1120,8 +1230,58 @@
     "home": "Pro Vercelli",
     "home_goals": 1,
     "id": "fJDEpSw8",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "01.04.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "39",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/pro-vercelli-KjGeTD9G/summary/stats/?mid=fJDEpSw8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/pro-vercelli-KjGeTD9G/?mid=fJDEpSw8"
   },
@@ -1252,8 +1412,58 @@
     "home": "Trapani",
     "home_goals": 0,
     "id": "lxoSoxzr",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 7,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "41",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/trapani-WKvNghE4/verona-rJVAIaHo/summary/stats/?mid=lxoSoxzr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/trapani-WKvNghE4/verona-rJVAIaHo/?mid=lxoSoxzr"
   },
@@ -1600,8 +1810,58 @@
     "home": "Ascoli",
     "home_goals": 1,
     "id": "zV4ihvcE",
+    "shots": {
+      "AS": 8,
+      "AST": 4,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/carpi-4Mj4hjbN/summary/stats/?mid=zV4ihvcE",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/carpi-4Mj4hjbN/?mid=zV4ihvcE"
   },
@@ -1624,8 +1884,58 @@
     "home": "Novara",
     "home_goals": 1,
     "id": "zgmvqzK0",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 21,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "01.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/ternana-zVUNUKkf/summary/stats/?mid=zgmvqzK0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/ternana-zVUNUKkf/?mid=zgmvqzK0"
   },
