@@ -7,9 +7,17 @@
   "last_run": {
     "flashscore": {
       "reason": "Daily request budget reached (400/400); resumes next UTC day",
-      "requests": 18,
+      "requests": 0,
       "status": "paused_by_budget",
-      "target": "Italy/I2/2016-2017"
+      "target": "Germany/D2/2012-2013"
+    },
+    "sofascore": {
+      "previous_status": "Blocked",
+      "reason": "HTTP 403: source denied access",
+      "requests": 0,
+      "retry_at": 1794439002.9760425,
+      "status": "waiting_after_error",
+      "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
@@ -3820,5 +3828,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-11T01:54:09.576685+00:00"
+  "updated_utc": "2026-11-11T02:50:58.847952+00:00"
 }
