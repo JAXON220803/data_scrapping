@@ -20080,6 +20080,166 @@
     "value": 2
   },
   {
+    "away": "Carpi",
+    "date": "08/04/17",
+    "field": "AS",
+    "fixture_id": "UXJmanAb",
+    "home": "Avellino",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "Carpi",
+    "date": "08/04/17",
+    "field": "AST",
+    "fixture_id": "UXJmanAb",
+    "home": "Avellino",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Carpi",
+    "date": "08/04/17",
+    "field": "HS",
+    "fixture_id": "UXJmanAb",
+    "home": "Avellino",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Carpi",
+    "date": "08/04/17",
+    "field": "HST",
+    "fixture_id": "UXJmanAb",
+    "home": "Avellino",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "Benevento",
+    "date": "08/04/17",
+    "field": "AS",
+    "fixture_id": "jsLq0Sfh",
+    "home": "Cittadella",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Benevento",
+    "date": "08/04/17",
+    "field": "AST",
+    "fixture_id": "jsLq0Sfh",
+    "home": "Cittadella",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Benevento",
+    "date": "08/04/17",
+    "field": "HS",
+    "fixture_id": "jsLq0Sfh",
+    "home": "Cittadella",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Benevento",
+    "date": "08/04/17",
+    "field": "HST",
+    "fixture_id": "jsLq0Sfh",
+    "home": "Cittadella",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Cesena",
+    "date": "08/04/17",
+    "field": "AS",
+    "fixture_id": "n9Ehb6P4",
+    "home": "Pisa",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Cesena",
+    "date": "08/04/17",
+    "field": "AST",
+    "fixture_id": "n9Ehb6P4",
+    "home": "Pisa",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Cesena",
+    "date": "08/04/17",
+    "field": "HS",
+    "fixture_id": "n9Ehb6P4",
+    "home": "Pisa",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Cesena",
+    "date": "08/04/17",
+    "field": "HST",
+    "fixture_id": "n9Ehb6P4",
+    "home": "Pisa",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 1
+  },
+  {
+    "away": "Bari",
+    "date": "08/04/17",
+    "field": "AS",
+    "fixture_id": "dKLu18un",
+    "home": "Spezia",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Bari",
+    "date": "08/04/17",
+    "field": "AST",
+    "fixture_id": "dKLu18un",
+    "home": "Spezia",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 1
+  },
+  {
+    "away": "Bari",
+    "date": "08/04/17",
+    "field": "HS",
+    "fixture_id": "dKLu18un",
+    "home": "Spezia",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Bari",
+    "date": "08/04/17",
+    "field": "HST",
+    "fixture_id": "dKLu18un",
+    "home": "Spezia",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 1
+  },
+  {
     "away": "Salernitana",
     "date": "08/04/17",
     "field": "AS",
@@ -20118,6 +20278,46 @@
     "source": "flashscore",
     "target": "Italy/I2/2016-2017",
     "value": 4
+  },
+  {
+    "away": "Perugia",
+    "date": "08/04/17",
+    "field": "AS",
+    "fixture_id": "WdG4e49N",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Perugia",
+    "date": "08/04/17",
+    "field": "AST",
+    "fixture_id": "WdG4e49N",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Perugia",
+    "date": "08/04/17",
+    "field": "HS",
+    "fixture_id": "WdG4e49N",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Perugia",
+    "date": "08/04/17",
+    "field": "HST",
+    "fixture_id": "WdG4e49N",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 5
   },
   {
     "away": "Heerenveen",
