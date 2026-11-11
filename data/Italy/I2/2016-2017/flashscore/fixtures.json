@@ -406,8 +406,63 @@
     "home": "Brescia",
     "home_goals": 1,
     "id": "CGyvA3OG",
+    "shots": {
+      "AS": 16,
+      "AST": 9,
+      "HS": 6,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "17.04.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/brescia-jci0qO9B/summary/stats/?mid=CGyvA3OG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/brescia-jci0qO9B/?mid=CGyvA3OG"
   },
@@ -583,8 +638,63 @@
     "home": "Brescia",
     "home_goals": 1,
     "id": "GUiyjrXp",
+    "shots": {
+      "AS": 13,
+      "AST": 8,
+      "HS": 16,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "09.04.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "26",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/spal-SCurW5ZE/summary/stats/?mid=GUiyjrXp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/spal-SCurW5ZE/?mid=GUiyjrXp"
   },
@@ -693,8 +803,63 @@
     "home": "Salernitana",
     "home_goals": 2,
     "id": "IT6v8sgT",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 19,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "17.04.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/latina-CrARgwBF/salernitana-Mq05g4BP/summary/stats/?mid=IT6v8sgT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/latina-CrARgwBF/salernitana-Mq05g4BP/?mid=IT6v8sgT"
   },
@@ -796,8 +961,63 @@
     "home": "Novara",
     "home_goals": 2,
     "id": "KMC0dpfH",
+    "shots": {
+      "AS": 8,
+      "AST": 5,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "10.04.2017",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/verona-rJVAIaHo/summary/stats/?mid=KMC0dpfH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/verona-rJVAIaHo/?mid=KMC0dpfH"
   },
@@ -1050,8 +1270,68 @@
     "home": "Perugia",
     "home_goals": 0,
     "id": "QaZRC5vb",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "17.04.2017",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "25",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "27",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/perugia-ht2m7Kl6/summary/stats/?mid=QaZRC5vb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/perugia-ht2m7Kl6/?mid=QaZRC5vb"
   },
@@ -1251,8 +1531,63 @@
     "home": "Entella",
     "home_goals": 1,
     "id": "U7zcQO8c",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 12,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "17.04.2017",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/ternana-zVUNUKkf/summary/stats/?mid=U7zcQO8c",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/ternana-zVUNUKkf/?mid=U7zcQO8c"
   },
