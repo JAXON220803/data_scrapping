@@ -6,17 +6,17 @@
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Daily request budget reached (400/400); resumes next UTC day",
-      "requests": 0,
-      "status": "paused_by_budget",
-      "target": "Netherlands/N1/2016-2017"
+      "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
+      "requests": 9,
+      "retry_at": 1794450879.7266579,
+      "status": "adapter_error",
+      "target": "Germany/D2/2016-2017"
     },
     "sofascore": {
-      "previous_status": "Blocked",
       "reason": "HTTP 403: source denied access",
-      "requests": 0,
-      "retry_at": 1794439002.9760425,
-      "status": "waiting_after_error",
+      "requests": 1,
+      "retry_at": 1794533528.4773793,
+      "status": "Blocked",
       "target": "Netherlands/N1/2016-2017"
     }
   },
@@ -3828,5 +3828,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-11T18:41:11.553659+00:00"
+  "updated_utc": "2026-11-12T01:34:52.343422+00:00"
 }
