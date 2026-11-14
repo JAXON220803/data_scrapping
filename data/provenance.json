@@ -22560,6 +22560,46 @@
     "value": 3
   },
   {
+    "away": "Ternana",
+    "date": "18/05/17",
+    "field": "AS",
+    "fixture_id": "zVlEorbk",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Ternana",
+    "date": "18/05/17",
+    "field": "AST",
+    "fixture_id": "zVlEorbk",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Ternana",
+    "date": "18/05/17",
+    "field": "HS",
+    "fixture_id": "zVlEorbk",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "Ternana",
+    "date": "18/05/17",
+    "field": "HST",
+    "fixture_id": "zVlEorbk",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 4
+  },
+  {
     "away": "Latina",
     "date": "18/05/17",
     "field": "AS",
@@ -22680,6 +22720,46 @@
     "value": 4
   },
   {
+    "away": "Verona",
+    "date": "18/05/17",
+    "field": "AS",
+    "fixture_id": "z76Rfny3",
+    "home": "Cesena",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Verona",
+    "date": "18/05/17",
+    "field": "AST",
+    "fixture_id": "z76Rfny3",
+    "home": "Cesena",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Verona",
+    "date": "18/05/17",
+    "field": "HS",
+    "fixture_id": "z76Rfny3",
+    "home": "Cesena",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Verona",
+    "date": "18/05/17",
+    "field": "HST",
+    "fixture_id": "z76Rfny3",
+    "home": "Cesena",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 0
+  },
+  {
     "away": "Pro Vercelli",
     "date": "18/05/17",
     "field": "AS",
@@ -22720,6 +22800,46 @@
     "value": 8
   },
   {
+    "away": "Salernitana",
+    "date": "18/05/17",
+    "field": "AS",
+    "fixture_id": "va3ri4zS",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Salernitana",
+    "date": "18/05/17",
+    "field": "AST",
+    "fixture_id": "va3ri4zS",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Salernitana",
+    "date": "18/05/17",
+    "field": "HS",
+    "fixture_id": "va3ri4zS",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Salernitana",
+    "date": "18/05/17",
+    "field": "HST",
+    "fixture_id": "va3ri4zS",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 4
+  },
+  {
     "away": "Benevento",
     "date": "18/05/17",
     "field": "AS",
@@ -22758,6 +22878,46 @@
     "source": "flashscore",
     "target": "Italy/I2/2016-2017",
     "value": 2
+  },
+  {
+    "away": "Bari",
+    "date": "18/05/17",
+    "field": "AS",
+    "fixture_id": "t8wwlG2j",
+    "home": "Spal",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Bari",
+    "date": "18/05/17",
+    "field": "AST",
+    "fixture_id": "t8wwlG2j",
+    "home": "Spal",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Bari",
+    "date": "18/05/17",
+    "field": "HS",
+    "fixture_id": "t8wwlG2j",
+    "home": "Spal",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 16
+  },
+  {
+    "away": "Bari",
+    "date": "18/05/17",
+    "field": "HST",
+    "fixture_id": "t8wwlG2j",
+    "home": "Spal",
+    "source": "flashscore",
+    "target": "Italy/I2/2016-2017",
+    "value": 6
   },
   {
     "away": "Heerenveen",
