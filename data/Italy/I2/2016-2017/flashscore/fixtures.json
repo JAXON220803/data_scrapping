@@ -1964,8 +1964,63 @@
     "home": "Perugia",
     "home_goals": 1,
     "id": "IwdscRJJ",
+    "shots": {
+      "AS": 15,
+      "AST": 9,
+      "HS": 11,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "30.05.2017",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "25",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "24",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/perugia-ht2m7Kl6/summary/stats/?mid=IwdscRJJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/perugia-ht2m7Kl6/?mid=IwdscRJJ"
   },
@@ -2043,8 +2098,63 @@
     "home": "Carpi",
     "home_goals": 0,
     "id": "KQvRnKfH",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "04.06.2017",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/carpi-4Mj4hjbN/summary/stats/?mid=KQvRnKfH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/carpi-4Mj4hjbN/?mid=KQvRnKfH"
   },
@@ -2457,8 +2567,63 @@
     "home": "Frosinone",
     "home_goals": 0,
     "id": "Opj4oZie",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 23,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "29.05.2017",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "29",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/frosinone-pfo9H1Wp/summary/stats/?mid=Opj4oZie",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/frosinone-pfo9H1Wp/?mid=Opj4oZie"
   },
@@ -3273,8 +3438,63 @@
     "home": "Benevento",
     "home_goals": 1,
     "id": "UN2aYssJ",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "27.05.2017",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/perugia-ht2m7Kl6/summary/stats/?mid=UN2aYssJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/perugia-ht2m7Kl6/?mid=UN2aYssJ"
   },
@@ -3950,8 +4170,63 @@
     "home": "Benevento",
     "home_goals": 1,
     "id": "bHwVovAN",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "08.06.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/carpi-4Mj4hjbN/summary/stats/?mid=bHwVovAN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/benevento-rZhSxrse/carpi-4Mj4hjbN/?mid=bHwVovAN"
   },
@@ -5838,8 +6113,68 @@
     "home": "Carpi",
     "home_goals": 0,
     "id": "pfi0nFxk",
+    "shots": {
+      "AS": 6,
+      "AST": 1,
+      "HS": 4,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "26.05.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "25",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/frosinone-pfo9H1Wp/summary/stats/?mid=pfi0nFxk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/frosinone-pfo9H1Wp/?mid=pfi0nFxk"
   },

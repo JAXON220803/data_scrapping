@@ -6,16 +6,17 @@
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Run request budget reached (20/20)",
+      "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
       "requests": 20,
-      "status": "paused_by_budget",
-      "target": "Italy/I2/2016-2017"
+      "retry_at": 1794698309.246609,
+      "status": "adapter_error",
+      "target": "Italy/I2/2015-2016"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 2582,
-  "provider_records_with_all_shots": 1261,
-  "provider_records_with_statistics": 1261,
+  "provider_fixture_records": 2702,
+  "provider_records_with_all_shots": 1267,
+  "provider_records_with_statistics": 1267,
   "recovered_cells": 4048,
   "reference_matches": 36942,
   "reference_matches_still_missing_shots": 29061,
@@ -1879,7 +1880,7 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 0,
+          "fixtures": 120,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": null,
@@ -1911,15 +1912,15 @@
       "remaining_missing_shots": 374,
       "sources": {
         "flashscore": {
-          "all_shot_values": 110,
+          "all_shot_values": 116,
           "fixtures": 116,
           "inventory_complete": false,
           "inventory_shortfall": null,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
+          "phase": "inventory",
           "reason": null,
-          "statistics_available": 110,
-          "statistics_checked": 110
+          "statistics_available": 116,
+          "statistics_checked": 116
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3821,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-14T22:12:39.731637+00:00"
+  "updated_utc": "2026-11-14T22:18:42.881973+00:00"
 }
