@@ -6,8 +6,63 @@
     "home": "Perugia",
     "home_goals": 0,
     "id": "08lGe74a",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 6,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "05.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/perugia-ht2m7Kl6/spezia-re6VD39b/summary/stats/?mid=08lGe74a",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/perugia-ht2m7Kl6/spezia-re6VD39b/?mid=08lGe74a"
   },
@@ -490,8 +545,63 @@
     "home": "Cesena",
     "home_goals": 0,
     "id": "AJe3b9Kt",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 15,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "06.05.2017",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/novara-rPRQmc5D/summary/stats/?mid=AJe3b9Kt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/novara-rPRQmc5D/?mid=AJe3b9Kt"
   },
@@ -2082,8 +2192,63 @@
     "home": "Ascoli",
     "home_goals": 1,
     "id": "QeNptS4C",
+    "shots": {
+      "AS": 5,
+      "AST": 4,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "06.05.2017",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "24",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "11",
+        "name": "Offsides"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/benevento-rZhSxrse/summary/stats/?mid=QeNptS4C",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/benevento-rZhSxrse/?mid=QeNptS4C"
   },
@@ -2802,8 +2967,63 @@
     "home": "Entella",
     "home_goals": 1,
     "id": "YLQhv6ZO",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "06.05.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/verona-rJVAIaHo/summary/stats/?mid=YLQhv6ZO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/verona-rJVAIaHo/?mid=YLQhv6ZO"
   },
@@ -2814,8 +3034,63 @@
     "home": "Frosinone",
     "home_goals": 1,
     "id": "YLnOgoZB",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 11,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "06.05.2017",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/frosinone-pfo9H1Wp/trapani-WKvNghE4/summary/stats/?mid=YLnOgoZB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/frosinone-pfo9H1Wp/trapani-WKvNghE4/?mid=YLnOgoZB"
   },
@@ -4104,8 +4379,63 @@
     "home": "Avellino",
     "home_goals": 1,
     "id": "n5Ots8k6",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "06.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/avellino-A332L1f5/bari-xIkUr2vO/summary/stats/?mid=n5Ots8k6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/avellino-A332L1f5/bari-xIkUr2vO/?mid=n5Ots8k6"
   },
