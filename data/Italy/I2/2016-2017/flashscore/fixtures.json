@@ -291,8 +291,63 @@
     "home": "Avellino",
     "home_goals": 2,
     "id": "4tBVg6j9",
+    "shots": {
+      "AS": 9,
+      "AST": 7,
+      "HS": 19,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "18.05.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/avellino-A332L1f5/latina-CrARgwBF/summary/stats/?mid=4tBVg6j9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/avellino-A332L1f5/latina-CrARgwBF/?mid=4tBVg6j9"
   },
@@ -1380,8 +1435,63 @@
     "home": "Brescia",
     "home_goals": 2,
     "id": "Gt6Bp2De",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 12,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "18.05.2017",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/trapani-WKvNghE4/summary/stats/?mid=Gt6Bp2De",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/trapani-WKvNghE4/?mid=Gt6Bp2De"
   },
@@ -4448,8 +4558,63 @@
     "home": "Ternana",
     "home_goals": 2,
     "id": "hpM0743B",
+    "shots": {
+      "AS": 4,
+      "AST": 3,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "13.05.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/spal-SCurW5ZE/ternana-zVUNUKkf/summary/stats/?mid=hpM0743B",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/spal-SCurW5ZE/ternana-zVUNUKkf/?mid=hpM0743B"
   },
@@ -5008,8 +5173,63 @@
     "home": "Bari",
     "home_goals": 0,
     "id": "nPjSh5lI",
+    "shots": {
+      "AS": 8,
+      "AST": 4,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "14.05.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/bari-xIkUr2vO/summary/stats/?mid=nPjSh5lI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/bari-xIkUr2vO/?mid=nPjSh5lI"
   },
@@ -5087,8 +5307,63 @@
     "home": "Cittadella",
     "home_goals": 2,
     "id": "novZldmp",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "13.05.2017",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cittadella-C0yUqo8c/vicenza-plvm35Pu/summary/stats/?mid=novZldmp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cittadella-C0yUqo8c/vicenza-plvm35Pu/?mid=novZldmp"
   },
@@ -5166,8 +5441,63 @@
     "home": "Verona",
     "home_goals": 1,
     "id": "pEVuCSlt",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 16,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "13.05.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/verona-rJVAIaHo/summary/stats/?mid=pEVuCSlt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/carpi-4Mj4hjbN/verona-rJVAIaHo/?mid=pEVuCSlt"
   },
