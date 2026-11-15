@@ -2159,8 +2159,63 @@
     "home": "L.R. Vicenza",
     "home_goals": 0,
     "id": "Crr8ke5m",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 11,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/perugia-ht2m7Kl6/vicenza-plvm35Pu/summary/stats/?mid=Crr8ke5m",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/perugia-ht2m7Kl6/vicenza-plvm35Pu/?mid=Crr8ke5m"
   },
@@ -3760,8 +3815,63 @@
     "home": "Pescara",
     "home_goals": 1,
     "id": "SGwlp0T7",
+    "shots": {
+      "AS": 6,
+      "AST": 5,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/latina-CrARgwBF/pescara-WW0i6v4C/summary/stats/?mid=SGwlp0T7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/latina-CrARgwBF/pescara-WW0i6v4C/?mid=SGwlp0T7"
   },
@@ -3906,8 +4016,63 @@
     "home": "Crotone",
     "home_goals": 1,
     "id": "UHe8u7Yc",
+    "shots": {
+      "AS": 4,
+      "AST": 3,
+      "HS": 12,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/entella-hUuJfYbb/summary/stats/?mid=UHe8u7Yc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/entella-hUuJfYbb/?mid=UHe8u7Yc"
   },
@@ -4253,8 +4418,63 @@
     "home": "Livorno",
     "home_goals": 2,
     "id": "WlpunMbe",
+    "shots": {
+      "AS": 11,
+      "AST": 7,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lanciano-Aw4xC2ks/livorno-0zxhbdWT/summary/stats/?mid=WlpunMbe",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lanciano-Aw4xC2ks/livorno-0zxhbdWT/?mid=WlpunMbe"
   },
@@ -4466,8 +4686,63 @@
     "home": "Ternana",
     "home_goals": 3,
     "id": "Yiq4jyjs",
+    "shots": {
+      "AS": 14,
+      "AST": 7,
+      "HS": 12,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/ternana-zVUNUKkf/summary/stats/?mid=Yiq4jyjs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/ternana-zVUNUKkf/?mid=Yiq4jyjs"
   },
@@ -4813,8 +5088,63 @@
     "home": "Avellino",
     "home_goals": 1,
     "id": "bynXmrUr",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/avellino-A332L1f5/cesena-xddf1qfh/summary/stats/?mid=bynXmrUr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/avellino-A332L1f5/cesena-xddf1qfh/?mid=bynXmrUr"
   },
