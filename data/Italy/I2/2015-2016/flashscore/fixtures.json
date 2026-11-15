@@ -444,8 +444,63 @@
     "home": "Crotone",
     "home_goals": 1,
     "id": "40oPKq0d",
+    "shots": {
+      "AS": 5,
+      "AST": 1,
+      "HS": 6,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "07.05.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "25",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "24",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/latina-CrARgwBF/summary/stats/?mid=40oPKq0d",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/latina-CrARgwBF/?mid=40oPKq0d"
   },
@@ -1016,8 +1071,63 @@
     "home": "Cesena",
     "home_goals": 2,
     "id": "6qlXWkgi",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "02.05.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/pro-vercelli-KjGeTD9G/summary/stats/?mid=6qlXWkgi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/pro-vercelli-KjGeTD9G/?mid=6qlXWkgi"
   },
@@ -1762,8 +1872,63 @@
     "home": "Salernitana",
     "home_goals": 0,
     "id": "CGoJtRMF",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 7,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "07.05.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/modena-MBn63swN/salernitana-Mq05g4BP/summary/stats/?mid=CGoJtRMF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/modena-MBn63swN/salernitana-Mq05g4BP/?mid=CGoJtRMF"
   },
@@ -1999,8 +2164,63 @@
     "home": "Pro Vercelli",
     "home_goals": 1,
     "id": "EVSFs779",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 13,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "07.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/pro-vercelli-KjGeTD9G/trapani-WKvNghE4/summary/stats/?mid=EVSFs779",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/pro-vercelli-KjGeTD9G/trapani-WKvNghE4/?mid=EVSFs779"
   },
@@ -2832,8 +3052,63 @@
     "home": "Bari",
     "home_goals": 0,
     "id": "Q9nLLPpj",
+    "shots": {
+      "AS": 15,
+      "AST": 7,
+      "HS": 15,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "06.05.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/cagliari-SCGVmKHb/summary/stats/?mid=Q9nLLPpj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/cagliari-SCGVmKHb/?mid=Q9nLLPpj"
   },
@@ -4438,8 +4713,63 @@
     "home": "Livorno",
     "home_goals": 1,
     "id": "hGv7qTxc",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 12,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "07.05.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/livorno-0zxhbdWT/perugia-ht2m7Kl6/summary/stats/?mid=hGv7qTxc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/livorno-0zxhbdWT/perugia-ht2m7Kl6/?mid=hGv7qTxc"
   },
