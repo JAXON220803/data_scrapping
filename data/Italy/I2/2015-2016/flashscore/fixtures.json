@@ -97,8 +97,63 @@
     "home": "Ascoli",
     "home_goals": 0,
     "id": "0MFTT9Zo",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 6,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "19.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "14",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/bari-xIkUr2vO/summary/stats/?mid=0MFTT9Zo",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/bari-xIkUr2vO/?mid=0MFTT9Zo"
   },
@@ -1835,8 +1890,63 @@
     "home": "Bari",
     "home_goals": 3,
     "id": "OvN4A2tK",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.04.2016",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/como-ttyLthOA/summary/stats/?mid=OvN4A2tK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/como-ttyLthOA/?mid=OvN4A2tK"
   },
@@ -2228,8 +2338,63 @@
     "home": "Perugia",
     "home_goals": 2,
     "id": "b1il2vl0",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "16.04.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/avellino-A332L1f5/perugia-ht2m7Kl6/summary/stats/?mid=b1il2vl0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/avellino-A332L1f5/perugia-ht2m7Kl6/?mid=b1il2vl0"
   },
@@ -2307,8 +2472,63 @@
     "home": "Cesena",
     "home_goals": 2,
     "id": "bcymNuQP",
+    "shots": {
+      "AS": 5,
+      "AST": 4,
+      "HS": 10,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "18.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "31",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/crotone-d8H0SxkJ/summary/stats/?mid=bcymNuQP",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/crotone-d8H0SxkJ/?mid=bcymNuQP"
   },
@@ -3272,8 +3492,63 @@
     "home": "L.R. Vicenza",
     "home_goals": 2,
     "id": "rkg0axYI",
+    "shots": {
+      "AS": 12,
+      "AST": 3,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.04.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "11",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ternana-zVUNUKkf/vicenza-plvm35Pu/summary/stats/?mid=rkg0axYI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ternana-zVUNUKkf/vicenza-plvm35Pu/?mid=rkg0axYI"
   },
@@ -3545,8 +3820,63 @@
     "home": "Latina",
     "home_goals": 2,
     "id": "xn3u40Jm",
+    "shots": {
+      "AS": 15,
+      "AST": 5,
+      "HS": 20,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "16.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lanciano-Aw4xC2ks/latina-CrARgwBF/summary/stats/?mid=xn3u40Jm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lanciano-Aw4xC2ks/latina-CrARgwBF/?mid=xn3u40Jm"
   },

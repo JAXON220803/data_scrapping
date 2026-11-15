@@ -20480,6 +20480,46 @@
     "value": 2
   },
   {
+    "away": "Como",
+    "date": "16/04/16",
+    "field": "AS",
+    "fixture_id": "OvN4A2tK",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Como",
+    "date": "16/04/16",
+    "field": "AST",
+    "fixture_id": "OvN4A2tK",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Como",
+    "date": "16/04/16",
+    "field": "HS",
+    "fixture_id": "OvN4A2tK",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Como",
+    "date": "16/04/16",
+    "field": "HST",
+    "fixture_id": "OvN4A2tK",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
     "away": "Brescia",
     "date": "16/04/16",
     "field": "AS",
@@ -20560,6 +20600,46 @@
     "value": 6
   },
   {
+    "away": "Avellino",
+    "date": "16/04/16",
+    "field": "AS",
+    "fixture_id": "b1il2vl0",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Avellino",
+    "date": "16/04/16",
+    "field": "AST",
+    "fixture_id": "b1il2vl0",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Avellino",
+    "date": "16/04/16",
+    "field": "HS",
+    "fixture_id": "b1il2vl0",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Avellino",
+    "date": "16/04/16",
+    "field": "HST",
+    "fixture_id": "b1il2vl0",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
     "away": "Salernitana",
     "date": "16/04/16",
     "field": "AS",
@@ -20638,6 +20718,86 @@
     "source": "flashscore",
     "target": "Italy/I2/2015-2016",
     "value": 11
+  },
+  {
+    "away": "Crotone",
+    "date": "18/04/16",
+    "field": "AS",
+    "fixture_id": "bcymNuQP",
+    "home": "Cesena",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Crotone",
+    "date": "18/04/16",
+    "field": "AST",
+    "fixture_id": "bcymNuQP",
+    "home": "Cesena",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Crotone",
+    "date": "18/04/16",
+    "field": "HS",
+    "fixture_id": "bcymNuQP",
+    "home": "Cesena",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Crotone",
+    "date": "18/04/16",
+    "field": "HST",
+    "fixture_id": "bcymNuQP",
+    "home": "Cesena",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Bari",
+    "date": "19/04/16",
+    "field": "AS",
+    "fixture_id": "0MFTT9Zo",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Bari",
+    "date": "19/04/16",
+    "field": "AST",
+    "fixture_id": "0MFTT9Zo",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "Bari",
+    "date": "19/04/16",
+    "field": "HS",
+    "fixture_id": "0MFTT9Zo",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Bari",
+    "date": "19/04/16",
+    "field": "HST",
+    "fixture_id": "0MFTT9Zo",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 1
   },
   {
     "away": "Carpi",
