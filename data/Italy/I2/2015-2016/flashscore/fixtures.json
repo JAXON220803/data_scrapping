@@ -408,8 +408,63 @@
     "home": "Trapani",
     "home_goals": 2,
     "id": "2iD9TZc1",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "31.05.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/spezia-re6VD39b/trapani-WKvNghE4/summary/stats/?mid=2iD9TZc1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/spezia-re6VD39b/trapani-WKvNghE4/?mid=2iD9TZc1"
   },
@@ -3164,8 +3219,63 @@
     "home": "Spezia",
     "home_goals": 0,
     "id": "KSN4UFre",
+    "shots": {
+      "AS": 3,
+      "AST": 2,
+      "HS": 9,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "28.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/spezia-re6VD39b/trapani-WKvNghE4/summary/stats/?mid=KSN4UFre",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/spezia-re6VD39b/trapani-WKvNghE4/?mid=KSN4UFre"
   },
@@ -5265,8 +5375,63 @@
     "home": "Novara",
     "home_goals": 0,
     "id": "d87v0LD5",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "29.05.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/pescara-WW0i6v4C/summary/stats/?mid=d87v0LD5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/pescara-WW0i6v4C/?mid=d87v0LD5"
   },
@@ -6617,8 +6782,63 @@
     "home": "Pescara",
     "home_goals": 2,
     "id": "nqJASHB8",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 16,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "05.06.2016",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/pescara-WW0i6v4C/trapani-WKvNghE4/summary/stats/?mid=nqJASHB8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/pescara-WW0i6v4C/trapani-WKvNghE4/?mid=nqJASHB8"
   },
@@ -7232,8 +7452,63 @@
     "home": "Pescara",
     "home_goals": 4,
     "id": "vXdqauTB",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "01.06.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/pescara-WW0i6v4C/summary/stats/?mid=vXdqauTB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/pescara-WW0i6v4C/?mid=vXdqauTB"
   },
@@ -7579,8 +7854,63 @@
     "home": "Lanciano",
     "home_goals": 1,
     "id": "zm0vxkrq",
+    "shots": {
+      "AS": 12,
+      "AST": 8,
+      "HS": 9,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "04.06.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lanciano-Aw4xC2ks/salernitana-Mq05g4BP/summary/stats/?mid=zm0vxkrq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lanciano-Aw4xC2ks/salernitana-Mq05g4BP/?mid=zm0vxkrq"
   }

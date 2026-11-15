@@ -4,12 +4,12 @@
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-15T03:41:45.238602+00:00
+Updated: 2026-11-15T03:47:26.720019+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 5/230
 - Provider match records downloaded: 2702
-- Provider records with all four shot values: 1379
+- Provider records with all four shot values: 1385
 - Previously empty reference cells recovered: 4376
 - Reference matches still missing shot values: 28979
 
@@ -71,7 +71,7 @@ Updated: 2026-11-15T03:41:45.238602+00:00
 | Italy/I2/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 462 | 0.00% |
 | Italy/I2/2013-2014 | 0 / 0 / 0 | 0 / 0 / 0 | 462 | 0.00% |
 | Italy/I2/2014-2015 | 0 / 0 / 0 | 0 / 0 / 0 | 462 | 0.00% |
-| Italy/I2/2015-2016 | 0 / 0 / 0 | 120 / 112 / 112 | 380 | 17.75% |
+| Italy/I2/2015-2016 | 0 / 0 / 0 | 120 / 118 / 118 | 380 | 17.75% |
 | Italy/I2/2016-2017 | 0 / 0 / 0 | 116 / 116 / 116 | 374 | 19.05% |
 | Italy/I2/2018-2019 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | Italy/I2/2020-2021 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
