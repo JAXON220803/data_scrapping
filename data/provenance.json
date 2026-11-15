@@ -21040,6 +21040,46 @@
     "value": 3
   },
   {
+    "away": "Modena",
+    "date": "23/04/16",
+    "field": "AS",
+    "fixture_id": "INo7eTWp",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Modena",
+    "date": "23/04/16",
+    "field": "AST",
+    "fixture_id": "INo7eTWp",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Modena",
+    "date": "23/04/16",
+    "field": "HS",
+    "fixture_id": "INo7eTWp",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Modena",
+    "date": "23/04/16",
+    "field": "HST",
+    "fixture_id": "INo7eTWp",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
     "away": "Como",
     "date": "23/04/16",
     "field": "AS",
@@ -21158,6 +21198,126 @@
     "source": "flashscore",
     "target": "Italy/I2/2015-2016",
     "value": 5
+  },
+  {
+    "away": "Ascoli",
+    "date": "23/04/16",
+    "field": "AS",
+    "fixture_id": "dl9xSm4b",
+    "home": "Ternana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Ascoli",
+    "date": "23/04/16",
+    "field": "AST",
+    "fixture_id": "dl9xSm4b",
+    "home": "Ternana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Ascoli",
+    "date": "23/04/16",
+    "field": "HS",
+    "fixture_id": "dl9xSm4b",
+    "home": "Ternana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Ascoli",
+    "date": "23/04/16",
+    "field": "HST",
+    "fixture_id": "dl9xSm4b",
+    "home": "Ternana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Cesena",
+    "date": "23/04/16",
+    "field": "AS",
+    "fixture_id": "f5KEE8wN",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Cesena",
+    "date": "23/04/16",
+    "field": "AST",
+    "fixture_id": "f5KEE8wN",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Cesena",
+    "date": "23/04/16",
+    "field": "HS",
+    "fixture_id": "f5KEE8wN",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Cesena",
+    "date": "23/04/16",
+    "field": "HST",
+    "fixture_id": "f5KEE8wN",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Livorno",
+    "date": "24/04/16",
+    "field": "AS",
+    "fixture_id": "CtV9FlOG",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 18
+  },
+  {
+    "away": "Livorno",
+    "date": "24/04/16",
+    "field": "AST",
+    "fixture_id": "CtV9FlOG",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Livorno",
+    "date": "24/04/16",
+    "field": "HS",
+    "fixture_id": "CtV9FlOG",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 13
+  },
+  {
+    "away": "Livorno",
+    "date": "24/04/16",
+    "field": "HST",
+    "fixture_id": "CtV9FlOG",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 7
   },
   {
     "away": "Carpi",
