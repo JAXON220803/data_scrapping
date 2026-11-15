@@ -30,8 +30,63 @@
     "home": "Ascoli",
     "home_goals": 1,
     "id": "08zeFAKh",
+    "shots": {
+      "AS": 5,
+      "AST": 4,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "26.03.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/vicenza-plvm35Pu/summary/stats/?mid=08zeFAKh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/vicenza-plvm35Pu/?mid=08zeFAKh"
   },
@@ -66,8 +121,63 @@
     "home": "Avellino",
     "home_goals": 0,
     "id": "29EJbpQA",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "26.03.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/avellino-A332L1f5/crotone-d8H0SxkJ/summary/stats/?mid=29EJbpQA",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/avellino-A332L1f5/crotone-d8H0SxkJ/?mid=29EJbpQA"
   },
@@ -294,8 +404,63 @@
     "home": "Modena",
     "home_goals": 1,
     "id": "8ET3wzf2",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 6,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "26.03.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cagliari-SCGVmKHb/modena-MBn63swN/summary/stats/?mid=8ET3wzf2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cagliari-SCGVmKHb/modena-MBn63swN/?mid=8ET3wzf2"
   },
@@ -462,8 +627,63 @@
     "home": "Spezia",
     "home_goals": 1,
     "id": "EBGk1wn9",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 6,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "26.03.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/spezia-re6VD39b/trapani-WKvNghE4/summary/stats/?mid=EBGk1wn9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/spezia-re6VD39b/trapani-WKvNghE4/?mid=EBGk1wn9"
   },
@@ -558,8 +778,63 @@
     "home": "Como",
     "home_goals": 1,
     "id": "IqVaEUZb",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 18,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "26.03.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "24",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/como-ttyLthOA/entella-hUuJfYbb/summary/stats/?mid=IqVaEUZb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/como-ttyLthOA/entella-hUuJfYbb/?mid=IqVaEUZb"
   },
