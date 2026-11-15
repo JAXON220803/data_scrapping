@@ -21400,6 +21400,46 @@
     "value": 8
   },
   {
+    "away": "Salernitana",
+    "date": "30/04/16",
+    "field": "AS",
+    "fixture_id": "U17pQRYA",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 17
+  },
+  {
+    "away": "Salernitana",
+    "date": "30/04/16",
+    "field": "AST",
+    "fixture_id": "U17pQRYA",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Salernitana",
+    "date": "30/04/16",
+    "field": "HS",
+    "fixture_id": "U17pQRYA",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Salernitana",
+    "date": "30/04/16",
+    "field": "HST",
+    "fixture_id": "U17pQRYA",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
     "away": "Livorno",
     "date": "30/04/16",
     "field": "AS",
@@ -21440,6 +21480,86 @@
     "value": 4
   },
   {
+    "away": "Spezia",
+    "date": "30/04/16",
+    "field": "AS",
+    "fixture_id": "h0jqUmwA",
+    "home": "Latina",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Spezia",
+    "date": "30/04/16",
+    "field": "AST",
+    "fixture_id": "h0jqUmwA",
+    "home": "Latina",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 0
+  },
+  {
+    "away": "Spezia",
+    "date": "30/04/16",
+    "field": "HS",
+    "fixture_id": "h0jqUmwA",
+    "home": "Latina",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Spezia",
+    "date": "30/04/16",
+    "field": "HST",
+    "fixture_id": "h0jqUmwA",
+    "home": "Latina",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Bari",
+    "date": "30/04/16",
+    "field": "AS",
+    "fixture_id": "C26pSR7M",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Bari",
+    "date": "30/04/16",
+    "field": "AST",
+    "fixture_id": "C26pSR7M",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "Bari",
+    "date": "30/04/16",
+    "field": "HS",
+    "fixture_id": "C26pSR7M",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Bari",
+    "date": "30/04/16",
+    "field": "HST",
+    "fixture_id": "C26pSR7M",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 1
+  },
+  {
     "away": "Novara",
     "date": "30/04/16",
     "field": "AS",
@@ -21478,6 +21598,46 @@
     "source": "flashscore",
     "target": "Italy/I2/2015-2016",
     "value": 1
+  },
+  {
+    "away": "Ternana",
+    "date": "01/05/16",
+    "field": "AS",
+    "fixture_id": "KnhyW98c",
+    "home": "Como",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 12
+  },
+  {
+    "away": "Ternana",
+    "date": "01/05/16",
+    "field": "AST",
+    "fixture_id": "KnhyW98c",
+    "home": "Como",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Ternana",
+    "date": "01/05/16",
+    "field": "HS",
+    "fixture_id": "KnhyW98c",
+    "home": "Como",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Ternana",
+    "date": "01/05/16",
+    "field": "HST",
+    "fixture_id": "KnhyW98c",
+    "home": "Como",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
   },
   {
     "away": "Carpi",
