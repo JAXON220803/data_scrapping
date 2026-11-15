@@ -18,8 +18,63 @@
     "home": "Pro Vercelli",
     "home_goals": 1,
     "id": "06R5GU8A",
+    "shots": {
+      "AS": 15,
+      "AST": 7,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "23.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/avellino-A332L1f5/pro-vercelli-KjGeTD9G/summary/stats/?mid=06R5GU8A",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/avellino-A332L1f5/pro-vercelli-KjGeTD9G/?mid=06R5GU8A"
   },
@@ -784,8 +839,63 @@
     "home": "Pescara",
     "home_goals": 2,
     "id": "6qS1HAg4",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 18,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "23.04.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/pescara-WW0i6v4C/summary/stats/?mid=6qS1HAg4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/pescara-WW0i6v4C/?mid=6qS1HAg4"
   },
@@ -1023,8 +1133,63 @@
     "home": "Crotone",
     "home_goals": 2,
     "id": "AHYhJWOi",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "23.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/como-ttyLthOA/crotone-d8H0SxkJ/summary/stats/?mid=AHYhJWOi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/como-ttyLthOA/crotone-d8H0SxkJ/?mid=AHYhJWOi"
   },
@@ -3537,8 +3702,63 @@
     "home": "Modena",
     "home_goals": 3,
     "id": "jeGRFcIa",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 13,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "19.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/modena-MBn63swN/perugia-ht2m7Kl6/summary/stats/?mid=jeGRFcIa",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/modena-MBn63swN/perugia-ht2m7Kl6/?mid=jeGRFcIa"
   },
@@ -3731,8 +3951,63 @@
     "home": "Salernitana",
     "home_goals": 0,
     "id": "pWUUEHX5",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 14,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "19.04.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/salernitana-Mq05g4BP/vicenza-plvm35Pu/summary/stats/?mid=pWUUEHX5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/salernitana-Mq05g4BP/vicenza-plvm35Pu/?mid=pWUUEHX5"
   },
@@ -3889,8 +4164,63 @@
     "home": "Brescia",
     "home_goals": 2,
     "id": "ro5YSTlh",
+    "shots": {
+      "AS": 14,
+      "AST": 4,
+      "HS": 11,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "19.04.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "27",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/entella-hUuJfYbb/summary/stats/?mid=ro5YSTlh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/entella-hUuJfYbb/?mid=ro5YSTlh"
   },
