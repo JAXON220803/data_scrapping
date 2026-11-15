@@ -22040,6 +22040,206 @@
     "value": 10
   },
   {
+    "away": "Pro Vercelli",
+    "date": "13/05/16",
+    "field": "AS",
+    "fixture_id": "vi50g46L",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 14
+  },
+  {
+    "away": "Pro Vercelli",
+    "date": "13/05/16",
+    "field": "AST",
+    "fixture_id": "vi50g46L",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Pro Vercelli",
+    "date": "13/05/16",
+    "field": "HS",
+    "fixture_id": "vi50g46L",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 14
+  },
+  {
+    "away": "Pro Vercelli",
+    "date": "13/05/16",
+    "field": "HST",
+    "fixture_id": "vi50g46L",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Livorno",
+    "date": "14/05/16",
+    "field": "AS",
+    "fixture_id": "KnEHIqRp",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 12
+  },
+  {
+    "away": "Livorno",
+    "date": "14/05/16",
+    "field": "AST",
+    "fixture_id": "KnEHIqRp",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Livorno",
+    "date": "14/05/16",
+    "field": "HS",
+    "fixture_id": "KnEHIqRp",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Livorno",
+    "date": "14/05/16",
+    "field": "HST",
+    "fixture_id": "KnEHIqRp",
+    "home": "Ascoli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Salernitana",
+    "date": "14/05/16",
+    "field": "AS",
+    "fixture_id": "4EQcZrFk",
+    "home": "Cagliari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Salernitana",
+    "date": "14/05/16",
+    "field": "AST",
+    "fixture_id": "4EQcZrFk",
+    "home": "Cagliari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Salernitana",
+    "date": "14/05/16",
+    "field": "HS",
+    "fixture_id": "4EQcZrFk",
+    "home": "Cagliari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Salernitana",
+    "date": "14/05/16",
+    "field": "HST",
+    "fixture_id": "4EQcZrFk",
+    "home": "Cagliari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Pescara",
+    "date": "14/05/16",
+    "field": "AS",
+    "fixture_id": "006dfpiF",
+    "home": "Modena",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 12
+  },
+  {
+    "away": "Pescara",
+    "date": "14/05/16",
+    "field": "AST",
+    "fixture_id": "006dfpiF",
+    "home": "Modena",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Pescara",
+    "date": "14/05/16",
+    "field": "HS",
+    "fixture_id": "006dfpiF",
+    "home": "Modena",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Pescara",
+    "date": "14/05/16",
+    "field": "HST",
+    "fixture_id": "006dfpiF",
+    "home": "Modena",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Crotone",
+    "date": "14/05/16",
+    "field": "AS",
+    "fixture_id": "MFf5hOLR",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Crotone",
+    "date": "14/05/16",
+    "field": "AST",
+    "fixture_id": "MFf5hOLR",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Crotone",
+    "date": "14/05/16",
+    "field": "HS",
+    "fixture_id": "MFf5hOLR",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 12
+  },
+  {
+    "away": "Crotone",
+    "date": "14/05/16",
+    "field": "HST",
+    "fixture_id": "MFf5hOLR",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
     "away": "Carpi",
     "date": "01/04/17",
     "field": "AS",
