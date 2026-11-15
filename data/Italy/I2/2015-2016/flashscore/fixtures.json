@@ -212,8 +212,63 @@
     "home": "Cagliari",
     "home_goals": 1,
     "id": "4092byWR",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "02.04.2016",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cagliari-SCGVmKHb/spezia-re6VD39b/summary/stats/?mid=4092byWR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cagliari-SCGVmKHb/spezia-re6VD39b/?mid=4092byWR"
   },
@@ -308,8 +363,63 @@
     "home": "Crotone",
     "home_goals": 1,
     "id": "69eUgevq",
+    "shots": {
+      "AS": 5,
+      "AST": 1,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "01.04.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/lanciano-Aw4xC2ks/summary/stats/?mid=69eUgevq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/lanciano-Aw4xC2ks/?mid=69eUgevq"
   },
@@ -953,8 +1063,63 @@
     "home": "Latina",
     "home_goals": 3,
     "id": "OpjZhFgk",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "02.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/avellino-A332L1f5/latina-CrARgwBF/summary/stats/?mid=OpjZhFgk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/avellino-A332L1f5/latina-CrARgwBF/?mid=OpjZhFgk"
   },
@@ -1315,8 +1480,63 @@
     "home": "Trapani",
     "home_goals": 3,
     "id": "bHXQb5s8",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 11,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "02.04.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/trapani-WKvNghE4/summary/stats/?mid=bHXQb5s8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brescia-jci0qO9B/trapani-WKvNghE4/?mid=bHXQb5s8"
   },
@@ -1399,8 +1619,63 @@
     "home": "Pescara",
     "home_goals": 2,
     "id": "dblsigO1",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "02.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/como-ttyLthOA/pescara-WW0i6v4C/summary/stats/?mid=dblsigO1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/como-ttyLthOA/pescara-WW0i6v4C/?mid=dblsigO1"
   },
@@ -1490,8 +1765,63 @@
     "home": "Perugia",
     "home_goals": 0,
     "id": "dzU3Dlk5",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "02.04.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/perugia-ht2m7Kl6/summary/stats/?mid=dzU3Dlk5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ascoli-hd6UOqvB/perugia-ht2m7Kl6/?mid=dzU3Dlk5"
   },

@@ -19720,6 +19720,206 @@
     "value": 1
   },
   {
+    "away": "Spezia",
+    "date": "02/04/16",
+    "field": "AS",
+    "fixture_id": "4092byWR",
+    "home": "Cagliari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Spezia",
+    "date": "02/04/16",
+    "field": "AST",
+    "fixture_id": "4092byWR",
+    "home": "Cagliari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Spezia",
+    "date": "02/04/16",
+    "field": "HS",
+    "fixture_id": "4092byWR",
+    "home": "Cagliari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Spezia",
+    "date": "02/04/16",
+    "field": "HST",
+    "fixture_id": "4092byWR",
+    "home": "Cagliari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Avellino",
+    "date": "02/04/16",
+    "field": "AS",
+    "fixture_id": "OpjZhFgk",
+    "home": "Latina",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Avellino",
+    "date": "02/04/16",
+    "field": "AST",
+    "fixture_id": "OpjZhFgk",
+    "home": "Latina",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 2
+  },
+  {
+    "away": "Avellino",
+    "date": "02/04/16",
+    "field": "HS",
+    "fixture_id": "OpjZhFgk",
+    "home": "Latina",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Avellino",
+    "date": "02/04/16",
+    "field": "HST",
+    "fixture_id": "OpjZhFgk",
+    "home": "Latina",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Ascoli",
+    "date": "02/04/16",
+    "field": "AS",
+    "fixture_id": "dzU3Dlk5",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Ascoli",
+    "date": "02/04/16",
+    "field": "AST",
+    "fixture_id": "dzU3Dlk5",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Ascoli",
+    "date": "02/04/16",
+    "field": "HS",
+    "fixture_id": "dzU3Dlk5",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Ascoli",
+    "date": "02/04/16",
+    "field": "HST",
+    "fixture_id": "dzU3Dlk5",
+    "home": "Perugia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Como",
+    "date": "02/04/16",
+    "field": "AS",
+    "fixture_id": "dblsigO1",
+    "home": "Pescara",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Como",
+    "date": "02/04/16",
+    "field": "AST",
+    "fixture_id": "dblsigO1",
+    "home": "Pescara",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Como",
+    "date": "02/04/16",
+    "field": "HS",
+    "fixture_id": "dblsigO1",
+    "home": "Pescara",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Como",
+    "date": "02/04/16",
+    "field": "HST",
+    "fixture_id": "dblsigO1",
+    "home": "Pescara",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Brescia",
+    "date": "02/04/16",
+    "field": "AS",
+    "fixture_id": "bHXQb5s8",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Brescia",
+    "date": "02/04/16",
+    "field": "AST",
+    "fixture_id": "bHXQb5s8",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Brescia",
+    "date": "02/04/16",
+    "field": "HS",
+    "fixture_id": "bHXQb5s8",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 11
+  },
+  {
+    "away": "Brescia",
+    "date": "02/04/16",
+    "field": "HST",
+    "fixture_id": "bHXQb5s8",
+    "home": "Trapani",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
     "away": "Carpi",
     "date": "01/04/17",
     "field": "AS",
