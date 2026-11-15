@@ -784,8 +784,63 @@
     "home": "Ternana",
     "home_goals": 1,
     "id": "AyJ0BrRD",
+    "shots": {
+      "AS": 18,
+      "AST": 13,
+      "HS": 14,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "65%",
+        "home": "35%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/ternana-zVUNUKkf/summary/stats/?mid=AyJ0BrRD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/ternana-zVUNUKkf/?mid=AyJ0BrRD"
   },
@@ -1110,8 +1165,63 @@
     "home": "Salernitana",
     "home_goals": 3,
     "id": "IsWEmuZ6",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/latina-CrARgwBF/salernitana-Mq05g4BP/summary/stats/?mid=IsWEmuZ6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/latina-CrARgwBF/salernitana-Mq05g4BP/?mid=IsWEmuZ6"
   },
@@ -1484,8 +1594,63 @@
     "home": "Lanciano",
     "home_goals": 1,
     "id": "W6yGAnZN",
+    "shots": {
+      "AS": 20,
+      "AST": 11,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/lanciano-Aw4xC2ks/summary/stats/?mid=W6yGAnZN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/lanciano-Aw4xC2ks/?mid=W6yGAnZN"
   },
@@ -1714,8 +1879,63 @@
     "home": "Livorno",
     "home_goals": 1,
     "id": "buGDk14f",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 15,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/livorno-0zxhbdWT/summary/stats/?mid=buGDk14f",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/livorno-0zxhbdWT/?mid=buGDk14f"
   },
@@ -1762,8 +1982,63 @@
     "home": "Spezia",
     "home_goals": 1,
     "id": "dYUInalD",
+    "shots": {
+      "AS": 8,
+      "AST": 6,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/spezia-re6VD39b/summary/stats/?mid=dYUInalD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/spezia-re6VD39b/?mid=dYUInalD"
   },
@@ -2138,8 +2413,63 @@
     "home": "Cesena",
     "home_goals": 1,
     "id": "jFC5iNZs",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "09.04.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/vicenza-plvm35Pu/summary/stats/?mid=jFC5iNZs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/vicenza-plvm35Pu/?mid=jFC5iNZs"
   },

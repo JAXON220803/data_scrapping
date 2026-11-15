@@ -20080,6 +20080,166 @@
     "value": 6
   },
   {
+    "away": "Bari",
+    "date": "09/04/16",
+    "field": "AS",
+    "fixture_id": "buGDk14f",
+    "home": "Livorno",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 7
+  },
+  {
+    "away": "Bari",
+    "date": "09/04/16",
+    "field": "AST",
+    "fixture_id": "buGDk14f",
+    "home": "Livorno",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Bari",
+    "date": "09/04/16",
+    "field": "HS",
+    "fixture_id": "buGDk14f",
+    "home": "Livorno",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 15
+  },
+  {
+    "away": "Bari",
+    "date": "09/04/16",
+    "field": "HST",
+    "fixture_id": "buGDk14f",
+    "home": "Livorno",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Latina",
+    "date": "09/04/16",
+    "field": "AS",
+    "fixture_id": "IsWEmuZ6",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Latina",
+    "date": "09/04/16",
+    "field": "AST",
+    "fixture_id": "IsWEmuZ6",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Latina",
+    "date": "09/04/16",
+    "field": "HS",
+    "fixture_id": "IsWEmuZ6",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Latina",
+    "date": "09/04/16",
+    "field": "HST",
+    "fixture_id": "IsWEmuZ6",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Novara",
+    "date": "09/04/16",
+    "field": "AS",
+    "fixture_id": "dYUInalD",
+    "home": "Spezia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Novara",
+    "date": "09/04/16",
+    "field": "AST",
+    "fixture_id": "dYUInalD",
+    "home": "Spezia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Novara",
+    "date": "09/04/16",
+    "field": "HS",
+    "fixture_id": "dYUInalD",
+    "home": "Spezia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Novara",
+    "date": "09/04/16",
+    "field": "HST",
+    "fixture_id": "dYUInalD",
+    "home": "Spezia",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Crotone",
+    "date": "09/04/16",
+    "field": "AS",
+    "fixture_id": "AyJ0BrRD",
+    "home": "Ternana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 18
+  },
+  {
+    "away": "Crotone",
+    "date": "09/04/16",
+    "field": "AST",
+    "fixture_id": "AyJ0BrRD",
+    "home": "Ternana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 13
+  },
+  {
+    "away": "Crotone",
+    "date": "09/04/16",
+    "field": "HS",
+    "fixture_id": "AyJ0BrRD",
+    "home": "Ternana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 14
+  },
+  {
+    "away": "Crotone",
+    "date": "09/04/16",
+    "field": "HST",
+    "fixture_id": "AyJ0BrRD",
+    "home": "Ternana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
     "away": "Carpi",
     "date": "01/04/17",
     "field": "AS",
