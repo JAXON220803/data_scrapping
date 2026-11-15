@@ -22400,6 +22400,86 @@
     "value": 7
   },
   {
+    "away": "Trapani",
+    "date": "20/05/16",
+    "field": "AS",
+    "fixture_id": "hboym2qk",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Trapani",
+    "date": "20/05/16",
+    "field": "AST",
+    "fixture_id": "hboym2qk",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 4
+  },
+  {
+    "away": "Trapani",
+    "date": "20/05/16",
+    "field": "HS",
+    "fixture_id": "hboym2qk",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 13
+  },
+  {
+    "away": "Trapani",
+    "date": "20/05/16",
+    "field": "HST",
+    "fixture_id": "hboym2qk",
+    "home": "Bari",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Modena",
+    "date": "20/05/16",
+    "field": "AS",
+    "fixture_id": "lQvpotE1",
+    "home": "Novara",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 8
+  },
+  {
+    "away": "Modena",
+    "date": "20/05/16",
+    "field": "AST",
+    "fixture_id": "lQvpotE1",
+    "home": "Novara",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Modena",
+    "date": "20/05/16",
+    "field": "HS",
+    "fixture_id": "lQvpotE1",
+    "home": "Novara",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 12
+  },
+  {
+    "away": "Modena",
+    "date": "20/05/16",
+    "field": "HST",
+    "fixture_id": "lQvpotE1",
+    "home": "Novara",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 7
+  },
+  {
     "away": "Latina",
     "date": "20/05/16",
     "field": "AS",
@@ -22438,6 +22518,86 @@
     "source": "flashscore",
     "target": "Italy/I2/2015-2016",
     "value": 7
+  },
+  {
+    "away": "Cagliari",
+    "date": "20/05/16",
+    "field": "AS",
+    "fixture_id": "tKRV8q68",
+    "home": "Pro Vercelli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
+  },
+  {
+    "away": "Cagliari",
+    "date": "20/05/16",
+    "field": "AST",
+    "fixture_id": "tKRV8q68",
+    "home": "Pro Vercelli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 5
+  },
+  {
+    "away": "Cagliari",
+    "date": "20/05/16",
+    "field": "HS",
+    "fixture_id": "tKRV8q68",
+    "home": "Pro Vercelli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 6
+  },
+  {
+    "away": "Cagliari",
+    "date": "20/05/16",
+    "field": "HST",
+    "fixture_id": "tKRV8q68",
+    "home": "Pro Vercelli",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 3
+  },
+  {
+    "away": "Como",
+    "date": "20/05/16",
+    "field": "AS",
+    "fixture_id": "hfVZ73LE",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 9
+  },
+  {
+    "away": "Como",
+    "date": "20/05/16",
+    "field": "AST",
+    "fixture_id": "hfVZ73LE",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 1
+  },
+  {
+    "away": "Como",
+    "date": "20/05/16",
+    "field": "HS",
+    "fixture_id": "hfVZ73LE",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 14
+  },
+  {
+    "away": "Como",
+    "date": "20/05/16",
+    "field": "HST",
+    "fixture_id": "hfVZ73LE",
+    "home": "Salernitana",
+    "source": "flashscore",
+    "target": "Italy/I2/2015-2016",
+    "value": 10
   },
   {
     "away": "Ascoli",

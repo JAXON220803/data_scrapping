@@ -621,8 +621,63 @@
     "home": "Cesena",
     "home_goals": 1,
     "id": "4498sBKL",
+    "shots": {
+      "AS": 11,
+      "AST": 2,
+      "HS": 10,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "24.05.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "26",
+        "home": "27",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/spezia-re6VD39b/summary/stats/?mid=4498sBKL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cesena-xddf1qfh/spezia-re6VD39b/?mid=4498sBKL"
   },
@@ -2774,8 +2829,63 @@
     "home": "Bari",
     "home_goals": 3,
     "id": "I7DCtVZR",
+    "shots": {
+      "AS": 20,
+      "AST": 12,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "25.05.2016 AET",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "33",
+        "home": "27",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "28",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/novara-rPRQmc5D/summary/stats/?mid=I7DCtVZR",
     "status": "special_result",
     "url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/novara-rPRQmc5D/?mid=I7DCtVZR"
   },
@@ -5770,8 +5880,63 @@
     "home": "Bari",
     "home_goals": 1,
     "id": "hboym2qk",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 13,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/trapani-WKvNghE4/summary/stats/?mid=hboym2qk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bari-xIkUr2vO/trapani-WKvNghE4/?mid=hboym2qk"
   },
@@ -5782,8 +5947,63 @@
     "home": "Salernitana",
     "home_goals": 1,
     "id": "hfVZ73LE",
+    "shots": {
+      "AS": 9,
+      "AST": 1,
+      "HS": 14,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/como-ttyLthOA/salernitana-Mq05g4BP/summary/stats/?mid=hfVZ73LE",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/como-ttyLthOA/salernitana-Mq05g4BP/?mid=hfVZ73LE"
   },
@@ -6196,8 +6416,63 @@
     "home": "Novara",
     "home_goals": 4,
     "id": "lQvpotE1",
+    "shots": {
+      "AS": 8,
+      "AST": 1,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/modena-MBn63swN/novara-rPRQmc5D/summary/stats/?mid=lQvpotE1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/modena-MBn63swN/novara-rPRQmc5D/?mid=lQvpotE1"
   },
@@ -6890,8 +7165,63 @@
     "home": "Pro Vercelli",
     "home_goals": 1,
     "id": "tKRV8q68",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 6,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "20.05.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cagliari-SCGVmKHb/pro-vercelli-KjGeTD9G/summary/stats/?mid=tKRV8q68",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cagliari-SCGVmKHb/pro-vercelli-KjGeTD9G/?mid=tKRV8q68"
   },
