@@ -614,8 +614,63 @@
     "home": "Cagliari",
     "home_goals": 2,
     "id": "4vAl86Gj",
+    "shots": {
+      "AS": 6,
+      "AST": 5,
+      "HS": 11,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "30.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/cagliari-SCGVmKHb/livorno-0zxhbdWT/summary/stats/?mid=4vAl86Gj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cagliari-SCGVmKHb/livorno-0zxhbdWT/?mid=4vAl86Gj"
   },
@@ -760,8 +815,63 @@
     "home": "Trapani",
     "home_goals": 0,
     "id": "6P5lRoNS",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 5,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "30.04.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/trapani-WKvNghE4/summary/stats/?mid=6P5lRoNS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/trapani-WKvNghE4/?mid=6P5lRoNS"
   },
@@ -1121,8 +1231,63 @@
     "home": "Entella",
     "home_goals": 0,
     "id": "ADOsPolH",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "30.04.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/pescara-WW0i6v4C/summary/stats/?mid=ADOsPolH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/pescara-WW0i6v4C/?mid=ADOsPolH"
   },
@@ -2567,8 +2732,63 @@
     "home": "Novara",
     "home_goals": 2,
     "id": "ShTcIjvb",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 17,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "25.04.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "10",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/perugia-ht2m7Kl6/summary/stats/?mid=ShTcIjvb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/novara-rPRQmc5D/perugia-ht2m7Kl6/?mid=ShTcIjvb"
   },
@@ -2895,8 +3115,63 @@
     "home": "Modena",
     "home_goals": 1,
     "id": "YB7tT7hG",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 11,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "29.04.2016",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/modena-MBn63swN/summary/stats/?mid=YB7tT7hG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/crotone-d8H0SxkJ/modena-MBn63swN/?mid=YB7tT7hG"
   },
@@ -3886,8 +4161,63 @@
     "home": "Latina",
     "home_goals": 0,
     "id": "jB8tR7J4",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 13,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "24.04.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "28",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "27",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/latina-CrARgwBF/summary/stats/?mid=jB8tR7J4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/entella-hUuJfYbb/latina-CrARgwBF/?mid=jB8tR7J4"
   },
