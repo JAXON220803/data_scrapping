@@ -2499,8 +2499,63 @@
     "home": "Braunschweig",
     "home_goals": 2,
     "id": "EgJASeOi",
+    "shots": {
+      "AS": 8,
+      "AST": 1,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "07.08.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/wurzburger-kickers-nVM1YUFj/summary/stats/?mid=EgJASeOi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/wurzburger-kickers-nVM1YUFj/?mid=EgJASeOi"
   },
@@ -3493,8 +3548,63 @@
     "home": "Aue",
     "home_goals": 2,
     "id": "ITIwI261",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 14,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "12.08.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "23",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/summary/stats/?mid=ITIwI261",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/?mid=ITIwI261"
   },
@@ -4985,8 +5095,63 @@
     "home": "Nurnberg",
     "home_goals": 1,
     "id": "U3pjR6qF",
+    "shots": {
+      "AS": 16,
+      "AST": 4,
+      "HS": 21,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "12.08.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/nurnberg-6FDqshzF/summary/stats/?mid=U3pjR6qF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/nurnberg-6FDqshzF/?mid=U3pjR6qF"
   },
@@ -6180,8 +6345,63 @@
     "home": "Greuther Furth",
     "home_goals": 1,
     "id": "dI8FRFwb",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 20,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "07.08.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "14",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/munich-1860-byXHwsJa/summary/stats/?mid=dI8FRFwb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/munich-1860-byXHwsJa/?mid=dI8FRFwb"
   },
@@ -7406,8 +7626,63 @@
     "home": "Stuttgart",
     "home_goals": 2,
     "id": "lGRO4hWp",
+    "shots": {
+      "AS": 12,
+      "AST": 4,
+      "HS": 14,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "08.08.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/vfb-stuttgart-nJQmYp1B/summary/stats/?mid=lGRO4hWp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/vfb-stuttgart-nJQmYp1B/?mid=lGRO4hWp"
   },
@@ -9372,8 +9647,63 @@
     "home": "Heidenheim",
     "home_goals": 1,
     "id": "z97JQZh4",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "07.08.2016",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/heidenheim-KWixEVWi/summary/stats/?mid=z97JQZh4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/heidenheim-KWixEVWi/?mid=z97JQZh4"
   },
