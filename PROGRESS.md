@@ -1,17 +1,17 @@
 # Collection progress: in_progress
 
-**Missing matches filled: 3.84% — 1,154 / 30,073**
+**Missing matches filled: 3.85% — 1,157 / 30,073**
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-18T15:17:16.019656+00:00
+Updated: 2026-11-18T15:22:48.070866+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 5/230
 - Provider match records downloaded: 3175
-- Provider records with all four shot values: 1474
-- Previously empty reference cells recovered: 4616
-- Reference matches still missing shot values: 28919
+- Provider records with all four shot values: 1480
+- Previously empty reference cells recovered: 4628
+- Reference matches still missing shot values: 28916
 
 | Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps | Filled % |
 |---|---:|---:|---:|---:|
@@ -54,7 +54,7 @@ Updated: 2026-11-18T15:17:16.019656+00:00
 | Germany/D2/2013-2014 | 0 / 0 / 0 | 105 / 105 / 104 | 234 | 23.53% |
 | Germany/D2/2014-2015 | 0 / 0 / 0 | 105 / 105 / 105 | 227 | 25.82% |
 | Germany/D2/2015-2016 | 0 / 0 / 0 | 104 / 104 / 104 | 215 | 29.74% |
-| Germany/D2/2016-2017 | 0 / 0 / 0 | 308 / 194 / 194 | 175 | 42.81% |
+| Germany/D2/2016-2017 | 0 / 0 / 0 | 308 / 200 / 200 | 172 | 43.79% |
 | Greece/G1/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
 | Greece/G1/2011-2012 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
 | Greece/G1/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
