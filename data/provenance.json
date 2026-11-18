@@ -19240,6 +19240,126 @@
     "value": 8
   },
   {
+    "away": "Karlsruhe",
+    "date": "04/11/16",
+    "field": "AS",
+    "fixture_id": "z1FGD2X5",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 17
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "04/11/16",
+    "field": "AST",
+    "fixture_id": "z1FGD2X5",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "04/11/16",
+    "field": "HS",
+    "fixture_id": "z1FGD2X5",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "04/11/16",
+    "field": "HST",
+    "fixture_id": "z1FGD2X5",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Bochum",
+    "date": "05/11/16",
+    "field": "AS",
+    "fixture_id": "2mH8FO2g",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 16
+  },
+  {
+    "away": "Bochum",
+    "date": "05/11/16",
+    "field": "AST",
+    "fixture_id": "2mH8FO2g",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Bochum",
+    "date": "05/11/16",
+    "field": "HS",
+    "fixture_id": "2mH8FO2g",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 13
+  },
+  {
+    "away": "Bochum",
+    "date": "05/11/16",
+    "field": "HST",
+    "fixture_id": "2mH8FO2g",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Union Berlin",
+    "date": "05/11/16",
+    "field": "AS",
+    "fixture_id": "tvGCErIa",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Union Berlin",
+    "date": "05/11/16",
+    "field": "AST",
+    "fixture_id": "tvGCErIa",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Union Berlin",
+    "date": "05/11/16",
+    "field": "HS",
+    "fixture_id": "tvGCErIa",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 17
+  },
+  {
+    "away": "Union Berlin",
+    "date": "05/11/16",
+    "field": "HST",
+    "fixture_id": "tvGCErIa",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 4
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
