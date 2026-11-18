@@ -17880,6 +17880,126 @@
     "value": 0
   },
   {
+    "away": "Braunschweig",
+    "date": "20/09/16",
+    "field": "AS",
+    "fixture_id": "dEdYfx4C",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Braunschweig",
+    "date": "20/09/16",
+    "field": "AST",
+    "fixture_id": "dEdYfx4C",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Braunschweig",
+    "date": "20/09/16",
+    "field": "HS",
+    "fixture_id": "dEdYfx4C",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Braunschweig",
+    "date": "20/09/16",
+    "field": "HST",
+    "fixture_id": "dEdYfx4C",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "21/09/16",
+    "field": "AS",
+    "fixture_id": "jydxfdJI",
+    "home": "Hannover",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "21/09/16",
+    "field": "AST",
+    "fixture_id": "jydxfdJI",
+    "home": "Hannover",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "21/09/16",
+    "field": "HS",
+    "fixture_id": "jydxfdJI",
+    "home": "Hannover",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "21/09/16",
+    "field": "HST",
+    "fixture_id": "jydxfdJI",
+    "home": "Hannover",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Union Berlin",
+    "date": "21/09/16",
+    "field": "AS",
+    "fixture_id": "pYc9dkuH",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Union Berlin",
+    "date": "21/09/16",
+    "field": "AST",
+    "fixture_id": "pYc9dkuH",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Union Berlin",
+    "date": "21/09/16",
+    "field": "HS",
+    "fixture_id": "pYc9dkuH",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 16
+  },
+  {
+    "away": "Union Berlin",
+    "date": "21/09/16",
+    "field": "HST",
+    "fixture_id": "pYc9dkuH",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 2
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
