@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 1134,
-  "filled_cells_percent": 3.7708,
-  "filled_percent": 3.7708,
+  "completed_missing_matches": 1138,
+  "filled_cells_percent": 3.7841,
+  "filled_percent": 3.7841,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 3175,
-  "provider_records_with_all_shots": 1444,
-  "provider_records_with_statistics": 1444,
-  "recovered_cells": 4536,
+  "provider_records_with_all_shots": 1450,
+  "provider_records_with_statistics": 1450,
+  "recovered_cells": 4552,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 28939,
+  "reference_matches_still_missing_shots": 28935,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1308,24 +1308,24 @@
       }
     },
     {
-      "cells_recovered": 444,
-      "completed_missing_matches": 111,
-      "filled_percent": 36.2745,
+      "cells_recovered": 460,
+      "completed_missing_matches": 115,
+      "filled_percent": 37.5817,
       "id": "Germany/D2/2016-2017",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 195,
+      "remaining_missing_shots": 191,
       "sources": {
         "flashscore": {
-          "all_shot_values": 164,
+          "all_shot_values": 170,
           "fixtures": 308,
           "inventory_complete": true,
           "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 164,
-          "statistics_checked": 164
+          "statistics_available": 170,
+          "statistics_checked": 170
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-18T14:28:26.611194+00:00"
+  "updated_utc": "2026-11-18T14:40:36.364925+00:00"
 }
