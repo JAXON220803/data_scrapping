@@ -1260,8 +1260,63 @@
     "home": "Sparta Rotterdam",
     "home_goals": 1,
     "id": "6PuZRfCn",
+    "shots": {
+      "AS": 13,
+      "AST": 4,
+      "HS": 12,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "02.10.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=6PuZRfCn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/sparta-rotterdam-KK4FaFV3/?mid=6PuZRfCn"
   },
@@ -4619,8 +4674,63 @@
     "home": "Roda",
     "home_goals": 0,
     "id": "KY6G9DdI",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 15,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "01.10.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "5",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/roda-6FRTNZ8p/summary/stats/?mid=KY6G9DdI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/roda-6FRTNZ8p/?mid=KY6G9DdI"
   },
@@ -5824,8 +5934,63 @@
     "home": "Heerenveen",
     "home_goals": 1,
     "id": "QB7CAgsC",
+    "shots": {
+      "AS": 18,
+      "AST": 6,
+      "HS": 7,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "01.10.2016",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/psv-M9UEHJWi/summary/stats/?mid=QB7CAgsC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/psv-M9UEHJWi/?mid=QB7CAgsC"
   },
@@ -8416,8 +8581,63 @@
     "home": "G.A. Eagles",
     "home_goals": 3,
     "id": "YyBK8XBO",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 12,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "01.10.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/g-a-eagles-hG8POBb8/summary/stats/?mid=YyBK8XBO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/g-a-eagles-hG8POBb8/?mid=YyBK8XBO"
   },
@@ -11070,8 +11290,63 @@
     "home": "Vitesse",
     "home_goals": 2,
     "id": "nL88BZR5",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 19,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "01.10.2016",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/summary/stats/?mid=nL88BZR5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=nL88BZR5"
   },
@@ -11262,8 +11537,63 @@
     "home": "Heracles",
     "home_goals": 1,
     "id": "pQDY595o",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "02.10.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/summary/stats/?mid=pQDY595o",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/?mid=pQDY595o"
   },
