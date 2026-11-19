@@ -1,4 +1,76 @@
 {
+  "00MWQ8So": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 0,
+    "date": "2016-12-18",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "00MWQ8So",
+    "source": "flashscore",
+    "source_status": "18.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/sparta-rotterdam-KK4FaFV3/?mid=00MWQ8So"
+  },
+  "02FymB62": {
+    "away": "G.A. Eagles",
+    "away_goals": 2,
+    "date": "2017-02-04",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "02FymB62",
+    "source": "flashscore",
+    "source_status": "04.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/nijmegen-nRluRF0T/?mid=02FymB62"
+  },
+  "02g6XV6F": {
+    "away": "PSV",
+    "away_goals": 2,
+    "date": "2017-01-28",
+    "home": "Heracles",
+    "home_goals": 1,
+    "id": "02g6XV6F",
+    "source": "flashscore",
+    "source_status": "28.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/psv-M9UEHJWi/?mid=02g6XV6F"
+  },
+  "0M3c05ZM": {
+    "away": "Twente",
+    "away_goals": 2,
+    "date": "2016-11-26",
+    "home": "Nijmegen",
+    "home_goals": 3,
+    "id": "0M3c05ZM",
+    "source": "flashscore",
+    "source_status": "26.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/twente-dhOKTHGA/?mid=0M3c05ZM"
+  },
+  "0OnokeYH": {
+    "away": "Vitesse",
+    "away_goals": 3,
+    "date": "2017-02-26",
+    "home": "G.A. Eagles",
+    "home_goals": 1,
+    "id": "0OnokeYH",
+    "source": "flashscore",
+    "source_status": "26.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/vitesse-xdFA0eGc/?mid=0OnokeYH"
+  },
+  "0SMY9Gif": {
+    "away": "Groningen",
+    "away_goals": 0,
+    "date": "2016-12-04",
+    "home": "Ajax",
+    "home_goals": 2,
+    "id": "0SMY9Gif",
+    "source": "flashscore",
+    "source_status": "04.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/?mid=0SMY9Gif"
+  },
   "0b3fGXWG": {
     "away": "AZ Alkmaar",
     "away_goals": 2,
@@ -354,6 +426,109 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/nijmegen-nRluRF0T/?mid=0neWkiwC"
   },
+  "0ttHoMRP": {
+    "away": "Willem II",
+    "away_goals": 2,
+    "date": "2017-02-11",
+    "home": "Vitesse",
+    "home_goals": 0,
+    "id": "0ttHoMRP",
+    "source": "flashscore",
+    "source_status": "11.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/willem-ii-6u3qag0G/?mid=0ttHoMRP"
+  },
+  "0zqWE4lG": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2017-02-12",
+    "home": "Excelsior",
+    "home_goals": 1,
+    "id": "0zqWE4lG",
+    "source": "flashscore",
+    "source_status": "12.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/twente-dhOKTHGA/?mid=0zqWE4lG"
+  },
+  "23F52zag": {
+    "away": "Twente",
+    "away_goals": 0,
+    "date": "2016-08-14",
+    "home": "Feyenoord",
+    "home_goals": 2,
+    "id": "23F52zag",
+    "source": "flashscore",
+    "source_status": "14.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/twente-dhOKTHGA/?mid=23F52zag"
+  },
+  "2DK5n7yt": {
+    "away": "Vitesse",
+    "away_goals": 4,
+    "date": "2016-08-06",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "2DK5n7yt",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 15,
+      "HST": 9
+    },
+    "source": "flashscore",
+    "source_status": "06.08.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/willem-ii-6u3qag0G/summary/stats/?mid=2DK5n7yt",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/willem-ii-6u3qag0G/?mid=2DK5n7yt"
+  },
   "2FZIjkun": {
     "away": "Cambuur",
     "away_goals": 1,
@@ -565,6 +740,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/zwolle-r1L5w2EB/?mid=2Pp6Brok"
   },
+  "2Xf8ge7D": {
+    "away": "Ajax",
+    "away_goals": 1,
+    "date": "2016-11-27",
+    "home": "Heerenveen",
+    "home_goals": 0,
+    "id": "2Xf8ge7D",
+    "source": "flashscore",
+    "source_status": "27.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/?mid=2Xf8ge7D"
+  },
+  "2ZDp4W2r": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2016-09-10",
+    "home": "Excelsior",
+    "home_goals": 3,
+    "id": "2ZDp4W2r",
+    "source": "flashscore",
+    "source_status": "10.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/heracles-bB3JbZpA/?mid=2ZDp4W2r"
+  },
+  "2ZeCyNoS": {
+    "away": "Nijmegen",
+    "away_goals": 1,
+    "date": "2016-10-30",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "2ZeCyNoS",
+    "source": "flashscore",
+    "source_status": "30.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/?mid=2ZeCyNoS"
+  },
+  "48ymt0km": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2017-02-12",
+    "home": "Heerenveen",
+    "home_goals": 1,
+    "id": "48ymt0km",
+    "source": "flashscore",
+    "source_status": "12.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/?mid=48ymt0km"
+  },
   "4G5X0hXT": {
     "away": "Heracles",
     "away_goals": 1,
@@ -709,6 +932,90 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=4UQcT339"
   },
+  "4fdER0zf": {
+    "away": "Zwolle",
+    "away_goals": 3,
+    "date": "2017-02-05",
+    "home": "Sparta Rotterdam",
+    "home_goals": 2,
+    "id": "4fdER0zf",
+    "source": "flashscore",
+    "source_status": "05.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/zwolle-r1L5w2EB/?mid=4fdER0zf"
+  },
+  "4hJmNQRA": {
+    "away": "PSV",
+    "away_goals": 1,
+    "date": "2016-12-18",
+    "home": "Ajax",
+    "home_goals": 1,
+    "id": "4hJmNQRA",
+    "source": "flashscore",
+    "source_status": "18.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/?mid=4hJmNQRA"
+  },
+  "4xVP7oSN": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2016-12-16",
+    "home": "Willem II",
+    "home_goals": 2,
+    "id": "4xVP7oSN",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/?mid=4xVP7oSN"
+  },
+  "4z0cZix3": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 2,
+    "date": "2017-01-27",
+    "home": "Willem II",
+    "home_goals": 3,
+    "id": "4z0cZix3",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/willem-ii-6u3qag0G/?mid=4z0cZix3"
+  },
+  "619C5GIb": {
+    "away": "G.A. Eagles",
+    "away_goals": 2,
+    "date": "2017-03-03",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "619C5GIb",
+    "source": "flashscore",
+    "source_status": "03.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heerenveen-EDjXSyWG/?mid=619C5GIb"
+  },
+  "69iBCFCa": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2016-09-30",
+    "home": "Zwolle",
+    "home_goals": 2,
+    "id": "69iBCFCa",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/zwolle-r1L5w2EB/?mid=69iBCFCa"
+  },
+  "6NIqstzs": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 0,
+    "date": "2017-02-12",
+    "home": "Ajax",
+    "home_goals": 2,
+    "id": "6NIqstzs",
+    "source": "flashscore",
+    "source_status": "12.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/sparta-rotterdam-KK4FaFV3/?mid=6NIqstzs"
+  },
   "6PiadCuo": {
     "away": "Sparta Rotterdam",
     "away_goals": 0,
@@ -781,6 +1088,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/vitesse-xdFA0eGc/?mid=6PiadCuo"
   },
+  "6PuZRfCn": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2016-10-02",
+    "home": "Sparta Rotterdam",
+    "home_goals": 1,
+    "id": "6PuZRfCn",
+    "source": "flashscore",
+    "source_status": "02.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/sparta-rotterdam-KK4FaFV3/?mid=6PuZRfCn"
+  },
   "6RYop5OT": {
     "away": "Waalwijk",
     "away_goals": 1,
@@ -842,6 +1161,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/waalwijk-lvM1vra5/summary/stats/?mid=6RYop5OT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/waalwijk-lvM1vra5/?mid=6RYop5OT"
+  },
+  "6a4g1oKG": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2016-11-20",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "6a4g1oKG",
+    "source": "flashscore",
+    "source_status": "20.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=6a4g1oKG"
+  },
+  "6adEV9yS": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2017-01-29",
+    "home": "Vitesse",
+    "home_goals": 2,
+    "id": "6adEV9yS",
+    "source": "flashscore",
+    "source_status": "29.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/vitesse-xdFA0eGc/?mid=6adEV9yS"
   },
   "6cVRcPGk": {
     "away": "Willem II",
@@ -987,6 +1330,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heracles-bB3JbZpA/?mid=6cZOpeaM"
   },
+  "6q8KwhBb": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2016-10-22",
+    "home": "Roda",
+    "home_goals": 1,
+    "id": "6q8KwhBb",
+    "source": "flashscore",
+    "source_status": "22.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/roda-6FRTNZ8p/?mid=6q8KwhBb"
+  },
   "84rQyuaf": {
     "away": "Heracles",
     "away_goals": 4,
@@ -1059,6 +1414,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heracles-bB3JbZpA/?mid=84rQyuaf"
   },
+  "8ELtczDC": {
+    "away": "Heracles",
+    "away_goals": 0,
+    "date": "2016-09-24",
+    "home": "Groningen",
+    "home_goals": 0,
+    "id": "8ELtczDC",
+    "source": "flashscore",
+    "source_status": "24.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heracles-bB3JbZpA/?mid=8ELtczDC"
+  },
+  "8SIqokyF": {
+    "away": "Heracles",
+    "away_goals": 3,
+    "date": "2017-02-04",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "8SIqokyF",
+    "source": "flashscore",
+    "source_status": "04.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/willem-ii-6u3qag0G/?mid=8SIqokyF"
+  },
+  "8UsfHbaK": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2016-12-02",
+    "home": "Heracles",
+    "home_goals": 2,
+    "id": "8UsfHbaK",
+    "source": "flashscore",
+    "source_status": "02.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nijmegen-nRluRF0T/?mid=8UsfHbaK"
+  },
   "8hIc6CNh": {
     "away": "Groningen",
     "away_goals": 1,
@@ -1130,6 +1521,73 @@
     "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/summary/stats/?mid=8hIc6CNh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=8hIc6CNh"
+  },
+  "8tG13Gqm": {
+    "away": "Excelsior",
+    "away_goals": 2,
+    "date": "2016-08-06",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "8tG13Gqm",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 17,
+      "HST": 2
+    },
+    "source": "flashscore",
+    "source_status": "06.08.2016",
+    "statistics": [
+      {
+        "away": "30%",
+        "home": "70%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/twente-dhOKTHGA/summary/stats/?mid=8tG13Gqm",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/twente-dhOKTHGA/?mid=8tG13Gqm"
   },
   "A7RgUql3": {
     "away": "PSV",
@@ -1347,6 +1805,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=AHxNCEpP"
   },
+  "AJJ4a8HD": {
+    "away": "Groningen",
+    "away_goals": 5,
+    "date": "2016-09-16",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "AJJ4a8HD",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/utrecht-p6QXMgOj/?mid=AJJ4a8HD"
+  },
+  "ALUslKCp": {
+    "away": "PSV",
+    "away_goals": 4,
+    "date": "2016-08-20",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "ALUslKCp",
+    "source": "flashscore",
+    "source_status": "20.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/zwolle-r1L5w2EB/?mid=ALUslKCp"
+  },
   "AR5RIQhF": {
     "away": "Zwolle",
     "away_goals": 3,
@@ -1418,6 +1900,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/zwolle-r1L5w2EB/summary/stats/?mid=AR5RIQhF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/zwolle-r1L5w2EB/?mid=AR5RIQhF"
+  },
+  "AXAp37k4": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2016-10-28",
+    "home": "Twente",
+    "home_goals": 0,
+    "id": "AXAp37k4",
+    "source": "flashscore",
+    "source_status": "28.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/twente-dhOKTHGA/?mid=AXAp37k4"
+  },
+  "AcnecOkb": {
+    "away": "Willem II",
+    "away_goals": 1,
+    "date": "2016-08-14",
+    "home": "Heracles",
+    "home_goals": 3,
+    "id": "AcnecOkb",
+    "source": "flashscore",
+    "source_status": "14.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/willem-ii-6u3qag0G/?mid=AcnecOkb"
   },
   "Ag6T1YHN": {
     "away": "Den Haag",
@@ -1640,6 +2146,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/vitesse-xdFA0eGc/?mid=AmJoyTPt"
   },
+  "AojJH64c": {
+    "away": "Heracles",
+    "away_goals": 0,
+    "date": "2017-01-20",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "AojJH64c",
+    "source": "flashscore",
+    "source_status": "20.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/?mid=AojJH64c"
+  },
+  "Aq7MrPz5": {
+    "away": "Heerenveen",
+    "away_goals": 2,
+    "date": "2016-08-07",
+    "home": "AZ Alkmaar",
+    "home_goals": 2,
+    "id": "Aq7MrPz5",
+    "source": "flashscore",
+    "source_status": "07.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/?mid=Aq7MrPz5"
+  },
+  "As6I0cdj": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2016-08-28",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "As6I0cdj",
+    "source": "flashscore",
+    "source_status": "28.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heracles-bB3JbZpA/?mid=As6I0cdj"
+  },
+  "AwjHLbYF": {
+    "away": "Vitesse",
+    "away_goals": 0,
+    "date": "2016-09-11",
+    "home": "Ajax",
+    "home_goals": 1,
+    "id": "AwjHLbYF",
+    "source": "flashscore",
+    "source_status": "11.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/vitesse-xdFA0eGc/?mid=AwjHLbYF"
+  },
+  "C0XFInki": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2017-01-15",
+    "home": "Vitesse",
+    "home_goals": 3,
+    "id": "C0XFInki",
+    "source": "flashscore",
+    "source_status": "15.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/vitesse-xdFA0eGc/?mid=C0XFInki"
+  },
+  "CKaMPv56": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2017-02-10",
+    "home": "Zwolle",
+    "home_goals": 2,
+    "id": "CKaMPv56",
+    "source": "flashscore",
+    "source_status": "10.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/zwolle-r1L5w2EB/?mid=CKaMPv56"
+  },
   "CQOl8Yht": {
     "away": "AZ Alkmaar",
     "away_goals": 4,
@@ -1712,6 +2290,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=CQOl8Yht"
   },
+  "CbSCNfwi": {
+    "away": "Feyenoord",
+    "away_goals": 2,
+    "date": "2017-01-15",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "CbSCNfwi",
+    "source": "flashscore",
+    "source_status": "15.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/roda-6FRTNZ8p/?mid=CbSCNfwi"
+  },
+  "CtDBBlpd": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2017-01-22",
+    "home": "Nijmegen",
+    "home_goals": 2,
+    "id": "CtDBBlpd",
+    "source": "flashscore",
+    "source_status": "22.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/roda-6FRTNZ8p/?mid=CtDBBlpd"
+  },
+  "CtZtRTqq": {
+    "away": "Groningen",
+    "away_goals": 0,
+    "date": "2017-01-29",
+    "home": "Heerenveen",
+    "home_goals": 0,
+    "id": "CtZtRTqq",
+    "source": "flashscore",
+    "source_status": "29.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heerenveen-EDjXSyWG/?mid=CtZtRTqq"
+  },
   "E3AoXyVM": {
     "away": "Feyenoord",
     "away_goals": 0,
@@ -1783,6 +2397,114 @@
     "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/feyenoord-8zjySeoN/summary/stats/?mid=E3AoXyVM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/feyenoord-8zjySeoN/?mid=E3AoXyVM"
+  },
+  "E3QzQSsh": {
+    "away": "Zwolle",
+    "away_goals": 0,
+    "date": "2016-12-18",
+    "home": "Heracles",
+    "home_goals": 3,
+    "id": "E3QzQSsh",
+    "source": "flashscore",
+    "source_status": "18.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/zwolle-r1L5w2EB/?mid=E3QzQSsh"
+  },
+  "E5JunVL8": {
+    "away": "PSV",
+    "away_goals": 4,
+    "date": "2017-02-04",
+    "home": "AZ Alkmaar",
+    "home_goals": 2,
+    "id": "E5JunVL8",
+    "source": "flashscore",
+    "source_status": "04.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/psv-M9UEHJWi/?mid=E5JunVL8"
+  },
+  "E5XzIj7S": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2017-01-21",
+    "home": "Groningen",
+    "home_goals": 1,
+    "id": "E5XzIj7S",
+    "source": "flashscore",
+    "source_status": "21.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=E5XzIj7S"
+  },
+  "E7MK2apR": {
+    "away": "Willem II",
+    "away_goals": 1,
+    "date": "2016-11-25",
+    "home": "G.A. Eagles",
+    "home_goals": 0,
+    "id": "E7MK2apR",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/willem-ii-6u3qag0G/?mid=E7MK2apR"
+  },
+  "E7pZicla": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2017-02-26",
+    "home": "AZ Alkmaar",
+    "home_goals": 1,
+    "id": "E7pZicla",
+    "source": "flashscore",
+    "source_status": "26.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/zwolle-r1L5w2EB/?mid=E7pZicla"
+  },
+  "E97OxCQ4": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2016-10-22",
+    "home": "Willem II",
+    "home_goals": 0,
+    "id": "E97OxCQ4",
+    "source": "flashscore",
+    "source_status": "22.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/willem-ii-6u3qag0G/?mid=E97OxCQ4"
+  },
+  "EBCWJcKP": {
+    "away": "PSV",
+    "away_goals": 3,
+    "date": "2016-09-24",
+    "home": "Excelsior",
+    "home_goals": 1,
+    "id": "EBCWJcKP",
+    "source": "flashscore",
+    "source_status": "24.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/psv-M9UEHJWi/?mid=EBCWJcKP"
+  },
+  "EBd8NK33": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2016-09-10",
+    "home": "AZ Alkmaar",
+    "home_goals": 2,
+    "id": "EBd8NK33",
+    "source": "flashscore",
+    "source_status": "10.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/willem-ii-6u3qag0G/?mid=EBd8NK33"
+  },
+  "EFSXbdr0": {
+    "away": "Ajax",
+    "away_goals": 2,
+    "date": "2016-09-18",
+    "home": "Heracles",
+    "home_goals": 0,
+    "id": "EFSXbdr0",
+    "source": "flashscore",
+    "source_status": "18.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heracles-bB3JbZpA/?mid=EFSXbdr0"
   },
   "ERCK3fmB": {
     "away": "Feyenoord",
@@ -1928,6 +2650,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/den-haag-lAgLCkT3/?mid=EaCIKnO2"
   },
+  "Eipo80LD": {
+    "away": "G.A. Eagles",
+    "away_goals": 0,
+    "date": "2016-09-17",
+    "home": "Vitesse",
+    "home_goals": 2,
+    "id": "Eipo80LD",
+    "source": "flashscore",
+    "source_status": "17.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/vitesse-xdFA0eGc/?mid=Eipo80LD"
+  },
+  "Ey4wuszU": {
+    "away": "Groningen",
+    "away_goals": 0,
+    "date": "2016-08-13",
+    "home": "Excelsior",
+    "home_goals": 2,
+    "id": "Ey4wuszU",
+    "source": "flashscore",
+    "source_status": "13.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/groningen-MBUGcjb9/?mid=Ey4wuszU"
+  },
   "G63oqN6K": {
     "away": "Excelsior",
     "away_goals": 3,
@@ -1999,6 +2745,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=G63oqN6K",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/sparta-rotterdam-KK4FaFV3/?mid=G63oqN6K"
+  },
+  "GEJ2DAFq": {
+    "away": "Ajax",
+    "away_goals": 1,
+    "date": "2017-01-22",
+    "home": "Utrecht",
+    "home_goals": 0,
+    "id": "GEJ2DAFq",
+    "source": "flashscore",
+    "source_status": "22.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/utrecht-p6QXMgOj/?mid=GEJ2DAFq"
+  },
+  "GEubMjtO": {
+    "away": "Roda",
+    "away_goals": 1,
+    "date": "2016-10-16",
+    "home": "Excelsior",
+    "home_goals": 0,
+    "id": "GEubMjtO",
+    "source": "flashscore",
+    "source_status": "16.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/roda-6FRTNZ8p/?mid=GEubMjtO"
   },
   "GhOCUNiR": {
     "away": "Utrecht",
@@ -2144,6 +2914,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/?mid=Gj96W4vC"
   },
+  "Gpj5z1ro": {
+    "away": "Roda",
+    "away_goals": 2,
+    "date": "2016-08-13",
+    "home": "Ajax",
+    "home_goals": 2,
+    "id": "Gpj5z1ro",
+    "source": "flashscore",
+    "source_status": "13.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/roda-6FRTNZ8p/?mid=Gpj5z1ro"
+  },
+  "GtxmVKOe": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2016-11-05",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "GtxmVKOe",
+    "source": "flashscore",
+    "source_status": "05.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/zwolle-r1L5w2EB/?mid=GtxmVKOe"
+  },
+  "GxIl3jIl": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2016-09-11",
+    "home": "Feyenoord",
+    "home_goals": 3,
+    "id": "GxIl3jIl",
+    "source": "flashscore",
+    "source_status": "11.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/feyenoord-8zjySeoN/?mid=GxIl3jIl"
+  },
   "GxtZn7vB": {
     "away": "Maastricht",
     "away_goals": 2,
@@ -2216,6 +3022,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/cambuur-QRyYgO7J/maastricht-YPQnAtpC/?mid=GxtZn7vB"
   },
+  "I3Hw9z70": {
+    "away": "Utrecht",
+    "away_goals": 2,
+    "date": "2016-12-04",
+    "home": "Den Haag",
+    "home_goals": 0,
+    "id": "I3Hw9z70",
+    "source": "flashscore",
+    "source_status": "04.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/utrecht-p6QXMgOj/?mid=I3Hw9z70"
+  },
+  "I9AUt35H": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2016-08-07",
+    "home": "Roda",
+    "home_goals": 1,
+    "id": "I9AUt35H",
+    "source": "flashscore",
+    "source_status": "07.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/?mid=I9AUt35H"
+  },
+  "ILSDAmr5": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2016-12-11",
+    "home": "Sparta Rotterdam",
+    "home_goals": 0,
+    "id": "ILSDAmr5",
+    "source": "flashscore",
+    "source_status": "11.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/vitesse-xdFA0eGc/?mid=ILSDAmr5"
+  },
+  "INk3e2KA": {
+    "away": "AZ Alkmaar",
+    "away_goals": 0,
+    "date": "2016-08-14",
+    "home": "PSV",
+    "home_goals": 1,
+    "id": "INk3e2KA",
+    "source": "flashscore",
+    "source_status": "14.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/psv-M9UEHJWi/?mid=INk3e2KA"
+  },
   "IXU1SNIF": {
     "away": "Nijmegen",
     "away_goals": 0,
@@ -2287,6 +3141,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/twente-dhOKTHGA/summary/stats/?mid=IXU1SNIF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/twente-dhOKTHGA/?mid=IXU1SNIF"
+  },
+  "IasjlFmO": {
+    "away": "PSV",
+    "away_goals": 1,
+    "date": "2017-02-26",
+    "home": "Feyenoord",
+    "home_goals": 2,
+    "id": "IasjlFmO",
+    "source": "flashscore",
+    "source_status": "26.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/psv-M9UEHJWi/?mid=IasjlFmO"
   },
   "IeRJu9HP": {
     "away": "PSV",
@@ -2364,6 +3230,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/psv-M9UEHJWi/summary/stats/?mid=IeRJu9HP",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/psv-M9UEHJWi/?mid=IeRJu9HP"
+  },
+  "IqRw8u4G": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2016-08-27",
+    "home": "Willem II",
+    "home_goals": 0,
+    "id": "IqRw8u4G",
+    "source": "flashscore",
+    "source_status": "27.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/willem-ii-6u3qag0G/?mid=IqRw8u4G"
   },
   "K0e1COVr": {
     "away": "Groningen",
@@ -2509,6 +3387,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/?mid=K4Favgxj"
   },
+  "K6pUfqcp": {
+    "away": "Ajax",
+    "away_goals": 0,
+    "date": "2016-12-11",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "K6pUfqcp",
+    "source": "flashscore",
+    "source_status": "11.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/twente-dhOKTHGA/?mid=K6pUfqcp"
+  },
+  "K6xkP7Ee": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2017-01-29",
+    "home": "Feyenoord",
+    "home_goals": 4,
+    "id": "K6xkP7Ee",
+    "source": "flashscore",
+    "source_status": "29.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/nijmegen-nRluRF0T/?mid=K6xkP7Ee"
+  },
+  "KEM8H1fd": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2016-10-29",
+    "home": "Willem II",
+    "home_goals": 2,
+    "id": "KEM8H1fd",
+    "source": "flashscore",
+    "source_status": "29.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/willem-ii-6u3qag0G/?mid=KEM8H1fd"
+  },
   "KM8VzKVc": {
     "away": "Den Haag",
     "away_goals": 1,
@@ -2586,6 +3500,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/sparta-rotterdam-KK4FaFV3/?mid=KM8VzKVc"
   },
+  "KUIXIWiM": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2017-01-21",
+    "home": "Feyenoord",
+    "home_goals": 1,
+    "id": "KUIXIWiM",
+    "source": "flashscore",
+    "source_status": "21.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/?mid=KUIXIWiM"
+  },
+  "KY6G9DdI": {
+    "away": "Nijmegen",
+    "away_goals": 1,
+    "date": "2016-10-01",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "KY6G9DdI",
+    "source": "flashscore",
+    "source_status": "01.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/roda-6FRTNZ8p/?mid=KY6G9DdI"
+  },
   "Kh9eEtCh": {
     "away": "Nijmegen",
     "away_goals": 0,
@@ -2652,6 +3590,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/summary/stats/?mid=Kh9eEtCh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/?mid=Kh9eEtCh"
+  },
+  "KhTTaxTg": {
+    "away": "Feyenoord",
+    "away_goals": 1,
+    "date": "2016-09-18",
+    "home": "PSV",
+    "home_goals": 0,
+    "id": "KhTTaxTg",
+    "source": "flashscore",
+    "source_status": "18.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/psv-M9UEHJWi/?mid=KhTTaxTg"
+  },
+  "KhkaFHSt": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2016-09-25",
+    "home": "Nijmegen",
+    "home_goals": 0,
+    "id": "KhkaFHSt",
+    "source": "flashscore",
+    "source_status": "25.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/willem-ii-6u3qag0G/?mid=KhkaFHSt"
+  },
+  "KlwIrvge": {
+    "away": "PSV",
+    "away_goals": 0,
+    "date": "2016-11-19",
+    "home": "Willem II",
+    "home_goals": 0,
+    "id": "KlwIrvge",
+    "source": "flashscore",
+    "source_status": "19.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/?mid=KlwIrvge"
+  },
+  "KnnkOCBB": {
+    "away": "Ajax",
+    "away_goals": 2,
+    "date": "2016-10-16",
+    "home": "Den Haag",
+    "home_goals": 0,
+    "id": "KnnkOCBB",
+    "source": "flashscore",
+    "source_status": "16.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/?mid=KnnkOCBB"
   },
   "M1qulV7O": {
     "away": "FC Emmen",
@@ -2797,6 +3783,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/willem-ii-6u3qag0G/zwolle-r1L5w2EB/?mid=M74jHDHA"
   },
+  "MBf2YBi9": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2017-01-28",
+    "home": "G.A. Eagles",
+    "home_goals": 0,
+    "id": "MBf2YBi9",
+    "source": "flashscore",
+    "source_status": "28.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/utrecht-p6QXMgOj/?mid=MBf2YBi9"
+  },
+  "MDcsktGR": {
+    "away": "Feyenoord",
+    "away_goals": 0,
+    "date": "2016-11-06",
+    "home": "G.A. Eagles",
+    "home_goals": 1,
+    "id": "MDcsktGR",
+    "source": "flashscore",
+    "source_status": "06.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/g-a-eagles-hG8POBb8/?mid=MDcsktGR"
+  },
+  "MH9MaHBd": {
+    "away": "Ajax",
+    "away_goals": 3,
+    "date": "2016-08-28",
+    "home": "G.A. Eagles",
+    "home_goals": 0,
+    "id": "MH9MaHBd",
+    "source": "flashscore",
+    "source_status": "28.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/g-a-eagles-hG8POBb8/?mid=MH9MaHBd"
+  },
+  "MHXU91Z3": {
+    "away": "Feyenoord",
+    "away_goals": 1,
+    "date": "2016-08-21",
+    "home": "Heracles",
+    "home_goals": 0,
+    "id": "MHXU91Z3",
+    "source": "flashscore",
+    "source_status": "21.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heracles-bB3JbZpA/?mid=MHXU91Z3"
+  },
+  "MHmg6vjQ": {
+    "away": "Excelsior",
+    "away_goals": 1,
+    "date": "2016-09-17",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "MHmg6vjQ",
+    "source": "flashscore",
+    "source_status": "17.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/willem-ii-6u3qag0G/?mid=MHmg6vjQ"
+  },
   "MTcVYxqD": {
     "away": "Willem II",
     "away_goals": 0,
@@ -2869,6 +3915,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/?mid=MTcVYxqD"
   },
+  "MXmsjyJB": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2017-02-25",
+    "home": "Heerenveen",
+    "home_goals": 3,
+    "id": "MXmsjyJB",
+    "source": "flashscore",
+    "source_status": "25.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/?mid=MXmsjyJB"
+  },
+  "MkXvDrJS": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2017-02-24",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "MkXvDrJS",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/twente-dhOKTHGA/?mid=MkXvDrJS"
+  },
+  "MksDn2CJ": {
+    "away": "Groningen",
+    "away_goals": 0,
+    "date": "2017-02-11",
+    "home": "Feyenoord",
+    "home_goals": 2,
+    "id": "MksDn2CJ",
+    "source": "flashscore",
+    "source_status": "11.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/?mid=MksDn2CJ"
+  },
+  "MwTxhrW8": {
+    "away": "Excelsior",
+    "away_goals": 1,
+    "date": "2016-11-06",
+    "home": "Utrecht",
+    "home_goals": 2,
+    "id": "MwTxhrW8",
+    "source": "flashscore",
+    "source_status": "06.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/utrecht-p6QXMgOj/?mid=MwTxhrW8"
+  },
+  "MyOUAdxl": {
+    "away": "PSV",
+    "away_goals": 0,
+    "date": "2016-12-03",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "MyOUAdxl",
+    "source": "flashscore",
+    "source_status": "03.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/roda-6FRTNZ8p/?mid=MyOUAdxl"
+  },
   "O2qsoo9N": {
     "away": "Helmond",
     "away_goals": 2,
@@ -2930,6 +4036,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/helmond-sport-SQGBcMU5/summary/stats/?mid=O2qsoo9N",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/helmond-sport-SQGBcMU5/?mid=O2qsoo9N"
+  },
+  "OGCx5TKi": {
+    "away": "Zwolle",
+    "away_goals": 2,
+    "date": "2016-10-16",
+    "home": "Twente",
+    "home_goals": 2,
+    "id": "OGCx5TKi",
+    "source": "flashscore",
+    "source_status": "16.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/zwolle-r1L5w2EB/?mid=OGCx5TKi"
+  },
+  "OQZK1bbs": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2016-09-18",
+    "home": "Sparta Rotterdam",
+    "home_goals": 2,
+    "id": "OQZK1bbs",
+    "source": "flashscore",
+    "source_status": "18.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/sparta-rotterdam-KK4FaFV3/?mid=OQZK1bbs"
   },
   "OfFMxt1o": {
     "away": "Groningen",
@@ -3003,6 +4133,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/groningen-MBUGcjb9/?mid=OfFMxt1o"
   },
+  "OnBQsqjB": {
+    "away": "Ajax",
+    "away_goals": 3,
+    "date": "2016-08-07",
+    "home": "Sparta Rotterdam",
+    "home_goals": 1,
+    "id": "OnBQsqjB",
+    "source": "flashscore",
+    "source_status": "07.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/sparta-rotterdam-KK4FaFV3/?mid=OnBQsqjB"
+  },
+  "Orc8x3WL": {
+    "away": "Heerenveen",
+    "away_goals": 2,
+    "date": "2016-10-30",
+    "home": "Feyenoord",
+    "home_goals": 2,
+    "id": "Orc8x3WL",
+    "source": "flashscore",
+    "source_status": "30.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/?mid=Orc8x3WL"
+  },
+  "Otd4fyh7": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2016-11-27",
+    "home": "AZ Alkmaar",
+    "home_goals": 5,
+    "id": "Otd4fyh7",
+    "source": "flashscore",
+    "source_status": "27.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heracles-bB3JbZpA/?mid=Otd4fyh7"
+  },
   "Ox0LQZ7j": {
     "away": "Vitesse",
     "away_goals": 0,
@@ -3074,6 +4240,102 @@
     "statistics_url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/summary/stats/?mid=Ox0LQZ7j",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/?mid=Ox0LQZ7j"
+  },
+  "Q3cAStLm": {
+    "away": "Ajax",
+    "away_goals": 2,
+    "date": "2017-02-05",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "Q3cAStLm",
+    "source": "flashscore",
+    "source_status": "05.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/roda-6FRTNZ8p/?mid=Q3cAStLm"
+  },
+  "Q77dL4dN": {
+    "away": "Den Haag",
+    "away_goals": 0,
+    "date": "2017-01-14",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "Q77dL4dN",
+    "source": "flashscore",
+    "source_status": "14.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heerenveen-EDjXSyWG/?mid=Q77dL4dN"
+  },
+  "Q9Uo6JYS": {
+    "away": "Excelsior",
+    "away_goals": 1,
+    "date": "2016-08-27",
+    "home": "Feyenoord",
+    "home_goals": 4,
+    "id": "Q9Uo6JYS",
+    "source": "flashscore",
+    "source_status": "27.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/feyenoord-8zjySeoN/?mid=Q9Uo6JYS"
+  },
+  "QB7CAgsC": {
+    "away": "PSV",
+    "away_goals": 1,
+    "date": "2016-10-01",
+    "home": "Heerenveen",
+    "home_goals": 1,
+    "id": "QB7CAgsC",
+    "source": "flashscore",
+    "source_status": "01.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/psv-M9UEHJWi/?mid=QB7CAgsC"
+  },
+  "QPnoPhd5": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2016-10-15",
+    "home": "PSV",
+    "home_goals": 1,
+    "id": "QPnoPhd5",
+    "source": "flashscore",
+    "source_status": "15.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/psv-M9UEHJWi/?mid=QPnoPhd5"
+  },
+  "QkWybGc6": {
+    "away": "Heerenveen",
+    "away_goals": 3,
+    "date": "2016-09-24",
+    "home": "Den Haag",
+    "home_goals": 0,
+    "id": "QkWybGc6",
+    "source": "flashscore",
+    "source_status": "24.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heerenveen-EDjXSyWG/?mid=QkWybGc6"
+  },
+  "QoWL8RCH": {
+    "away": "Heracles",
+    "away_goals": 0,
+    "date": "2016-12-11",
+    "home": "Utrecht",
+    "home_goals": 2,
+    "id": "QoWL8RCH",
+    "source": "flashscore",
+    "source_status": "11.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/utrecht-p6QXMgOj/?mid=QoWL8RCH"
+  },
+  "Qq1gzYMd": {
+    "away": "Heerenveen",
+    "away_goals": 3,
+    "date": "2017-01-22",
+    "home": "PSV",
+    "home_goals": 4,
+    "id": "Qq1gzYMd",
+    "source": "flashscore",
+    "source_status": "22.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/psv-M9UEHJWi/?mid=Qq1gzYMd"
   },
   "QuBsJZnb": {
     "away": "Utrecht",
@@ -3435,6 +4697,126 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=S6zLoypG"
   },
+  "SAA86d3h": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2017-03-04",
+    "home": "PSV",
+    "home_goals": 4,
+    "id": "SAA86d3h",
+    "source": "flashscore",
+    "source_status": "04.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/roda-6FRTNZ8p/?mid=SAA86d3h"
+  },
+  "SAS7yx4I": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2017-02-18",
+    "home": "Utrecht",
+    "home_goals": 3,
+    "id": "SAS7yx4I",
+    "source": "flashscore",
+    "source_status": "18.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/zwolle-r1L5w2EB/?mid=SAS7yx4I"
+  },
+  "SAlwiH35": {
+    "away": "Willem II",
+    "away_goals": 2,
+    "date": "2017-02-25",
+    "home": "Excelsior",
+    "home_goals": 0,
+    "id": "SAlwiH35",
+    "source": "flashscore",
+    "source_status": "25.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/willem-ii-6u3qag0G/?mid=SAlwiH35"
+  },
+  "SE2edcNf": {
+    "away": "Groningen",
+    "away_goals": 4,
+    "date": "2016-11-26",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "SE2edcNf",
+    "source": "flashscore",
+    "source_status": "26.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/zwolle-r1L5w2EB/?mid=SE2edcNf"
+  },
+  "SEOQBxNs": {
+    "away": "AZ Alkmaar",
+    "away_goals": 3,
+    "date": "2016-12-03",
+    "home": "Excelsior",
+    "home_goals": 3,
+    "id": "SEOQBxNs",
+    "source": "flashscore",
+    "source_status": "03.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/excelsior-nNlLsRUr/?mid=SEOQBxNs"
+  },
+  "SEtQtIN7": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 2,
+    "date": "2016-11-19",
+    "home": "Excelsior",
+    "home_goals": 3,
+    "id": "SEtQtIN7",
+    "source": "flashscore",
+    "source_status": "19.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/sparta-rotterdam-KK4FaFV3/?mid=SEtQtIN7"
+  },
+  "SIGD1wsp": {
+    "away": "Groningen",
+    "away_goals": 0,
+    "date": "2016-08-28",
+    "home": "PSV",
+    "home_goals": 0,
+    "id": "SIGD1wsp",
+    "source": "flashscore",
+    "source_status": "28.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/psv-M9UEHJWi/?mid=SIGD1wsp"
+  },
+  "SIh7Decg": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2016-09-25",
+    "home": "Feyenoord",
+    "home_goals": 5,
+    "id": "SIh7Decg",
+    "source": "flashscore",
+    "source_status": "25.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/roda-6FRTNZ8p/?mid=SIh7Decg"
+  },
+  "SKHHq5Lb": {
+    "away": "Feyenoord",
+    "away_goals": 5,
+    "date": "2016-08-07",
+    "home": "Groningen",
+    "home_goals": 0,
+    "id": "SKHHq5Lb",
+    "source": "flashscore",
+    "source_status": "07.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/?mid=SKHHq5Lb"
+  },
+  "SWZ0Dkbn": {
+    "away": "G.A. Eagles",
+    "away_goals": 0,
+    "date": "2016-12-10",
+    "home": "PSV",
+    "home_goals": 1,
+    "id": "SWZ0Dkbn",
+    "source": "flashscore",
+    "source_status": "10.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/psv-M9UEHJWi/?mid=SWZ0Dkbn"
+  },
   "SWsI8tV7": {
     "away": "Willem II",
     "away_goals": 0,
@@ -3506,6 +4888,66 @@
     "statistics_url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/willem-ii-6u3qag0G/summary/stats/?mid=SWsI8tV7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/willem-ii-6u3qag0G/?mid=SWsI8tV7"
+  },
+  "SYdjb4zh": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 3,
+    "date": "2016-08-13",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "SYdjb4zh",
+    "source": "flashscore",
+    "source_status": "13.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/zwolle-r1L5w2EB/?mid=SYdjb4zh"
+  },
+  "SfYQAsKc": {
+    "away": "G.A. Eagles",
+    "away_goals": 0,
+    "date": "2016-08-21",
+    "home": "Sparta Rotterdam",
+    "home_goals": 1,
+    "id": "SfYQAsKc",
+    "source": "flashscore",
+    "source_status": "21.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/sparta-rotterdam-KK4FaFV3/?mid=SfYQAsKc"
+  },
+  "Sflk7KzK": {
+    "away": "Heerenveen",
+    "away_goals": 3,
+    "date": "2016-09-17",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "Sflk7KzK",
+    "source": "flashscore",
+    "source_status": "17.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/?mid=Sflk7KzK"
+  },
+  "Sh9GvYeh": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 0,
+    "date": "2016-10-22",
+    "home": "PSV",
+    "home_goals": 1,
+    "id": "Sh9GvYeh",
+    "source": "flashscore",
+    "source_status": "22.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/sparta-rotterdam-KK4FaFV3/?mid=Sh9GvYeh"
+  },
+  "SjbwjM0L": {
+    "away": "Heracles",
+    "away_goals": 2,
+    "date": "2016-11-06",
+    "home": "Vitesse",
+    "home_goals": 1,
+    "id": "SjbwjM0L",
+    "source": "flashscore",
+    "source_status": "06.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/vitesse-xdFA0eGc/?mid=SjbwjM0L"
   },
   "SpNjNup1": {
     "away": "Nijmegen",
@@ -3579,6 +5021,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nijmegen-nRluRF0T/?mid=SpNjNup1"
   },
+  "SvUsQYta": {
+    "away": "G.A. Eagles",
+    "away_goals": 0,
+    "date": "2016-10-15",
+    "home": "Utrecht",
+    "home_goals": 3,
+    "id": "SvUsQYta",
+    "source": "flashscore",
+    "source_status": "15.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/utrecht-p6QXMgOj/?mid=SvUsQYta"
+  },
   "UDqMxLql": {
     "away": "Ajax",
     "away_goals": 5,
@@ -3650,6 +5104,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nijmegen-nRluRF0T/summary/stats/?mid=UDqMxLql",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nijmegen-nRluRF0T/?mid=UDqMxLql"
+  },
+  "UJK85108": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2016-11-20",
+    "home": "Roda",
+    "home_goals": 1,
+    "id": "UJK85108",
+    "source": "flashscore",
+    "source_status": "20.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/roda-6FRTNZ8p/?mid=UJK85108"
   },
   "Ua4mOLUf": {
     "away": "Vitesse",
@@ -3723,6 +5189,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/vitesse-xdFA0eGc/?mid=Ua4mOLUf"
   },
+  "UmvmapLo": {
+    "away": "Den Haag",
+    "away_goals": 2,
+    "date": "2016-08-13",
+    "home": "Vitesse",
+    "home_goals": 1,
+    "id": "UmvmapLo",
+    "source": "flashscore",
+    "source_status": "13.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/vitesse-xdFA0eGc/?mid=UmvmapLo"
+  },
+  "Uq4avP19": {
+    "away": "Excelsior",
+    "away_goals": 0,
+    "date": "2016-10-29",
+    "home": "Ajax",
+    "home_goals": 1,
+    "id": "Uq4avP19",
+    "source": "flashscore",
+    "source_status": "29.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/excelsior-nNlLsRUr/?mid=Uq4avP19"
+  },
+  "UqtiUvv2": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2016-11-05",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "UqtiUvv2",
+    "source": "flashscore",
+    "source_status": "05.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nijmegen-nRluRF0T/?mid=UqtiUvv2"
+  },
+  "UwqjIvpE": {
+    "away": "Feyenoord",
+    "away_goals": 3,
+    "date": "2016-11-27",
+    "home": "Utrecht",
+    "home_goals": 3,
+    "id": "UwqjIvpE",
+    "source": "flashscore",
+    "source_status": "27.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/utrecht-p6QXMgOj/?mid=UwqjIvpE"
+  },
   "UyM0XP78": {
     "away": "Nijmegen",
     "away_goals": 1,
@@ -3794,6 +5308,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/vitesse-xdFA0eGc/summary/stats/?mid=UyM0XP78",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/vitesse-xdFA0eGc/?mid=UyM0XP78"
+  },
+  "W0vSFpZ9": {
+    "away": "Feyenoord",
+    "away_goals": 2,
+    "date": "2017-02-05",
+    "home": "Twente",
+    "home_goals": 0,
+    "id": "W0vSFpZ9",
+    "source": "flashscore",
+    "source_status": "05.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/twente-dhOKTHGA/?mid=W0vSFpZ9"
   },
   "W27fZ6fg": {
     "away": "Utrecht",
@@ -4083,6 +5609,90 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/twente-dhOKTHGA/?mid=WOME6tdd"
   },
+  "WOWH97cB": {
+    "away": "Feyenoord",
+    "away_goals": 4,
+    "date": "2016-12-11",
+    "home": "AZ Alkmaar",
+    "home_goals": 0,
+    "id": "WOWH97cB",
+    "source": "flashscore",
+    "source_status": "11.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/feyenoord-8zjySeoN/?mid=WOWH97cB"
+  },
+  "WQF7tfRu": {
+    "away": "Heerenveen",
+    "away_goals": 3,
+    "date": "2016-10-15",
+    "home": "Groningen",
+    "home_goals": 0,
+    "id": "WQF7tfRu",
+    "source": "flashscore",
+    "source_status": "15.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heerenveen-EDjXSyWG/?mid=WQF7tfRu"
+  },
+  "WSK00l27": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2016-09-10",
+    "home": "Zwolle",
+    "home_goals": 1,
+    "id": "WSK00l27",
+    "source": "flashscore",
+    "source_status": "10.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/zwolle-r1L5w2EB/?mid=WSK00l27"
+  },
+  "WniDMvJ9": {
+    "away": "PSV",
+    "away_goals": 4,
+    "date": "2016-09-10",
+    "home": "Nijmegen",
+    "home_goals": 0,
+    "id": "WniDMvJ9",
+    "source": "flashscore",
+    "source_status": "10.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/psv-M9UEHJWi/?mid=WniDMvJ9"
+  },
+  "Wr7MbhbI": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2016-09-17",
+    "home": "Twente",
+    "home_goals": 4,
+    "id": "Wr7MbhbI",
+    "source": "flashscore",
+    "source_status": "17.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/twente-dhOKTHGA/?mid=Wr7MbhbI"
+  },
+  "WreUhwZh": {
+    "away": "Utrecht",
+    "away_goals": 3,
+    "date": "2017-02-25",
+    "home": "Groningen",
+    "home_goals": 2,
+    "id": "WreUhwZh",
+    "source": "flashscore",
+    "source_status": "25.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/utrecht-p6QXMgOj/?mid=WreUhwZh"
+  },
+  "WtCt4mzb": {
+    "away": "Twente",
+    "away_goals": 2,
+    "date": "2016-10-22",
+    "home": "G.A. Eagles",
+    "home_goals": 0,
+    "id": "WtCt4mzb",
+    "source": "flashscore",
+    "source_status": "22.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/twente-dhOKTHGA/?mid=WtCt4mzb"
+  },
   "WvBxMLeq": {
     "away": "Groningen",
     "away_goals": 5,
@@ -4371,6 +5981,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/zwolle-r1L5w2EB/?mid=Y7sCmcF3"
   },
+  "YBHa8IYu": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2017-02-26",
+    "home": "Ajax",
+    "home_goals": 4,
+    "id": "YBHa8IYu",
+    "source": "flashscore",
+    "source_status": "26.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heracles-bB3JbZpA/?mid=YBHa8IYu"
+  },
+  "YDdWE2Zj": {
+    "away": "Utrecht",
+    "away_goals": 2,
+    "date": "2017-01-14",
+    "home": "Sparta Rotterdam",
+    "home_goals": 1,
+    "id": "YDdWE2Zj",
+    "source": "flashscore",
+    "source_status": "14.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/utrecht-p6QXMgOj/?mid=YDdWE2Zj"
+  },
+  "YHnrW09k": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2016-11-04",
+    "home": "Sparta Rotterdam",
+    "home_goals": 3,
+    "id": "YHnrW09k",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/sparta-rotterdam-KK4FaFV3/?mid=YHnrW09k"
+  },
   "YR3BVOgI": {
     "away": "Excelsior",
     "away_goals": 1,
@@ -4443,6 +6089,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/nijmegen-nRluRF0T/?mid=YR3BVOgI"
   },
+  "YZmVNIZI": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2017-02-11",
+    "home": "G.A. Eagles",
+    "home_goals": 3,
+    "id": "YZmVNIZI",
+    "source": "flashscore",
+    "source_status": "11.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/g-a-eagles-hG8POBb8/?mid=YZmVNIZI"
+  },
+  "Yeg3Eyrm": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 0,
+    "date": "2016-09-25",
+    "home": "Utrecht",
+    "home_goals": 2,
+    "id": "Yeg3Eyrm",
+    "source": "flashscore",
+    "source_status": "25.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/utrecht-p6QXMgOj/?mid=Yeg3Eyrm"
+  },
+  "Yi3icw8l": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2016-11-26",
+    "home": "PSV",
+    "home_goals": 3,
+    "id": "Yi3icw8l",
+    "source": "flashscore",
+    "source_status": "26.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/psv-M9UEHJWi/?mid=Yi3icw8l"
+  },
+  "YmT3xIlC": {
+    "away": "Nijmegen",
+    "away_goals": 1,
+    "date": "2017-02-18",
+    "home": "PSV",
+    "home_goals": 3,
+    "id": "YmT3xIlC",
+    "source": "flashscore",
+    "source_status": "18.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/psv-M9UEHJWi/?mid=YmT3xIlC"
+  },
   "YwKBieT5": {
     "away": "Utrecht",
     "away_goals": 0,
@@ -4514,6 +6208,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/summary/stats/?mid=YwKBieT5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=YwKBieT5"
+  },
+  "YyBK8XBO": {
+    "away": "Excelsior",
+    "away_goals": 0,
+    "date": "2016-10-01",
+    "home": "G.A. Eagles",
+    "home_goals": 3,
+    "id": "YyBK8XBO",
+    "source": "flashscore",
+    "source_status": "01.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/g-a-eagles-hG8POBb8/?mid=YyBK8XBO"
+  },
+  "b17g2AXf": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 1,
+    "date": "2016-09-11",
+    "home": "Groningen",
+    "home_goals": 1,
+    "id": "b17g2AXf",
+    "source": "flashscore",
+    "source_status": "11.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/sparta-rotterdam-KK4FaFV3/?mid=b17g2AXf"
+  },
+  "bBO682Rq": {
+    "away": "Willem II",
+    "away_goals": 1,
+    "date": "2017-03-04",
+    "home": "Twente",
+    "home_goals": 2,
+    "id": "bBO682Rq",
+    "source": "flashscore",
+    "source_status": "04.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/?mid=bBO682Rq"
   },
   "bD7ZZwo4": {
     "away": "Feyenoord",
@@ -4592,6 +6322,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/vitesse-xdFA0eGc/?mid=bD7ZZwo4"
   },
+  "bFUOKhN9": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 1,
+    "date": "2017-01-21",
+    "home": "AZ Alkmaar",
+    "home_goals": 1,
+    "id": "bFUOKhN9",
+    "source": "flashscore",
+    "source_status": "21.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/sparta-rotterdam-KK4FaFV3/?mid=bFUOKhN9"
+  },
+  "bHeIQKk0": {
+    "away": "Heerenveen",
+    "away_goals": 0,
+    "date": "2017-02-05",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "bHeIQKk0",
+    "source": "flashscore",
+    "source_status": "05.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=bHeIQKk0"
+  },
+  "bV8E0ET5": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 1,
+    "date": "2016-08-27",
+    "home": "Twente",
+    "home_goals": 3,
+    "id": "bV8E0ET5",
+    "source": "flashscore",
+    "source_status": "27.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/twente-dhOKTHGA/?mid=bV8E0ET5"
+  },
   "bVhjrsMQ": {
     "away": "Heerenveen",
     "away_goals": 2,
@@ -4664,6 +6430,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/?mid=bVhjrsMQ"
   },
+  "bVziuK4g": {
+    "away": "Utrecht",
+    "away_goals": 0,
+    "date": "2017-02-12",
+    "home": "PSV",
+    "home_goals": 3,
+    "id": "bVziuK4g",
+    "source": "flashscore",
+    "source_status": "12.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/?mid=bVziuK4g"
+  },
+  "bZl9p0Or": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2016-11-19",
+    "home": "Heerenveen",
+    "home_goals": 1,
+    "id": "bZl9p0Or",
+    "source": "flashscore",
+    "source_status": "19.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/?mid=bZl9p0Or"
+  },
+  "bcqYg3Cj": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2016-12-17",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "bcqYg3Cj",
+    "source": "flashscore",
+    "source_status": "17.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/twente-dhOKTHGA/?mid=bcqYg3Cj"
+  },
+  "bcygORT1": {
+    "away": "Vitesse",
+    "away_goals": 2,
+    "date": "2017-02-03",
+    "home": "Den Haag",
+    "home_goals": 0,
+    "id": "bcygORT1",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/vitesse-xdFA0eGc/?mid=bcygORT1"
+  },
   "bq8aD0Rb": {
     "away": "Maastricht",
     "away_goals": 0,
@@ -4725,6 +6539,102 @@
     "statistics_url": "https://www.flashscore.com/match/football/maastricht-YPQnAtpC/roda-6FRTNZ8p/summary/stats/?mid=bq8aD0Rb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/maastricht-YPQnAtpC/roda-6FRTNZ8p/?mid=bq8aD0Rb"
+  },
+  "bw97CUUk": {
+    "away": "G.A. Eagles",
+    "away_goals": 1,
+    "date": "2017-01-22",
+    "home": "Excelsior",
+    "home_goals": 1,
+    "id": "bw97CUUk",
+    "source": "flashscore",
+    "source_status": "22.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/g-a-eagles-hG8POBb8/?mid=bw97CUUk"
+  },
+  "bwogNWQH": {
+    "away": "Vitesse",
+    "away_goals": 2,
+    "date": "2016-10-15",
+    "home": "AZ Alkmaar",
+    "home_goals": 2,
+    "id": "bwogNWQH",
+    "source": "flashscore",
+    "source_status": "15.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/vitesse-xdFA0eGc/?mid=bwogNWQH"
+  },
+  "d09YuNKN": {
+    "away": "Utrecht",
+    "away_goals": 2,
+    "date": "2016-08-12",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "d09YuNKN",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=d09YuNKN"
+  },
+  "d6v5C9Dh": {
+    "away": "Excelsior",
+    "away_goals": 1,
+    "date": "2016-12-10",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "d6v5C9Dh",
+    "source": "flashscore",
+    "source_status": "10.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/heerenveen-EDjXSyWG/?mid=d6v5C9Dh"
+  },
+  "dEl7fMZG": {
+    "away": "Den Haag",
+    "away_goals": 2,
+    "date": "2016-08-19",
+    "home": "Excelsior",
+    "home_goals": 1,
+    "id": "dEl7fMZG",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/excelsior-nNlLsRUr/?mid=dEl7fMZG"
+  },
+  "dSFuPncb": {
+    "away": "Nijmegen",
+    "away_goals": 2,
+    "date": "2016-12-18",
+    "home": "Excelsior",
+    "home_goals": 2,
+    "id": "dSFuPncb",
+    "source": "flashscore",
+    "source_status": "18.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/nijmegen-nRluRF0T/?mid=dSFuPncb"
+  },
+  "dW5itoXd": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 2,
+    "date": "2016-10-29",
+    "home": "Heracles",
+    "home_goals": 2,
+    "id": "dW5itoXd",
+    "source": "flashscore",
+    "source_status": "29.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/sparta-rotterdam-KK4FaFV3/?mid=dW5itoXd"
+  },
+  "dfGs8fM6": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 1,
+    "date": "2016-12-04",
+    "home": "Feyenoord",
+    "home_goals": 6,
+    "id": "dfGs8fM6",
+    "source": "flashscore",
+    "source_status": "04.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/sparta-rotterdam-KK4FaFV3/?mid=dfGs8fM6"
   },
   "dj2P2E2H": {
     "away": "Ajax",
@@ -4797,6 +6707,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/summary/stats/?mid=dj2P2E2H",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/?mid=dj2P2E2H"
+  },
+  "djtfmZ2U": {
+    "away": "Sparta Rotterdam",
+    "away_goals": 1,
+    "date": "2017-02-25",
+    "home": "Nijmegen",
+    "home_goals": 0,
+    "id": "djtfmZ2U",
+    "source": "flashscore",
+    "source_status": "25.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/sparta-rotterdam-KK4FaFV3/?mid=djtfmZ2U"
   },
   "dn6uQs0r": {
     "away": "Sparta Rotterdam",
@@ -4937,6 +6859,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-volendam-6VbkuOqa/nac-breda-nLNrHc14/?mid=dxZMk9fh"
   },
+  "dzQs7aJM": {
+    "away": "Zwolle",
+    "away_goals": 0,
+    "date": "2016-08-27",
+    "home": "Heerenveen",
+    "home_goals": 1,
+    "id": "dzQs7aJM",
+    "source": "flashscore",
+    "source_status": "27.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/zwolle-r1L5w2EB/?mid=dzQs7aJM"
+  },
+  "f14mbJhr": {
+    "away": "Excelsior",
+    "away_goals": 2,
+    "date": "2016-11-26",
+    "home": "Vitesse",
+    "home_goals": 2,
+    "id": "f14mbJhr",
+    "source": "flashscore",
+    "source_status": "26.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/vitesse-xdFA0eGc/?mid=f14mbJhr"
+  },
+  "f5v2LAeU": {
+    "away": "Feyenoord",
+    "away_goals": 2,
+    "date": "2016-10-16",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "f5v2LAeU",
+    "source": "flashscore",
+    "source_status": "16.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/nijmegen-nRluRF0T/?mid=f5v2LAeU"
+  },
+  "fNcSFrKp": {
+    "away": "Excelsior",
+    "away_goals": 0,
+    "date": "2017-01-14",
+    "home": "PSV",
+    "home_goals": 2,
+    "id": "fNcSFrKp",
+    "source": "flashscore",
+    "source_status": "14.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/psv-M9UEHJWi/?mid=fNcSFrKp"
+  },
   "fNiQlT9b": {
     "away": "Almere City",
     "away_goals": 2,
@@ -4998,6 +6968,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/helmond-sport-SQGBcMU5/summary/stats/?mid=fNiQlT9b",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/almere-city-IsK0b0aI/helmond-sport-SQGBcMU5/?mid=fNiQlT9b"
+  },
+  "fPhAWkML": {
+    "away": "Excelsior",
+    "away_goals": 0,
+    "date": "2017-01-28",
+    "home": "Roda",
+    "home_goals": 4,
+    "id": "fPhAWkML",
+    "source": "flashscore",
+    "source_status": "28.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/roda-6FRTNZ8p/?mid=fPhAWkML"
+  },
+  "fRmvXtfq": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2016-10-30",
+    "home": "Den Haag",
+    "home_goals": 0,
+    "id": "fRmvXtfq",
+    "source": "flashscore",
+    "source_status": "30.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/den-haag-lAgLCkT3/?mid=fRmvXtfq"
+  },
+  "fcUawbZ5": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2017-02-19",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "fcUawbZ5",
+    "source": "flashscore",
+    "source_status": "19.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/willem-ii-6u3qag0G/?mid=fcUawbZ5"
   },
   "fkEg7h8n": {
     "away": "Heerenveen",
@@ -5070,6 +7076,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/summary/stats/?mid=fkEg7h8n",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=fkEg7h8n"
+  },
+  "fqkRObKC": {
+    "away": "Roda",
+    "away_goals": 2,
+    "date": "2017-02-11",
+    "home": "Heracles",
+    "home_goals": 2,
+    "id": "fqkRObKC",
+    "source": "flashscore",
+    "source_status": "11.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/?mid=fqkRObKC"
+  },
+  "h06SyWuB": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2016-10-23",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "h06SyWuB",
+    "source": "flashscore",
+    "source_status": "23.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/vitesse-xdFA0eGc/?mid=h06SyWuB"
   },
   "h673CKt5": {
     "away": "NAC Breda",
@@ -5147,6 +7177,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/summary/stats/?mid=h673CKt5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/?mid=h673CKt5"
+  },
+  "hAuOGQJ3": {
+    "away": "Twente",
+    "away_goals": 2,
+    "date": "2017-01-29",
+    "home": "Zwolle",
+    "home_goals": 1,
+    "id": "hAuOGQJ3",
+    "source": "flashscore",
+    "source_status": "29.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/zwolle-r1L5w2EB/?mid=hAuOGQJ3"
   },
   "hSCZKeIo": {
     "away": "Nijmegen",
@@ -5291,6 +7333,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/twente-dhOKTHGA/summary/stats/?mid=hYNA7Mtj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/twente-dhOKTHGA/?mid=hYNA7Mtj"
+  },
+  "hd0k2R4A": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2016-11-05",
+    "home": "PSV",
+    "home_goals": 1,
+    "id": "hd0k2R4A",
+    "source": "flashscore",
+    "source_status": "05.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/twente-dhOKTHGA/?mid=hd0k2R4A"
+  },
+  "hhdQgJJn": {
+    "away": "Feyenoord",
+    "away_goals": 1,
+    "date": "2017-02-19",
+    "home": "Den Haag",
+    "home_goals": 0,
+    "id": "hhdQgJJn",
+    "source": "flashscore",
+    "source_status": "19.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/feyenoord-8zjySeoN/?mid=hhdQgJJn"
   },
   "hjBMJ6w9": {
     "away": "Feyenoord",
@@ -5441,6 +7507,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/?mid=hlMxZc0A"
   },
+  "htrGh04T": {
+    "away": "Willem II",
+    "away_goals": 2,
+    "date": "2016-08-20",
+    "home": "Ajax",
+    "home_goals": 1,
+    "id": "htrGh04T",
+    "source": "flashscore",
+    "source_status": "20.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/?mid=htrGh04T"
+  },
+  "jHFo7EyD": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2016-12-03",
+    "home": "Vitesse",
+    "home_goals": 3,
+    "id": "jHFo7EyD",
+    "source": "flashscore",
+    "source_status": "03.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/?mid=jHFo7EyD"
+  },
+  "jXXpQmak": {
+    "away": "Den Haag",
+    "away_goals": 0,
+    "date": "2017-01-29",
+    "home": "Ajax",
+    "home_goals": 3,
+    "id": "jXXpQmak",
+    "source": "flashscore",
+    "source_status": "29.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/?mid=jXXpQmak"
+  },
+  "jgXbGIEQ": {
+    "away": "Heerenveen",
+    "away_goals": 3,
+    "date": "2016-12-03",
+    "home": "G.A. Eagles",
+    "home_goals": 1,
+    "id": "jgXbGIEQ",
+    "source": "flashscore",
+    "source_status": "03.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heerenveen-EDjXSyWG/?mid=jgXbGIEQ"
+  },
+  "jkRGMEhc": {
+    "away": "Ajax",
+    "away_goals": 3,
+    "date": "2017-01-15",
+    "home": "Zwolle",
+    "home_goals": 1,
+    "id": "jkRGMEhc",
+    "source": "flashscore",
+    "source_status": "15.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/?mid=jkRGMEhc"
+  },
   "l0BaLJED": {
     "away": "Den Haag",
     "away_goals": 2,
@@ -5512,6 +7638,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/willem-ii-6u3qag0G/summary/stats/?mid=l0BaLJED",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/willem-ii-6u3qag0G/?mid=l0BaLJED"
+  },
+  "l0aZj2oF": {
+    "away": "Ajax",
+    "away_goals": 2,
+    "date": "2016-11-06",
+    "home": "AZ Alkmaar",
+    "home_goals": 2,
+    "id": "l0aZj2oF",
+    "source": "flashscore",
+    "source_status": "06.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/az-alkmaar-2RxOow1i/?mid=l0aZj2oF"
+  },
+  "l2Yl6YjJ": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2016-12-09",
+    "home": "Groningen",
+    "home_goals": 2,
+    "id": "l2Yl6YjJ",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/roda-6FRTNZ8p/?mid=l2Yl6YjJ"
+  },
+  "l4ZMBN4i": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2016-08-21",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "l4ZMBN4i",
+    "source": "flashscore",
+    "source_status": "21.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=l4ZMBN4i"
+  },
+  "lCTomvSj": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2016-08-20",
+    "home": "Nijmegen",
+    "home_goals": 2,
+    "id": "lCTomvSj",
+    "source": "flashscore",
+    "source_status": "20.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nijmegen-nRluRF0T/?mid=lCTomvSj"
   },
   "lCiSjXN5": {
     "away": "Roda",
@@ -5796,6 +7970,97 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/?mid=lMKWdqWe"
   },
+  "lOsMsb81": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2016-11-20",
+    "home": "Ajax",
+    "home_goals": 5,
+    "id": "lOsMsb81",
+    "source": "flashscore",
+    "source_status": "20.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nijmegen-nRluRF0T/?mid=lOsMsb81"
+  },
+  "lUIDpo6h": {
+    "away": "G.A. Eagles",
+    "away_goals": 0,
+    "date": "2016-08-06",
+    "home": "Den Haag",
+    "home_goals": 3,
+    "id": "lUIDpo6h",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 21,
+      "HST": 8
+    },
+    "source": "flashscore",
+    "source_status": "06.08.2016",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/g-a-eagles-hG8POBb8/summary/stats/?mid=lUIDpo6h",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/g-a-eagles-hG8POBb8/?mid=lUIDpo6h"
+  },
+  "lloadr54": {
+    "away": "Nijmegen",
+    "away_goals": 2,
+    "date": "2016-08-14",
+    "home": "G.A. Eagles",
+    "home_goals": 2,
+    "id": "lloadr54",
+    "source": "flashscore",
+    "source_status": "14.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/nijmegen-nRluRF0T/?mid=lloadr54"
+  },
   "ltqE9MF1": {
     "away": "Heerenveen",
     "away_goals": 1,
@@ -5867,6 +8132,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/heracles-bB3JbZpA/summary/stats/?mid=ltqE9MF1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/heracles-bB3JbZpA/?mid=ltqE9MF1"
+  },
+  "ltycEVrt": {
+    "away": "Den Haag",
+    "away_goals": 0,
+    "date": "2016-12-10",
+    "home": "Nijmegen",
+    "home_goals": 3,
+    "id": "ltycEVrt",
+    "source": "flashscore",
+    "source_status": "10.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/nijmegen-nRluRF0T/?mid=ltycEVrt"
   },
   "lvIkzmum": {
     "away": "G.A. Eagles",
@@ -5940,6 +8217,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/willem-ii-6u3qag0G/?mid=lvIkzmum"
   },
+  "n1O0JNPq": {
+    "away": "AZ Alkmaar",
+    "away_goals": 0,
+    "date": "2016-10-23",
+    "home": "Groningen",
+    "home_goals": 2,
+    "id": "n1O0JNPq",
+    "source": "flashscore",
+    "source_status": "23.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=n1O0JNPq"
+  },
+  "n5KpdfSI": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2016-09-24",
+    "home": "Ajax",
+    "home_goals": 5,
+    "id": "n5KpdfSI",
+    "source": "flashscore",
+    "source_status": "24.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/?mid=n5KpdfSI"
+  },
   "nB7o2dUd": {
     "away": "Roda",
     "away_goals": 0,
@@ -6011,6 +8312,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/vitesse-xdFA0eGc/summary/stats/?mid=nB7o2dUd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/vitesse-xdFA0eGc/?mid=nB7o2dUd"
+  },
+  "nL88BZR5": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2016-10-01",
+    "home": "Vitesse",
+    "home_goals": 2,
+    "id": "nL88BZR5",
+    "source": "flashscore",
+    "source_status": "01.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=nL88BZR5"
+  },
+  "ncYl2Pko": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2016-12-17",
+    "home": "Feyenoord",
+    "home_goals": 3,
+    "id": "ncYl2Pko",
+    "source": "flashscore",
+    "source_status": "17.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/vitesse-xdFA0eGc/?mid=ncYl2Pko"
+  },
+  "pCQKLY73": {
+    "away": "Nijmegen",
+    "away_goals": 1,
+    "date": "2017-01-15",
+    "home": "Willem II",
+    "home_goals": 0,
+    "id": "pCQKLY73",
+    "source": "flashscore",
+    "source_status": "15.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/willem-ii-6u3qag0G/?mid=pCQKLY73"
   },
   "pCpwnRgH": {
     "away": "FC Volendam",
@@ -6155,6 +8492,78 @@
     "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/summary/stats/?mid=pENFjFrC",
     "status": "special_result",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=pENFjFrC"
+  },
+  "pGvwRERh": {
+    "away": "Willem II",
+    "away_goals": 2,
+    "date": "2016-10-15",
+    "home": "Sparta Rotterdam",
+    "home_goals": 2,
+    "id": "pGvwRERh",
+    "source": "flashscore",
+    "source_status": "15.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/willem-ii-6u3qag0G/?mid=pGvwRERh"
+  },
+  "pQDY595o": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2016-10-02",
+    "home": "Heracles",
+    "home_goals": 1,
+    "id": "pQDY595o",
+    "source": "flashscore",
+    "source_status": "02.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/?mid=pQDY595o"
+  },
+  "pSdMfa4t": {
+    "away": "Groningen",
+    "away_goals": 2,
+    "date": "2017-02-19",
+    "home": "Sparta Rotterdam",
+    "home_goals": 2,
+    "id": "pSdMfa4t",
+    "source": "flashscore",
+    "source_status": "19.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/sparta-rotterdam-KK4FaFV3/?mid=pSdMfa4t"
+  },
+  "pUJBuEtn": {
+    "away": "Zwolle",
+    "away_goals": 2,
+    "date": "2016-10-21",
+    "home": "Excelsior",
+    "home_goals": 0,
+    "id": "pUJBuEtn",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/zwolle-r1L5w2EB/?mid=pUJBuEtn"
+  },
+  "phtDTM5s": {
+    "away": "Excelsior",
+    "away_goals": 1,
+    "date": "2017-02-04",
+    "home": "Groningen",
+    "home_goals": 1,
+    "id": "phtDTM5s",
+    "source": "flashscore",
+    "source_status": "04.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/groningen-MBUGcjb9/?mid=phtDTM5s"
+  },
+  "plnN65sU": {
+    "away": "Utrecht",
+    "away_goals": 0,
+    "date": "2016-12-17",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "plnN65sU",
+    "source": "flashscore",
+    "source_status": "17.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/?mid=plnN65sU"
   },
   "pn1HRFhp": {
     "away": "Willem II",
@@ -6439,6 +8848,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/helmond-sport-SQGBcMU5/roda-6FRTNZ8p/?mid=rBpykBhI"
   },
+  "rJAfaudP": {
+    "away": "Ajax",
+    "away_goals": 1,
+    "date": "2017-02-19",
+    "home": "Vitesse",
+    "home_goals": 0,
+    "id": "rJAfaudP",
+    "source": "flashscore",
+    "source_status": "19.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/vitesse-xdFA0eGc/?mid=rJAfaudP"
+  },
+  "rLZksQSp": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2016-09-25",
+    "home": "Twente",
+    "home_goals": 2,
+    "id": "rLZksQSp",
+    "source": "flashscore",
+    "source_status": "25.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/vitesse-xdFA0eGc/?mid=rLZksQSp"
+  },
+  "rmUYhOG2": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2016-11-05",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "rmUYhOG2",
+    "source": "flashscore",
+    "source_status": "05.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/willem-ii-6u3qag0G/?mid=rmUYhOG2"
+  },
+  "rqIiMpsH": {
+    "away": "AZ Alkmaar",
+    "away_goals": 3,
+    "date": "2017-01-13",
+    "home": "G.A. Eagles",
+    "home_goals": 1,
+    "id": "rqIiMpsH",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/g-a-eagles-hG8POBb8/?mid=rqIiMpsH"
+  },
   "ru4ZG4NR": {
     "away": "Heracles",
     "away_goals": 1,
@@ -6655,6 +9112,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/zwolle-r1L5w2EB/?mid=rwBbYQ9a"
   },
+  "t2UP0IDm": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2016-09-18",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "t2UP0IDm",
+    "source": "flashscore",
+    "source_status": "18.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/zwolle-r1L5w2EB/?mid=t2UP0IDm"
+  },
+  "t4J9oRjn": {
+    "away": "PSV",
+    "away_goals": 2,
+    "date": "2016-08-06",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "t4J9oRjn",
+    "source": "flashscore",
+    "source_status": "06.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/?mid=t4J9oRjn"
+  },
+  "tEWBzdJO": {
+    "away": "Excelsior",
+    "away_goals": 0,
+    "date": "2017-02-18",
+    "home": "Heracles",
+    "home_goals": 4,
+    "id": "tEWBzdJO",
+    "source": "flashscore",
+    "source_status": "18.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/heracles-bB3JbZpA/?mid=tEWBzdJO"
+  },
   "tGqAA20e": {
     "away": "PSV",
     "away_goals": 2,
@@ -6726,6 +9219,90 @@
     "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=tGqAA20e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/sparta-rotterdam-KK4FaFV3/?mid=tGqAA20e"
+  },
+  "tI6aeHx1": {
+    "away": "Roda",
+    "away_goals": 2,
+    "date": "2016-11-27",
+    "home": "Sparta Rotterdam",
+    "home_goals": 2,
+    "id": "tI6aeHx1",
+    "source": "flashscore",
+    "source_status": "27.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/sparta-rotterdam-KK4FaFV3/?mid=tI6aeHx1"
+  },
+  "tK73wqHF": {
+    "away": "G.A. Eagles",
+    "away_goals": 1,
+    "date": "2016-10-30",
+    "home": "Zwolle",
+    "home_goals": 3,
+    "id": "tK73wqHF",
+    "source": "flashscore",
+    "source_status": "30.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/zwolle-r1L5w2EB/?mid=tK73wqHF"
+  },
+  "tON4Isuj": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2016-10-23",
+    "home": "Heerenveen",
+    "home_goals": 3,
+    "id": "tON4Isuj",
+    "source": "flashscore",
+    "source_status": "23.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/heracles-bB3JbZpA/?mid=tON4Isuj"
+  },
+  "tbvEqKwk": {
+    "away": "G.A. Eagles",
+    "away_goals": 1,
+    "date": "2016-11-19",
+    "home": "Heracles",
+    "home_goals": 2,
+    "id": "tbvEqKwk",
+    "source": "flashscore",
+    "source_status": "19.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heracles-bB3JbZpA/?mid=tbvEqKwk"
+  },
+  "tfE91fEa": {
+    "away": "Twente",
+    "away_goals": 4,
+    "date": "2016-08-21",
+    "home": "Groningen",
+    "home_goals": 3,
+    "id": "tfE91fEa",
+    "source": "flashscore",
+    "source_status": "21.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/?mid=tfE91fEa"
+  },
+  "tfOC4LFE": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2016-11-19",
+    "home": "Groningen",
+    "home_goals": 2,
+    "id": "tfOC4LFE",
+    "source": "flashscore",
+    "source_status": "19.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/?mid=tfOC4LFE"
+  },
+  "tvKTJCxG": {
+    "away": "Zwolle",
+    "away_goals": 2,
+    "date": "2017-01-21",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "tvKTJCxG",
+    "source": "flashscore",
+    "source_status": "21.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/zwolle-r1L5w2EB/?mid=tvKTJCxG"
   },
   "v5SFtk2J": {
     "away": "Sparta Rotterdam",
@@ -6803,6 +9380,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=v5SFtk2J",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/sparta-rotterdam-KK4FaFV3/?mid=v5SFtk2J"
+  },
+  "vD21aPlT": {
+    "away": "Twente",
+    "away_goals": 0,
+    "date": "2016-12-04",
+    "home": "Willem II",
+    "home_goals": 0,
+    "id": "vD21aPlT",
+    "source": "flashscore",
+    "source_status": "04.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/?mid=vD21aPlT"
+  },
+  "vRszEO3M": {
+    "away": "Heerenveen",
+    "away_goals": 0,
+    "date": "2017-02-18",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "vRszEO3M",
+    "source": "flashscore",
+    "source_status": "18.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/?mid=vRszEO3M"
   },
   "vmJAQ1mS": {
     "away": "Twente",
@@ -7020,6 +9621,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/heerenveen-EDjXSyWG/?mid=vqFoIg24"
   },
+  "vwvCgtkN": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2016-08-20",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "vwvCgtkN",
+    "source": "flashscore",
+    "source_status": "20.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/vitesse-xdFA0eGc/?mid=vwvCgtkN"
+  },
   "x0A2XpP5": {
     "away": "Heerenveen",
     "away_goals": 1,
@@ -7236,6 +9849,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/zwolle-r1L5w2EB/?mid=xG4sp3iE"
   },
+  "xM7IaYrC": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2016-09-10",
+    "home": "Heerenveen",
+    "home_goals": 3,
+    "id": "xM7IaYrC",
+    "source": "flashscore",
+    "source_status": "10.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/?mid=xM7IaYrC"
+  },
+  "xMZfvvKa": {
+    "away": "G.A. Eagles",
+    "away_goals": 0,
+    "date": "2017-02-17",
+    "home": "Roda",
+    "home_goals": 1,
+    "id": "xMZfvvKa",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/roda-6FRTNZ8p/?mid=xMZfvvKa"
+  },
   "xbJQy0Gi": {
     "away": "Roda",
     "away_goals": 0,
@@ -7313,6 +9950,97 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/?mid=xbJQy0Gi"
   },
+  "xh6c1Un1": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2016-09-11",
+    "home": "G.A. Eagles",
+    "home_goals": 2,
+    "id": "xh6c1Un1",
+    "source": "flashscore",
+    "source_status": "11.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/roda-6FRTNZ8p/?mid=xh6c1Un1"
+  },
+  "xjgaRN5U": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2016-08-05",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "xjgaRN5U",
+    "shots": {
+      "AS": 14,
+      "AST": 4,
+      "HS": 6,
+      "HST": 1
+    },
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "statistics": [
+      {
+        "away": "64%",
+        "home": "36%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/zwolle-r1L5w2EB/summary/stats/?mid=xjgaRN5U",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/zwolle-r1L5w2EB/?mid=xjgaRN5U"
+  },
+  "xjyVSzct": {
+    "away": "Feyenoord",
+    "away_goals": 2,
+    "date": "2016-10-02",
+    "home": "Willem II",
+    "home_goals": 0,
+    "id": "xjyVSzct",
+    "source": "flashscore",
+    "source_status": "02.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/?mid=xjyVSzct"
+  },
   "xnsVmmP4": {
     "away": "FC Emmen",
     "away_goals": 5,
@@ -7374,6 +10102,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/waalwijk-lvM1vra5/summary/stats/?mid=xnsVmmP4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fc-emmen-Stafar0g/waalwijk-lvM1vra5/?mid=xnsVmmP4"
+  },
+  "xrB0KOBT": {
+    "away": "Groningen",
+    "away_goals": 4,
+    "date": "2017-01-14",
+    "home": "Heracles",
+    "home_goals": 1,
+    "id": "xrB0KOBT",
+    "source": "flashscore",
+    "source_status": "14.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heracles-bB3JbZpA/?mid=xrB0KOBT"
   },
   "xtQfuZMq": {
     "away": "Nijmegen",
@@ -7446,6 +10186,90 @@
     "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nijmegen-nRluRF0T/summary/stats/?mid=xtQfuZMq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nijmegen-nRluRF0T/?mid=xtQfuZMq"
+  },
+  "zHNG3uVK": {
+    "away": "Zwolle",
+    "away_goals": 0,
+    "date": "2016-11-20",
+    "home": "Feyenoord",
+    "home_goals": 3,
+    "id": "zHNG3uVK",
+    "source": "flashscore",
+    "source_status": "20.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/zwolle-r1L5w2EB/?mid=zHNG3uVK"
+  },
+  "zJEqO6C4": {
+    "away": "G.A. Eagles",
+    "away_goals": 1,
+    "date": "2016-12-18",
+    "home": "Groningen",
+    "home_goals": 1,
+    "id": "zJEqO6C4",
+    "source": "flashscore",
+    "source_status": "18.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/groningen-MBUGcjb9/?mid=zJEqO6C4"
+  },
+  "zLDSKw5J": {
+    "away": "G.A. Eagles",
+    "away_goals": 2,
+    "date": "2016-09-24",
+    "home": "AZ Alkmaar",
+    "home_goals": 2,
+    "id": "zLDSKw5J",
+    "source": "flashscore",
+    "source_status": "24.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/g-a-eagles-hG8POBb8/?mid=zLDSKw5J"
+  },
+  "zLc4O0lc": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2016-08-28",
+    "home": "AZ Alkmaar",
+    "home_goals": 2,
+    "id": "zLc4O0lc",
+    "source": "flashscore",
+    "source_status": "28.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nijmegen-nRluRF0T/?mid=zLc4O0lc"
+  },
+  "zLyZ8LlA": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2016-08-26",
+    "home": "Vitesse",
+    "home_goals": 1,
+    "id": "zLyZ8LlA",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/?mid=zLyZ8LlA"
+  },
+  "zN4eu5n3": {
+    "away": "PSV",
+    "away_goals": 2,
+    "date": "2016-10-29",
+    "home": "Vitesse",
+    "home_goals": 0,
+    "id": "zN4eu5n3",
+    "source": "flashscore",
+    "source_status": "29.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/vitesse-xdFA0eGc/?mid=zN4eu5n3"
+  },
+  "zPeXzjeH": {
+    "away": "Ajax",
+    "away_goals": 1,
+    "date": "2016-10-23",
+    "home": "Feyenoord",
+    "home_goals": 1,
+    "id": "zPeXzjeH",
+    "source": "flashscore",
+    "source_status": "23.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/feyenoord-8zjySeoN/?mid=zPeXzjeH"
   },
   "zX1ZXdbJ": {
     "away": "AZ Alkmaar",
@@ -7591,6 +10415,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/sparta-rotterdam-KK4FaFV3/?mid=zXwTqFES"
   },
+  "zcw9BTSb": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2016-12-10",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "zcw9BTSb",
+    "source": "flashscore",
+    "source_status": "10.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/willem-ii-6u3qag0G/zwolle-r1L5w2EB/?mid=zcw9BTSb"
+  },
   "zipIw1Us": {
     "away": "Groningen",
     "away_goals": 3,
@@ -7663,6 +10499,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/?mid=zipIw1Us"
   },
+  "zsk3XGlP": {
+    "away": "Utrecht",
+    "away_goals": 2,
+    "date": "2016-10-02",
+    "home": "Ajax",
+    "home_goals": 3,
+    "id": "zsk3XGlP",
+    "source": "flashscore",
+    "source_status": "02.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/utrecht-p6QXMgOj/?mid=zsk3XGlP"
+  },
   "zw5qP1Fl": {
     "away": "AZ Alkmaar",
     "away_goals": 1,
@@ -7734,5 +10582,17 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/az-alkmaar-2RxOow1i/summary/stats/?mid=zw5qP1Fl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/az-alkmaar-2RxOow1i/?mid=zw5qP1Fl"
+  },
+  "zyEG4zY4": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2017-03-04",
+    "home": "Zwolle",
+    "home_goals": 3,
+    "id": "zyEG4zY4",
+    "source": "flashscore",
+    "source_status": "04.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/?mid=zyEG4zY4"
   }
 }

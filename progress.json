@@ -9,13 +9,13 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "Germany/D2/2016-2017"
+      "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 3175,
-  "provider_records_with_all_shots": 1536,
-  "provider_records_with_statistics": 1536,
+  "provider_fixture_records": 3395,
+  "provider_records_with_all_shots": 1540,
+  "provider_records_with_statistics": 1540,
   "recovered_cells": 4788,
   "reference_matches": 36942,
   "reference_matches_still_missing_shots": 28876,
@@ -2208,15 +2208,15 @@
       "remaining_missing_shots": 214,
       "sources": {
         "flashscore": {
-          "all_shot_values": 108,
-          "fixtures": 108,
-          "inventory_complete": false,
-          "inventory_shortfall": null,
+          "all_shot_values": 112,
+          "fixtures": 328,
+          "inventory_complete": true,
+          "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "inventory",
+          "phase": "statistics",
           "reason": null,
-          "statistics_available": 108,
-          "statistics_checked": 108
+          "statistics_available": 112,
+          "statistics_checked": 112
         },
         "sofascore": {
           "all_shot_values": 6,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-19T04:27:23.147315+00:00"
+  "updated_utc": "2026-11-19T04:33:52.106070+00:00"
 }
