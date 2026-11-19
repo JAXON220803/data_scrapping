@@ -2996,8 +2996,63 @@
     "home": "Heracles",
     "home_goals": 0,
     "id": "EFSXbdr0",
+    "shots": {
+      "AS": 22,
+      "AST": 11,
+      "HS": 7,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "18.09.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "22",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "22",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heracles-bB3JbZpA/summary/stats/?mid=EFSXbdr0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heracles-bB3JbZpA/?mid=EFSXbdr0"
   },
@@ -3152,8 +3207,63 @@
     "home": "Vitesse",
     "home_goals": 2,
     "id": "Eipo80LD",
+    "shots": {
+      "AS": 6,
+      "AST": 1,
+      "HS": 22,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "17.09.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/vitesse-xdFA0eGc/summary/stats/?mid=Eipo80LD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/vitesse-xdFA0eGc/?mid=Eipo80LD"
   },
@@ -4423,8 +4533,63 @@
     "home": "PSV",
     "home_goals": 0,
     "id": "KhTTaxTg",
+    "shots": {
+      "AS": 8,
+      "AST": 1,
+      "HS": 16,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "18.09.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/psv-M9UEHJWi/summary/stats/?mid=KhTTaxTg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/psv-M9UEHJWi/?mid=KhTTaxTg"
   },
@@ -4773,8 +4938,63 @@
     "home": "Willem II",
     "home_goals": 1,
     "id": "MHmg6vjQ",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "17.09.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/willem-ii-6u3qag0G/summary/stats/?mid=MHmg6vjQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/willem-ii-6u3qag0G/?mid=MHmg6vjQ"
   },
@@ -6185,8 +6405,63 @@
     "home": "Roda",
     "home_goals": 0,
     "id": "Sflk7KzK",
+    "shots": {
+      "AS": 17,
+      "AST": 6,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "17.09.2016",
+    "statistics": [
+      {
+        "away": "64%",
+        "home": "36%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/summary/stats/?mid=Sflk7KzK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/?mid=Sflk7KzK"
   },
@@ -7094,8 +7369,63 @@
     "home": "Twente",
     "home_goals": 4,
     "id": "Wr7MbhbI",
+    "shots": {
+      "AS": 14,
+      "AST": 3,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "17.09.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/twente-dhOKTHGA/summary/stats/?mid=Wr7MbhbI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/twente-dhOKTHGA/?mid=Wr7MbhbI"
   },
