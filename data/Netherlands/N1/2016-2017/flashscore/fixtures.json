@@ -2165,8 +2165,63 @@
     "home": "AZ Alkmaar",
     "home_goals": 2,
     "id": "Aq7MrPz5",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "07.08.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/summary/stats/?mid=Aq7MrPz5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/?mid=Aq7MrPz5"
   },
@@ -3041,8 +3096,63 @@
     "home": "Roda",
     "home_goals": 1,
     "id": "I9AUt35H",
+    "shots": {
+      "AS": 17,
+      "AST": 7,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "07.08.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/summary/stats/?mid=I9AUt35H",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/?mid=I9AUt35H"
   },
@@ -4140,8 +4250,63 @@
     "home": "Sparta Rotterdam",
     "home_goals": 1,
     "id": "OnBQsqjB",
+    "shots": {
+      "AS": 17,
+      "AST": 5,
+      "HS": 5,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "07.08.2016",
+    "statistics": [
+      {
+        "away": "74%",
+        "home": "26%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=OnBQsqjB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/sparta-rotterdam-KK4FaFV3/?mid=OnBQsqjB"
   },
@@ -4800,8 +4965,63 @@
     "home": "Groningen",
     "home_goals": 0,
     "id": "SKHHq5Lb",
+    "shots": {
+      "AS": 25,
+      "AST": 12,
+      "HS": 19,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "07.08.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "25",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "25",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/summary/stats/?mid=SKHHq5Lb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/?mid=SKHHq5Lb"
   },
@@ -6571,8 +6791,63 @@
     "home": "Heerenveen",
     "home_goals": 2,
     "id": "d09YuNKN",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 18,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "12.08.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/summary/stats/?mid=d09YuNKN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=d09YuNKN"
   },
@@ -9131,8 +9406,63 @@
     "home": "Utrecht",
     "home_goals": 1,
     "id": "t4J9oRjn",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 14,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "06.08.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/summary/stats/?mid=t4J9oRjn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/?mid=t4J9oRjn"
   },
