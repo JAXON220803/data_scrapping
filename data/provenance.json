@@ -20200,6 +20200,126 @@
     "value": 4
   },
   {
+    "away": "Braunschweig",
+    "date": "05/12/16",
+    "field": "AS",
+    "fixture_id": "Uciagvob",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Braunschweig",
+    "date": "05/12/16",
+    "field": "AST",
+    "fixture_id": "Uciagvob",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Braunschweig",
+    "date": "05/12/16",
+    "field": "HS",
+    "fixture_id": "Uciagvob",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Braunschweig",
+    "date": "05/12/16",
+    "field": "HST",
+    "fixture_id": "Uciagvob",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Union Berlin",
+    "date": "09/12/16",
+    "field": "AS",
+    "fixture_id": "UHJp5ypA",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Union Berlin",
+    "date": "09/12/16",
+    "field": "AST",
+    "fixture_id": "UHJp5ypA",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 0
+  },
+  {
+    "away": "Union Berlin",
+    "date": "09/12/16",
+    "field": "HS",
+    "fixture_id": "UHJp5ypA",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 15
+  },
+  {
+    "away": "Union Berlin",
+    "date": "09/12/16",
+    "field": "HST",
+    "fixture_id": "UHJp5ypA",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Munich 1860",
+    "date": "10/12/16",
+    "field": "AS",
+    "fixture_id": "6qYkqfNj",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Munich 1860",
+    "date": "10/12/16",
+    "field": "AST",
+    "fixture_id": "6qYkqfNj",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Munich 1860",
+    "date": "10/12/16",
+    "field": "HS",
+    "fixture_id": "6qYkqfNj",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "Munich 1860",
+    "date": "10/12/16",
+    "field": "HST",
+    "fixture_id": "6qYkqfNj",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 9
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
