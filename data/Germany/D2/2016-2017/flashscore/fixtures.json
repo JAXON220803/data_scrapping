@@ -1327,8 +1327,63 @@
     "home": "Arminia Bielefeld",
     "home_goals": 2,
     "id": "4tT2PaWH",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 19,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/heidenheim-KWixEVWi/summary/stats/?mid=4tT2PaWH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/heidenheim-KWixEVWi/?mid=4tT2PaWH"
   },
@@ -1643,8 +1698,63 @@
     "home": "Stuttgart",
     "home_goals": 3,
     "id": "6LNaHpYt",
+    "shots": {
+      "AS": 16,
+      "AST": 5,
+      "HS": 16,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "06.11.2016",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/vfb-stuttgart-nJQmYp1B/summary/stats/?mid=6LNaHpYt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/vfb-stuttgart-nJQmYp1B/?mid=6LNaHpYt"
   },
@@ -6299,8 +6409,63 @@
     "home": "Nurnberg",
     "home_goals": 2,
     "id": "McXsUNHn",
+    "shots": {
+      "AS": 5,
+      "AST": 4,
+      "HS": 20,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/wurzburger-kickers-nVM1YUFj/summary/stats/?mid=McXsUNHn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/wurzburger-kickers-nVM1YUFj/?mid=McXsUNHn"
   },
@@ -11306,8 +11471,63 @@
     "home": "Sandhausen",
     "home_goals": 3,
     "id": "l4JKCMnC",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "06.11.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/summary/stats/?mid=l4JKCMnC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/?mid=l4JKCMnC"
   },
@@ -12048,8 +12268,63 @@
     "home": "Braunschweig",
     "home_goals": 2,
     "id": "pCM3G4mm",
+    "shots": {
+      "AS": 19,
+      "AST": 5,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "06.11.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/hannover-dfNCCCzS/summary/stats/?mid=pCM3G4mm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/hannover-dfNCCCzS/?mid=pCM3G4mm"
   },
@@ -14092,8 +14367,63 @@
     "home": "Wurzburger Kickers",
     "home_goals": 1,
     "id": "xQeBZqfP",
+    "shots": {
+      "AS": 6,
+      "AST": 1,
+      "HS": 14,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "07.11.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/wurzburger-kickers-nVM1YUFj/summary/stats/?mid=xQeBZqfP",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/wurzburger-kickers-nVM1YUFj/?mid=xQeBZqfP"
   },

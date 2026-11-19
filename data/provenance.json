@@ -19360,6 +19360,246 @@
     "value": 4
   },
   {
+    "away": "Hannover",
+    "date": "06/11/16",
+    "field": "AS",
+    "fixture_id": "pCM3G4mm",
+    "home": "Braunschweig",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 19
+  },
+  {
+    "away": "Hannover",
+    "date": "06/11/16",
+    "field": "AST",
+    "fixture_id": "pCM3G4mm",
+    "home": "Braunschweig",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Hannover",
+    "date": "06/11/16",
+    "field": "HS",
+    "fixture_id": "pCM3G4mm",
+    "home": "Braunschweig",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Hannover",
+    "date": "06/11/16",
+    "field": "HST",
+    "fixture_id": "pCM3G4mm",
+    "home": "Braunschweig",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Munich 1860",
+    "date": "06/11/16",
+    "field": "AS",
+    "fixture_id": "l4JKCMnC",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 13
+  },
+  {
+    "away": "Munich 1860",
+    "date": "06/11/16",
+    "field": "AST",
+    "fixture_id": "l4JKCMnC",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Munich 1860",
+    "date": "06/11/16",
+    "field": "HS",
+    "fixture_id": "l4JKCMnC",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Munich 1860",
+    "date": "06/11/16",
+    "field": "HST",
+    "fixture_id": "l4JKCMnC",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Bielefeld",
+    "date": "06/11/16",
+    "field": "AS",
+    "fixture_id": "6LNaHpYt",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 16
+  },
+  {
+    "away": "Bielefeld",
+    "date": "06/11/16",
+    "field": "AST",
+    "fixture_id": "6LNaHpYt",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Bielefeld",
+    "date": "06/11/16",
+    "field": "HS",
+    "fixture_id": "6LNaHpYt",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 16
+  },
+  {
+    "away": "Bielefeld",
+    "date": "06/11/16",
+    "field": "HST",
+    "fixture_id": "6LNaHpYt",
+    "home": "Stuttgart",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "St Pauli",
+    "date": "07/11/16",
+    "field": "AS",
+    "fixture_id": "xQeBZqfP",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "St Pauli",
+    "date": "07/11/16",
+    "field": "AST",
+    "fixture_id": "xQeBZqfP",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 1
+  },
+  {
+    "away": "St Pauli",
+    "date": "07/11/16",
+    "field": "HS",
+    "fixture_id": "xQeBZqfP",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "St Pauli",
+    "date": "07/11/16",
+    "field": "HST",
+    "fixture_id": "xQeBZqfP",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Heidenheim",
+    "date": "18/11/16",
+    "field": "AS",
+    "fixture_id": "4tT2PaWH",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Heidenheim",
+    "date": "18/11/16",
+    "field": "AST",
+    "fixture_id": "4tT2PaWH",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Heidenheim",
+    "date": "18/11/16",
+    "field": "HS",
+    "fixture_id": "4tT2PaWH",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 19
+  },
+  {
+    "away": "Heidenheim",
+    "date": "18/11/16",
+    "field": "HST",
+    "fixture_id": "4tT2PaWH",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Wurzburger Kickers",
+    "date": "18/11/16",
+    "field": "AS",
+    "fixture_id": "McXsUNHn",
+    "home": "Nurnberg",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Wurzburger Kickers",
+    "date": "18/11/16",
+    "field": "AST",
+    "fixture_id": "McXsUNHn",
+    "home": "Nurnberg",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Wurzburger Kickers",
+    "date": "18/11/16",
+    "field": "HS",
+    "fixture_id": "McXsUNHn",
+    "home": "Nurnberg",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 20
+  },
+  {
+    "away": "Wurzburger Kickers",
+    "date": "18/11/16",
+    "field": "HST",
+    "fixture_id": "McXsUNHn",
+    "home": "Nurnberg",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
