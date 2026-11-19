@@ -19720,6 +19720,126 @@
     "value": 6
   },
   {
+    "away": "Kaiserslautern",
+    "date": "21/11/16",
+    "field": "AS",
+    "fixture_id": "b3S6OJoO",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "21/11/16",
+    "field": "AST",
+    "fixture_id": "b3S6OJoO",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "21/11/16",
+    "field": "HS",
+    "fixture_id": "b3S6OJoO",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "21/11/16",
+    "field": "HST",
+    "fixture_id": "b3S6OJoO",
+    "home": "Munich 1860",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Bielefeld",
+    "date": "25/11/16",
+    "field": "AS",
+    "fixture_id": "rR0Pt11h",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 17
+  },
+  {
+    "away": "Bielefeld",
+    "date": "25/11/16",
+    "field": "AST",
+    "fixture_id": "rR0Pt11h",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Bielefeld",
+    "date": "25/11/16",
+    "field": "HS",
+    "fixture_id": "rR0Pt11h",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Bielefeld",
+    "date": "25/11/16",
+    "field": "HST",
+    "fixture_id": "rR0Pt11h",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "St Pauli",
+    "date": "26/11/16",
+    "field": "AS",
+    "fixture_id": "4tkYvuW4",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "St Pauli",
+    "date": "26/11/16",
+    "field": "AST",
+    "fixture_id": "4tkYvuW4",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "St Pauli",
+    "date": "26/11/16",
+    "field": "HS",
+    "fixture_id": "4tkYvuW4",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "St Pauli",
+    "date": "26/11/16",
+    "field": "HST",
+    "fixture_id": "4tkYvuW4",
+    "home": "Heidenheim",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 7
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
