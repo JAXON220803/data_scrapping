@@ -1922,8 +1922,63 @@
     "home": "Utrecht",
     "home_goals": 1,
     "id": "AJJ4a8HD",
+    "shots": {
+      "AS": 16,
+      "AST": 7,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "16.09.2016",
+    "statistics": [
+      {
+        "away": "36%",
+        "home": "64%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/utrecht-p6QXMgOj/summary/stats/?mid=AJJ4a8HD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/utrecht-p6QXMgOj/?mid=AJJ4a8HD"
   },
@@ -2519,8 +2574,63 @@
     "home": "Ajax",
     "home_goals": 1,
     "id": "AwjHLbYF",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 22,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "11.09.2016",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/vitesse-xdFA0eGc/summary/stats/?mid=AwjHLbYF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/vitesse-xdFA0eGc/?mid=AwjHLbYF"
   },
@@ -3440,8 +3550,63 @@
     "home": "Feyenoord",
     "home_goals": 3,
     "id": "GxIl3jIl",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 21,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "11.09.2016",
+    "statistics": [
+      {
+        "away": "34%",
+        "home": "66%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/feyenoord-8zjySeoN/summary/stats/?mid=GxIl3jIl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/feyenoord-8zjySeoN/?mid=GxIl3jIl"
   },
@@ -7493,8 +7658,63 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "b17g2AXf",
+    "shots": {
+      "AS": 8,
+      "AST": 4,
+      "HS": 22,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "11.09.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "16",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=b17g2AXf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/sparta-rotterdam-KK4FaFV3/?mid=b17g2AXf"
   },
@@ -11726,8 +11946,63 @@
     "home": "Heerenveen",
     "home_goals": 3,
     "id": "xM7IaYrC",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "10.09.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/summary/stats/?mid=xM7IaYrC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/?mid=xM7IaYrC"
   },
@@ -11827,8 +12102,63 @@
     "home": "G.A. Eagles",
     "home_goals": 2,
     "id": "xh6c1Un1",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "11.09.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/roda-6FRTNZ8p/summary/stats/?mid=xh6c1Un1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/roda-6FRTNZ8p/?mid=xh6c1Un1"
   },
