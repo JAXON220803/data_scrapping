@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 1290,
-  "filled_cells_percent": 4.2896,
-  "filled_percent": 4.2896,
+  "completed_missing_matches": 1296,
+  "filled_cells_percent": 4.3095,
+  "filled_percent": 4.3095,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -14,11 +14,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 3395,
-  "provider_records_with_all_shots": 1635,
-  "provider_records_with_statistics": 1635,
-  "recovered_cells": 5160,
+  "provider_records_with_all_shots": 1641,
+  "provider_records_with_statistics": 1641,
+  "recovered_cells": 5184,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 28783,
+  "reference_matches_still_missing_shots": 28777,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2199,24 +2199,24 @@
       }
     },
     {
-      "cells_recovered": 740,
-      "completed_missing_matches": 185,
-      "filled_percent": 60.4575,
+      "cells_recovered": 764,
+      "completed_missing_matches": 191,
+      "filled_percent": 62.4183,
       "id": "Netherlands/N1/2016-2017",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 121,
+      "remaining_missing_shots": 115,
       "sources": {
         "flashscore": {
-          "all_shot_values": 207,
+          "all_shot_values": 213,
           "fixtures": 328,
           "inventory_complete": true,
           "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 207,
-          "statistics_checked": 207
+          "statistics_available": 213,
+          "statistics_checked": 213
         },
         "sofascore": {
           "all_shot_values": 6,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-20T12:05:36.522850+00:00"
+  "updated_utc": "2026-11-20T12:22:07.122259+00:00"
 }
