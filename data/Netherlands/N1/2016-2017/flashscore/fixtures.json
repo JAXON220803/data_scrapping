@@ -3198,8 +3198,68 @@
     "home": "Twente",
     "home_goals": 1,
     "id": "AojJH64c",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 20,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "20.01.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/summary/stats/?mid=AojJH64c",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/?mid=AojJH64c"
   },
@@ -3562,8 +3622,63 @@
     "home": "Roda",
     "home_goals": 0,
     "id": "CbSCNfwi",
+    "shots": {
+      "AS": 21,
+      "AST": 8,
+      "HS": 7,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "15.01.2017",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "11",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/roda-6FRTNZ8p/summary/stats/?mid=CbSCNfwi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/roda-6FRTNZ8p/?mid=CbSCNfwi"
   },
@@ -3749,8 +3864,68 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "E5XzIj7S",
+    "shots": {
+      "AS": 13,
+      "AST": 2,
+      "HS": 9,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "21.01.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/summary/stats/?mid=E5XzIj7S",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=E5XzIj7S"
   },
@@ -5817,8 +5992,68 @@
     "home": "Feyenoord",
     "home_goals": 1,
     "id": "KUIXIWiM",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 24,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "21.01.2017",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "0",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/summary/stats/?mid=KUIXIWiM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/?mid=KUIXIWiM"
   },
@@ -13832,8 +14067,63 @@
     "home": "Zwolle",
     "home_goals": 1,
     "id": "jkRGMEhc",
+    "shots": {
+      "AS": 15,
+      "AST": 5,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "15.01.2017",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/summary/stats/?mid=jkRGMEhc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/?mid=jkRGMEhc"
   },
@@ -15219,8 +15509,63 @@
     "home": "Willem II",
     "home_goals": 0,
     "id": "pCQKLY73",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "15.01.2017",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/willem-ii-6u3qag0G/summary/stats/?mid=pCQKLY73",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/willem-ii-6u3qag0G/?mid=pCQKLY73"
   },
