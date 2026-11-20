@@ -121,8 +121,63 @@
     "home": "Ajax",
     "home_goals": 2,
     "id": "0SMY9Gif",
+    "shots": {
+      "AS": 7,
+      "AST": 2,
+      "HS": 33,
+      "HST": 15
+    },
     "source": "flashscore",
     "source_status": "04.12.2016",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "33",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "33",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "15",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/summary/stats/?mid=0SMY9Gif",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/?mid=0SMY9Gif"
   },
@@ -4624,8 +4679,63 @@
     "home": "Den Haag",
     "home_goals": 0,
     "id": "I3Hw9z70",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "04.12.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/utrecht-p6QXMgOj/summary/stats/?mid=I3Hw9z70",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/utrecht-p6QXMgOj/?mid=I3Hw9z70"
   },
@@ -11361,8 +11471,63 @@
     "home": "Feyenoord",
     "home_goals": 6,
     "id": "dfGs8fM6",
+    "shots": {
+      "AS": 10,
+      "AST": 7,
+      "HS": 23,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "04.12.2016",
+    "statistics": [
+      {
+        "away": "34%",
+        "home": "66%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "23",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=dfGs8fM6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/sparta-rotterdam-KK4FaFV3/?mid=dfGs8fM6"
   },
@@ -12641,8 +12806,63 @@
     "home": "Vitesse",
     "home_goals": 3,
     "id": "jHFo7EyD",
+    "shots": {
+      "AS": 7,
+      "AST": 1,
+      "HS": 21,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "03.12.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/summary/stats/?mid=jHFo7EyD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/?mid=jHFo7EyD"
   },
@@ -12665,8 +12885,63 @@
     "home": "G.A. Eagles",
     "home_goals": 1,
     "id": "jgXbGIEQ",
+    "shots": {
+      "AS": 13,
+      "AST": 3,
+      "HS": 19,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "03.12.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heerenveen-EDjXSyWG/summary/stats/?mid=jgXbGIEQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/heerenveen-EDjXSyWG/?mid=jgXbGIEQ"
   },
@@ -15658,8 +15933,63 @@
     "home": "Willem II",
     "home_goals": 0,
     "id": "vD21aPlT",
+    "shots": {
+      "AS": 13,
+      "AST": 3,
+      "HS": 13,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "04.12.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/summary/stats/?mid=vD21aPlT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/?mid=vD21aPlT"
   },
