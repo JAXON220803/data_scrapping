@@ -2348,8 +2348,63 @@
     "home": "Twente",
     "home_goals": 0,
     "id": "AXAp37k4",
+    "shots": {
+      "AS": 4,
+      "AST": 0,
+      "HS": 20,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "28.10.2016",
+    "statistics": [
+      {
+        "away": "29%",
+        "home": "71%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/twente-dhOKTHGA/summary/stats/?mid=AXAp37k4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/twente-dhOKTHGA/?mid=AXAp37k4"
   },
@@ -4738,8 +4793,63 @@
     "home": "Willem II",
     "home_goals": 2,
     "id": "KEM8H1fd",
+    "shots": {
+      "AS": 19,
+      "AST": 9,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "29.10.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/willem-ii-6u3qag0G/summary/stats/?mid=KEM8H1fd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/willem-ii-6u3qag0G/?mid=KEM8H1fd"
   },
@@ -7793,8 +7903,63 @@
     "home": "Ajax",
     "home_goals": 1,
     "id": "Uq4avP19",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 26,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "29.10.2016",
+    "statistics": [
+      {
+        "away": "31%",
+        "home": "69%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "26",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "15",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "5",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/excelsior-nNlLsRUr/summary/stats/?mid=Uq4avP19",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/excelsior-nNlLsRUr/?mid=Uq4avP19"
   },
@@ -11854,8 +12019,63 @@
     "home": "Groningen",
     "home_goals": 2,
     "id": "n1O0JNPq",
+    "shots": {
+      "AS": 11,
+      "AST": 2,
+      "HS": 5,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "23.10.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/summary/stats/?mid=n1O0JNPq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=n1O0JNPq"
   },
@@ -13321,8 +13541,63 @@
     "home": "Heerenveen",
     "home_goals": 3,
     "id": "tON4Isuj",
+    "shots": {
+      "AS": 12,
+      "AST": 4,
+      "HS": 14,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "23.10.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/heracles-bB3JbZpA/summary/stats/?mid=tON4Isuj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/heracles-bB3JbZpA/?mid=tON4Isuj"
   },
@@ -14776,8 +15051,63 @@
     "home": "Feyenoord",
     "home_goals": 1,
     "id": "zPeXzjeH",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 15,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "23.10.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/feyenoord-8zjySeoN/summary/stats/?mid=zPeXzjeH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/feyenoord-8zjySeoN/?mid=zPeXzjeH"
   },
