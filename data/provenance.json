@@ -47440,6 +47440,246 @@
     "value": 5
   },
   {
+    "away": "Zwolle",
+    "date": "21/10/16",
+    "field": "AS",
+    "fixture_id": "pUJBuEtn",
+    "home": "Excelsior",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Zwolle",
+    "date": "21/10/16",
+    "field": "AST",
+    "fixture_id": "pUJBuEtn",
+    "home": "Excelsior",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Zwolle",
+    "date": "21/10/16",
+    "field": "HS",
+    "fixture_id": "pUJBuEtn",
+    "home": "Excelsior",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 16
+  },
+  {
+    "away": "Zwolle",
+    "date": "21/10/16",
+    "field": "HST",
+    "fixture_id": "pUJBuEtn",
+    "home": "Excelsior",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Twente",
+    "date": "22/10/16",
+    "field": "AS",
+    "fixture_id": "WtCt4mzb",
+    "home": "Go Ahead Eagles",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 19
+  },
+  {
+    "away": "Twente",
+    "date": "22/10/16",
+    "field": "AST",
+    "fixture_id": "WtCt4mzb",
+    "home": "Go Ahead Eagles",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Twente",
+    "date": "22/10/16",
+    "field": "HS",
+    "fixture_id": "WtCt4mzb",
+    "home": "Go Ahead Eagles",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Twente",
+    "date": "22/10/16",
+    "field": "HST",
+    "fixture_id": "WtCt4mzb",
+    "home": "Go Ahead Eagles",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Sparta Rotterdam",
+    "date": "22/10/16",
+    "field": "AS",
+    "fixture_id": "Sh9GvYeh",
+    "home": "PSV Eindhoven",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Sparta Rotterdam",
+    "date": "22/10/16",
+    "field": "AST",
+    "fixture_id": "Sh9GvYeh",
+    "home": "PSV Eindhoven",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Sparta Rotterdam",
+    "date": "22/10/16",
+    "field": "HS",
+    "fixture_id": "Sh9GvYeh",
+    "home": "PSV Eindhoven",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 26
+  },
+  {
+    "away": "Sparta Rotterdam",
+    "date": "22/10/16",
+    "field": "HST",
+    "fixture_id": "Sh9GvYeh",
+    "home": "PSV Eindhoven",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 14
+  },
+  {
+    "away": "Den Haag",
+    "date": "22/10/16",
+    "field": "AS",
+    "fixture_id": "6q8KwhBb",
+    "home": "Roda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 13
+  },
+  {
+    "away": "Den Haag",
+    "date": "22/10/16",
+    "field": "AST",
+    "fixture_id": "6q8KwhBb",
+    "home": "Roda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Den Haag",
+    "date": "22/10/16",
+    "field": "HS",
+    "fixture_id": "6q8KwhBb",
+    "home": "Roda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Den Haag",
+    "date": "22/10/16",
+    "field": "HST",
+    "fixture_id": "6q8KwhBb",
+    "home": "Roda",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 6
+  },
+  {
+    "away": "Utrecht",
+    "date": "22/10/16",
+    "field": "AS",
+    "fixture_id": "E97OxCQ4",
+    "home": "Willem II",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 16
+  },
+  {
+    "away": "Utrecht",
+    "date": "22/10/16",
+    "field": "AST",
+    "fixture_id": "E97OxCQ4",
+    "home": "Willem II",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Utrecht",
+    "date": "22/10/16",
+    "field": "HS",
+    "fixture_id": "E97OxCQ4",
+    "home": "Willem II",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Utrecht",
+    "date": "22/10/16",
+    "field": "HST",
+    "fixture_id": "E97OxCQ4",
+    "home": "Willem II",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 0
+  },
+  {
+    "away": "Vitesse",
+    "date": "23/10/16",
+    "field": "AS",
+    "fixture_id": "h06SyWuB",
+    "home": "Nijmegen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Vitesse",
+    "date": "23/10/16",
+    "field": "AST",
+    "fixture_id": "h06SyWuB",
+    "home": "Nijmegen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Vitesse",
+    "date": "23/10/16",
+    "field": "HS",
+    "fixture_id": "h06SyWuB",
+    "home": "Nijmegen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "Vitesse",
+    "date": "23/10/16",
+    "field": "HST",
+    "fixture_id": "h06SyWuB",
+    "home": "Nijmegen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 4
+  },
+  {
     "away": "Excelsior",
     "date": "05/03/17",
     "field": "AS",
