@@ -6,8 +6,63 @@
     "home": "Den Haag",
     "home_goals": 1,
     "id": "00MWQ8So",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "18.12.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=00MWQ8So",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/sparta-rotterdam-KK4FaFV3/?mid=00MWQ8So"
   },
@@ -1281,8 +1336,63 @@
     "home": "Ajax",
     "home_goals": 1,
     "id": "4hJmNQRA",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 16,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "18.12.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/summary/stats/?mid=4hJmNQRA",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/?mid=4hJmNQRA"
   },
@@ -3505,8 +3615,63 @@
     "home": "Heracles",
     "home_goals": 3,
     "id": "E3QzQSsh",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 22,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "18.12.2016",
+    "statistics": [
+      {
+        "away": "35%",
+        "home": "65%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "8",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "5",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/zwolle-r1L5w2EB/summary/stats/?mid=E3QzQSsh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/zwolle-r1L5w2EB/?mid=E3QzQSsh"
   },
@@ -11832,8 +11997,63 @@
     "home": "Excelsior",
     "home_goals": 2,
     "id": "dSFuPncb",
+    "shots": {
+      "AS": 8,
+      "AST": 5,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "18.12.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/nijmegen-nRluRF0T/summary/stats/?mid=dSFuPncb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/nijmegen-nRluRF0T/?mid=dSFuPncb"
   },
@@ -15160,8 +15380,63 @@
     "home": "Roda",
     "home_goals": 0,
     "id": "plnN65sU",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 11,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "17.12.2016",
+    "statistics": [
+      {
+        "away": "63%",
+        "home": "37%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/summary/stats/?mid=plnN65sU",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/?mid=plnN65sU"
   },
@@ -17686,8 +17961,63 @@
     "home": "Groningen",
     "home_goals": 1,
     "id": "zJEqO6C4",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 15,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "18.12.2016",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/groningen-MBUGcjb9/summary/stats/?mid=zJEqO6C4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/groningen-MBUGcjb9/?mid=zJEqO6C4"
   },
