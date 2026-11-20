@@ -3645,8 +3645,63 @@
     "home": "Excelsior",
     "home_goals": 0,
     "id": "GEubMjtO",
+    "shots": {
+      "AS": 14,
+      "AST": 3,
+      "HS": 19,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "16.10.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/roda-6FRTNZ8p/summary/stats/?mid=GEubMjtO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/roda-6FRTNZ8p/?mid=GEubMjtO"
   },
@@ -4954,8 +5009,63 @@
     "home": "Den Haag",
     "home_goals": 0,
     "id": "KnnkOCBB",
+    "shots": {
+      "AS": 19,
+      "AST": 7,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "16.10.2016",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "19",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "19",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/summary/stats/?mid=KnnkOCBB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/?mid=KnnkOCBB"
   },
@@ -5529,8 +5639,63 @@
     "home": "Twente",
     "home_goals": 2,
     "id": "OGCx5TKi",
+    "shots": {
+      "AS": 12,
+      "AST": 4,
+      "HS": 14,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "16.10.2016",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/zwolle-r1L5w2EB/summary/stats/?mid=OGCx5TKi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/zwolle-r1L5w2EB/?mid=OGCx5TKi"
   },
@@ -9805,8 +9970,63 @@
     "home": "Nijmegen",
     "home_goals": 1,
     "id": "f5v2LAeU",
+    "shots": {
+      "AS": 26,
+      "AST": 8,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "16.10.2016",
+    "statistics": [
+      {
+        "away": "65%",
+        "home": "35%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "26",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "26",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "12",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/nijmegen-nRluRF0T/summary/stats/?mid=f5v2LAeU",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/nijmegen-nRluRF0T/?mid=f5v2LAeU"
   },
@@ -11745,8 +11965,63 @@
     "home": "Sparta Rotterdam",
     "home_goals": 2,
     "id": "pGvwRERh",
+    "shots": {
+      "AS": 11,
+      "AST": 4,
+      "HS": 13,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "15.10.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/willem-ii-6u3qag0G/summary/stats/?mid=pGvwRERh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sparta-rotterdam-KK4FaFV3/willem-ii-6u3qag0G/?mid=pGvwRERh"
   },

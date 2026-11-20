@@ -1,17 +1,17 @@
 # Collection progress: in_progress
 
-**Missing matches filled: 4.21% — 1,267 / 30,073**
+**Missing matches filled: 4.23% — 1,272 / 30,073**
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-20T03:15:54.619097+00:00
+Updated: 2026-11-20T11:37:54.483281+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 5/230
 - Provider match records downloaded: 3395
-- Provider records with all four shot values: 1612
-- Previously empty reference cells recovered: 5068
-- Reference matches still missing shot values: 28806
+- Provider records with all four shot values: 1617
+- Previously empty reference cells recovered: 5088
+- Reference matches still missing shot values: 28801
 
 | Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps | Filled % |
 |---|---:|---:|---:|---:|
@@ -81,7 +81,7 @@ Updated: 2026-11-20T03:15:54.619097+00:00
 | Netherlands/N1/2013-2014 | 0 / 0 / 0 | 107 / 107 / 91 | 221 | 27.78% |
 | Netherlands/N1/2014-2015 | 0 / 0 / 0 | 107 / 107 / 95 | 221 | 27.78% |
 | Netherlands/N1/2015-2016 | 0 / 0 / 0 | 107 / 107 / 107 | 221 | 27.78% |
-| Netherlands/N1/2016-2017 | 328 / 6 / 6 | 328 / 184 / 184 | 144 | 52.94% |
+| Netherlands/N1/2016-2017 | 328 / 6 / 6 | 328 / 189 / 189 | 139 | 54.58% |
 | Portugal/P1/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
 | Portugal/P1/2011-2012 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
 | Portugal/P1/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
