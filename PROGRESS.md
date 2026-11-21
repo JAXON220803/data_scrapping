@@ -1,17 +1,17 @@
 # Collection progress: in_progress
 
-**Missing matches filled: 4.80% — 1,445 / 30,073**
+**Missing matches filled: 4.82% — 1,450 / 30,073**
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-21T03:17:13.829178+00:00
+Updated: 2026-11-21T03:23:11.104424+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 6/230
 - Provider match records downloaded: 3598
-- Provider records with all four shot values: 1794
-- Previously empty reference cells recovered: 5780
-- Reference matches still missing shot values: 28628
+- Provider records with all four shot values: 1800
+- Previously empty reference cells recovered: 5800
+- Reference matches still missing shot values: 28623
 
 | Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps | Filled % |
 |---|---:|---:|---:|---:|
@@ -77,7 +77,7 @@ Updated: 2026-11-21T03:17:13.829178+00:00
 | Italy/I2/2020-2021 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | Netherlands/N1/2010-2011 | 0 / 0 / 0 | 104 / 104 / 0 | 306 | 0.00% |
 | Netherlands/N1/2011-2012 | 0 / 0 / 0 | 109 / 109 / 0 | 306 | 0.00% |
-| Netherlands/N1/2012-2013 | 0 / 0 / 0 | 312 / 274 / 147 | 180 | 41.18% |
+| Netherlands/N1/2012-2013 | 0 / 0 / 0 | 312 / 280 / 153 | 175 | 42.81% |
 | Netherlands/N1/2013-2014 | 0 / 0 / 0 | 107 / 107 / 91 | 221 | 27.78% |
 | Netherlands/N1/2014-2015 | 0 / 0 / 0 | 107 / 107 / 95 | 221 | 27.78% |
 | Netherlands/N1/2015-2016 | 0 / 0 / 0 | 107 / 107 / 107 | 221 | 27.78% |
