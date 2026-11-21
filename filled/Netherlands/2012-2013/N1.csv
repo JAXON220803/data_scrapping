@@ -140,14 +140,14 @@ N1,08/12/12,AZ Alkmaar,Willem II,0,0,D,14,1,14,1
 N1,08/12/12,Den Haag,Zwolle,1,1,D,,,,
 N1,08/12/12,Waalwijk,Nijmegen,2,0,H,13,3,13,3
 N1,09/12/12,Heerenveen,Roda,4,4,D,11,10,11,10
-N1,09/12/12,NAC Breda,Feyenoord,2,2,D,,,,
-N1,09/12/12,PSV Eindhoven,Twente,3,0,H,,,,
+N1,09/12/12,NAC Breda,Feyenoord,2,2,D,8,5,8,5
+N1,09/12/12,PSV Eindhoven,Twente,3,0,H,10,7,10,7
 N1,09/12/12,VVV Venlo,Vitesse,3,1,H,,,,
-N1,14/12/12,Twente,Heracles,3,2,H,,,,
+N1,14/12/12,Twente,Heracles,3,2,H,15,5,15,5
 N1,15/12/12,Groningen,VVV Venlo,0,0,D,,,,
 N1,15/12/12,Nijmegen,PSV Eindhoven,1,1,D,,,,
-N1,15/12/12,Roda,NAC Breda,0,0,D,,,,
-N1,15/12/12,Zwolle,AZ Alkmaar,1,2,A,,,,
+N1,15/12/12,Roda,NAC Breda,0,0,D,8,3,8,3
+N1,15/12/12,Zwolle,AZ Alkmaar,1,2,A,3,4,3,4
 N1,16/12/12,Feyenoord,Den Haag,3,2,H,,,,
 N1,16/12/12,Utrecht,Heerenveen,3,1,H,,,,
 N1,16/12/12,Vitesse,Waalwijk,2,2,D,,,,
