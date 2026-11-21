@@ -691,8 +691,58 @@
     "home": "Waalwijk",
     "home_goals": 0,
     "id": "44kEd3eC",
+    "shots": {
+      "AS": 9,
+      "AST": 9,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "26.01.2013",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "25",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/waalwijk-lvM1vra5/summary/stats/?mid=44kEd3eC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/waalwijk-lvM1vra5/?mid=44kEd3eC"
   },
@@ -2805,8 +2855,58 @@
     "home": "Feyenoord",
     "home_goals": 0,
     "id": "CUhMfsQO",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "27.01.2013",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "25",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/twente-dhOKTHGA/summary/stats/?mid=CUhMfsQO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/twente-dhOKTHGA/?mid=CUhMfsQO"
   },
@@ -5069,8 +5169,58 @@
     "home": "Zwolle",
     "home_goals": 1,
     "id": "QDjAcqt6",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "26.01.2013",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/zwolle-r1L5w2EB/summary/stats/?mid=QDjAcqt6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/zwolle-r1L5w2EB/?mid=QDjAcqt6"
   },
@@ -5947,8 +6097,58 @@
     "home": "Heracles",
     "home_goals": 1,
     "id": "Uoc1a5Bg",
+    "shots": {
+      "AS": 11,
+      "AST": 11,
+      "HS": 2,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "26.01.2013",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "2",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "2",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/psv-M9UEHJWi/summary/stats/?mid=Uoc1a5Bg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/psv-M9UEHJWi/?mid=Uoc1a5Bg"
   },
@@ -10298,8 +10498,58 @@
     "home": "Den Haag",
     "home_goals": 2,
     "id": "rk15bPQa",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "26.01.2013",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/roda-6FRTNZ8p/summary/stats/?mid=rk15bPQa",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/roda-6FRTNZ8p/?mid=rk15bPQa"
   },
@@ -11580,8 +11830,58 @@
     "home": "Venlo",
     "home_goals": 1,
     "id": "zPcc0odm",
+    "shots": {
+      "AS": 9,
+      "AST": 9,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "25.01.2013",
+    "statistics": [
+      {
+        "away": "62%",
+        "home": "38%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/venlo-UNA6IKFC/summary/stats/?mid=zPcc0odm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/venlo-UNA6IKFC/?mid=zPcc0odm"
   },
