@@ -118,6 +118,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/?mid=04n8hCGa"
   },
+  "0A7nr4tJ": {
+    "away": "Utrecht",
+    "away_goals": 2,
+    "date": "2013-01-20",
+    "home": "Groningen",
+    "home_goals": 0,
+    "id": "0A7nr4tJ",
+    "source": "flashscore",
+    "source_status": "20.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/utrecht-p6QXMgOj/?mid=0A7nr4tJ"
+  },
+  "0E5rD9N2": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2012-10-28",
+    "home": "Waalwijk",
+    "home_goals": 0,
+    "id": "0E5rD9N2",
+    "source": "flashscore",
+    "source_status": "28.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/waalwijk-lvM1vra5/?mid=0E5rD9N2"
+  },
+  "0Esz3Pae": {
+    "away": "Nijmegen",
+    "away_goals": 2,
+    "date": "2012-11-04",
+    "home": "Groningen",
+    "home_goals": 1,
+    "id": "0Esz3Pae",
+    "source": "flashscore",
+    "source_status": "04.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nijmegen-nRluRF0T/?mid=0Esz3Pae"
+  },
   "0QVrxoXB": {
     "away": "Heracles",
     "away_goals": 0,
@@ -241,6 +277,69 @@
     "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nac-breda-nLNrHc14/summary/stats/?mid=0UVbRZH0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nac-breda-nLNrHc14/?mid=0UVbRZH0"
+  },
+  "0YRsey2H": {
+    "away": "Vitesse",
+    "away_goals": 3,
+    "date": "2012-10-20",
+    "home": "NAC Breda",
+    "home_goals": 0,
+    "id": "0YRsey2H",
+    "source": "flashscore",
+    "source_status": "20.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/vitesse-xdFA0eGc/?mid=0YRsey2H"
+  },
+  "0fiz2UdB": {
+    "away": "Venlo",
+    "away_goals": 1,
+    "date": "2012-08-11",
+    "home": "Heracles",
+    "home_goals": 1,
+    "id": "0fiz2UdB",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "11.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/venlo-UNA6IKFC/?mid=0fiz2UdB"
+  },
+  "2DI8z4LQ": {
+    "away": "NAC Breda",
+    "away_goals": 0,
+    "date": "2012-11-17",
+    "home": "Zwolle",
+    "home_goals": 2,
+    "id": "2DI8z4LQ",
+    "source": "flashscore",
+    "source_status": "17.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/zwolle-r1L5w2EB/?mid=2DI8z4LQ"
+  },
+  "2DdDRNfn": {
+    "away": "NAC Breda",
+    "away_goals": 1,
+    "date": "2013-02-09",
+    "home": "Den Haag",
+    "home_goals": 2,
+    "id": "2DdDRNfn",
+    "source": "flashscore",
+    "source_status": "09.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/nac-breda-nLNrHc14/?mid=2DdDRNfn"
+  },
+  "2LYP4iUk": {
+    "away": "PSV",
+    "away_goals": 3,
+    "date": "2012-08-26",
+    "home": "Groningen",
+    "home_goals": 1,
+    "id": "2LYP4iUk",
+    "source": "flashscore",
+    "source_status": "26.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/psv-M9UEHJWi/?mid=2LYP4iUk"
   },
   "2chUtFHm": {
     "away": "Vitesse",
@@ -366,6 +465,150 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/feyenoord-8zjySeoN/?mid=2knHpIJE"
   },
+  "2qXC32kD": {
+    "away": "Twente",
+    "away_goals": 6,
+    "date": "2012-09-15",
+    "home": "Willem II",
+    "home_goals": 2,
+    "id": "2qXC32kD",
+    "source": "flashscore",
+    "source_status": "15.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/?mid=2qXC32kD"
+  },
+  "2w2a9RMR": {
+    "away": "Utrecht",
+    "away_goals": 5,
+    "date": "2012-11-03",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "2w2a9RMR",
+    "source": "flashscore",
+    "source_status": "03.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/willem-ii-6u3qag0G/?mid=2w2a9RMR"
+  },
+  "2wvMVZjd": {
+    "away": "NAC Breda",
+    "away_goals": 0,
+    "date": "2012-12-15",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "2wvMVZjd",
+    "source": "flashscore",
+    "source_status": "15.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/roda-6FRTNZ8p/?mid=2wvMVZjd"
+  },
+  "42boxxES": {
+    "away": "Heracles",
+    "away_goals": 2,
+    "date": "2012-12-14",
+    "home": "Twente",
+    "home_goals": 3,
+    "id": "42boxxES",
+    "source": "flashscore",
+    "source_status": "14.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/?mid=42boxxES"
+  },
+  "44kEd3eC": {
+    "away": "NAC Breda",
+    "away_goals": 4,
+    "date": "2013-01-26",
+    "home": "Waalwijk",
+    "home_goals": 0,
+    "id": "44kEd3eC",
+    "source": "flashscore",
+    "source_status": "26.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/waalwijk-lvM1vra5/?mid=44kEd3eC"
+  },
+  "46C3sIXH": {
+    "away": "Heracles",
+    "away_goals": 3,
+    "date": "2012-10-06",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "46C3sIXH",
+    "source": "flashscore",
+    "source_status": "06.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/zwolle-r1L5w2EB/?mid=46C3sIXH"
+  },
+  "46YYdcX4": {
+    "away": "Ajax",
+    "away_goals": 3,
+    "date": "2012-10-20",
+    "home": "Heracles",
+    "home_goals": 3,
+    "id": "46YYdcX4",
+    "source": "flashscore",
+    "source_status": "20.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heracles-bB3JbZpA/?mid=46YYdcX4"
+  },
+  "481eTtVc": {
+    "away": "PSV",
+    "away_goals": 1,
+    "date": "2012-12-01",
+    "home": "Ajax",
+    "home_goals": 3,
+    "id": "481eTtVc",
+    "source": "flashscore",
+    "source_status": "01.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/?mid=481eTtVc"
+  },
+  "48P1HOEl": {
+    "away": "Twente",
+    "away_goals": 0,
+    "date": "2012-11-11",
+    "home": "Vitesse",
+    "home_goals": 0,
+    "id": "48P1HOEl",
+    "source": "flashscore",
+    "source_status": "11.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/vitesse-xdFA0eGc/?mid=48P1HOEl"
+  },
+  "48uQD1VA": {
+    "away": "Feyenoord",
+    "away_goals": 2,
+    "date": "2012-11-25",
+    "home": "AZ Alkmaar",
+    "home_goals": 0,
+    "id": "48uQD1VA",
+    "source": "flashscore",
+    "source_status": "25.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/feyenoord-8zjySeoN/?mid=48uQD1VA"
+  },
+  "4AOpEe73": {
+    "away": "Den Haag",
+    "away_goals": 4,
+    "date": "2012-08-25",
+    "home": "Venlo",
+    "home_goals": 2,
+    "id": "4AOpEe73",
+    "source": "flashscore",
+    "source_status": "25.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/venlo-UNA6IKFC/?mid=4AOpEe73"
+  },
+  "4CFDYMlm": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2012-09-22",
+    "home": "Vitesse",
+    "home_goals": 1,
+    "id": "4CFDYMlm",
+    "source": "flashscore",
+    "source_status": "22.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/vitesse-xdFA0eGc/?mid=4CFDYMlm"
+  },
   "4G7cQmYa": {
     "away": "Groningen",
     "away_goals": 0,
@@ -427,6 +670,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/venlo-UNA6IKFC/summary/stats/?mid=4G7cQmYa",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/venlo-UNA6IKFC/?mid=4G7cQmYa"
+  },
+  "4M4zWNTs": {
+    "away": "Venlo",
+    "away_goals": 0,
+    "date": "2012-11-17",
+    "home": "Ajax",
+    "home_goals": 2,
+    "id": "4M4zWNTs",
+    "source": "flashscore",
+    "source_status": "17.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/venlo-UNA6IKFC/?mid=4M4zWNTs"
   },
   "4MlowXGC": {
     "away": "Vitesse",
@@ -551,6 +806,57 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/summary/stats/?mid=4OuEcbbd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/?mid=4OuEcbbd"
+  },
+  "4QfnmM3t": {
+    "away": "Waalwijk",
+    "away_goals": 3,
+    "date": "2012-09-30",
+    "home": "AZ Alkmaar",
+    "home_goals": 3,
+    "id": "4QfnmM3t",
+    "source": "flashscore",
+    "source_status": "30.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/waalwijk-lvM1vra5/?mid=4QfnmM3t"
+  },
+  "4ScR3jSb": {
+    "away": "PSV",
+    "away_goals": 2,
+    "date": "2012-08-11",
+    "home": "Waalwijk",
+    "home_goals": 3,
+    "id": "4ScR3jSb",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "11.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/waalwijk-lvM1vra5/?mid=4ScR3jSb"
+  },
+  "4nlR4oVr": {
+    "away": "Venlo",
+    "away_goals": 2,
+    "date": "2012-11-04",
+    "home": "AZ Alkmaar",
+    "home_goals": 1,
+    "id": "4nlR4oVr",
+    "source": "flashscore",
+    "source_status": "04.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/venlo-UNA6IKFC/?mid=4nlR4oVr"
+  },
+  "4rEwpQB6": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2013-01-19",
+    "home": "AZ Alkmaar",
+    "home_goals": 4,
+    "id": "4rEwpQB6",
+    "source": "flashscore",
+    "source_status": "19.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/vitesse-xdFA0eGc/?mid=4rEwpQB6"
   },
   "4vORSRy8": {
     "away": "Heerenveen",
@@ -800,6 +1106,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/twente-dhOKTHGA/?mid=63WvwRH5"
   },
+  "65FawLgb": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2013-02-16",
+    "home": "Roda",
+    "home_goals": 2,
+    "id": "65FawLgb",
+    "source": "flashscore",
+    "source_status": "16.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/roda-6FRTNZ8p/?mid=65FawLgb"
+  },
+  "6BpDXeMq": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2012-12-15",
+    "home": "Zwolle",
+    "home_goals": 1,
+    "id": "6BpDXeMq",
+    "source": "flashscore",
+    "source_status": "15.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/zwolle-r1L5w2EB/?mid=6BpDXeMq"
+  },
   "6NGnVxKR": {
     "away": "Groningen",
     "away_goals": 2,
@@ -924,6 +1254,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/roda-6FRTNZ8p/?mid=6R6bnyfQ"
   },
+  "6Vtn7dD2": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2012-12-23",
+    "home": "Waalwijk",
+    "home_goals": 0,
+    "id": "6Vtn7dD2",
+    "source": "flashscore",
+    "source_status": "23.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/waalwijk-lvM1vra5/willem-ii-6u3qag0G/?mid=6Vtn7dD2"
+  },
+  "6XqRNQyL": {
+    "away": "Utrecht",
+    "away_goals": 0,
+    "date": "2012-11-10",
+    "home": "Waalwijk",
+    "home_goals": 4,
+    "id": "6XqRNQyL",
+    "source": "flashscore",
+    "source_status": "10.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/waalwijk-lvM1vra5/?mid=6XqRNQyL"
+  },
   "6m0w40LS": {
     "away": "Vitesse",
     "away_goals": 3,
@@ -985,6 +1339,81 @@
     "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/vitesse-xdFA0eGc/summary/stats/?mid=6m0w40LS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/vitesse-xdFA0eGc/?mid=6m0w40LS"
+  },
+  "6oPaxQjE": {
+    "away": "PSV",
+    "away_goals": 6,
+    "date": "2012-11-17",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "6oPaxQjE",
+    "source": "flashscore",
+    "source_status": "17.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/psv-M9UEHJWi/?mid=6oPaxQjE"
+  },
+  "6yzwuPBJ": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2012-09-22",
+    "home": "Nijmegen",
+    "home_goals": 0,
+    "id": "6yzwuPBJ",
+    "source": "flashscore",
+    "source_status": "22.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/willem-ii-6u3qag0G/?mid=6yzwuPBJ"
+  },
+  "8G2Qt0ac": {
+    "away": "Roda",
+    "away_goals": 4,
+    "date": "2012-12-09",
+    "home": "Heerenveen",
+    "home_goals": 4,
+    "id": "8G2Qt0ac",
+    "source": "flashscore",
+    "source_status": "09.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/?mid=8G2Qt0ac"
+  },
+  "8IPFREy3": {
+    "away": "Nijmegen",
+    "away_goals": 4,
+    "date": "2012-09-01",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "8IPFREy3",
+    "source": "flashscore",
+    "source_status": "01.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/zwolle-r1L5w2EB/?mid=8IPFREy3"
+  },
+  "8KIdk6Ve": {
+    "away": "PSV",
+    "away_goals": 2,
+    "date": "2012-10-28",
+    "home": "Zwolle",
+    "home_goals": 1,
+    "id": "8KIdk6Ve",
+    "source": "flashscore",
+    "source_status": "28.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/zwolle-r1L5w2EB/?mid=8KIdk6Ve"
+  },
+  "8Kfr08RN": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2012-08-12",
+    "home": "Twente",
+    "home_goals": 4,
+    "id": "8Kfr08RN",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "12.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/?mid=8Kfr08RN"
   },
   "8UkGjjoC": {
     "away": "Venlo",
@@ -1110,6 +1539,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/waalwijk-lvM1vra5/?mid=8W2EQdSr"
   },
+  "8d8080fO": {
+    "away": "Utrecht",
+    "away_goals": 4,
+    "date": "2013-02-03",
+    "home": "Twente",
+    "home_goals": 2,
+    "id": "8d8080fO",
+    "source": "flashscore",
+    "source_status": "03.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=8d8080fO"
+  },
   "8dn5aKTq": {
     "away": "Twente",
     "away_goals": 3,
@@ -1172,6 +1613,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/twente-dhOKTHGA/?mid=8dn5aKTq"
   },
+  "8tnHFN0b": {
+    "away": "Ajax",
+    "away_goals": 2,
+    "date": "2012-11-25",
+    "home": "Roda",
+    "home_goals": 1,
+    "id": "8tnHFN0b",
+    "source": "flashscore",
+    "source_status": "25.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/roda-6FRTNZ8p/?mid=8tnHFN0b"
+  },
   "8zgQse2s": {
     "away": "Zwolle",
     "away_goals": 0,
@@ -1233,6 +1686,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/summary/stats/?mid=8zgQse2s",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/?mid=8zgQse2s"
+  },
+  "A5rYBu0N": {
+    "away": "Zwolle",
+    "away_goals": 2,
+    "date": "2012-11-25",
+    "home": "Twente",
+    "home_goals": 2,
+    "id": "A5rYBu0N",
+    "source": "flashscore",
+    "source_status": "25.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/zwolle-r1L5w2EB/?mid=A5rYBu0N"
   },
   "AaDklcPD": {
     "away": "Nijmegen",
@@ -1420,6 +1885,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/zwolle-r1L5w2EB/?mid=AeaVMER7"
   },
+  "AkfvKNZg": {
+    "away": "PSV",
+    "away_goals": 0,
+    "date": "2012-09-16",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "AkfvKNZg",
+    "source": "flashscore",
+    "source_status": "16.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/?mid=AkfvKNZg"
+  },
+  "AqZUcwIb": {
+    "away": "AZ Alkmaar",
+    "away_goals": 0,
+    "date": "2012-10-07",
+    "home": "Twente",
+    "home_goals": 3,
+    "id": "AqZUcwIb",
+    "source": "flashscore",
+    "source_status": "07.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/twente-dhOKTHGA/?mid=AqZUcwIb"
+  },
+  "AuaswIbM": {
+    "away": "Twente",
+    "away_goals": 0,
+    "date": "2012-12-09",
+    "home": "PSV",
+    "home_goals": 3,
+    "id": "AuaswIbM",
+    "source": "flashscore",
+    "source_status": "09.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/twente-dhOKTHGA/?mid=AuaswIbM"
+  },
   "AywWvmmg": {
     "away": "NAC Breda",
     "away_goals": 0,
@@ -1544,6 +2045,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/waalwijk-lvM1vra5/?mid=C0Zny5nI"
   },
+  "C8LChcb9": {
+    "away": "Waalwijk",
+    "away_goals": 2,
+    "date": "2012-12-16",
+    "home": "Vitesse",
+    "home_goals": 2,
+    "id": "C8LChcb9",
+    "source": "flashscore",
+    "source_status": "16.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/waalwijk-lvM1vra5/?mid=C8LChcb9"
+  },
   "CAUqIANk": {
     "away": "Groningen",
     "away_goals": 0,
@@ -1605,6 +2118,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/summary/stats/?mid=CAUqIANk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=CAUqIANk"
+  },
+  "CApNO6ME": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2012-11-09",
+    "home": "NAC Breda",
+    "home_goals": 0,
+    "id": "CApNO6ME",
+    "source": "flashscore",
+    "source_status": "09.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nac-breda-nLNrHc14/?mid=CApNO6ME"
+  },
+  "CEE3QPdQ": {
+    "away": "Zwolle",
+    "away_goals": 0,
+    "date": "2012-09-15",
+    "home": "Feyenoord",
+    "home_goals": 2,
+    "id": "CEE3QPdQ",
+    "source": "flashscore",
+    "source_status": "15.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/zwolle-r1L5w2EB/?mid=CEE3QPdQ"
   },
   "CQ0Z4t6M": {
     "away": "Groningen",
@@ -1668,6 +2205,90 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heracles-bB3JbZpA/?mid=CQ0Z4t6M"
   },
+  "CUEiAMPB": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2013-02-02",
+    "home": "AZ Alkmaar",
+    "home_goals": 0,
+    "id": "CUEiAMPB",
+    "source": "flashscore",
+    "source_status": "02.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=CUEiAMPB"
+  },
+  "CUhMfsQO": {
+    "away": "Twente",
+    "away_goals": 0,
+    "date": "2013-01-27",
+    "home": "Feyenoord",
+    "home_goals": 0,
+    "id": "CUhMfsQO",
+    "source": "flashscore",
+    "source_status": "27.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/twente-dhOKTHGA/?mid=CUhMfsQO"
+  },
+  "CY43RKaA": {
+    "away": "Den Haag",
+    "away_goals": 0,
+    "date": "2012-12-01",
+    "home": "Twente",
+    "home_goals": 2,
+    "id": "CY43RKaA",
+    "source": "flashscore",
+    "source_status": "01.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/twente-dhOKTHGA/?mid=CY43RKaA"
+  },
+  "CYS9F2q1": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2012-11-10",
+    "home": "Den Haag",
+    "home_goals": 2,
+    "id": "CYS9F2q1",
+    "source": "flashscore",
+    "source_status": "10.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/den-haag-lAgLCkT3/?mid=CYS9F2q1"
+  },
+  "ChPmiS0q": {
+    "away": "NAC Breda",
+    "away_goals": 4,
+    "date": "2012-10-27",
+    "home": "Venlo",
+    "home_goals": 1,
+    "id": "ChPmiS0q",
+    "source": "flashscore",
+    "source_status": "27.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/venlo-UNA6IKFC/?mid=ChPmiS0q"
+  },
+  "Cl9nCTx9": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2012-10-28",
+    "home": "Vitesse",
+    "home_goals": 1,
+    "id": "Cl9nCTx9",
+    "source": "flashscore",
+    "source_status": "28.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/vitesse-xdFA0eGc/?mid=Cl9nCTx9"
+  },
+  "Cn8rU1bf": {
+    "away": "Nijmegen",
+    "away_goals": 1,
+    "date": "2012-11-18",
+    "home": "Vitesse",
+    "home_goals": 4,
+    "id": "Cn8rU1bf",
+    "source": "flashscore",
+    "source_status": "18.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/vitesse-xdFA0eGc/?mid=Cn8rU1bf"
+  },
   "EDXjTeml": {
     "away": "Feyenoord",
     "away_goals": 3,
@@ -1729,6 +2350,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/nijmegen-nRluRF0T/summary/stats/?mid=EDXjTeml",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/nijmegen-nRluRF0T/?mid=EDXjTeml"
+  },
+  "EDeU6mJJ": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2013-01-20",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "EDeU6mJJ",
+    "source": "flashscore",
+    "source_status": "20.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/willem-ii-6u3qag0G/?mid=EDeU6mJJ"
   },
   "EFKnCjDf": {
     "away": "Groningen",
@@ -1792,6 +2425,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/?mid=EFKnCjDf"
   },
+  "EHLZJxhp": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2012-12-08",
+    "home": "Waalwijk",
+    "home_goals": 2,
+    "id": "EHLZJxhp",
+    "source": "flashscore",
+    "source_status": "08.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/waalwijk-lvM1vra5/?mid=EHLZJxhp"
+  },
   "EXeYuZWg": {
     "away": "PSV",
     "away_goals": 1,
@@ -1853,6 +2498,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/psv-M9UEHJWi/summary/stats/?mid=EXeYuZWg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/psv-M9UEHJWi/?mid=EXeYuZWg"
+  },
+  "EZW4JQ2P": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2013-01-27",
+    "home": "Nijmegen",
+    "home_goals": 2,
+    "id": "EZW4JQ2P",
+    "source": "flashscore",
+    "source_status": "27.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nijmegen-nRluRF0T/?mid=EZW4JQ2P"
   },
   "G0I3eEWt": {
     "away": "Utrecht",
@@ -2226,6 +2883,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/twente-dhOKTHGA/?mid=Gd6MOzce"
   },
+  "GptMaamn": {
+    "away": "NAC Breda",
+    "away_goals": 0,
+    "date": "2012-10-07",
+    "home": "PSV",
+    "home_goals": 4,
+    "id": "GptMaamn",
+    "source": "flashscore",
+    "source_status": "07.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/psv-M9UEHJWi/?mid=GptMaamn"
+  },
+  "Gt6YvvU9": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2012-12-09",
+    "home": "Venlo",
+    "home_goals": 3,
+    "id": "Gt6YvvU9",
+    "source": "flashscore",
+    "source_status": "09.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/venlo-UNA6IKFC/vitesse-xdFA0eGc/?mid=Gt6YvvU9"
+  },
+  "GtS3fJTd": {
+    "away": "PSV",
+    "away_goals": 1,
+    "date": "2012-12-15",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "GtS3fJTd",
+    "source": "flashscore",
+    "source_status": "15.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/psv-M9UEHJWi/?mid=GtS3fJTd"
+  },
   "GxhGZcAK": {
     "away": "Venlo",
     "away_goals": 0,
@@ -2350,6 +3043,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/twente-dhOKTHGA/?mid=I3u0jsiT"
   },
+  "I7FmB2A5": {
+    "away": "Den Haag",
+    "away_goals": 0,
+    "date": "2013-02-02",
+    "home": "PSV",
+    "home_goals": 7,
+    "id": "I7FmB2A5",
+    "source": "flashscore",
+    "source_status": "02.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/psv-M9UEHJWi/?mid=I7FmB2A5"
+  },
+  "IB5aS0p4": {
+    "away": "NAC Breda",
+    "away_goals": 1,
+    "date": "2012-12-02",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "IB5aS0p4",
+    "source": "flashscore",
+    "source_status": "02.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/?mid=IB5aS0p4"
+  },
+  "IFgrJsk0": {
+    "away": "Vitesse",
+    "away_goals": 3,
+    "date": "2012-09-16",
+    "home": "Groningen",
+    "home_goals": 0,
+    "id": "IFgrJsk0",
+    "source": "flashscore",
+    "source_status": "16.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/vitesse-xdFA0eGc/?mid=IFgrJsk0"
+  },
+  "IRBRnSRm": {
+    "away": "Zwolle",
+    "away_goals": 3,
+    "date": "2013-01-18",
+    "home": "PSV",
+    "home_goals": 1,
+    "id": "IRBRnSRm",
+    "source": "flashscore",
+    "source_status": "18.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/zwolle-r1L5w2EB/?mid=IRBRnSRm"
+  },
   "IRTeMsyc": {
     "away": "Willem II",
     "away_goals": 2,
@@ -2411,6 +3152,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/summary/stats/?mid=IRTeMsyc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/?mid=IRTeMsyc"
+  },
+  "IZLTUvlC": {
+    "away": "Nijmegen",
+    "away_goals": 1,
+    "date": "2012-09-29",
+    "home": "Feyenoord",
+    "home_goals": 5,
+    "id": "IZLTUvlC",
+    "source": "flashscore",
+    "source_status": "29.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/nijmegen-nRluRF0T/?mid=IZLTUvlC"
   },
   "Ia5oTkls": {
     "away": "Nijmegen",
@@ -2474,6 +3227,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/psv-M9UEHJWi/?mid=Ia5oTkls"
   },
+  "IeV0645f": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2012-09-02",
+    "home": "PSV",
+    "home_goals": 5,
+    "id": "IeV0645f",
+    "source": "flashscore",
+    "source_status": "02.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/psv-M9UEHJWi/?mid=IeV0645f"
+  },
+  "IiFaR5sK": {
+    "away": "Nijmegen",
+    "away_goals": 2,
+    "date": "2012-09-15",
+    "home": "Venlo",
+    "home_goals": 2,
+    "id": "IiFaR5sK",
+    "source": "flashscore",
+    "source_status": "15.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/venlo-UNA6IKFC/?mid=IiFaR5sK"
+  },
+  "IkAipKma": {
+    "away": "PSV",
+    "away_goals": 6,
+    "date": "2012-09-30",
+    "home": "Venlo",
+    "home_goals": 0,
+    "id": "IkAipKma",
+    "source": "flashscore",
+    "source_status": "30.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/venlo-UNA6IKFC/?mid=IkAipKma"
+  },
+  "Ioz4PbUM": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2012-12-02",
+    "home": "Vitesse",
+    "home_goals": 3,
+    "id": "Ioz4PbUM",
+    "source": "flashscore",
+    "source_status": "02.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/vitesse-xdFA0eGc/?mid=Ioz4PbUM"
+  },
   "K6A9NoII": {
     "away": "Roda",
     "away_goals": 3,
@@ -2536,6 +3337,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/roda-6FRTNZ8p/?mid=K6A9NoII"
   },
+  "KIfaQJcJ": {
+    "away": "Den Haag",
+    "away_goals": 3,
+    "date": "2012-11-23",
+    "home": "NAC Breda",
+    "home_goals": 0,
+    "id": "KIfaQJcJ",
+    "source": "flashscore",
+    "source_status": "23.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/nac-breda-nLNrHc14/?mid=KIfaQJcJ"
+  },
   "KYQuxWEL": {
     "away": "Vitesse",
     "away_goals": 5,
@@ -2597,6 +3410,60 @@
     "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/vitesse-xdFA0eGc/summary/stats/?mid=KYQuxWEL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/vitesse-xdFA0eGc/?mid=KYQuxWEL"
+  },
+  "KbKdJVRo": {
+    "away": "AZ Alkmaar",
+    "away_goals": 2,
+    "date": "2012-08-12",
+    "home": "Ajax",
+    "home_goals": 2,
+    "id": "KbKdJVRo",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "12.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/az-alkmaar-2RxOow1i/?mid=KbKdJVRo"
+  },
+  "Kfp9bA89": {
+    "away": "Zwolle",
+    "away_goals": 2,
+    "date": "2012-10-21",
+    "home": "Waalwijk",
+    "home_goals": 1,
+    "id": "Kfp9bA89",
+    "source": "flashscore",
+    "source_status": "21.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/waalwijk-lvM1vra5/zwolle-r1L5w2EB/?mid=Kfp9bA89"
+  },
+  "KzlVMpiR": {
+    "away": "Willem II",
+    "away_goals": 1,
+    "date": "2012-11-10",
+    "home": "Venlo",
+    "home_goals": 4,
+    "id": "KzlVMpiR",
+    "source": "flashscore",
+    "source_status": "10.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/venlo-UNA6IKFC/willem-ii-6u3qag0G/?mid=KzlVMpiR"
+  },
+  "M3hW2As5": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2012-08-11",
+    "home": "Roda",
+    "home_goals": 1,
+    "id": "M3hW2As5",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "11.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/zwolle-r1L5w2EB/?mid=M3hW2As5"
   },
   "MDm4gh1g": {
     "away": "Ajax",
@@ -2722,6 +3589,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/twente-dhOKTHGA/?mid=MFhCzveE"
   },
+  "MPq5IPGu": {
+    "away": "Utrecht",
+    "away_goals": 0,
+    "date": "2012-11-24",
+    "home": "Nijmegen",
+    "home_goals": 2,
+    "id": "MPq5IPGu",
+    "source": "flashscore",
+    "source_status": "24.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/?mid=MPq5IPGu"
+  },
+  "MqCjUMFi": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2012-12-01",
+    "home": "Willem II",
+    "home_goals": 3,
+    "id": "MqCjUMFi",
+    "source": "flashscore",
+    "source_status": "01.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/willem-ii-6u3qag0G/?mid=MqCjUMFi"
+  },
+  "MsssLwvU": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2013-02-10",
+    "home": "Feyenoord",
+    "home_goals": 3,
+    "id": "MsssLwvU",
+    "source": "flashscore",
+    "source_status": "10.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/feyenoord-8zjySeoN/?mid=MsssLwvU"
+  },
+  "MuMvDOug": {
+    "away": "Heracles",
+    "away_goals": 3,
+    "date": "2013-02-02",
+    "home": "Roda",
+    "home_goals": 3,
+    "id": "MuMvDOug",
+    "source": "flashscore",
+    "source_status": "02.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/?mid=MuMvDOug"
+  },
   "MwXfSF2f": {
     "away": "Heracles",
     "away_goals": 1,
@@ -2845,6 +3760,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/waalwijk-lvM1vra5/zwolle-r1L5w2EB/summary/stats/?mid=Mynih3MG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/waalwijk-lvM1vra5/zwolle-r1L5w2EB/?mid=Mynih3MG"
+  },
+  "OMc9S3ut": {
+    "away": "Feyenoord",
+    "away_goals": 3,
+    "date": "2013-02-03",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "OMc9S3ut",
+    "source": "flashscore",
+    "source_status": "03.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/?mid=OMc9S3ut"
   },
   "ObRsWI4L": {
     "away": "Ajax",
@@ -2970,6 +3897,129 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/?mid=ObmDob48"
   },
+  "Od4QCoBT": {
+    "away": "Waalwijk",
+    "away_goals": 2,
+    "date": "2012-08-19",
+    "home": "Den Haag",
+    "home_goals": 2,
+    "id": "Od4QCoBT",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "19.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/waalwijk-lvM1vra5/?mid=Od4QCoBT"
+  },
+  "OhY84rz7": {
+    "away": "Waalwijk",
+    "away_goals": 0,
+    "date": "2012-09-15",
+    "home": "Ajax",
+    "home_goals": 2,
+    "id": "OhY84rz7",
+    "source": "flashscore",
+    "source_status": "15.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/waalwijk-lvM1vra5/?mid=OhY84rz7"
+  },
+  "OnuIWFyj": {
+    "away": "Venlo",
+    "away_goals": 0,
+    "date": "2012-12-15",
+    "home": "Groningen",
+    "home_goals": 0,
+    "id": "OnuIWFyj",
+    "source": "flashscore",
+    "source_status": "15.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/venlo-UNA6IKFC/?mid=OnuIWFyj"
+  },
+  "QDjAcqt6": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2013-01-26",
+    "home": "Zwolle",
+    "home_goals": 1,
+    "id": "QDjAcqt6",
+    "source": "flashscore",
+    "source_status": "26.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/zwolle-r1L5w2EB/?mid=QDjAcqt6"
+  },
+  "QHQcI4ar": {
+    "away": "Heracles",
+    "away_goals": 2,
+    "date": "2012-11-10",
+    "home": "Nijmegen",
+    "home_goals": 3,
+    "id": "QHQcI4ar",
+    "source": "flashscore",
+    "source_status": "10.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nijmegen-nRluRF0T/?mid=QHQcI4ar"
+  },
+  "QHtMEsG4": {
+    "away": "Vitesse",
+    "away_goals": 2,
+    "date": "2012-11-25",
+    "home": "PSV",
+    "home_goals": 1,
+    "id": "QHtMEsG4",
+    "source": "flashscore",
+    "source_status": "25.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/vitesse-xdFA0eGc/?mid=QHtMEsG4"
+  },
+  "QJV5ajg3": {
+    "away": "Groningen",
+    "away_goals": 0,
+    "date": "2012-10-21",
+    "home": "Heerenveen",
+    "home_goals": 3,
+    "id": "QJV5ajg3",
+    "source": "flashscore",
+    "source_status": "21.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heerenveen-EDjXSyWG/?mid=QJV5ajg3"
+  },
+  "QL0Cud2U": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2012-10-07",
+    "home": "Ajax",
+    "home_goals": 1,
+    "id": "QL0Cud2U",
+    "source": "flashscore",
+    "source_status": "07.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/utrecht-p6QXMgOj/?mid=QL0Cud2U"
+  },
+  "QLG9Z2Zt": {
+    "away": "Heerenveen",
+    "away_goals": 0,
+    "date": "2012-09-23",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "QLG9Z2Zt",
+    "source": "flashscore",
+    "source_status": "23.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/?mid=QLG9Z2Zt"
+  },
+  "QPCgCZyG": {
+    "away": "NAC Breda",
+    "away_goals": 0,
+    "date": "2012-08-25",
+    "home": "Ajax",
+    "home_goals": 5,
+    "id": "QPCgCZyG",
+    "source": "flashscore",
+    "source_status": "25.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nac-breda-nLNrHc14/?mid=QPCgCZyG"
+  },
   "QVe6OR2C": {
     "away": "Twente",
     "away_goals": 1,
@@ -3031,6 +4081,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/summary/stats/?mid=QVe6OR2C",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/twente-dhOKTHGA/?mid=QVe6OR2C"
+  },
+  "QXIe9tuI": {
+    "away": "Ajax",
+    "away_goals": 3,
+    "date": "2013-02-03",
+    "home": "Venlo",
+    "home_goals": 0,
+    "id": "QXIe9tuI",
+    "source": "flashscore",
+    "source_status": "03.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/venlo-UNA6IKFC/?mid=QXIe9tuI"
   },
   "QXtAbvqj": {
     "away": "Utrecht",
@@ -3094,6 +4156,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=QXtAbvqj"
   },
+  "QaPyTIIO": {
+    "away": "Den Haag",
+    "away_goals": 3,
+    "date": "2012-09-29",
+    "home": "Heracles",
+    "home_goals": 3,
+    "id": "QaPyTIIO",
+    "source": "flashscore",
+    "source_status": "29.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heracles-bB3JbZpA/?mid=QaPyTIIO"
+  },
+  "QiFZp6d0": {
+    "away": "Waalwijk",
+    "away_goals": 0,
+    "date": "2013-01-19",
+    "home": "Twente",
+    "home_goals": 0,
+    "id": "QiFZp6d0",
+    "source": "flashscore",
+    "source_status": "19.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/waalwijk-lvM1vra5/?mid=QiFZp6d0"
+  },
   "QmPNT7M1": {
     "away": "Utrecht",
     "away_goals": 0,
@@ -3155,6 +4241,33 @@
     "statistics_url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/summary/stats/?mid=QmPNT7M1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/?mid=QmPNT7M1"
+  },
+  "QyaN4WCh": {
+    "away": "NAC Breda",
+    "away_goals": 1,
+    "date": "2012-08-10",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "QyaN4WCh",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "10.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/willem-ii-6u3qag0G/?mid=QyaN4WCh"
+  },
+  "S43Ki2eP": {
+    "away": "Twente",
+    "away_goals": 0,
+    "date": "2012-09-29",
+    "home": "Ajax",
+    "home_goals": 1,
+    "id": "S43Ki2eP",
+    "source": "flashscore",
+    "source_status": "29.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/twente-dhOKTHGA/?mid=S43Ki2eP"
   },
   "SCXzv72a": {
     "away": "Ajax",
@@ -3342,6 +4455,57 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=SIOjBAS0"
   },
+  "SK38yaOA": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2013-02-16",
+    "home": "PSV",
+    "home_goals": 2,
+    "id": "SK38yaOA",
+    "source": "flashscore",
+    "source_status": "16.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/?mid=SK38yaOA"
+  },
+  "SKPwJd7j": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2012-12-08",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "SKPwJd7j",
+    "source": "flashscore",
+    "source_status": "08.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/zwolle-r1L5w2EB/?mid=SKPwJd7j"
+  },
+  "SKswMJON": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2013-02-10",
+    "home": "Zwolle",
+    "home_goals": 1,
+    "id": "SKswMJON",
+    "source": "flashscore",
+    "source_status": "10.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/zwolle-r1L5w2EB/?mid=SKswMJON"
+  },
+  "SUAHE7tH": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2012-08-18",
+    "home": "Feyenoord",
+    "home_goals": 1,
+    "id": "SUAHE7tH",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "18.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heerenveen-EDjXSyWG/?mid=SUAHE7tH"
+  },
   "SxkDSqp6": {
     "away": "Utrecht",
     "away_goals": 2,
@@ -3403,6 +4567,90 @@
     "statistics_url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/summary/stats/?mid=SxkDSqp6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=SxkDSqp6"
+  },
+  "UDc3rDz2": {
+    "away": "PSV",
+    "away_goals": 6,
+    "date": "2012-12-22",
+    "home": "NAC Breda",
+    "home_goals": 1,
+    "id": "UDc3rDz2",
+    "source": "flashscore",
+    "source_status": "22.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/psv-M9UEHJWi/?mid=UDc3rDz2"
+  },
+  "UP3Mstpi": {
+    "away": "Groningen",
+    "away_goals": 0,
+    "date": "2012-12-08",
+    "home": "Ajax",
+    "home_goals": 2,
+    "id": "UP3Mstpi",
+    "source": "flashscore",
+    "source_status": "08.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/?mid=UP3Mstpi"
+  },
+  "UVY45OK0": {
+    "away": "Ajax",
+    "away_goals": 2,
+    "date": "2012-09-02",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "UVY45OK0",
+    "source": "flashscore",
+    "source_status": "02.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/?mid=UVY45OK0"
+  },
+  "UXDOPh6F": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2012-09-01",
+    "home": "NAC Breda",
+    "home_goals": 1,
+    "id": "UXDOPh6F",
+    "source": "flashscore",
+    "source_status": "01.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/utrecht-p6QXMgOj/?mid=UXDOPh6F"
+  },
+  "UkmDG3oh": {
+    "away": "Heracles",
+    "away_goals": 2,
+    "date": "2012-11-24",
+    "home": "Willem II",
+    "home_goals": 2,
+    "id": "UkmDG3oh",
+    "source": "flashscore",
+    "source_status": "24.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/willem-ii-6u3qag0G/?mid=UkmDG3oh"
+  },
+  "Uoc1a5Bg": {
+    "away": "PSV",
+    "away_goals": 5,
+    "date": "2013-01-26",
+    "home": "Heracles",
+    "home_goals": 1,
+    "id": "Uoc1a5Bg",
+    "source": "flashscore",
+    "source_status": "26.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/psv-M9UEHJWi/?mid=Uoc1a5Bg"
+  },
+  "UqW7gwq3": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2012-12-16",
+    "home": "Utrecht",
+    "home_goals": 3,
+    "id": "UqW7gwq3",
+    "source": "flashscore",
+    "source_status": "16.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=UqW7gwq3"
   },
   "Us9I8O6c": {
     "away": "Den Haag",
@@ -3590,6 +4838,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/willem-ii-6u3qag0G/?mid=WCpoGlh2"
   },
+  "WKlFxToj": {
+    "away": "Nijmegen",
+    "away_goals": 2,
+    "date": "2012-10-20",
+    "home": "AZ Alkmaar",
+    "home_goals": 0,
+    "id": "WKlFxToj",
+    "source": "flashscore",
+    "source_status": "20.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nijmegen-nRluRF0T/?mid=WKlFxToj"
+  },
   "WQPJUm7e": {
     "away": "Den Haag",
     "away_goals": 1,
@@ -3651,6 +4911,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/summary/stats/?mid=WQPJUm7e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/?mid=WQPJUm7e"
+  },
+  "WbezL3Km": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2012-09-16",
+    "home": "AZ Alkmaar",
+    "home_goals": 4,
+    "id": "WbezL3Km",
+    "source": "flashscore",
+    "source_status": "16.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/roda-6FRTNZ8p/?mid=WbezL3Km"
+  },
+  "WhlUNufB": {
+    "away": "Venlo",
+    "away_goals": 2,
+    "date": "2013-02-09",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "WhlUNufB",
+    "source": "flashscore",
+    "source_status": "09.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/venlo-UNA6IKFC/?mid=WhlUNufB"
   },
   "WjVsDWcl": {
     "away": "Utrecht",
@@ -3776,6 +5060,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/zwolle-r1L5w2EB/?mid=WpvSuTXn"
   },
+  "Y1diSuT6": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2012-11-18",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "Y1diSuT6",
+    "source": "flashscore",
+    "source_status": "18.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=Y1diSuT6"
+  },
+  "Y3ceA77L": {
+    "away": "Vitesse",
+    "away_goals": 2,
+    "date": "2012-11-03",
+    "home": "Ajax",
+    "home_goals": 0,
+    "id": "Y3ceA77L",
+    "source": "flashscore",
+    "source_status": "03.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/vitesse-xdFA0eGc/?mid=Y3ceA77L"
+  },
   "YJVuJj8q": {
     "away": "Heerenveen",
     "away_goals": 1,
@@ -3838,6 +5146,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heerenveen-EDjXSyWG/?mid=YJVuJj8q"
   },
+  "YJoJPn78": {
+    "away": "Waalwijk",
+    "away_goals": 1,
+    "date": "2012-11-04",
+    "home": "NAC Breda",
+    "home_goals": 2,
+    "id": "YJoJPn78",
+    "source": "flashscore",
+    "source_status": "04.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/waalwijk-lvM1vra5/?mid=YJoJPn78"
+  },
+  "YRur13U7": {
+    "away": "Feyenoord",
+    "away_goals": 0,
+    "date": "2012-11-04",
+    "home": "Twente",
+    "home_goals": 3,
+    "id": "YRur13U7",
+    "source": "flashscore",
+    "source_status": "04.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/twente-dhOKTHGA/?mid=YRur13U7"
+  },
+  "YkG1AD6S": {
+    "away": "Vitesse",
+    "away_goals": 2,
+    "date": "2012-08-26",
+    "home": "Willem II",
+    "home_goals": 0,
+    "id": "YkG1AD6S",
+    "source": "flashscore",
+    "source_status": "26.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/willem-ii-6u3qag0G/?mid=YkG1AD6S"
+  },
+  "YsU5GrUf": {
+    "away": "Roda",
+    "away_goals": 2,
+    "date": "2012-11-11",
+    "home": "Feyenoord",
+    "home_goals": 5,
+    "id": "YsU5GrUf",
+    "source": "flashscore",
+    "source_status": "11.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/roda-6FRTNZ8p/?mid=YsU5GrUf"
+  },
   "Yu7GVTik": {
     "away": "NAC Breda",
     "away_goals": 1,
@@ -3899,6 +5255,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nac-breda-nLNrHc14/summary/stats/?mid=Yu7GVTik",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nac-breda-nLNrHc14/?mid=Yu7GVTik"
+  },
+  "YwfIeNAI": {
+    "away": "Ajax",
+    "away_goals": 2,
+    "date": "2013-01-27",
+    "home": "Vitesse",
+    "home_goals": 3,
+    "id": "YwfIeNAI",
+    "source": "flashscore",
+    "source_status": "27.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/vitesse-xdFA0eGc/?mid=YwfIeNAI"
+  },
+  "b5ewvbqG": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2012-12-08",
+    "home": "AZ Alkmaar",
+    "home_goals": 0,
+    "id": "b5ewvbqG",
+    "source": "flashscore",
+    "source_status": "08.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/willem-ii-6u3qag0G/?mid=b5ewvbqG"
+  },
+  "b9VQbJ2h": {
+    "away": "Feyenoord",
+    "away_goals": 2,
+    "date": "2012-10-07",
+    "home": "Groningen",
+    "home_goals": 2,
+    "id": "b9VQbJ2h",
+    "source": "flashscore",
+    "source_status": "07.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/?mid=b9VQbJ2h"
   },
   "bJxXwhp9": {
     "away": "Zwolle",
@@ -4148,6 +5540,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/nijmegen-nRluRF0T/?mid=bNdV5MjG"
   },
+  "bPJKjyTL": {
+    "away": "Ajax",
+    "away_goals": 4,
+    "date": "2012-12-16",
+    "home": "Willem II",
+    "home_goals": 2,
+    "id": "bPJKjyTL",
+    "source": "flashscore",
+    "source_status": "16.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/?mid=bPJKjyTL"
+  },
+  "bVvUCLpH": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2012-11-24",
+    "home": "Venlo",
+    "home_goals": 1,
+    "id": "bVvUCLpH",
+    "source": "flashscore",
+    "source_status": "24.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/venlo-UNA6IKFC/?mid=bVvUCLpH"
+  },
+  "bZEHXt4g": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2012-09-23",
+    "home": "NAC Breda",
+    "home_goals": 2,
+    "id": "bZEHXt4g",
+    "source": "flashscore",
+    "source_status": "23.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nac-breda-nLNrHc14/?mid=bZEHXt4g"
+  },
   "baKjBHSe": {
     "away": "NAC Breda",
     "away_goals": 0,
@@ -4272,6 +5700,81 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/?mid=bc9DM5XO"
   },
+  "bkJ0Iksh": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2012-08-18",
+    "home": "PSV",
+    "home_goals": 5,
+    "id": "bkJ0Iksh",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "18.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/roda-6FRTNZ8p/?mid=bkJ0Iksh"
+  },
+  "bmfjntJn": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2012-09-30",
+    "home": "Willem II",
+    "home_goals": 0,
+    "id": "bmfjntJn",
+    "source": "flashscore",
+    "source_status": "30.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/willem-ii-6u3qag0G/zwolle-r1L5w2EB/?mid=bmfjntJn"
+  },
+  "boqDcUNF": {
+    "away": "Groningen",
+    "away_goals": 0,
+    "date": "2012-10-26",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "boqDcUNF",
+    "source": "flashscore",
+    "source_status": "26.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/utrecht-p6QXMgOj/?mid=boqDcUNF"
+  },
+  "bq4vVsql": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2012-11-17",
+    "home": "Groningen",
+    "home_goals": 1,
+    "id": "bq4vVsql",
+    "source": "flashscore",
+    "source_status": "17.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=bq4vVsql"
+  },
+  "buCiusPo": {
+    "away": "Venlo",
+    "away_goals": 2,
+    "date": "2013-02-15",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "buCiusPo",
+    "source": "flashscore",
+    "source_status": "15.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/venlo-UNA6IKFC/?mid=buCiusPo"
+  },
+  "bujMP1Pb": {
+    "away": "PSV",
+    "away_goals": 2,
+    "date": "2013-02-09",
+    "home": "Vitesse",
+    "home_goals": 2,
+    "id": "bujMP1Pb",
+    "source": "flashscore",
+    "source_status": "09.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/vitesse-xdFA0eGc/?mid=bujMP1Pb"
+  },
   "byx4KL59": {
     "away": "Heerenveen",
     "away_goals": 1,
@@ -4333,6 +5836,66 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/summary/stats/?mid=byx4KL59",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heerenveen-EDjXSyWG/?mid=byx4KL59"
+  },
+  "d0aepZ5k": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2012-12-22",
+    "home": "Heracles",
+    "home_goals": 1,
+    "id": "d0aepZ5k",
+    "source": "flashscore",
+    "source_status": "22.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/zwolle-r1L5w2EB/?mid=d0aepZ5k"
+  },
+  "d6hnI146": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2012-09-21",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "d6hnI146",
+    "source": "flashscore",
+    "source_status": "21.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/utrecht-p6QXMgOj/?mid=d6hnI146"
+  },
+  "dIAVonsf": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2013-01-19",
+    "home": "Heerenveen",
+    "home_goals": 0,
+    "id": "dIAVonsf",
+    "source": "flashscore",
+    "source_status": "19.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/heracles-bB3JbZpA/?mid=dIAVonsf"
+  },
+  "dKXKW0Ja": {
+    "away": "Feyenoord",
+    "away_goals": 0,
+    "date": "2012-09-23",
+    "home": "PSV",
+    "home_goals": 3,
+    "id": "dKXKW0Ja",
+    "source": "flashscore",
+    "source_status": "23.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/psv-M9UEHJWi/?mid=dKXKW0Ja"
+  },
+  "dYbg1Rts": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2013-01-20",
+    "home": "Roda",
+    "home_goals": 2,
+    "id": "dYbg1Rts",
+    "source": "flashscore",
+    "source_status": "20.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/roda-6FRTNZ8p/?mid=dYbg1Rts"
   },
   "ddP7PDnD": {
     "away": "Waalwijk",
@@ -4520,6 +6083,144 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/waalwijk-lvM1vra5/?mid=dj4kS93m"
   },
+  "dpLxGHxi": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2012-08-24",
+    "home": "Waalwijk",
+    "home_goals": 1,
+    "id": "dpLxGHxi",
+    "source": "flashscore",
+    "source_status": "24.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/waalwijk-lvM1vra5/?mid=dpLxGHxi"
+  },
+  "dt9eqv35": {
+    "away": "Den Haag",
+    "away_goals": 1,
+    "date": "2012-10-05",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "dt9eqv35",
+    "source": "flashscore",
+    "source_status": "05.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/nijmegen-nRluRF0T/?mid=dt9eqv35"
+  },
+  "dtsh8Qzr": {
+    "away": "Feyenoord",
+    "away_goals": 0,
+    "date": "2012-09-02",
+    "home": "Vitesse",
+    "home_goals": 1,
+    "id": "dtsh8Qzr",
+    "source": "flashscore",
+    "source_status": "02.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/vitesse-xdFA0eGc/?mid=dtsh8Qzr"
+  },
+  "dxZ7OIqT": {
+    "away": "Utrecht",
+    "away_goals": 1,
+    "date": "2012-12-07",
+    "home": "Heracles",
+    "home_goals": 1,
+    "id": "dxZ7OIqT",
+    "source": "flashscore",
+    "source_status": "07.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/utrecht-p6QXMgOj/?mid=dxZ7OIqT"
+  },
+  "dzY8Gcno": {
+    "away": "Nijmegen",
+    "away_goals": 3,
+    "date": "2013-02-10",
+    "home": "Utrecht",
+    "home_goals": 0,
+    "id": "dzY8Gcno",
+    "source": "flashscore",
+    "source_status": "10.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/?mid=dzY8Gcno"
+  },
+  "fBcmTLD0": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2012-11-18",
+    "home": "Feyenoord",
+    "home_goals": 3,
+    "id": "fBcmTLD0",
+    "source": "flashscore",
+    "source_status": "18.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/?mid=fBcmTLD0"
+  },
+  "fDbiBmhF": {
+    "away": "Den Haag",
+    "away_goals": 0,
+    "date": "2012-11-02",
+    "home": "Roda",
+    "home_goals": 0,
+    "id": "fDbiBmhF",
+    "source": "flashscore",
+    "source_status": "02.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/roda-6FRTNZ8p/?mid=fDbiBmhF"
+  },
+  "fDxMe8hS": {
+    "away": "Roda",
+    "away_goals": 0,
+    "date": "2012-10-27",
+    "home": "Nijmegen",
+    "home_goals": 0,
+    "id": "fDxMe8hS",
+    "source": "flashscore",
+    "source_status": "27.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/roda-6FRTNZ8p/?mid=fDxMe8hS"
+  },
+  "fFLBSfMd": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2012-09-01",
+    "home": "Roda",
+    "home_goals": 3,
+    "id": "fFLBSfMd",
+    "source": "flashscore",
+    "source_status": "01.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/willem-ii-6u3qag0G/?mid=fFLBSfMd"
+  },
+  "fHC9GTB4": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2012-08-18",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "fHC9GTB4",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "18.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/?mid=fHC9GTB4"
+  },
+  "fHjv1lCH": {
+    "away": "Feyenoord",
+    "away_goals": 1,
+    "date": "2012-08-12",
+    "home": "Utrecht",
+    "home_goals": 0,
+    "id": "fHjv1lCH",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "12.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/utrecht-p6QXMgOj/?mid=fHjv1lCH"
+  },
   "fPfzdoNi": {
     "away": "Den Haag",
     "away_goals": 0,
@@ -4644,6 +6345,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/willem-ii-6u3qag0G/?mid=fRoCiWV5"
   },
+  "fcIEEMb7": {
+    "away": "Ajax",
+    "away_goals": 4,
+    "date": "2012-11-11",
+    "home": "Zwolle",
+    "home_goals": 2,
+    "id": "fcIEEMb7",
+    "source": "flashscore",
+    "source_status": "11.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/zwolle-r1L5w2EB/?mid=fcIEEMb7"
+  },
   "fiH7fYom": {
     "away": "Twente",
     "away_goals": 3,
@@ -4705,6 +6418,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/summary/stats/?mid=fiH7fYom",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/?mid=fiH7fYom"
+  },
+  "fwK46JNp": {
+    "away": "Heracles",
+    "away_goals": 0,
+    "date": "2012-12-02",
+    "home": "Groningen",
+    "home_goals": 2,
+    "id": "fwK46JNp",
+    "source": "flashscore",
+    "source_status": "02.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heracles-bB3JbZpA/?mid=fwK46JNp"
+  },
+  "fysv2qF1": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2012-11-04",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "fysv2qF1",
+    "source": "flashscore",
+    "source_status": "04.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/zwolle-r1L5w2EB/?mid=fysv2qF1"
   },
   "h0WwECrr": {
     "away": "Twente",
@@ -4768,6 +6505,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/twente-dhOKTHGA/?mid=h0WwECrr"
   },
+  "h2kQOLv5": {
+    "away": "Willem II",
+    "away_goals": 1,
+    "date": "2013-02-09",
+    "home": "Heracles",
+    "home_goals": 4,
+    "id": "h2kQOLv5",
+    "source": "flashscore",
+    "source_status": "09.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/willem-ii-6u3qag0G/?mid=h2kQOLv5"
+  },
+  "h4fY57YP": {
+    "away": "Feyenoord",
+    "away_goals": 0,
+    "date": "2013-01-20",
+    "home": "Ajax",
+    "home_goals": 3,
+    "id": "h4fY57YP",
+    "source": "flashscore",
+    "source_status": "20.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/feyenoord-8zjySeoN/?mid=h4fY57YP"
+  },
+  "hCfd7PYj": {
+    "away": "Ajax",
+    "away_goals": 6,
+    "date": "2012-08-19",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "hCfd7PYj",
+    "source": "flashscore",
+    "source_status": "19.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/nijmegen-nRluRF0T/?mid=hCfd7PYj"
+  },
   "hMosHUxd": {
     "away": "Ajax",
     "away_goals": 2,
@@ -4829,6 +6602,69 @@
     "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/waalwijk-lvM1vra5/summary/stats/?mid=hMosHUxd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/waalwijk-lvM1vra5/?mid=hMosHUxd"
+  },
+  "hUXxBaFT": {
+    "away": "Venlo",
+    "away_goals": 0,
+    "date": "2012-11-30",
+    "home": "Zwolle",
+    "home_goals": 0,
+    "id": "hUXxBaFT",
+    "source": "flashscore",
+    "source_status": "30.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/venlo-UNA6IKFC/zwolle-r1L5w2EB/?mid=hUXxBaFT"
+  },
+  "hYoeGuZI": {
+    "away": "Venlo",
+    "away_goals": 1,
+    "date": "2012-09-22",
+    "home": "Waalwijk",
+    "home_goals": 1,
+    "id": "hYoeGuZI",
+    "source": "flashscore",
+    "source_status": "22.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/venlo-UNA6IKFC/waalwijk-lvM1vra5/?mid=hYoeGuZI"
+  },
+  "hhWEfnko": {
+    "away": "Nijmegen",
+    "away_goals": 2,
+    "date": "2012-08-12",
+    "home": "Heerenveen",
+    "home_goals": 0,
+    "id": "hhWEfnko",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "12.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nijmegen-nRluRF0T/?mid=hhWEfnko"
+  },
+  "hryIDtED": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2012-11-11",
+    "home": "PSV",
+    "home_goals": 5,
+    "id": "hryIDtED",
+    "source": "flashscore",
+    "source_status": "11.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/psv-M9UEHJWi/?mid=hryIDtED"
+  },
+  "j38arbIB": {
+    "away": "Waalwijk",
+    "away_goals": 0,
+    "date": "2012-10-06",
+    "home": "Willem II",
+    "home_goals": 1,
+    "id": "j38arbIB",
+    "source": "flashscore",
+    "source_status": "06.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/waalwijk-lvM1vra5/willem-ii-6u3qag0G/?mid=j38arbIB"
   },
   "jD3gRTIg": {
     "away": "Zwolle",
@@ -4954,6 +6790,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/twente-dhOKTHGA/?mid=jHHBW9xq"
   },
+  "jNbaqgLe": {
+    "away": "Nijmegen",
+    "away_goals": 0,
+    "date": "2012-12-22",
+    "home": "Den Haag",
+    "home_goals": 2,
+    "id": "jNbaqgLe",
+    "source": "flashscore",
+    "source_status": "22.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/nijmegen-nRluRF0T/?mid=jNbaqgLe"
+  },
+  "jP37QvFG": {
+    "away": "AZ Alkmaar",
+    "away_goals": 1,
+    "date": "2012-12-02",
+    "home": "Utrecht",
+    "home_goals": 2,
+    "id": "jP37QvFG",
+    "source": "flashscore",
+    "source_status": "02.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=jP37QvFG"
+  },
   "jZGrDwbq": {
     "away": "Roda",
     "away_goals": 1,
@@ -5015,6 +6875,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/willem-ii-6u3qag0G/summary/stats/?mid=jZGrDwbq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/willem-ii-6u3qag0G/?mid=jZGrDwbq"
+  },
+  "jaKGiHDF": {
+    "away": "Den Haag",
+    "away_goals": 2,
+    "date": "2012-12-16",
+    "home": "Feyenoord",
+    "home_goals": 3,
+    "id": "jaKGiHDF",
+    "source": "flashscore",
+    "source_status": "16.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/feyenoord-8zjySeoN/?mid=jaKGiHDF"
   },
   "jguLkA0I": {
     "away": "NAC Breda",
@@ -5140,6 +7012,45 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/heracles-bB3JbZpA/?mid=jiAE94ii"
   },
+  "jqOijnGk": {
+    "away": "Ajax",
+    "away_goals": 2,
+    "date": "2012-10-28",
+    "home": "Feyenoord",
+    "home_goals": 2,
+    "id": "jqOijnGk",
+    "source": "flashscore",
+    "source_status": "28.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/feyenoord-8zjySeoN/?mid=jqOijnGk"
+  },
+  "jqpmaStU": {
+    "away": "Den Haag",
+    "away_goals": 2,
+    "date": "2012-08-12",
+    "home": "Vitesse",
+    "home_goals": 2,
+    "id": "jqpmaStU",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "12.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/vitesse-xdFA0eGc/?mid=jqpmaStU"
+  },
+  "jsFKQYj9": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2012-09-01",
+    "home": "Waalwijk",
+    "home_goals": 1,
+    "id": "jsFKQYj9",
+    "source": "flashscore",
+    "source_status": "01.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/waalwijk-lvM1vra5/?mid=jsFKQYj9"
+  },
   "l8VqyjUR": {
     "away": "PSV",
     "away_goals": 1,
@@ -5263,6 +7174,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heracles-bB3JbZpA/summary/stats/?mid=lOmqfPi4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heracles-bB3JbZpA/?mid=lOmqfPi4"
+  },
+  "lSNWEpBt": {
+    "away": "Willem II",
+    "away_goals": 1,
+    "date": "2013-01-27",
+    "home": "Utrecht",
+    "home_goals": 3,
+    "id": "lSNWEpBt",
+    "source": "flashscore",
+    "source_status": "27.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/willem-ii-6u3qag0G/?mid=lSNWEpBt"
+  },
+  "lUrZMa9H": {
+    "away": "Roda",
+    "away_goals": 1,
+    "date": "2013-02-10",
+    "home": "Ajax",
+    "home_goals": 1,
+    "id": "lUrZMa9H",
+    "source": "flashscore",
+    "source_status": "10.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/roda-6FRTNZ8p/?mid=lUrZMa9H"
   },
   "ljCgmHvK": {
     "away": "Venlo",
@@ -5388,6 +7323,117 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/heerenveen-EDjXSyWG/?mid=lnWVpLEj"
   },
+  "lvCDFmRA": {
+    "away": "Utrecht",
+    "away_goals": 3,
+    "date": "2012-08-18",
+    "home": "Venlo",
+    "home_goals": 1,
+    "id": "lvCDFmRA",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "18.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/venlo-UNA6IKFC/?mid=lvCDFmRA"
+  },
+  "lz6VLq5s": {
+    "away": "NAC Breda",
+    "away_goals": 1,
+    "date": "2012-09-16",
+    "home": "Heracles",
+    "home_goals": 2,
+    "id": "lz6VLq5s",
+    "source": "flashscore",
+    "source_status": "16.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nac-breda-nLNrHc14/?mid=lz6VLq5s"
+  },
+  "n73rqpRC": {
+    "away": "Venlo",
+    "away_goals": 0,
+    "date": "2013-01-19",
+    "home": "NAC Breda",
+    "home_goals": 1,
+    "id": "n73rqpRC",
+    "source": "flashscore",
+    "source_status": "19.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/venlo-UNA6IKFC/?mid=n73rqpRC"
+  },
+  "n9QXTb3I": {
+    "away": "Vitesse",
+    "away_goals": 2,
+    "date": "2012-09-29",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "n9QXTb3I",
+    "source": "flashscore",
+    "source_status": "29.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/vitesse-xdFA0eGc/?mid=n9QXTb3I"
+  },
+  "nBH0lQp2": {
+    "away": "Heerenveen",
+    "away_goals": 3,
+    "date": "2012-10-28",
+    "home": "Heracles",
+    "home_goals": 6,
+    "id": "nBH0lQp2",
+    "source": "flashscore",
+    "source_status": "28.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/heracles-bB3JbZpA/?mid=nBH0lQp2"
+  },
+  "nBwW35pk": {
+    "away": "Heracles",
+    "away_goals": 0,
+    "date": "2012-11-03",
+    "home": "PSV",
+    "home_goals": 4,
+    "id": "nBwW35pk",
+    "source": "flashscore",
+    "source_status": "03.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/psv-M9UEHJWi/?mid=nBwW35pk"
+  },
+  "nTW10Wwc": {
+    "away": "Feyenoord",
+    "away_goals": 3,
+    "date": "2012-10-21",
+    "home": "Venlo",
+    "home_goals": 2,
+    "id": "nTW10Wwc",
+    "source": "flashscore",
+    "source_status": "21.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/venlo-UNA6IKFC/?mid=nTW10Wwc"
+  },
+  "nV18txmO": {
+    "away": "Venlo",
+    "away_goals": 0,
+    "date": "2012-10-06",
+    "home": "Roda",
+    "home_goals": 3,
+    "id": "nV18txmO",
+    "source": "flashscore",
+    "source_status": "06.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/venlo-UNA6IKFC/?mid=nV18txmO"
+  },
+  "nm747K9U": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2013-02-03",
+    "home": "Nijmegen",
+    "home_goals": 2,
+    "id": "nm747K9U",
+    "source": "flashscore",
+    "source_status": "03.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/vitesse-xdFA0eGc/?mid=nm747K9U"
+  },
   "nuc2P7m6": {
     "away": "Utrecht",
     "away_goals": 4,
@@ -5449,6 +7495,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/summary/stats/?mid=nuc2P7m6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=nuc2P7m6"
+  },
+  "p65MDReN": {
+    "away": "Willem II",
+    "away_goals": 1,
+    "date": "2012-08-19",
+    "home": "Groningen",
+    "home_goals": 1,
+    "id": "p65MDReN",
+    "source": "flashscore",
+    "source_status": "19.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/willem-ii-6u3qag0G/?mid=p65MDReN"
   },
   "pGYSvYU2": {
     "away": "Roda",
@@ -5574,6 +7632,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/venlo-UNA6IKFC/?mid=pIRX0z9J"
   },
+  "pMuj6GS8": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2012-12-23",
+    "home": "Feyenoord",
+    "home_goals": 2,
+    "id": "pMuj6GS8",
+    "source": "flashscore",
+    "source_status": "23.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/?mid=pMuj6GS8"
+  },
+  "pOhJym1d": {
+    "away": "Utrecht",
+    "away_goals": 2,
+    "date": "2012-10-21",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "pOhJym1d",
+    "source": "flashscore",
+    "source_status": "21.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/utrecht-p6QXMgOj/?mid=pOhJym1d"
+  },
+  "pSYtvqRP": {
+    "away": "Ajax",
+    "away_goals": 1,
+    "date": "2012-09-23",
+    "home": "Den Haag",
+    "home_goals": 1,
+    "id": "pSYtvqRP",
+    "source": "flashscore",
+    "source_status": "23.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/den-haag-lAgLCkT3/?mid=pSYtvqRP"
+  },
+  "pdE3xu94": {
+    "away": "Willem II",
+    "away_goals": 1,
+    "date": "2013-02-16",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "pdE3xu94",
+    "source": "flashscore",
+    "source_status": "16.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/?mid=pdE3xu94"
+  },
   "phvGHJkS": {
     "away": "Waalwijk",
     "away_goals": 0,
@@ -5635,6 +7741,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/waalwijk-lvM1vra5/summary/stats/?mid=phvGHJkS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/waalwijk-lvM1vra5/?mid=phvGHJkS"
+  },
+  "pxO3yp6K": {
+    "away": "Waalwijk",
+    "away_goals": 2,
+    "date": "2012-11-17",
+    "home": "Heerenveen",
+    "home_goals": 0,
+    "id": "pxO3yp6K",
+    "source": "flashscore",
+    "source_status": "17.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/waalwijk-lvM1vra5/?mid=pxO3yp6K"
+  },
+  "pxnIQsAh": {
+    "away": "Waalwijk",
+    "away_goals": 1,
+    "date": "2013-02-09",
+    "home": "Groningen",
+    "home_goals": 2,
+    "id": "pxnIQsAh",
+    "source": "flashscore",
+    "source_status": "09.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/waalwijk-lvM1vra5/?mid=pxnIQsAh"
+  },
+  "r1NlDFM9": {
+    "away": "Feyenoord",
+    "away_goals": 2,
+    "date": "2012-08-26",
+    "home": "Heracles",
+    "home_goals": 1,
+    "id": "r1NlDFM9",
+    "source": "flashscore",
+    "source_status": "26.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/heracles-bB3JbZpA/?mid=r1NlDFM9"
   },
   "rDmkxiWI": {
     "away": "Heerenveen",
@@ -5760,6 +7902,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/willem-ii-6u3qag0G/zwolle-r1L5w2EB/?mid=rPg8yKu8"
   },
+  "rcXxdHnB": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2012-10-20",
+    "home": "Roda",
+    "home_goals": 1,
+    "id": "rcXxdHnB",
+    "source": "flashscore",
+    "source_status": "20.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/twente-dhOKTHGA/?mid=rcXxdHnB"
+  },
+  "rceioFjq": {
+    "away": "Vitesse",
+    "away_goals": 1,
+    "date": "2012-12-22",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "rceioFjq",
+    "source": "flashscore",
+    "source_status": "22.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/?mid=rceioFjq"
+  },
+  "rgDnV20o": {
+    "away": "Waalwijk",
+    "away_goals": 0,
+    "date": "2012-12-01",
+    "home": "Feyenoord",
+    "home_goals": 2,
+    "id": "rgDnV20o",
+    "source": "flashscore",
+    "source_status": "01.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/waalwijk-lvM1vra5/?mid=rgDnV20o"
+  },
   "rgL3QgX6": {
     "away": "Den Haag",
     "away_goals": 1,
@@ -5821,6 +7999,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/den-haag-lAgLCkT3/summary/stats/?mid=rgL3QgX6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/den-haag-lAgLCkT3/?mid=rgL3QgX6"
+  },
+  "rk15bPQa": {
+    "away": "Roda",
+    "away_goals": 2,
+    "date": "2013-01-26",
+    "home": "Den Haag",
+    "home_goals": 2,
+    "id": "rk15bPQa",
+    "source": "flashscore",
+    "source_status": "26.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/roda-6FRTNZ8p/?mid=rk15bPQa"
+  },
+  "rkNzE4Qn": {
+    "away": "Heerenveen",
+    "away_goals": 1,
+    "date": "2013-02-01",
+    "home": "Waalwijk",
+    "home_goals": 0,
+    "id": "rkNzE4Qn",
+    "source": "flashscore",
+    "source_status": "01.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/waalwijk-lvM1vra5/?mid=rkNzE4Qn"
   },
   "rommgq7A": {
     "away": "Venlo",
@@ -5884,6 +8086,45 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/venlo-UNA6IKFC/?mid=rommgq7A"
   },
+  "tAYHdlwM": {
+    "away": "Willem II",
+    "away_goals": 0,
+    "date": "2012-10-27",
+    "home": "Den Haag",
+    "home_goals": 2,
+    "id": "tAYHdlwM",
+    "source": "flashscore",
+    "source_status": "27.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/willem-ii-6u3qag0G/?mid=tAYHdlwM"
+  },
+  "tCXT3Bqd": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2012-08-31",
+    "home": "Den Haag",
+    "home_goals": 0,
+    "id": "tCXT3Bqd",
+    "source": "flashscore",
+    "source_status": "31.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/groningen-MBUGcjb9/?mid=tCXT3Bqd"
+  },
+  "tE85H9db": {
+    "away": "Twente",
+    "away_goals": 1,
+    "date": "2012-08-18",
+    "home": "NAC Breda",
+    "home_goals": 0,
+    "id": "tE85H9db",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "18.08.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/twente-dhOKTHGA/?mid=tE85H9db"
+  },
   "tO7CzJwH": {
     "away": "Feyenoord",
     "away_goals": 2,
@@ -5945,6 +8186,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/zwolle-r1L5w2EB/summary/stats/?mid=tO7CzJwH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/zwolle-r1L5w2EB/?mid=tO7CzJwH"
+  },
+  "tSeeRarD": {
+    "away": "Roda",
+    "away_goals": 1,
+    "date": "2012-11-18",
+    "home": "Heracles",
+    "home_goals": 5,
+    "id": "tSeeRarD",
+    "source": "flashscore",
+    "source_status": "18.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/?mid=tSeeRarD"
   },
   "trSywCaF": {
     "away": "Waalwijk",
@@ -6070,6 +8323,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=ttgHR3aC"
   },
+  "txih85Jp": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2012-08-19",
+    "home": "AZ Alkmaar",
+    "home_goals": 3,
+    "id": "txih85Jp",
+    "source": "flashscore",
+    "source_status": "19.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heracles-bB3JbZpA/?mid=txih85Jp"
+  },
+  "v1GeSoSD": {
+    "away": "Den Haag",
+    "away_goals": 3,
+    "date": "2012-09-15",
+    "home": "Heerenveen",
+    "home_goals": 1,
+    "id": "v1GeSoSD",
+    "source": "flashscore",
+    "source_status": "15.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/heerenveen-EDjXSyWG/?mid=v1GeSoSD"
+  },
   "vDtdiNyN": {
     "away": "PSV",
     "away_goals": 3,
@@ -6131,6 +8408,66 @@
     "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/summary/stats/?mid=vDtdiNyN",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/?mid=vDtdiNyN"
+  },
+  "vHGqCrea": {
+    "away": "Zwolle",
+    "away_goals": 0,
+    "date": "2013-02-02",
+    "home": "NAC Breda",
+    "home_goals": 3,
+    "id": "vHGqCrea",
+    "source": "flashscore",
+    "source_status": "02.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/zwolle-r1L5w2EB/?mid=vHGqCrea"
+  },
+  "vTGcBgiM": {
+    "away": "Heerenveen",
+    "away_goals": 0,
+    "date": "2012-08-26",
+    "home": "AZ Alkmaar",
+    "home_goals": 0,
+    "id": "vTGcBgiM",
+    "source": "flashscore",
+    "source_status": "26.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/heerenveen-EDjXSyWG/?mid=vTGcBgiM"
+  },
+  "vVsiHLJC": {
+    "away": "Groningen",
+    "away_goals": 2,
+    "date": "2012-09-22",
+    "home": "Zwolle",
+    "home_goals": 1,
+    "id": "vVsiHLJC",
+    "source": "flashscore",
+    "source_status": "22.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/zwolle-r1L5w2EB/?mid=vVsiHLJC"
+  },
+  "vqNPVKY5": {
+    "away": "NAC Breda",
+    "away_goals": 0,
+    "date": "2012-09-29",
+    "home": "Heerenveen",
+    "home_goals": 2,
+    "id": "vqNPVKY5",
+    "source": "flashscore",
+    "source_status": "29.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/nac-breda-nLNrHc14/?mid=vqNPVKY5"
+  },
+  "vquf5zrF": {
+    "away": "Ajax",
+    "away_goals": 0,
+    "date": "2012-12-23",
+    "home": "Utrecht",
+    "home_goals": 0,
+    "id": "vquf5zrF",
+    "source": "flashscore",
+    "source_status": "23.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/utrecht-p6QXMgOj/?mid=vquf5zrF"
   },
   "x67IPGsk": {
     "away": "Heracles",
@@ -6256,6 +8593,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/nijmegen-nRluRF0T/?mid=x88M7rM3"
   },
+  "xGIOkerS": {
+    "away": "Twente",
+    "away_goals": 3,
+    "date": "2012-12-21",
+    "home": "AZ Alkmaar",
+    "home_goals": 0,
+    "id": "xGIOkerS",
+    "source": "flashscore",
+    "source_status": "21.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/twente-dhOKTHGA/?mid=xGIOkerS"
+  },
   "xOvOt9It": {
     "away": "AZ Alkmaar",
     "away_goals": 0,
@@ -6379,6 +8728,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/psv-M9UEHJWi/summary/stats/?mid=xSz8JuLF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/psv-M9UEHJWi/?mid=xSz8JuLF"
+  },
+  "xWAev1vh": {
+    "away": "Heracles",
+    "away_goals": 1,
+    "date": "2013-02-16",
+    "home": "NAC Breda",
+    "home_goals": 1,
+    "id": "xWAev1vh",
+    "source": "flashscore",
+    "source_status": "16.02.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nac-breda-nLNrHc14/?mid=xWAev1vh"
+  },
+  "xbkBw9Wq": {
+    "away": "Willem II",
+    "away_goals": 2,
+    "date": "2012-10-20",
+    "home": "PSV",
+    "home_goals": 3,
+    "id": "xbkBw9Wq",
+    "source": "flashscore",
+    "source_status": "20.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/willem-ii-6u3qag0G/?mid=xbkBw9Wq"
+  },
+  "xfsI0uYu": {
+    "away": "Heerenveen",
+    "away_goals": 3,
+    "date": "2012-10-06",
+    "home": "Vitesse",
+    "home_goals": 3,
+    "id": "xfsI0uYu",
+    "source": "flashscore",
+    "source_status": "06.10.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/vitesse-xdFA0eGc/?mid=xfsI0uYu"
+  },
+  "xj7UuKE3": {
+    "away": "Feyenoord",
+    "away_goals": 2,
+    "date": "2012-12-09",
+    "home": "NAC Breda",
+    "home_goals": 2,
+    "id": "xj7UuKE3",
+    "source": "flashscore",
+    "source_status": "09.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/nac-breda-nLNrHc14/?mid=xj7UuKE3"
   },
   "xjJfAyr2": {
     "away": "Zwolle",
@@ -6566,6 +8963,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/venlo-UNA6IKFC/?mid=xrPVYKK2"
   },
+  "xvgfo0Yh": {
+    "away": "Roda",
+    "away_goals": 2,
+    "date": "2012-09-30",
+    "home": "Groningen",
+    "home_goals": 3,
+    "id": "xvgfo0Yh",
+    "source": "flashscore",
+    "source_status": "30.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/roda-6FRTNZ8p/?mid=xvgfo0Yh"
+  },
+  "z3MMm8Cs": {
+    "away": "Roda",
+    "away_goals": 4,
+    "date": "2012-12-23",
+    "home": "Venlo",
+    "home_goals": 2,
+    "id": "z3MMm8Cs",
+    "source": "flashscore",
+    "source_status": "23.12.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/roda-6FRTNZ8p/venlo-UNA6IKFC/?mid=z3MMm8Cs"
+  },
   "zNYnUyYs": {
     "away": "Groningen",
     "away_goals": 1,
@@ -6627,6 +9048,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/roda-6FRTNZ8p/summary/stats/?mid=zNYnUyYs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/roda-6FRTNZ8p/?mid=zNYnUyYs"
+  },
+  "zPcc0odm": {
+    "away": "AZ Alkmaar",
+    "away_goals": 4,
+    "date": "2013-01-25",
+    "home": "Venlo",
+    "home_goals": 1,
+    "id": "zPcc0odm",
+    "source": "flashscore",
+    "source_status": "25.01.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/venlo-UNA6IKFC/?mid=zPcc0odm"
+  },
+  "zTm9HqWo": {
+    "away": "Groningen",
+    "away_goals": 1,
+    "date": "2012-11-24",
+    "home": "Waalwijk",
+    "home_goals": 1,
+    "id": "zTm9HqWo",
+    "source": "flashscore",
+    "source_status": "24.11.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/waalwijk-lvM1vra5/?mid=zTm9HqWo"
+  },
+  "zXud7pjl": {
+    "away": "Venlo",
+    "away_goals": 0,
+    "date": "2012-09-02",
+    "home": "Twente",
+    "home_goals": 1,
+    "id": "zXud7pjl",
+    "source": "flashscore",
+    "source_status": "02.09.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/venlo-UNA6IKFC/?mid=zXud7pjl"
+  },
+  "za2T5XEq": {
+    "away": "Twente",
+    "away_goals": 3,
+    "date": "2012-08-26",
+    "home": "Nijmegen",
+    "home_goals": 1,
+    "id": "za2T5XEq",
+    "source": "flashscore",
+    "source_status": "26.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/twente-dhOKTHGA/?mid=za2T5XEq"
   },
   "zmpsvD16": {
     "away": "Waalwijk",
@@ -6751,5 +9220,17 @@
     "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/vitesse-xdFA0eGc/summary/stats/?mid=zqSRo1ap",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/vitesse-xdFA0eGc/?mid=zqSRo1ap"
+  },
+  "zyKtFyhc": {
+    "away": "Zwolle",
+    "away_goals": 1,
+    "date": "2012-08-25",
+    "home": "Utrecht",
+    "home_goals": 1,
+    "id": "zyKtFyhc",
+    "source": "flashscore",
+    "source_status": "25.08.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/zwolle-r1L5w2EB/?mid=zyKtFyhc"
   }
 }

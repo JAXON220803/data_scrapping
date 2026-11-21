@@ -22700,8 +22700,68 @@
     "home": "Zwolle",
     "home_goals": 3,
     "id": "zyEG4zY4",
+    "shots": {
+      "AS": 18,
+      "AST": 7,
+      "HS": 18,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "04.03.2017",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/summary/stats/?mid=zyEG4zY4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/zwolle-r1L5w2EB/?mid=zyEG4zY4"
   }

@@ -1,17 +1,17 @@
 # Collection progress: in_progress
 
-**Missing matches filled: 4.69% — 1,410 / 30,073**
+**Missing matches filled: 4.69% — 1,411 / 30,073**
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-21T01:58:36.855682+00:00
+Updated: 2026-11-21T02:04:32.593544+00:00
 
 - Whole league-seasons selected: 115
-- Provider season tasks completed: 5/230
-- Provider match records downloaded: 3395
-- Provider records with all four shot values: 1755
-- Previously empty reference cells recovered: 5640
-- Reference matches still missing shot values: 28663
+- Provider season tasks completed: 6/230
+- Provider match records downloaded: 3598
+- Provider records with all four shot values: 1756
+- Previously empty reference cells recovered: 5644
+- Reference matches still missing shot values: 28662
 
 | Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps | Filled % |
 |---|---:|---:|---:|---:|
@@ -77,11 +77,11 @@ Updated: 2026-11-21T01:58:36.855682+00:00
 | Italy/I2/2020-2021 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | Netherlands/N1/2010-2011 | 0 / 0 / 0 | 104 / 104 / 0 | 306 | 0.00% |
 | Netherlands/N1/2011-2012 | 0 / 0 / 0 | 109 / 109 / 0 | 306 | 0.00% |
-| Netherlands/N1/2012-2013 | 0 / 0 / 0 | 109 / 109 / 109 | 214 | 30.07% |
+| Netherlands/N1/2012-2013 | 0 / 0 / 0 | 312 / 124 / 109 | 214 | 30.07% |
 | Netherlands/N1/2013-2014 | 0 / 0 / 0 | 107 / 107 / 91 | 221 | 27.78% |
 | Netherlands/N1/2014-2015 | 0 / 0 / 0 | 107 / 107 / 95 | 221 | 27.78% |
 | Netherlands/N1/2015-2016 | 0 / 0 / 0 | 107 / 107 / 107 | 221 | 27.78% |
-| Netherlands/N1/2016-2017 | 328 / 6 / 6 | 328 / 327 / 327 | 1 | 99.67% |
+| Netherlands/N1/2016-2017 | 328 / 6 / 6 | 328 / 328 / 328 | 0 | 100.00% |
 | Portugal/P1/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
 | Portugal/P1/2011-2012 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |
 | Portugal/P1/2012-2013 | 0 / 0 / 0 | 0 / 0 / 0 | 240 | 0.00% |

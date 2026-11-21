@@ -52960,6 +52960,46 @@
     "value": 4
   },
   {
+    "away": "Vitesse",
+    "date": "04/03/17",
+    "field": "AS",
+    "fixture_id": "zyEG4zY4",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 18
+  },
+  {
+    "away": "Vitesse",
+    "date": "04/03/17",
+    "field": "AST",
+    "fixture_id": "zyEG4zY4",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Vitesse",
+    "date": "04/03/17",
+    "field": "HS",
+    "fixture_id": "zyEG4zY4",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 18
+  },
+  {
+    "away": "Vitesse",
+    "date": "04/03/17",
+    "field": "HST",
+    "fixture_id": "zyEG4zY4",
+    "home": "Zwolle",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2016-2017",
+    "value": 6
+  },
+  {
     "away": "Excelsior",
     "date": "05/03/17",
     "field": "AS",

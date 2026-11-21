@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 1410,
-  "filled_cells_percent": 4.6886,
-  "filled_percent": 4.6886,
+  "completed_missing_matches": 1411,
+  "filled_cells_percent": 4.6919,
+  "filled_percent": 4.6919,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -9,16 +9,16 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "Netherlands/N1/2016-2017"
+      "target": "Netherlands/N1/2012-2013"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 3395,
-  "provider_records_with_all_shots": 1755,
-  "provider_records_with_statistics": 1755,
-  "recovered_cells": 5640,
+  "provider_fixture_records": 3598,
+  "provider_records_with_all_shots": 1756,
+  "provider_records_with_statistics": 1756,
+  "recovered_cells": 5644,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 28663,
+  "reference_matches_still_missing_shots": 28662,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2077,14 +2077,14 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 109,
-          "fixtures": 109,
-          "inventory_complete": false,
-          "inventory_shortfall": null,
+          "fixtures": 312,
+          "inventory_complete": true,
+          "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "inventory",
+          "phase": "statistics",
           "reason": null,
           "statistics_available": 109,
-          "statistics_checked": 109
+          "statistics_checked": 124
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -2199,24 +2199,24 @@
       }
     },
     {
-      "cells_recovered": 1220,
-      "completed_missing_matches": 305,
-      "filled_percent": 99.6732,
+      "cells_recovered": 1224,
+      "completed_missing_matches": 306,
+      "filled_percent": 100.0,
       "id": "Netherlands/N1/2016-2017",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 1,
+      "remaining_missing_shots": 0,
       "sources": {
         "flashscore": {
-          "all_shot_values": 327,
+          "all_shot_values": 328,
           "fixtures": 328,
           "inventory_complete": true,
           "inventory_shortfall": 0,
-          "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
-          "reason": null,
-          "statistics_available": 327,
-          "statistics_checked": 327
+          "last_error": null,
+          "phase": "done",
+          "reason": "all_source_fixtures_checked",
+          "statistics_available": 328,
+          "statistics_checked": 328
         },
         "sofascore": {
           "all_shot_values": 6,
@@ -3816,9 +3816,9 @@
       }
     }
   ],
-  "source_tasks_done": 5,
+  "source_tasks_done": 6,
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-21T01:58:36.855682+00:00"
+  "updated_utc": "2026-11-21T02:04:32.593544+00:00"
 }
