@@ -1478,8 +1478,58 @@
     "home": "Heerenveen",
     "home_goals": 4,
     "id": "8G2Qt0ac",
+    "shots": {
+      "AS": 10,
+      "AST": 10,
+      "HS": 11,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "09.12.2012",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/summary/stats/?mid=8G2Qt0ac",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/?mid=8G2Qt0ac"
   },
@@ -2625,8 +2675,58 @@
     "home": "Waalwijk",
     "home_goals": 2,
     "id": "EHLZJxhp",
+    "shots": {
+      "AS": 3,
+      "AST": 3,
+      "HS": 13,
+      "HST": 13
+    },
     "source": "flashscore",
     "source_status": "08.12.2012",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/waalwijk-lvM1vra5/summary/stats/?mid=EHLZJxhp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/waalwijk-lvM1vra5/?mid=EHLZJxhp"
   },
@@ -4874,8 +4974,11 @@
     "home": "Den Haag",
     "home_goals": 1,
     "id": "SKPwJd7j",
+    "shots": {},
     "source": "flashscore",
     "source_status": "08.12.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/zwolle-r1L5w2EB/?mid=SKPwJd7j"
   },
@@ -4987,8 +5090,58 @@
     "home": "Ajax",
     "home_goals": 2,
     "id": "UP3Mstpi",
+    "shots": {
+      "AS": 3,
+      "AST": 3,
+      "HS": 7,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "08.12.2012",
+    "statistics": [
+      {
+        "away": "33%",
+        "home": "67%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/summary/stats/?mid=UP3Mstpi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/groningen-MBUGcjb9/?mid=UP3Mstpi"
   },
@@ -5708,8 +5861,58 @@
     "home": "AZ Alkmaar",
     "home_goals": 0,
     "id": "b5ewvbqG",
+    "shots": {
+      "AS": 1,
+      "AST": 1,
+      "HS": 14,
+      "HST": 14
+    },
     "source": "flashscore",
     "source_status": "08.12.2012",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "1",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "14",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/willem-ii-6u3qag0G/summary/stats/?mid=b5ewvbqG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/willem-ii-6u3qag0G/?mid=b5ewvbqG"
   },
@@ -6592,8 +6795,58 @@
     "home": "Heracles",
     "home_goals": 1,
     "id": "dxZ7OIqT",
+    "shots": {
+      "AS": 3,
+      "AST": 3,
+      "HS": 7,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "07.12.2012",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/utrecht-p6QXMgOj/summary/stats/?mid=dxZ7OIqT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/utrecht-p6QXMgOj/?mid=dxZ7OIqT"
   },
@@ -7405,8 +7658,58 @@
     "home": "Utrecht",
     "home_goals": 2,
     "id": "jP37QvFG",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 5,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "02.12.2012",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/summary/stats/?mid=jP37QvFG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/utrecht-p6QXMgOj/?mid=jP37QvFG"
   },

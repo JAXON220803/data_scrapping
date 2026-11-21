@@ -30560,6 +30560,46 @@
     "value": 3
   },
   {
+    "away": "AZ Alkmaar",
+    "date": "02/12/12",
+    "field": "AS",
+    "fixture_id": "jP37QvFG",
+    "home": "Utrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 6
+  },
+  {
+    "away": "AZ Alkmaar",
+    "date": "02/12/12",
+    "field": "AST",
+    "fixture_id": "jP37QvFG",
+    "home": "Utrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 6
+  },
+  {
+    "away": "AZ Alkmaar",
+    "date": "02/12/12",
+    "field": "HS",
+    "fixture_id": "jP37QvFG",
+    "home": "Utrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 5
+  },
+  {
+    "away": "AZ Alkmaar",
+    "date": "02/12/12",
+    "field": "HST",
+    "fixture_id": "jP37QvFG",
+    "home": "Utrecht",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 5
+  },
+  {
     "away": "Roda",
     "date": "02/12/12",
     "field": "AS",
@@ -30598,6 +30638,206 @@
     "source": "flashscore",
     "target": "Netherlands/N1/2012-2013",
     "value": 9
+  },
+  {
+    "away": "Utrecht",
+    "date": "07/12/12",
+    "field": "AS",
+    "fixture_id": "dxZ7OIqT",
+    "home": "Heracles",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "Utrecht",
+    "date": "07/12/12",
+    "field": "AST",
+    "fixture_id": "dxZ7OIqT",
+    "home": "Heracles",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "Utrecht",
+    "date": "07/12/12",
+    "field": "HS",
+    "fixture_id": "dxZ7OIqT",
+    "home": "Heracles",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Utrecht",
+    "date": "07/12/12",
+    "field": "HST",
+    "fixture_id": "dxZ7OIqT",
+    "home": "Heracles",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Groningen",
+    "date": "08/12/12",
+    "field": "AS",
+    "fixture_id": "UP3Mstpi",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "Groningen",
+    "date": "08/12/12",
+    "field": "AST",
+    "fixture_id": "UP3Mstpi",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "Groningen",
+    "date": "08/12/12",
+    "field": "HS",
+    "fixture_id": "UP3Mstpi",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Groningen",
+    "date": "08/12/12",
+    "field": "HST",
+    "fixture_id": "UP3Mstpi",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 7
+  },
+  {
+    "away": "Willem II",
+    "date": "08/12/12",
+    "field": "AS",
+    "fixture_id": "b5ewvbqG",
+    "home": "AZ Alkmaar",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 1
+  },
+  {
+    "away": "Willem II",
+    "date": "08/12/12",
+    "field": "AST",
+    "fixture_id": "b5ewvbqG",
+    "home": "AZ Alkmaar",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 1
+  },
+  {
+    "away": "Willem II",
+    "date": "08/12/12",
+    "field": "HS",
+    "fixture_id": "b5ewvbqG",
+    "home": "AZ Alkmaar",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 14
+  },
+  {
+    "away": "Willem II",
+    "date": "08/12/12",
+    "field": "HST",
+    "fixture_id": "b5ewvbqG",
+    "home": "AZ Alkmaar",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 14
+  },
+  {
+    "away": "Nijmegen",
+    "date": "08/12/12",
+    "field": "AS",
+    "fixture_id": "EHLZJxhp",
+    "home": "Waalwijk",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "Nijmegen",
+    "date": "08/12/12",
+    "field": "AST",
+    "fixture_id": "EHLZJxhp",
+    "home": "Waalwijk",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 3
+  },
+  {
+    "away": "Nijmegen",
+    "date": "08/12/12",
+    "field": "HS",
+    "fixture_id": "EHLZJxhp",
+    "home": "Waalwijk",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 13
+  },
+  {
+    "away": "Nijmegen",
+    "date": "08/12/12",
+    "field": "HST",
+    "fixture_id": "EHLZJxhp",
+    "home": "Waalwijk",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 13
+  },
+  {
+    "away": "Roda",
+    "date": "09/12/12",
+    "field": "AS",
+    "fixture_id": "8G2Qt0ac",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 10
+  },
+  {
+    "away": "Roda",
+    "date": "09/12/12",
+    "field": "AST",
+    "fixture_id": "8G2Qt0ac",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 10
+  },
+  {
+    "away": "Roda",
+    "date": "09/12/12",
+    "field": "HS",
+    "fixture_id": "8G2Qt0ac",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 11
+  },
+  {
+    "away": "Roda",
+    "date": "09/12/12",
+    "field": "HST",
+    "fixture_id": "8G2Qt0ac",
+    "home": "Heerenveen",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 11
   },
   {
     "away": "Heerenveen",
