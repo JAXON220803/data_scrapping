@@ -2427,8 +2427,58 @@
     "home": "Vitesse",
     "home_goals": 2,
     "id": "C8LChcb9",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 3,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "16.12.2012",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/waalwijk-lvM1vra5/summary/stats/?mid=C8LChcb9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/waalwijk-lvM1vra5/?mid=C8LChcb9"
   },
@@ -3460,8 +3510,58 @@
     "home": "Nijmegen",
     "home_goals": 1,
     "id": "GtS3fJTd",
+    "shots": {
+      "AS": 3,
+      "AST": 3,
+      "HS": 4,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "15.12.2012",
+    "statistics": [
+      {
+        "away": "62%",
+        "home": "38%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/psv-M9UEHJWi/summary/stats/?mid=GtS3fJTd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/psv-M9UEHJWi/?mid=GtS3fJTd"
   },
@@ -4657,8 +4757,58 @@
     "home": "Groningen",
     "home_goals": 0,
     "id": "OnuIWFyj",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 3,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "15.12.2012",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/venlo-UNA6IKFC/summary/stats/?mid=OnuIWFyj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/venlo-UNA6IKFC/?mid=OnuIWFyj"
   },
@@ -5459,8 +5609,58 @@
     "home": "Utrecht",
     "home_goals": 3,
     "id": "UqW7gwq3",
+    "shots": {
+      "AS": 13,
+      "AST": 13,
+      "HS": 7,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "16.12.2012",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/summary/stats/?mid=UqW7gwq3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/utrecht-p6QXMgOj/?mid=UqW7gwq3"
   },
@@ -6436,8 +6636,58 @@
     "home": "Willem II",
     "home_goals": 2,
     "id": "bPJKjyTL",
+    "shots": {
+      "AS": 14,
+      "AST": 14,
+      "HS": 4,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.12.2012",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "7",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/summary/stats/?mid=bPJKjyTL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/willem-ii-6u3qag0G/?mid=bPJKjyTL"
   },
@@ -8032,8 +8282,58 @@
     "home": "Feyenoord",
     "home_goals": 3,
     "id": "jaKGiHDF",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 11,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "16.12.2012",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/feyenoord-8zjySeoN/summary/stats/?mid=jaKGiHDF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/feyenoord-8zjySeoN/?mid=jaKGiHDF"
   },
