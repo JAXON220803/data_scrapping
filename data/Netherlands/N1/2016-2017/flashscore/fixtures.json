@@ -718,8 +718,68 @@
     "home": "Vitesse",
     "home_goals": 0,
     "id": "0ttHoMRP",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 12,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "11.02.2017",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/willem-ii-6u3qag0G/summary/stats/?mid=0ttHoMRP",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/vitesse-xdFA0eGc/willem-ii-6u3qag0G/?mid=0ttHoMRP"
   },
@@ -730,8 +790,68 @@
     "home": "Excelsior",
     "home_goals": 1,
     "id": "0zqWE4lG",
+    "shots": {
+      "AS": 17,
+      "AST": 3,
+      "HS": 11,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "12.02.2017",
+    "statistics": [
+      {
+        "away": "64%",
+        "home": "36%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/twente-dhOKTHGA/summary/stats/?mid=0zqWE4lG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/twente-dhOKTHGA/?mid=0zqWE4lG"
   },
@@ -3898,8 +4018,68 @@
     "home": "Zwolle",
     "home_goals": 2,
     "id": "CKaMPv56",
+    "shots": {
+      "AS": 17,
+      "AST": 5,
+      "HS": 21,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "10.02.2017",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/zwolle-r1L5w2EB/summary/stats/?mid=CKaMPv56",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/zwolle-r1L5w2EB/?mid=CKaMPv56"
   },
@@ -7706,8 +7886,68 @@
     "home": "Feyenoord",
     "home_goals": 2,
     "id": "MksDn2CJ",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 17,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "11.02.2017",
+    "statistics": [
+      {
+        "away": "28%",
+        "home": "72%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "0",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/summary/stats/?mid=MksDn2CJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/groningen-MBUGcjb9/?mid=MksDn2CJ"
   },
@@ -12181,8 +12421,68 @@
     "home": "G.A. Eagles",
     "home_goals": 3,
     "id": "YZmVNIZI",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 16,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "11.02.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/g-a-eagles-hG8POBb8/summary/stats/?mid=YZmVNIZI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/g-a-eagles-hG8POBb8/?mid=YZmVNIZI"
   },
@@ -14514,8 +14814,68 @@
     "home": "Heracles",
     "home_goals": 2,
     "id": "fqkRObKC",
+    "shots": {
+      "AS": 17,
+      "AST": 5,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "11.02.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/summary/stats/?mid=fqkRObKC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/?mid=fqkRObKC"
   },
