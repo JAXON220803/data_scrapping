@@ -284,8 +284,68 @@
     "home": "G.A. Eagles",
     "home_goals": 1,
     "id": "0OnokeYH",
+    "shots": {
+      "AS": 13,
+      "AST": 8,
+      "HS": 9,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "26.02.2017",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/vitesse-xdFA0eGc/summary/stats/?mid=0OnokeYH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/g-a-eagles-hG8POBb8/vitesse-xdFA0eGc/?mid=0OnokeYH"
   },
@@ -7982,8 +8042,68 @@
     "home": "Heerenveen",
     "home_goals": 3,
     "id": "MXmsjyJB",
+    "shots": {
+      "AS": 8,
+      "AST": 0,
+      "HS": 20,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "25.02.2017",
+    "statistics": [
+      {
+        "away": "27%",
+        "home": "73%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/summary/stats/?mid=MXmsjyJB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/roda-6FRTNZ8p/?mid=MXmsjyJB"
   },
@@ -7994,8 +8114,68 @@
     "home": "Den Haag",
     "home_goals": 1,
     "id": "MkXvDrJS",
+    "shots": {
+      "AS": 11,
+      "AST": 3,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "24.02.2017",
+    "statistics": [
+      {
+        "away": "64%",
+        "home": "36%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "9",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/twente-dhOKTHGA/summary/stats/?mid=MkXvDrJS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/twente-dhOKTHGA/?mid=MkXvDrJS"
   },
@@ -9743,8 +9923,68 @@
     "home": "Excelsior",
     "home_goals": 0,
     "id": "SAlwiH35",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 14,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "25.02.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/willem-ii-6u3qag0G/summary/stats/?mid=SAlwiH35",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/excelsior-nNlLsRUr/willem-ii-6u3qag0G/?mid=SAlwiH35"
   },
@@ -12016,8 +12256,68 @@
     "home": "Groningen",
     "home_goals": 2,
     "id": "WreUhwZh",
+    "shots": {
+      "AS": 21,
+      "AST": 5,
+      "HS": 22,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "25.02.2017",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/utrecht-p6QXMgOj/summary/stats/?mid=WreUhwZh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/utrecht-p6QXMgOj/?mid=WreUhwZh"
   },
@@ -14410,8 +14710,68 @@
     "home": "Nijmegen",
     "home_goals": 0,
     "id": "djtfmZ2U",
+    "shots": {
+      "AS": 16,
+      "AST": 2,
+      "HS": 14,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "25.02.2017",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/sparta-rotterdam-KK4FaFV3/summary/stats/?mid=djtfmZ2U",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/sparta-rotterdam-KK4FaFV3/?mid=djtfmZ2U"
   },
