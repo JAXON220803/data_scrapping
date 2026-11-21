@@ -583,8 +583,58 @@
     "home": "Ajax",
     "home_goals": 3,
     "id": "481eTtVc",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "01.12.2012",
+    "statistics": [
+      {
+        "away": "35%",
+        "home": "65%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/summary/stats/?mid=481eTtVc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/psv-M9UEHJWi/?mid=481eTtVc"
   },
@@ -610,8 +660,11 @@
     "home": "AZ Alkmaar",
     "home_goals": 0,
     "id": "48uQD1VA",
+    "shots": {},
     "source": "flashscore",
     "source_status": "25.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/feyenoord-8zjySeoN/?mid=48uQD1VA"
   },
@@ -1680,8 +1733,11 @@
     "home": "Roda",
     "home_goals": 1,
     "id": "8tnHFN0b",
+    "shots": {},
     "source": "flashscore",
     "source_status": "25.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/roda-6FRTNZ8p/?mid=8tnHFN0b"
   },
@@ -1754,8 +1810,11 @@
     "home": "Twente",
     "home_goals": 2,
     "id": "A5rYBu0N",
+    "shots": {},
     "source": "flashscore",
     "source_status": "25.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/zwolle-r1L5w2EB/?mid=A5rYBu0N"
   },
@@ -3446,8 +3505,11 @@
     "home": "NAC Breda",
     "home_goals": 0,
     "id": "KIfaQJcJ",
+    "shots": {},
     "source": "flashscore",
     "source_status": "23.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/nac-breda-nLNrHc14/?mid=KIfaQJcJ"
   },
@@ -3704,8 +3766,11 @@
     "home": "Nijmegen",
     "home_goals": 2,
     "id": "MPq5IPGu",
+    "shots": {},
     "source": "flashscore",
     "source_status": "24.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/utrecht-p6QXMgOj/?mid=MPq5IPGu"
   },
@@ -4081,8 +4146,11 @@
     "home": "PSV",
     "home_goals": 1,
     "id": "QHtMEsG4",
+    "shots": {},
     "source": "flashscore",
     "source_status": "25.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/vitesse-xdFA0eGc/?mid=QHtMEsG4"
   },
@@ -4761,8 +4829,11 @@
     "home": "Willem II",
     "home_goals": 2,
     "id": "UkmDG3oh",
+    "shots": {},
     "source": "flashscore",
     "source_status": "24.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/willem-ii-6u3qag0G/?mid=UkmDG3oh"
   },
@@ -5724,8 +5795,11 @@
     "home": "Venlo",
     "home_goals": 1,
     "id": "bVvUCLpH",
+    "shots": {},
     "source": "flashscore",
     "source_status": "24.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/venlo-UNA6IKFC/?mid=bVvUCLpH"
   },
@@ -6342,8 +6416,11 @@
     "home": "Feyenoord",
     "home_goals": 3,
     "id": "fBcmTLD0",
+    "shots": {},
     "source": "flashscore",
     "source_status": "18.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/?mid=fBcmTLD0"
   },
@@ -6820,8 +6897,58 @@
     "home": "Zwolle",
     "home_goals": 0,
     "id": "hUXxBaFT",
+    "shots": {
+      "AS": 2,
+      "AST": 2,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "30.11.2012",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/venlo-UNA6IKFC/zwolle-r1L5w2EB/summary/stats/?mid=hUXxBaFT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/venlo-UNA6IKFC/zwolle-r1L5w2EB/?mid=hUXxBaFT"
   },
@@ -8461,8 +8588,11 @@
     "home": "Heracles",
     "home_goals": 5,
     "id": "tSeeRarD",
+    "shots": {},
     "source": "flashscore",
     "source_status": "18.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/?mid=tSeeRarD"
   },
@@ -9359,8 +9489,11 @@
     "home": "Waalwijk",
     "home_goals": 1,
     "id": "zTm9HqWo",
+    "shots": {},
     "source": "flashscore",
     "source_status": "24.11.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/waalwijk-lvM1vra5/?mid=zTm9HqWo"
   },

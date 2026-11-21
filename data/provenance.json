@@ -30320,6 +30320,46 @@
     "value": 6
   },
   {
+    "away": "PSV Eindhoven",
+    "date": "01/12/12",
+    "field": "AS",
+    "fixture_id": "481eTtVc",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 5
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "01/12/12",
+    "field": "AST",
+    "fixture_id": "481eTtVc",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 5
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "01/12/12",
+    "field": "HS",
+    "fixture_id": "481eTtVc",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 10
+  },
+  {
+    "away": "PSV Eindhoven",
+    "date": "01/12/12",
+    "field": "HST",
+    "fixture_id": "481eTtVc",
+    "home": "Ajax",
+    "source": "flashscore",
+    "target": "Netherlands/N1/2012-2013",
+    "value": 10
+  },
+  {
     "away": "Heerenveen",
     "date": "17/02/13",
     "field": "AS",
