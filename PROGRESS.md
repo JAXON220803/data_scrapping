@@ -4,7 +4,7 @@
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-21T02:10:39.958693+00:00
+Updated: 2026-11-21T02:16:52.438386+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 6/230
@@ -77,7 +77,7 @@ Updated: 2026-11-21T02:10:39.958693+00:00
 | Italy/I2/2020-2021 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | Netherlands/N1/2010-2011 | 0 / 0 / 0 | 104 / 104 / 0 | 306 | 0.00% |
 | Netherlands/N1/2011-2012 | 0 / 0 / 0 | 109 / 109 / 0 | 306 | 0.00% |
-| Netherlands/N1/2012-2013 | 0 / 0 / 0 | 312 / 144 / 109 | 214 | 30.07% |
+| Netherlands/N1/2012-2013 | 0 / 0 / 0 | 312 / 164 / 109 | 214 | 30.07% |
 | Netherlands/N1/2013-2014 | 0 / 0 / 0 | 107 / 107 / 91 | 221 | 27.78% |
 | Netherlands/N1/2014-2015 | 0 / 0 / 0 | 107 / 107 / 95 | 221 | 27.78% |
 | Netherlands/N1/2015-2016 | 0 / 0 / 0 | 107 / 107 / 107 | 221 | 27.78% |
