@@ -193,14 +193,14 @@ N1,09/02/13,Groningen,Waalwijk,2,1,H,10,5,10,5
 N1,09/02/13,Heerenveen,VVV Venlo,2,2,D,,,,
 N1,09/02/13,Heracles,Willem II,4,1,H,8,7,8,7
 N1,09/02/13,Vitesse,PSV Eindhoven,2,2,D,8,8,8,8
-N1,10/02/13,Ajax,Roda,1,1,D,,,,
-N1,10/02/13,Feyenoord,AZ Alkmaar,3,1,H,,,,
-N1,10/02/13,Utrecht,Nijmegen,0,3,A,,,,
-N1,10/02/13,Zwolle,Twente,1,1,D,,,,
+N1,10/02/13,Ajax,Roda,1,1,D,19,1,19,1
+N1,10/02/13,Feyenoord,AZ Alkmaar,3,1,H,11,10,11,10
+N1,10/02/13,Utrecht,Nijmegen,0,3,A,9,11,9,11
+N1,10/02/13,Zwolle,Twente,1,1,D,9,3,9,3
 N1,15/02/13,Nijmegen,VVV Venlo,1,2,A,,,,
 N1,16/02/13,NAC Breda,Heracles,1,1,D,,,,
 N1,16/02/13,PSV Eindhoven,Utrecht,2,1,H,,,,
-N1,16/02/13,Roda,AZ Alkmaar,2,2,D,,,,
+N1,16/02/13,Roda,AZ Alkmaar,2,2,D,13,6,13,6
 N1,16/02/13,Twente,Willem II,1,1,D,,,,
 N1,17/02/13,Den Haag,Heerenveen,2,1,H,6,11,6,11
 N1,17/02/13,Vitesse,Groningen,2,0,H,9,7,9,7
