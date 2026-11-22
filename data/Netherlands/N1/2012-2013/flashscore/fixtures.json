@@ -2059,8 +2059,58 @@
     "home": "Twente",
     "home_goals": 2,
     "id": "8d8080fO",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 12,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "03.02.2013",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/summary/stats/?mid=8d8080fO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/utrecht-p6QXMgOj/?mid=8d8080fO"
   },
@@ -4096,8 +4146,58 @@
     "home": "PSV",
     "home_goals": 7,
     "id": "I7FmB2A5",
+    "shots": {
+      "AS": 1,
+      "AST": 1,
+      "HS": 11,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "02.02.2013",
+    "statistics": [
+      {
+        "away": "35%",
+        "home": "65%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "8",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/psv-M9UEHJWi/summary/stats/?mid=I7FmB2A5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/psv-M9UEHJWi/?mid=I7FmB2A5"
   },
@@ -4905,8 +5005,58 @@
     "home": "Roda",
     "home_goals": 3,
     "id": "MuMvDOug",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "02.02.2013",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "26",
+        "home": "28",
+        "name": "Free kicks"
+      },
+      {
+        "away": "5",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/summary/stats/?mid=MuMvDOug",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/roda-6FRTNZ8p/?mid=MuMvDOug"
   },
@@ -5041,8 +5191,58 @@
     "home": "Willem II",
     "home_goals": 1,
     "id": "OMc9S3ut",
+    "shots": {
+      "AS": 14,
+      "AST": 14,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "03.02.2013",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/summary/stats/?mid=OMc9S3ut",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/feyenoord-8zjySeoN/willem-ii-6u3qag0G/?mid=OMc9S3ut"
   },
@@ -5483,8 +5683,58 @@
     "home": "Venlo",
     "home_goals": 0,
     "id": "QXIe9tuI",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 2,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "03.02.2013",
+    "statistics": [
+      {
+        "away": "63%",
+        "home": "37%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/venlo-UNA6IKFC/summary/stats/?mid=QXIe9tuI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/venlo-UNA6IKFC/?mid=QXIe9tuI"
   },
@@ -11222,8 +11472,58 @@
     "home": "NAC Breda",
     "home_goals": 3,
     "id": "vHGqCrea",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "02.02.2013",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/zwolle-r1L5w2EB/summary/stats/?mid=vHGqCrea",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nac-breda-nLNrHc14/zwolle-r1L5w2EB/?mid=vHGqCrea"
   },
