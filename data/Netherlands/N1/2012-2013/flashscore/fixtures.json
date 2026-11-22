@@ -6312,8 +6312,58 @@
     "home": "PSV",
     "home_goals": 2,
     "id": "SK38yaOA",
+    "shots": {
+      "AS": 4,
+      "AST": 4,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "16.02.2013",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/summary/stats/?mid=SK38yaOA",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/utrecht-p6QXMgOj/?mid=SK38yaOA"
   },
@@ -11057,8 +11107,58 @@
     "home": "Twente",
     "home_goals": 1,
     "id": "pdE3xu94",
+    "shots": {
+      "AS": 6,
+      "AST": 6,
+      "HS": 6,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "16.02.2013",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/summary/stats/?mid=pdE3xu94",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/twente-dhOKTHGA/willem-ii-6u3qag0G/?mid=pdE3xu94"
   },
@@ -12551,8 +12651,58 @@
     "home": "NAC Breda",
     "home_goals": 1,
     "id": "xWAev1vh",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 4,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "16.02.2013",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nac-breda-nLNrHc14/summary/stats/?mid=xWAev1vh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/nac-breda-nLNrHc14/?mid=xWAev1vh"
   },
