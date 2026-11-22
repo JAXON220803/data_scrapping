@@ -1,13 +1,13 @@
 {
-  "completed_missing_matches": 1455,
-  "filled_cells_percent": 4.8382,
-  "filled_percent": 4.8382,
+  "completed_missing_matches": 1460,
+  "filled_cells_percent": 4.8549,
+  "filled_percent": 4.8549,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Daily request budget reached (400/400); resumes next UTC day",
-      "requests": 0,
+      "reason": "Run request budget reached (20/20)",
+      "requests": 20,
       "status": "paused_by_budget",
       "target": "Netherlands/N1/2012-2013"
     },
@@ -22,11 +22,11 @@
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 3598,
-  "provider_records_with_all_shots": 1806,
-  "provider_records_with_statistics": 1806,
-  "recovered_cells": 5820,
+  "provider_records_with_all_shots": 1811,
+  "provider_records_with_statistics": 1811,
+  "recovered_cells": 5840,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 28618,
+  "reference_matches_still_missing_shots": 28613,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -2075,24 +2075,24 @@
       }
     },
     {
-      "cells_recovered": 544,
-      "completed_missing_matches": 136,
-      "filled_percent": 44.4444,
+      "cells_recovered": 564,
+      "completed_missing_matches": 141,
+      "filled_percent": 46.0784,
       "id": "Netherlands/N1/2012-2013",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 170,
+      "remaining_missing_shots": 165,
       "sources": {
         "flashscore": {
-          "all_shot_values": 159,
+          "all_shot_values": 164,
           "fixtures": 312,
           "inventory_complete": true,
           "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 159,
-          "statistics_checked": 286
+          "statistics_available": 164,
+          "statistics_checked": 291
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3828,5 +3828,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-21T23:12:30.540271+00:00"
+  "updated_utc": "2026-11-22T03:13:52.723671+00:00"
 }

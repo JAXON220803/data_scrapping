@@ -2843,8 +2843,58 @@
     "home": "AZ Alkmaar",
     "home_goals": 0,
     "id": "CUEiAMPB",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 11,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "02.02.2013",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "16",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/summary/stats/?mid=CUEiAMPB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/az-alkmaar-2RxOow1i/groningen-MBUGcjb9/?mid=CUEiAMPB"
   },
@@ -3349,8 +3399,58 @@
     "home": "Nijmegen",
     "home_goals": 2,
     "id": "EZW4JQ2P",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "27.01.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nijmegen-nRluRF0T/summary/stats/?mid=EZW4JQ2P",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/nijmegen-nRluRF0T/?mid=EZW4JQ2P"
   },
@@ -6849,8 +6949,58 @@
     "home": "Vitesse",
     "home_goals": 3,
     "id": "YwfIeNAI",
+    "shots": {
+      "AS": 9,
+      "AST": 9,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "27.01.2013",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/vitesse-xdFA0eGc/summary/stats/?mid=YwfIeNAI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ajax-8UOvIwnb/vitesse-xdFA0eGc/?mid=YwfIeNAI"
   },
@@ -9437,8 +9587,58 @@
     "home": "Utrecht",
     "home_goals": 3,
     "id": "lSNWEpBt",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "27.01.2013",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/willem-ii-6u3qag0G/summary/stats/?mid=lSNWEpBt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/utrecht-p6QXMgOj/willem-ii-6u3qag0G/?mid=lSNWEpBt"
   },
@@ -10560,8 +10760,58 @@
     "home": "Waalwijk",
     "home_goals": 0,
     "id": "rkNzE4Qn",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 9,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "01.02.2013",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/waalwijk-lvM1vra5/summary/stats/?mid=rkNzE4Qn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/waalwijk-lvM1vra5/?mid=rkNzE4Qn"
   },
