@@ -21360,6 +21360,46 @@
     "value": 2
   },
   {
+    "away": "Bielefeld",
+    "date": "12/02/17",
+    "field": "AS",
+    "fixture_id": "C22ULKQI",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 11
+  },
+  {
+    "away": "Bielefeld",
+    "date": "12/02/17",
+    "field": "AST",
+    "fixture_id": "C22ULKQI",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Bielefeld",
+    "date": "12/02/17",
+    "field": "HS",
+    "fixture_id": "C22ULKQI",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 21
+  },
+  {
+    "away": "Bielefeld",
+    "date": "12/02/17",
+    "field": "HST",
+    "fixture_id": "C22ULKQI",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 10
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
