@@ -20680,6 +20680,46 @@
     "value": 6
   },
   {
+    "away": "Stuttgart",
+    "date": "18/12/16",
+    "field": "AS",
+    "fixture_id": "zyAaa6Dl",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Stuttgart",
+    "date": "18/12/16",
+    "field": "AST",
+    "fixture_id": "zyAaa6Dl",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Stuttgart",
+    "date": "18/12/16",
+    "field": "HS",
+    "fixture_id": "zyAaa6Dl",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 18
+  },
+  {
+    "away": "Stuttgart",
+    "date": "18/12/16",
+    "field": "HST",
+    "fixture_id": "zyAaa6Dl",
+    "home": "Wurzburger Kickers",
+    "source": "flashscore",
+    "target": "Germany/D2/2016-2017",
+    "value": 6
+  },
+  {
     "away": "Nurnberg",
     "date": "05/03/17",
     "field": "AS",
