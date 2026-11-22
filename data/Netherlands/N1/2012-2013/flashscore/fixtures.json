@@ -386,8 +386,58 @@
     "home": "Den Haag",
     "home_goals": 2,
     "id": "2DdDRNfn",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 11,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "09.02.2013",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/nac-breda-nLNrHc14/summary/stats/?mid=2DdDRNfn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/den-haag-lAgLCkT3/nac-breda-nLNrHc14/?mid=2DdDRNfn"
   },
@@ -6849,8 +6899,58 @@
     "home": "Heerenveen",
     "home_goals": 2,
     "id": "WhlUNufB",
+    "shots": {
+      "AS": 3,
+      "AST": 3,
+      "HS": 20,
+      "HST": 20
+    },
     "source": "flashscore",
     "source_status": "09.02.2013",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "20",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/venlo-UNA6IKFC/summary/stats/?mid=WhlUNufB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heerenveen-EDjXSyWG/venlo-UNA6IKFC/?mid=WhlUNufB"
   },
@@ -7874,8 +7974,58 @@
     "home": "Vitesse",
     "home_goals": 2,
     "id": "bujMP1Pb",
+    "shots": {
+      "AS": 8,
+      "AST": 8,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "09.02.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/vitesse-xdFA0eGc/summary/stats/?mid=bujMP1Pb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/psv-M9UEHJWi/vitesse-xdFA0eGc/?mid=bujMP1Pb"
   },
@@ -8899,8 +9049,58 @@
     "home": "Heracles",
     "home_goals": 4,
     "id": "h2kQOLv5",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 8,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "09.02.2013",
+    "statistics": [
+      {
+        "away": "34%",
+        "home": "66%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "12",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/willem-ii-6u3qag0G/summary/stats/?mid=h2kQOLv5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heracles-bB3JbZpA/willem-ii-6u3qag0G/?mid=h2kQOLv5"
   },
@@ -10202,8 +10402,58 @@
     "home": "Nijmegen",
     "home_goals": 2,
     "id": "nm747K9U",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 12,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "03.02.2013",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "4",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "4",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/vitesse-xdFA0eGc/summary/stats/?mid=nm747K9U",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nijmegen-nRluRF0T/vitesse-xdFA0eGc/?mid=nm747K9U"
   },
@@ -10596,8 +10846,58 @@
     "home": "Groningen",
     "home_goals": 2,
     "id": "pxnIQsAh",
+    "shots": {
+      "AS": 5,
+      "AST": 5,
+      "HS": 10,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "09.02.2013",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/waalwijk-lvM1vra5/summary/stats/?mid=pxnIQsAh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/groningen-MBUGcjb9/waalwijk-lvM1vra5/?mid=pxnIQsAh"
   },
