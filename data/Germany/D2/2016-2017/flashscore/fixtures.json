@@ -9842,8 +9842,63 @@
     "home": "Bochum",
     "home_goals": 1,
     "id": "UJpvB3C0",
+    "shots": {
+      "AS": 18,
+      "AST": 5,
+      "HS": 16,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "05.02.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/summary/stats/?mid=UJpvB3C0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/?mid=UJpvB3C0"
   },
@@ -10347,8 +10402,63 @@
     "home": "Arminia Bielefeld",
     "home_goals": 2,
     "id": "WrVxW4lQ",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 11,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "03.02.2017",
+    "statistics": [
+      {
+        "away": "59%",
+        "home": "41%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/munich-1860-byXHwsJa/summary/stats/?mid=WrVxW4lQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/munich-1860-byXHwsJa/?mid=WrVxW4lQ"
   },
@@ -12898,8 +13008,63 @@
     "home": "Heidenheim",
     "home_goals": 2,
     "id": "hhWYWpZJ",
+    "shots": {
+      "AS": 15,
+      "AST": 5,
+      "HS": 21,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "04.02.2017",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/nurnberg-6FDqshzF/summary/stats/?mid=hhWYWpZJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/nurnberg-6FDqshzF/?mid=hhWYWpZJ"
   },
@@ -13714,8 +13879,63 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 0,
     "id": "l0B9QrCm",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 6,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "05.02.2017",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "12",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/union-berlin-pzHW4oaE/summary/stats/?mid=l0B9QrCm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/union-berlin-pzHW4oaE/?mid=l0B9QrCm"
   },
@@ -15528,8 +15748,63 @@
     "home": "Braunschweig",
     "home_goals": 1,
     "id": "rNlrANR6",
+    "shots": {
+      "AS": 15,
+      "AST": 4,
+      "HS": 12,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "05.02.2017",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/st-pauli-ILyJuN3g/summary/stats/?mid=rNlrANR6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/st-pauli-ILyJuN3g/?mid=rNlrANR6"
   },
@@ -17050,8 +17325,63 @@
     "home": "Sandhausen",
     "home_goals": 2,
     "id": "xQ75ROds",
+    "shots": {
+      "AS": 9,
+      "AST": 1,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "04.02.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/summary/stats/?mid=xQ75ROds",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/?mid=xQ75ROds"
   },
