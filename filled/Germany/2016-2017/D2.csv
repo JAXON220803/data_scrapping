@@ -172,9 +172,9 @@ D2,05/02/17,Dresden,Union Berlin,0,0,D,,,,
 D2,06/02/17,Stuttgart,Fortuna Dusseldorf,2,0,H,,,,
 D2,10/02/17,Erzgebirge Aue,Greuther Furth,0,0,D,,,,
 D2,10/02/17,Fortuna Dusseldorf,Kaiserslautern,1,1,D,,,,
-D2,10/02/17,Nurnberg,Braunschweig,1,1,D,,,,
-D2,11/02/17,Munich 1860,Karlsruhe,2,1,H,,,,
-D2,11/02/17,Wurzburger Kickers,Heidenheim,0,2,A,,,,
+D2,10/02/17,Nurnberg,Braunschweig,1,1,D,24,12,10,3
+D2,11/02/17,Munich 1860,Karlsruhe,2,1,H,15,10,4,3
+D2,11/02/17,Wurzburger Kickers,Heidenheim,0,2,A,6,12,2,4
 D2,12/02/17,St Pauli,Dresden,2,0,H,,,,
 D2,12/02/17,Stuttgart,Sandhausen,2,1,H,,,,
 D2,12/02/17,Union Berlin,Bielefeld,3,1,H,,,,
