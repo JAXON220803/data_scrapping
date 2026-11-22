@@ -6,15 +6,22 @@
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Show more matches\", exact=True)\n    - locator resolved to <button data-testid=\"wcl-bu",
-      "requests": 11,
-      "retry_at": 1795322137.2729502,
-      "status": "adapter_error",
+      "reason": "Run request budget reached (20/20)",
+      "requests": 20,
+      "status": "paused_by_budget",
       "target": "Netherlands/N1/2010-2011"
+    },
+    "sofascore": {
+      "previous_status": "Blocked",
+      "reason": "HTTP 403: source denied access",
+      "requests": 0,
+      "retry_at": 1795368538.0136318,
+      "status": "waiting_after_error",
+      "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 3598,
+  "provider_fixture_records": 3806,
   "provider_records_with_all_shots": 1832,
   "provider_records_with_statistics": 1832,
   "recovered_cells": 5912,
@@ -2012,14 +2019,14 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 104,
-          "inventory_complete": false,
-          "inventory_shortfall": null,
+          "fixtures": 312,
+          "inventory_complete": true,
+          "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "inventory",
+          "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 104
+          "statistics_checked": 118
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3821,5 +3828,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-22T03:35:47.507366+00:00"
+  "updated_utc": "2026-11-22T11:21:51.103986+00:00"
 }
