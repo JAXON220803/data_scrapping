@@ -10440,6 +10440,246 @@
     "value": 15
   },
   {
+    "away": "Aalen",
+    "date": "24/08/14",
+    "field": "AS",
+    "fixture_id": "fJeRgWUB",
+    "home": "Darmstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 19
+  },
+  {
+    "away": "Aalen",
+    "date": "24/08/14",
+    "field": "AST",
+    "fixture_id": "fJeRgWUB",
+    "home": "Darmstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 7
+  },
+  {
+    "away": "Aalen",
+    "date": "24/08/14",
+    "field": "HS",
+    "fixture_id": "fJeRgWUB",
+    "home": "Darmstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 11
+  },
+  {
+    "away": "Aalen",
+    "date": "24/08/14",
+    "field": "HST",
+    "fixture_id": "fJeRgWUB",
+    "home": "Darmstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/08/14",
+    "field": "AS",
+    "fixture_id": "Qw4AcEVn",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 6
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/08/14",
+    "field": "AST",
+    "fixture_id": "Qw4AcEVn",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 4
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/08/14",
+    "field": "HS",
+    "fixture_id": "Qw4AcEVn",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 11
+  },
+  {
+    "away": "Greuther Furth",
+    "date": "24/08/14",
+    "field": "HST",
+    "fixture_id": "Qw4AcEVn",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "Braunschweig",
+    "date": "24/08/14",
+    "field": "AS",
+    "fixture_id": "hjZeviVO",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Braunschweig",
+    "date": "24/08/14",
+    "field": "AST",
+    "fixture_id": "hjZeviVO",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 6
+  },
+  {
+    "away": "Braunschweig",
+    "date": "24/08/14",
+    "field": "HS",
+    "fixture_id": "hjZeviVO",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 16
+  },
+  {
+    "away": "Braunschweig",
+    "date": "24/08/14",
+    "field": "HST",
+    "fixture_id": "hjZeviVO",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Union Berlin",
+    "date": "25/08/14",
+    "field": "AS",
+    "fixture_id": "4U2EdYpg",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Union Berlin",
+    "date": "25/08/14",
+    "field": "AST",
+    "fixture_id": "4U2EdYpg",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 5
+  },
+  {
+    "away": "Union Berlin",
+    "date": "25/08/14",
+    "field": "HS",
+    "fixture_id": "4U2EdYpg",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 18
+  },
+  {
+    "away": "Union Berlin",
+    "date": "25/08/14",
+    "field": "HST",
+    "fixture_id": "4U2EdYpg",
+    "home": "Bochum",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "29/08/14",
+    "field": "AS",
+    "fixture_id": "b5siAiFh",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 19
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "29/08/14",
+    "field": "AST",
+    "fixture_id": "b5siAiFh",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 11
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "29/08/14",
+    "field": "HS",
+    "fixture_id": "b5siAiFh",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "29/08/14",
+    "field": "HST",
+    "fixture_id": "b5siAiFh",
+    "home": "Aalen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Nurnberg",
+    "date": "29/08/14",
+    "field": "AS",
+    "fixture_id": "4rrmBXan",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 12
+  },
+  {
+    "away": "Nurnberg",
+    "date": "29/08/14",
+    "field": "AST",
+    "fixture_id": "4rrmBXan",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 8
+  },
+  {
+    "away": "Nurnberg",
+    "date": "29/08/14",
+    "field": "HS",
+    "fixture_id": "4rrmBXan",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 15
+  },
+  {
+    "away": "Nurnberg",
+    "date": "29/08/14",
+    "field": "HST",
+    "fixture_id": "4rrmBXan",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 7
+  },
+  {
     "away": "Union Berlin",
     "date": "01/03/15",
     "field": "AS",
