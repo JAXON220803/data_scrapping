@@ -1645,8 +1645,68 @@
     "home": "Karlsruher SC",
     "home_goals": 0,
     "id": "6XNPC5hl",
+    "shots": {
+      "AS": 10,
+      "AST": 7,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "27.09.2014",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "35",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/summary/stats/?mid=6XNPC5hl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/?mid=6XNPC5hl"
   },
@@ -2256,8 +2316,68 @@
     "home": "FSV Frankfurt",
     "home_goals": 3,
     "id": "APKt9NiD",
+    "shots": {
+      "AS": 13,
+      "AST": 6,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "28.09.2014",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/summary/stats/?mid=APKt9NiD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/?mid=APKt9NiD"
   },
@@ -5556,8 +5676,68 @@
     "home": "Dusseldorf",
     "home_goals": 2,
     "id": "O8IUBP7f",
+    "shots": {
+      "AS": 14,
+      "AST": 8,
+      "HS": 16,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "28.09.2014",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "41",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "28",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/rb-leipzig-KbS1suSm/summary/stats/?mid=O8IUBP7f",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/rb-leipzig-KbS1suSm/?mid=O8IUBP7f"
   },
@@ -6654,8 +6834,68 @@
     "home": "Braunschweig",
     "home_goals": 2,
     "id": "StPLDowr",
+    "shots": {
+      "AS": 10,
+      "AST": 2,
+      "HS": 18,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "26.09.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "42",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/sandhausen-UZxEj1R4/summary/stats/?mid=StPLDowr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/sandhausen-UZxEj1R4/?mid=StPLDowr"
   },
@@ -8643,8 +8883,68 @@
     "home": "Union Berlin",
     "home_goals": 1,
     "id": "dMGxA3x7",
+    "shots": {
+      "AS": 14,
+      "AST": 8,
+      "HS": 3,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "27.09.2014",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "3",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "28",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/union-berlin-pzHW4oaE/summary/stats/?mid=dMGxA3x7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/union-berlin-pzHW4oaE/?mid=dMGxA3x7"
   },
@@ -9906,8 +10206,68 @@
     "home": "Heidenheim",
     "home_goals": 5,
     "id": "jLcTWQqK",
+    "shots": {
+      "AS": 20,
+      "AST": 13,
+      "HS": 12,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "28.09.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/heidenheim-KWixEVWi/summary/stats/?mid=jLcTWQqK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/heidenheim-KWixEVWi/?mid=jLcTWQqK"
   },
