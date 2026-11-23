@@ -20528,8 +20528,63 @@
     "home": "Munich 1860",
     "home_goals": 1,
     "id": "zssiRzKe",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 14,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "04.03.2017",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "11",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/summary/stats/?mid=zssiRzKe",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/?mid=zssiRzKe"
   },

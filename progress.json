@@ -1,7 +1,7 @@
 {
-  "completed_missing_matches": 1513,
-  "filled_cells_percent": 5.0311,
-  "filled_percent": 5.0311,
+  "completed_missing_matches": 1517,
+  "filled_cells_percent": 5.0444,
+  "filled_percent": 5.0444,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
@@ -9,16 +9,16 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "Germany/D2/2016-2017"
+      "target": "Germany/D2/2014-2015"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 3806,
-  "provider_records_with_all_shots": 1883,
-  "provider_records_with_statistics": 1883,
-  "recovered_cells": 6052,
+  "provider_fixture_records": 4009,
+  "provider_records_with_all_shots": 1889,
+  "provider_records_with_statistics": 1889,
+  "recovered_cells": 6068,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 28560,
+  "reference_matches_still_missing_shots": 28556,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1242,24 +1242,24 @@
       }
     },
     {
-      "cells_recovered": 316,
-      "completed_missing_matches": 79,
-      "filled_percent": 25.817,
+      "cells_recovered": 328,
+      "completed_missing_matches": 82,
+      "filled_percent": 26.7974,
       "id": "Germany/D2/2014-2015",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 227,
+      "remaining_missing_shots": 224,
       "sources": {
         "flashscore": {
-          "all_shot_values": 105,
-          "fixtures": 105,
-          "inventory_complete": false,
-          "inventory_shortfall": null,
+          "all_shot_values": 110,
+          "fixtures": 308,
+          "inventory_complete": true,
+          "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "inventory",
+          "phase": "statistics",
           "reason": null,
-          "statistics_available": 105,
-          "statistics_checked": 105
+          "statistics_available": 110,
+          "statistics_checked": 110
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -1308,24 +1308,24 @@
       }
     },
     {
-      "cells_recovered": 836,
-      "completed_missing_matches": 209,
-      "filled_percent": 68.3007,
+      "cells_recovered": 840,
+      "completed_missing_matches": 210,
+      "filled_percent": 68.6275,
       "id": "Germany/D2/2016-2017",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 97,
+      "remaining_missing_shots": 96,
       "sources": {
         "flashscore": {
-          "all_shot_values": 307,
+          "all_shot_values": 308,
           "fixtures": 308,
           "inventory_complete": true,
           "inventory_shortfall": 0,
-          "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
-          "reason": null,
-          "statistics_available": 307,
-          "statistics_checked": 307
+          "last_error": null,
+          "phase": "done",
+          "reason": "all_source_fixtures_checked",
+          "statistics_available": 308,
+          "statistics_checked": 308
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3816,9 +3816,9 @@
       }
     }
   ],
-  "source_tasks_done": 8,
+  "source_tasks_done": 9,
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-23T00:40:10.604861+00:00"
+  "updated_utc": "2026-11-23T00:46:37.329859+00:00"
 }

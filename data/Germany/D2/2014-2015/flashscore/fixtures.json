@@ -200,6 +200,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/nurnberg-6FDqshzF/?mid=0KlY4uWq"
   },
+  "0QPKXLn4": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2014-12-21",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "0QPKXLn4",
+    "source": "flashscore",
+    "source_status": "21.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/sandhausen-UZxEj1R4/?mid=0QPKXLn4"
+  },
+  "0Ua8hs6t": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2014-10-25",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "0Ua8hs6t",
+    "source": "flashscore",
+    "source_status": "25.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/?mid=0Ua8hs6t"
+  },
+  "0fqaR47s": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2014-10-04",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "0fqaR47s",
+    "source": "flashscore",
+    "source_status": "04.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/?mid=0fqaR47s"
+  },
+  "0l87OH9j": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2014-12-22",
+    "home": "RB Leipzig",
+    "home_goals": 1,
+    "id": "0l87OH9j",
+    "source": "flashscore",
+    "source_status": "22.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/rb-leipzig-KbS1suSm/?mid=0l87OH9j"
+  },
   "0pGKYGkl": {
     "away": "Nurnberg",
     "away_goals": 0,
@@ -266,6 +314,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/st-pauli-ILyJuN3g/summary/stats/?mid=0pGKYGkl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/st-pauli-ILyJuN3g/?mid=0pGKYGkl"
+  },
+  "0zLnrZVa": {
+    "away": "Kaiserslautern",
+    "away_goals": 1,
+    "date": "2014-08-10",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "0zLnrZVa",
+    "source": "flashscore",
+    "source_status": "10.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/sandhausen-UZxEj1R4/?mid=0zLnrZVa"
+  },
+  "23NG4mqU": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2014-09-14",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "23NG4mqU",
+    "source": "flashscore",
+    "source_status": "14.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/?mid=23NG4mqU"
   },
   "29zpuJCK": {
     "away": "Union Berlin",
@@ -401,6 +473,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/nurnberg-6FDqshzF/?mid=2BmrFPgi"
   },
+  "2DAXavWd": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2015-02-15",
+    "home": "Nurnberg",
+    "home_goals": 3,
+    "id": "2DAXavWd",
+    "source": "flashscore",
+    "source_status": "15.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/union-berlin-pzHW4oaE/?mid=2DAXavWd"
+  },
+  "2J7YBvQp": {
+    "away": "Darmstadt",
+    "away_goals": 2,
+    "date": "2014-12-17",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "2J7YBvQp",
+    "source": "flashscore",
+    "source_status": "17.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/sandhausen-UZxEj1R4/?mid=2J7YBvQp"
+  },
+  "2JVtMOmh": {
+    "away": "Heidenheim",
+    "away_goals": 1,
+    "date": "2014-12-12",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "2JVtMOmh",
+    "source": "flashscore",
+    "source_status": "12.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/heidenheim-KWixEVWi/?mid=2JVtMOmh"
+  },
   "2NmRaxRk": {
     "away": "Munich 1860",
     "away_goals": 0,
@@ -467,6 +575,66 @@
     "statistics_url": "https://www.flashscore.com/match/football/holstein-kiel-63WsD2ei/munich-1860-byXHwsJa/summary/stats/?mid=2NmRaxRk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/holstein-kiel-63WsD2ei/munich-1860-byXHwsJa/?mid=2NmRaxRk"
+  },
+  "2aHYAqN0": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2014-09-26",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "2aHYAqN0",
+    "source": "flashscore",
+    "source_status": "26.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/munich-1860-byXHwsJa/?mid=2aHYAqN0"
+  },
+  "2gnjm1ni": {
+    "away": "Ingolstadt",
+    "away_goals": 2,
+    "date": "2014-12-21",
+    "home": "Darmstadt",
+    "home_goals": 2,
+    "id": "2gnjm1ni",
+    "source": "flashscore",
+    "source_status": "21.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/ingolstadt-ne5QkLtB/?mid=2gnjm1ni"
+  },
+  "42nrrllj": {
+    "away": "Karlsruher SC",
+    "away_goals": 3,
+    "date": "2014-11-09",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "42nrrllj",
+    "source": "flashscore",
+    "source_status": "09.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/karlsruher-EB3q7jbk/?mid=42nrrllj"
+  },
+  "48Rwpe1m": {
+    "away": "Darmstadt",
+    "away_goals": 2,
+    "date": "2014-08-10",
+    "home": "Ingolstadt",
+    "home_goals": 2,
+    "id": "48Rwpe1m",
+    "source": "flashscore",
+    "source_status": "10.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/ingolstadt-ne5QkLtB/?mid=48Rwpe1m"
+  },
+  "4Ir7qJoG": {
+    "away": "Heidenheim",
+    "away_goals": 2,
+    "date": "2015-02-09",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "4Ir7qJoG",
+    "source": "flashscore",
+    "source_status": "09.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/munich-1860-byXHwsJa/?mid=4Ir7qJoG"
   },
   "4Kiv9WAd": {
     "away": "Aalen",
@@ -535,6 +703,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/munich-1860-byXHwsJa/?mid=4Kiv9WAd"
   },
+  "4U2EdYpg": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2014-08-25",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "4U2EdYpg",
+    "source": "flashscore",
+    "source_status": "25.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/union-berlin-pzHW4oaE/?mid=4U2EdYpg"
+  },
+  "4bbai7qf": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2015-02-20",
+    "home": "Aalen",
+    "home_goals": 1,
+    "id": "4bbai7qf",
+    "source": "flashscore",
+    "source_status": "20.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/ingolstadt-ne5QkLtB/?mid=4bbai7qf"
+  },
   "4f8mz99e": {
     "away": "Aalen",
     "away_goals": 1,
@@ -601,6 +793,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/union-berlin-pzHW4oaE/summary/stats/?mid=4f8mz99e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/union-berlin-pzHW4oaE/?mid=4f8mz99e"
+  },
+  "4pJQx8U0": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2015-02-15",
+    "home": "RB Leipzig",
+    "home_goals": 0,
+    "id": "4pJQx8U0",
+    "source": "flashscore",
+    "source_status": "15.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/rb-leipzig-KbS1suSm/?mid=4pJQx8U0"
+  },
+  "4rScItmH": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2014-12-16",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "4rScItmH",
+    "source": "flashscore",
+    "source_status": "16.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/union-berlin-pzHW4oaE/?mid=4rScItmH"
+  },
+  "4rj46OW7": {
+    "away": "Kaiserslautern",
+    "away_goals": 3,
+    "date": "2014-11-30",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "4rj46OW7",
+    "source": "flashscore",
+    "source_status": "30.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/?mid=4rj46OW7"
+  },
+  "4rrmBXan": {
+    "away": "Nurnberg",
+    "away_goals": 4,
+    "date": "2014-08-29",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "4rrmBXan",
+    "source": "flashscore",
+    "source_status": "29.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/union-berlin-pzHW4oaE/?mid=4rrmBXan"
   },
   "4tTEL9f2": {
     "away": "Karlsruher SC",
@@ -870,6 +1110,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/?mid=6JSCtBWR"
   },
+  "6NIOc96Q": {
+    "away": "Nurnberg",
+    "away_goals": 3,
+    "date": "2015-02-22",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "6NIOc96Q",
+    "source": "flashscore",
+    "source_status": "22.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/nurnberg-6FDqshzF/?mid=6NIOc96Q"
+  },
   "6PVMXFmc": {
     "away": "St. Pauli",
     "away_goals": 0,
@@ -1014,6 +1266,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/?mid=6R0TDLdO"
   },
+  "6RhCIUP2": {
+    "away": "Greuther Furth",
+    "away_goals": 3,
+    "date": "2014-11-24",
+    "home": "Dusseldorf",
+    "home_goals": 3,
+    "id": "6RhCIUP2",
+    "source": "flashscore",
+    "source_status": "24.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/?mid=6RhCIUP2"
+  },
+  "6XNPC5hl": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2014-09-27",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "6XNPC5hl",
+    "source": "flashscore",
+    "source_status": "27.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/?mid=6XNPC5hl"
+  },
+  "6gNw3z8P": {
+    "away": "Karlsruher SC",
+    "away_goals": 2,
+    "date": "2014-08-23",
+    "home": "Dusseldorf",
+    "home_goals": 0,
+    "id": "6gNw3z8P",
+    "source": "flashscore",
+    "source_status": "23.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/karlsruher-EB3q7jbk/?mid=6gNw3z8P"
+  },
+  "6mUnV798": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2014-11-29",
+    "home": "Ingolstadt",
+    "home_goals": 3,
+    "id": "6mUnV798",
+    "source": "flashscore",
+    "source_status": "29.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/ingolstadt-ne5QkLtB/?mid=6mUnV798"
+  },
   "8AubnzKm": {
     "away": "Munich 1860",
     "away_goals": 1,
@@ -1080,6 +1380,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/summary/stats/?mid=8AubnzKm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/?mid=8AubnzKm"
+  },
+  "8IPHvUal": {
+    "away": "Braunschweig",
+    "away_goals": 2,
+    "date": "2015-02-13",
+    "home": "Bochum",
+    "home_goals": 3,
+    "id": "8IPHvUal",
+    "source": "flashscore",
+    "source_status": "13.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/braunschweig-QqLCC3il/?mid=8IPHvUal"
+  },
+  "8IoDmAQS": {
+    "away": "Darmstadt",
+    "away_goals": 1,
+    "date": "2014-11-01",
+    "home": "Heidenheim",
+    "home_goals": 1,
+    "id": "8IoDmAQS",
+    "source": "flashscore",
+    "source_status": "01.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/heidenheim-KWixEVWi/?mid=8IoDmAQS"
   },
   "8SEvxVvq": {
     "away": "St. Pauli",
@@ -1148,6 +1472,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/st-pauli-ILyJuN3g/?mid=8SEvxVvq"
   },
+  "8W4jgTEs": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2015-02-21",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "8W4jgTEs",
+    "source": "flashscore",
+    "source_status": "21.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/?mid=8W4jgTEs"
+  },
+  "8dWxN4Yo": {
+    "away": "Dusseldorf",
+    "away_goals": 2,
+    "date": "2014-12-13",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "8dWxN4Yo",
+    "source": "flashscore",
+    "source_status": "13.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/?mid=8dWxN4Yo"
+  },
+  "8f3GjLzg": {
+    "away": "Karlsruher SC",
+    "away_goals": 4,
+    "date": "2014-10-25",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "8f3GjLzg",
+    "source": "flashscore",
+    "source_status": "25.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/st-pauli-ILyJuN3g/?mid=8f3GjLzg"
+  },
+  "8htR56bm": {
+    "away": "FSV Frankfurt",
+    "away_goals": 3,
+    "date": "2015-02-27",
+    "home": "Bochum",
+    "home_goals": 3,
+    "id": "8htR56bm",
+    "source": "flashscore",
+    "source_status": "27.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/fsv-frankfurt-CG1hDqLC/?mid=8htR56bm"
+  },
+  "8jTSVaHG": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2014-12-19",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "8jTSVaHG",
+    "source": "flashscore",
+    "source_status": "19.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/union-berlin-pzHW4oaE/?mid=8jTSVaHG"
+  },
+  "8jkbouH3": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2015-02-06",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "8jkbouH3",
+    "source": "flashscore",
+    "source_status": "06.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/ingolstadt-ne5QkLtB/?mid=8jkbouH3"
+  },
   "8l6woouB": {
     "away": "Bochum",
     "away_goals": 4,
@@ -1214,6 +1610,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/bochum-8Y2m6ADe/summary/stats/?mid=8l6woouB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/bochum-8Y2m6ADe/?mid=8l6woouB"
+  },
+  "A1xfIRUQ": {
+    "away": "Kaiserslautern",
+    "away_goals": 2,
+    "date": "2014-09-29",
+    "home": "Nurnberg",
+    "home_goals": 3,
+    "id": "A1xfIRUQ",
+    "source": "flashscore",
+    "source_status": "29.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/nurnberg-6FDqshzF/?mid=A1xfIRUQ"
+  },
+  "A5hecQh1": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2014-09-23",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "A5hecQh1",
+    "source": "flashscore",
+    "source_status": "23.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/?mid=A5hecQh1"
   },
   "AH0jC8LJ": {
     "away": "Aue",
@@ -1349,6 +1769,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/nurnberg-6FDqshzF/?mid=AHxr2OcC"
   },
+  "APKt9NiD": {
+    "away": "St. Pauli",
+    "away_goals": 3,
+    "date": "2014-09-28",
+    "home": "FSV Frankfurt",
+    "home_goals": 3,
+    "id": "APKt9NiD",
+    "source": "flashscore",
+    "source_status": "28.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/?mid=APKt9NiD"
+  },
+  "ARXvqUYq": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2014-11-03",
+    "home": "RB Leipzig",
+    "home_goals": 0,
+    "id": "ARXvqUYq",
+    "source": "flashscore",
+    "source_status": "03.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/rb-leipzig-KbS1suSm/?mid=ARXvqUYq"
+  },
   "AkWOR2wc": {
     "away": "FSV Frankfurt",
     "away_goals": 3,
@@ -1415,6 +1859,78 @@
     "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/summary/stats/?mid=AkWOR2wc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/?mid=AkWOR2wc"
+  },
+  "AkxHrYi7": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2014-08-02",
+    "home": "RB Leipzig",
+    "home_goals": 0,
+    "id": "AkxHrYi7",
+    "shots": {
+      "AS": 3,
+      "AST": 2,
+      "HS": 20,
+      "HST": 11
+    },
+    "source": "flashscore",
+    "source_status": "02.08.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "31",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/rb-leipzig-KbS1suSm/summary/stats/?mid=AkxHrYi7",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/rb-leipzig-KbS1suSm/?mid=AkxHrYi7"
   },
   "AyijD3O3": {
     "away": "RB Leipzig",
@@ -1483,6 +1999,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/rb-leipzig-KbS1suSm/?mid=AyijD3O3"
   },
+  "C6O5Odhg": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2014-12-06",
+    "home": "Darmstadt",
+    "home_goals": 0,
+    "id": "C6O5Odhg",
+    "source": "flashscore",
+    "source_status": "06.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/greuther-furth-CCQGbik8/?mid=C6O5Odhg"
+  },
+  "C8oe9BUb": {
+    "away": "Ingolstadt",
+    "away_goals": 3,
+    "date": "2014-08-31",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "C8oe9BUb",
+    "source": "flashscore",
+    "source_status": "31.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/sandhausen-UZxEj1R4/?mid=C8oe9BUb"
+  },
+  "CC5gyty6": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2014-10-19",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "CC5gyty6",
+    "source": "flashscore",
+    "source_status": "19.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/ingolstadt-ne5QkLtB/?mid=CC5gyty6"
+  },
   "CKBeYnv8": {
     "away": "Sandhausen",
     "away_goals": 1,
@@ -1550,6 +2102,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/?mid=CKBeYnv8"
   },
+  "CUbPX6UD": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2014-09-26",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "CUbPX6UD",
+    "source": "flashscore",
+    "source_status": "26.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/aue-vsXIDreP/?mid=CUbPX6UD"
+  },
   "CdT8siHL": {
     "away": "Darmstadt",
     "away_goals": 1,
@@ -1616,6 +2180,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/nurnberg-6FDqshzF/summary/stats/?mid=CdT8siHL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/nurnberg-6FDqshzF/?mid=CdT8siHL"
+  },
+  "Cf6MfCF5": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2014-08-22",
+    "home": "RB Leipzig",
+    "home_goals": 1,
+    "id": "Cf6MfCF5",
+    "source": "flashscore",
+    "source_status": "22.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/rb-leipzig-KbS1suSm/?mid=Cf6MfCF5"
+  },
+  "Cjh4kWeG": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2014-11-02",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "Cjh4kWeG",
+    "source": "flashscore",
+    "source_status": "02.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/fsv-frankfurt-CG1hDqLC/?mid=Cjh4kWeG"
   },
   "CpaDH3ca": {
     "away": "Darmstadt",
@@ -1818,6 +2406,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/heidenheim-KWixEVWi/?mid=CtPPdrvN"
   },
+  "CvSyhxVK": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2014-08-03",
+    "home": "Nurnberg",
+    "home_goals": 1,
+    "id": "CvSyhxVK",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 21,
+      "HST": 8
+    },
+    "source": "flashscore",
+    "source_status": "03.08.2014",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/nurnberg-6FDqshzF/summary/stats/?mid=CvSyhxVK",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/nurnberg-6FDqshzF/?mid=CvSyhxVK"
+  },
   "EBA5rX1F": {
     "away": "Bochum",
     "away_goals": 0,
@@ -1885,6 +2545,138 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/darmstadt-S0hPB9rA/?mid=EBA5rX1F"
   },
+  "EDXfTovL": {
+    "away": "RB Leipzig",
+    "away_goals": 0,
+    "date": "2014-11-30",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "EDXfTovL",
+    "source": "flashscore",
+    "source_status": "30.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/sandhausen-UZxEj1R4/?mid=EDXfTovL"
+  },
+  "ENr8pfNf": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2014-08-02",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "ENr8pfNf",
+    "shots": {
+      "AS": 14,
+      "AST": 5,
+      "HS": 15,
+      "HST": 6
+    },
+    "source": "flashscore",
+    "source_status": "02.08.2014",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "24",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "27",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/summary/stats/?mid=ENr8pfNf",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/?mid=ENr8pfNf"
+  },
+  "ETkfnL1c": {
+    "away": "Kaiserslautern",
+    "away_goals": 2,
+    "date": "2015-02-08",
+    "home": "Braunschweig",
+    "home_goals": 0,
+    "id": "ETkfnL1c",
+    "source": "flashscore",
+    "source_status": "08.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/kaiserslautern-naWckLmC/?mid=ETkfnL1c"
+  },
+  "EazhuXFI": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2014-08-23",
+    "home": "Nurnberg",
+    "home_goals": 0,
+    "id": "EazhuXFI",
+    "source": "flashscore",
+    "source_status": "23.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/nurnberg-6FDqshzF/?mid=EazhuXFI"
+  },
+  "EgZpLr3b": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2014-12-16",
+    "home": "Braunschweig",
+    "home_goals": 2,
+    "id": "EgZpLr3b",
+    "source": "flashscore",
+    "source_status": "16.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dusseldorf-ne1oL3y7/?mid=EgZpLr3b"
+  },
+  "EiYtwHOq": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2015-02-07",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "EiYtwHOq",
+    "source": "flashscore",
+    "source_status": "07.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/?mid=EiYtwHOq"
+  },
   "EkZUVgI9": {
     "away": "Greuther Furth",
     "away_goals": 0,
@@ -1951,6 +2743,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/summary/stats/?mid=EkZUVgI9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/?mid=EkZUVgI9"
+  },
+  "EwananOl": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2014-09-23",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "EwananOl",
+    "source": "flashscore",
+    "source_status": "23.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/st-pauli-ILyJuN3g/?mid=EwananOl"
+  },
+  "G2qoKm0E": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2014-09-24",
+    "home": "RB Leipzig",
+    "home_goals": 3,
+    "id": "G2qoKm0E",
+    "source": "flashscore",
+    "source_status": "24.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/rb-leipzig-KbS1suSm/?mid=G2qoKm0E"
+  },
+  "G6mjJnbN": {
+    "away": "Kaiserslautern",
+    "away_goals": 1,
+    "date": "2014-09-20",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "G6mjJnbN",
+    "source": "flashscore",
+    "source_status": "20.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/kaiserslautern-naWckLmC/?mid=G6mjJnbN"
   },
   "GE9oqP9N": {
     "away": "Karlsruher SC",
@@ -2287,6 +3115,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/union-berlin-pzHW4oaE/?mid=GIqZ3pTa"
   },
+  "GMeGzO2o": {
+    "away": "Heidenheim",
+    "away_goals": 0,
+    "date": "2014-12-16",
+    "home": "FSV Frankfurt",
+    "home_goals": 2,
+    "id": "GMeGzO2o",
+    "source": "flashscore",
+    "source_status": "16.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/heidenheim-KWixEVWi/?mid=GMeGzO2o"
+  },
+  "GU5IIzP9": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2014-09-19",
+    "home": "Aue",
+    "home_goals": 3,
+    "id": "GU5IIzP9",
+    "source": "flashscore",
+    "source_status": "19.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/?mid=GU5IIzP9"
+  },
   "Ghxxsur8": {
     "away": "RB Leipzig",
     "away_goals": 2,
@@ -2421,6 +3273,102 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/rb-leipzig-KbS1suSm/?mid=GtWIsCYI"
   },
+  "IBaUgom2": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2014-11-23",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "IBaUgom2",
+    "source": "flashscore",
+    "source_status": "23.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/?mid=IBaUgom2"
+  },
+  "IDMJv0P7": {
+    "away": "Heidenheim",
+    "away_goals": 0,
+    "date": "2014-08-09",
+    "home": "Braunschweig",
+    "home_goals": 3,
+    "id": "IDMJv0P7",
+    "source": "flashscore",
+    "source_status": "09.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/heidenheim-KWixEVWi/?mid=IDMJv0P7"
+  },
+  "IHSXhIFE": {
+    "away": "Braunschweig",
+    "away_goals": 2,
+    "date": "2014-08-01",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "IHSXhIFE",
+    "shots": {
+      "AS": 11,
+      "AST": 7,
+      "HS": 11,
+      "HST": 5
+    },
+    "source": "flashscore",
+    "source_status": "01.08.2014",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dusseldorf-ne1oL3y7/summary/stats/?mid=IHSXhIFE",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dusseldorf-ne1oL3y7/?mid=IHSXhIFE"
+  },
   "ILMqNvhS": {
     "away": "St. Pauli",
     "away_goals": 0,
@@ -2487,6 +3435,150 @@
     "statistics_url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/st-pauli-ILyJuN3g/summary/stats/?mid=ILMqNvhS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/st-pauli-ILyJuN3g/?mid=ILMqNvhS"
+  },
+  "IND4l5TC": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2015-02-28",
+    "home": "Nurnberg",
+    "home_goals": 1,
+    "id": "IND4l5TC",
+    "source": "flashscore",
+    "source_status": "28.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/nurnberg-6FDqshzF/?mid=IND4l5TC"
+  },
+  "IRmh9Qnk": {
+    "away": "Nurnberg",
+    "away_goals": 0,
+    "date": "2014-12-01",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "IRmh9Qnk",
+    "source": "flashscore",
+    "source_status": "01.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/nurnberg-6FDqshzF/?mid=IRmh9Qnk"
+  },
+  "ITh0jCtA": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2014-10-31",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "ITh0jCtA",
+    "source": "flashscore",
+    "source_status": "31.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/?mid=ITh0jCtA"
+  },
+  "IX81VA4p": {
+    "away": "Nurnberg",
+    "away_goals": 0,
+    "date": "2014-10-27",
+    "home": "Darmstadt",
+    "home_goals": 3,
+    "id": "IX81VA4p",
+    "source": "flashscore",
+    "source_status": "27.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/nurnberg-6FDqshzF/?mid=IX81VA4p"
+  },
+  "K0q4oz8l": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2014-08-02",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "K0q4oz8l",
+    "shots": {
+      "AS": 16,
+      "AST": 11,
+      "HS": 12,
+      "HST": 8
+    },
+    "source": "flashscore",
+    "source_status": "02.08.2014",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/st-pauli-ILyJuN3g/summary/stats/?mid=K0q4oz8l",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/st-pauli-ILyJuN3g/?mid=K0q4oz8l"
+  },
+  "KGar0S8r": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2014-09-24",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "KGar0S8r",
+    "source": "flashscore",
+    "source_status": "24.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/union-berlin-pzHW4oaE/?mid=KGar0S8r"
+  },
+  "KI023q28": {
+    "away": "Nurnberg",
+    "away_goals": 1,
+    "date": "2014-08-11",
+    "home": "Greuther Furth",
+    "home_goals": 5,
+    "id": "KI023q28",
+    "source": "flashscore",
+    "source_status": "11.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/nurnberg-6FDqshzF/?mid=KI023q28"
   },
   "KSZQWZ23": {
     "away": "Sandhausen",
@@ -2689,6 +3781,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/ingolstadt-ne5QkLtB/?mid=KUQ2SKBH"
   },
+  "KWN9NG7a": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2014-12-13",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "KWN9NG7a",
+    "source": "flashscore",
+    "source_status": "13.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/union-berlin-pzHW4oaE/?mid=KWN9NG7a"
+  },
   "KnKYOo5P": {
     "away": "Bochum",
     "away_goals": 2,
@@ -2755,6 +3859,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/summary/stats/?mid=KnKYOo5P",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/?mid=KnKYOo5P"
+  },
+  "KvYB5TTN": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2014-09-12",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "KvYB5TTN",
+    "source": "flashscore",
+    "source_status": "12.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/kaiserslautern-naWckLmC/?mid=KvYB5TTN"
+  },
+  "Kx91ZJ5I": {
+    "away": "Darmstadt",
+    "away_goals": 1,
+    "date": "2014-10-17",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "Kx91ZJ5I",
+    "source": "flashscore",
+    "source_status": "17.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/darmstadt-S0hPB9rA/?mid=Kx91ZJ5I"
+  },
+  "M1aihYBc": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2014-10-31",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "M1aihYBc",
+    "source": "flashscore",
+    "source_status": "31.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/?mid=M1aihYBc"
+  },
+  "M7fsL8TA": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2014-09-13",
+    "home": "Darmstadt",
+    "home_goals": 2,
+    "id": "M7fsL8TA",
+    "source": "flashscore",
+    "source_status": "13.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/darmstadt-S0hPB9rA/?mid=M7fsL8TA"
   },
   "MFAeiM1p": {
     "away": "Karlsruher SC",
@@ -2823,6 +3975,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/karlsruher-EB3q7jbk/?mid=MFAeiM1p"
   },
+  "MNCtvrim": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2014-10-19",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "MNCtvrim",
+    "source": "flashscore",
+    "source_status": "19.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/karlsruher-EB3q7jbk/?mid=MNCtvrim"
+  },
+  "MZQGY1Xc": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2014-12-20",
+    "home": "Nurnberg",
+    "home_goals": 0,
+    "id": "MZQGY1Xc",
+    "source": "flashscore",
+    "source_status": "20.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/nurnberg-6FDqshzF/?mid=MZQGY1Xc"
+  },
   "MZxs3J0d": {
     "away": "Munich 1860",
     "away_goals": 0,
@@ -2889,6 +4065,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/summary/stats/?mid=MZxs3J0d",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/?mid=MZxs3J0d"
+  },
+  "Mc93Pcfp": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2014-12-19",
+    "home": "Heidenheim",
+    "home_goals": 0,
+    "id": "Mc93Pcfp",
+    "source": "flashscore",
+    "source_status": "19.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/heidenheim-KWixEVWi/?mid=Mc93Pcfp"
   },
   "Me60K5Dt": {
     "away": "Sandhausen",
@@ -3101,6 +4289,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/nurnberg-6FDqshzF/?mid=O2BOE1sI"
   },
+  "O8IUBP7f": {
+    "away": "RB Leipzig",
+    "away_goals": 2,
+    "date": "2014-09-28",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "O8IUBP7f",
+    "source": "flashscore",
+    "source_status": "28.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/rb-leipzig-KbS1suSm/?mid=O8IUBP7f"
+  },
   "OK4fBSzQ": {
     "away": "Munich 1860",
     "away_goals": 1,
@@ -3168,6 +4368,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/munich-1860-byXHwsJa/?mid=OK4fBSzQ"
   },
+  "OSbtbI09": {
+    "away": "Aue",
+    "away_goals": 3,
+    "date": "2015-02-13",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "OSbtbI09",
+    "source": "flashscore",
+    "source_status": "13.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dusseldorf-ne1oL3y7/?mid=OSbtbI09"
+  },
+  "Q1UOL0yJ": {
+    "away": "Heidenheim",
+    "away_goals": 1,
+    "date": "2014-10-06",
+    "home": "RB Leipzig",
+    "home_goals": 1,
+    "id": "Q1UOL0yJ",
+    "source": "flashscore",
+    "source_status": "06.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/rb-leipzig-KbS1suSm/?mid=Q1UOL0yJ"
+  },
   "Q39qykfk": {
     "away": "Kaiserslautern",
     "away_goals": 1,
@@ -3234,6 +4458,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/summary/stats/?mid=Q39qykfk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/?mid=Q39qykfk"
+  },
+  "QBJoJ1GD": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2014-12-07",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "QBJoJ1GD",
+    "source": "flashscore",
+    "source_status": "07.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/union-berlin-pzHW4oaE/?mid=QBJoJ1GD"
+  },
+  "QF9cz0jC": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2014-10-19",
+    "home": "Aue",
+    "home_goals": 4,
+    "id": "QF9cz0jC",
+    "source": "flashscore",
+    "source_status": "19.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/munich-1860-byXHwsJa/?mid=QF9cz0jC"
+  },
+  "QHCxiUEU": {
+    "away": "Heidenheim",
+    "away_goals": 1,
+    "date": "2014-08-30",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "QHCxiUEU",
+    "source": "flashscore",
+    "source_status": "30.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/karlsruher-EB3q7jbk/?mid=QHCxiUEU"
+  },
+  "QHSZpyns": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2014-08-08",
+    "home": "Union Berlin",
+    "home_goals": 1,
+    "id": "QHSZpyns",
+    "source": "flashscore",
+    "source_status": "08.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/union-berlin-pzHW4oaE/?mid=QHSZpyns"
   },
   "QPx416Pi": {
     "away": "Darmstadt",
@@ -3436,6 +4708,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/union-berlin-pzHW4oaE/?mid=QVXgUts5"
   },
+  "QcG6GKHT": {
+    "away": "RB Leipzig",
+    "away_goals": 0,
+    "date": "2014-12-17",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "QcG6GKHT",
+    "source": "flashscore",
+    "source_status": "17.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/rb-leipzig-KbS1suSm/?mid=QcG6GKHT"
+  },
+  "QgKMwlFf": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2015-02-13",
+    "home": "Heidenheim",
+    "home_goals": 0,
+    "id": "QgKMwlFf",
+    "source": "flashscore",
+    "source_status": "13.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/karlsruher-EB3q7jbk/?mid=QgKMwlFf"
+  },
+  "Qgd8ljBM": {
+    "away": "Munich 1860",
+    "away_goals": 3,
+    "date": "2014-11-02",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "Qgd8ljBM",
+    "source": "flashscore",
+    "source_status": "02.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/munich-1860-byXHwsJa/?mid=Qgd8ljBM"
+  },
+  "QiqqCDpt": {
+    "away": "Darmstadt",
+    "away_goals": 1,
+    "date": "2014-08-31",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "QiqqCDpt",
+    "source": "flashscore",
+    "source_status": "31.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/munich-1860-byXHwsJa/?mid=QiqqCDpt"
+  },
   "QkUAMkud": {
     "away": "FSV Frankfurt",
     "away_goals": 0,
@@ -3502,6 +4822,186 @@
     "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/ingolstadt-ne5QkLtB/summary/stats/?mid=QkUAMkud",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/ingolstadt-ne5QkLtB/?mid=QkUAMkud"
+  },
+  "QuwQCpyi": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2014-09-20",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "QuwQCpyi",
+    "source": "flashscore",
+    "source_status": "20.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/munich-1860-byXHwsJa/?mid=QuwQCpyi"
+  },
+  "Qw4AcEVn": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2014-08-24",
+    "home": "Ingolstadt",
+    "home_goals": 2,
+    "id": "Qw4AcEVn",
+    "source": "flashscore",
+    "source_status": "24.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/ingolstadt-ne5QkLtB/?mid=Qw4AcEVn"
+  },
+  "S2EUIhMU": {
+    "away": "Nurnberg",
+    "away_goals": 2,
+    "date": "2014-12-14",
+    "home": "Aalen",
+    "home_goals": 1,
+    "id": "S2EUIhMU",
+    "source": "flashscore",
+    "source_status": "14.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/nurnberg-6FDqshzF/?mid=S2EUIhMU"
+  },
+  "SQnCqEx1": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2014-08-03",
+    "home": "Heidenheim",
+    "home_goals": 2,
+    "id": "SQnCqEx1",
+    "source": "flashscore",
+    "source_status": "03.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/heidenheim-KWixEVWi/?mid=SQnCqEx1"
+  },
+  "SpewMlE4": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2014-09-13",
+    "home": "RB Leipzig",
+    "home_goals": 3,
+    "id": "SpewMlE4",
+    "source": "flashscore",
+    "source_status": "13.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/rb-leipzig-KbS1suSm/?mid=SpewMlE4"
+  },
+  "St3jb6we": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2014-09-23",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "St3jb6we",
+    "source": "flashscore",
+    "source_status": "23.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/ingolstadt-ne5QkLtB/?mid=St3jb6we"
+  },
+  "StLk1TfS": {
+    "away": "Braunschweig",
+    "away_goals": 2,
+    "date": "2014-11-09",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "StLk1TfS",
+    "source": "flashscore",
+    "source_status": "09.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/braunschweig-QqLCC3il/?mid=StLk1TfS"
+  },
+  "StPLDowr": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2014-09-26",
+    "home": "Braunschweig",
+    "home_goals": 2,
+    "id": "StPLDowr",
+    "source": "flashscore",
+    "source_status": "26.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/sandhausen-UZxEj1R4/?mid=StPLDowr"
+  },
+  "StsLG8fF": {
+    "away": "Braunschweig",
+    "away_goals": 3,
+    "date": "2014-11-22",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "StsLG8fF",
+    "source": "flashscore",
+    "source_status": "22.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/fsv-frankfurt-CG1hDqLC/?mid=StsLG8fF"
+  },
+  "U1sN6nqs": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2015-02-28",
+    "home": "Sandhausen",
+    "home_goals": 2,
+    "id": "U1sN6nqs",
+    "source": "flashscore",
+    "source_status": "28.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/sandhausen-UZxEj1R4/?mid=U1sN6nqs"
+  },
+  "U5HyUwnT": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2014-12-21",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "U5HyUwnT",
+    "source": "flashscore",
+    "source_status": "21.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/bochum-8Y2m6ADe/?mid=U5HyUwnT"
+  },
+  "U5XYNpJu": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2014-12-12",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "U5XYNpJu",
+    "source": "flashscore",
+    "source_status": "12.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/sandhausen-UZxEj1R4/?mid=U5XYNpJu"
+  },
+  "U7C5UUJj": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2014-11-01",
+    "home": "Nurnberg",
+    "home_goals": 2,
+    "id": "U7C5UUJj",
+    "source": "flashscore",
+    "source_status": "01.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/st-pauli-ILyJuN3g/?mid=U7C5UUJj"
+  },
+  "U9iPla55": {
+    "away": "Union Berlin",
+    "away_goals": 2,
+    "date": "2014-10-24",
+    "home": "Aalen",
+    "home_goals": 1,
+    "id": "U9iPla55",
+    "source": "flashscore",
+    "source_status": "24.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/union-berlin-pzHW4oaE/?mid=U9iPla55"
+  },
+  "UD36Lxui": {
+    "away": "RB Leipzig",
+    "away_goals": 1,
+    "date": "2014-09-21",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "UD36Lxui",
+    "source": "flashscore",
+    "source_status": "21.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/union-berlin-pzHW4oaE/?mid=UD36Lxui"
   },
   "UHZKcOOG": {
     "away": "Ingolstadt",
@@ -3838,6 +5338,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/fsv-frankfurt-CG1hDqLC/?mid=UPT6pEl0"
   },
+  "URQDuApr": {
+    "away": "Sandhausen",
+    "away_goals": 3,
+    "date": "2015-02-14",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "URQDuApr",
+    "source": "flashscore",
+    "source_status": "14.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/sandhausen-UZxEj1R4/?mid=URQDuApr"
+  },
+  "UZzGNM66": {
+    "away": "FSV Frankfurt",
+    "away_goals": 3,
+    "date": "2014-10-05",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "UZzGNM66",
+    "source": "flashscore",
+    "source_status": "05.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/sandhausen-UZxEj1R4/?mid=UZzGNM66"
+  },
   "Uc7ZoRP4": {
     "away": "Nurnberg",
     "away_goals": 1,
@@ -3904,6 +5428,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/nurnberg-6FDqshzF/summary/stats/?mid=Uc7ZoRP4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/nurnberg-6FDqshzF/?mid=Uc7ZoRP4"
+  },
+  "UmGlxMLa": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2014-10-18",
+    "home": "Union Berlin",
+    "home_goals": 3,
+    "id": "UmGlxMLa",
+    "source": "flashscore",
+    "source_status": "18.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/?mid=UmGlxMLa"
+  },
+  "UqQxLNo1": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2014-12-07",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "UqQxLNo1",
+    "source": "flashscore",
+    "source_status": "07.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/karlsruher-EB3q7jbk/?mid=UqQxLNo1"
   },
   "W4KXPt89": {
     "away": "Sandhausen",
@@ -4039,6 +5587,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/rb-leipzig-KbS1suSm/?mid=W8YkVMRb"
   },
+  "WERt3kQF": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2014-11-07",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "WERt3kQF",
+    "source": "flashscore",
+    "source_status": "07.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/fsv-frankfurt-CG1hDqLC/?mid=WERt3kQF"
+  },
+  "WI1UNAqh": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2014-09-12",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "WI1UNAqh",
+    "source": "flashscore",
+    "source_status": "12.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/?mid=WI1UNAqh"
+  },
   "WnL0qDn9": {
     "away": "Nurnberg",
     "away_goals": 1,
@@ -4105,6 +5677,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/rb-leipzig-KbS1suSm/summary/stats/?mid=WnL0qDn9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/rb-leipzig-KbS1suSm/?mid=WnL0qDn9"
+  },
+  "Y37Ieh0a": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2014-08-22",
+    "home": "Heidenheim",
+    "home_goals": 2,
+    "id": "Y37Ieh0a",
+    "source": "flashscore",
+    "source_status": "22.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/munich-1860-byXHwsJa/?mid=Y37Ieh0a"
+  },
+  "YFP1Pxwm": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2014-12-07",
+    "home": "RB Leipzig",
+    "home_goals": 0,
+    "id": "YFP1Pxwm",
+    "source": "flashscore",
+    "source_status": "07.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/rb-leipzig-KbS1suSm/?mid=YFP1Pxwm"
+  },
+  "YNZ37kaB": {
+    "away": "Dusseldorf",
+    "away_goals": 3,
+    "date": "2014-08-30",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "YNZ37kaB",
+    "source": "flashscore",
+    "source_status": "30.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dusseldorf-ne1oL3y7/?mid=YNZ37kaB"
   },
   "YVDQmmeh": {
     "away": "Union Berlin",
@@ -4374,6 +5982,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/greuther-furth-CCQGbik8/?mid=YikWTXnM"
   },
+  "YmJftD0C": {
+    "away": "Bochum",
+    "away_goals": 5,
+    "date": "2014-08-09",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "YmJftD0C",
+    "source": "flashscore",
+    "source_status": "09.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/bochum-8Y2m6ADe/?mid=YmJftD0C"
+  },
+  "YsboKSrH": {
+    "away": "Darmstadt",
+    "away_goals": 0,
+    "date": "2014-09-19",
+    "home": "Braunschweig",
+    "home_goals": 2,
+    "id": "YsboKSrH",
+    "source": "flashscore",
+    "source_status": "19.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/darmstadt-S0hPB9rA/?mid=YsboKSrH"
+  },
+  "b1TY4Be3": {
+    "away": "Heidenheim",
+    "away_goals": 3,
+    "date": "2014-11-08",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "b1TY4Be3",
+    "source": "flashscore",
+    "source_status": "08.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/?mid=b1TY4Be3"
+  },
+  "b5siAiFh": {
+    "away": "Kaiserslautern",
+    "away_goals": 2,
+    "date": "2014-08-29",
+    "home": "Aalen",
+    "home_goals": 2,
+    "id": "b5siAiFh",
+    "source": "flashscore",
+    "source_status": "29.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/kaiserslautern-naWckLmC/?mid=b5siAiFh"
+  },
+  "b7IUySq7": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2015-02-15",
+    "home": "Darmstadt",
+    "home_goals": 1,
+    "id": "b7IUySq7",
+    "source": "flashscore",
+    "source_status": "15.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/munich-1860-byXHwsJa/?mid=b7IUySq7"
+  },
+  "b9a623HE": {
+    "away": "RB Leipzig",
+    "away_goals": 3,
+    "date": "2014-08-10",
+    "home": "Munich 1860",
+    "home_goals": 0,
+    "id": "b9a623HE",
+    "source": "flashscore",
+    "source_status": "10.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/rb-leipzig-KbS1suSm/?mid=b9a623HE"
+  },
   "bH7iZSO1": {
     "away": "Greuther Furth",
     "away_goals": 1,
@@ -4440,6 +6120,126 @@
     "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/greuther-furth-CCQGbik8/summary/stats/?mid=bH7iZSO1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/greuther-furth-CCQGbik8/?mid=bH7iZSO1"
+  },
+  "bLDtcNcP": {
+    "away": "FSV Frankfurt",
+    "away_goals": 5,
+    "date": "2014-10-24",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "bLDtcNcP",
+    "source": "flashscore",
+    "source_status": "24.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/greuther-furth-CCQGbik8/?mid=bLDtcNcP"
+  },
+  "bLc3jRb0": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2015-02-22",
+    "home": "FSV Frankfurt",
+    "home_goals": 2,
+    "id": "bLc3jRb0",
+    "source": "flashscore",
+    "source_status": "22.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/kaiserslautern-naWckLmC/?mid=bLc3jRb0"
+  },
+  "bNMDMzN5": {
+    "away": "RB Leipzig",
+    "away_goals": 1,
+    "date": "2014-12-12",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "bNMDMzN5",
+    "source": "flashscore",
+    "source_status": "12.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/rb-leipzig-KbS1suSm/?mid=bNMDMzN5"
+  },
+  "bRYkJ7FK": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2014-09-24",
+    "home": "Darmstadt",
+    "home_goals": 4,
+    "id": "bRYkJ7FK",
+    "source": "flashscore",
+    "source_status": "24.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/fsv-frankfurt-CG1hDqLC/?mid=bRYkJ7FK"
+  },
+  "bT75YwLO": {
+    "away": "Kaiserslautern",
+    "away_goals": 1,
+    "date": "2014-10-17",
+    "home": "Heidenheim",
+    "home_goals": 1,
+    "id": "bT75YwLO",
+    "source": "flashscore",
+    "source_status": "17.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/kaiserslautern-naWckLmC/?mid=bT75YwLO"
+  },
+  "bcFGaVyE": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2015-02-20",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "bcFGaVyE",
+    "source": "flashscore",
+    "source_status": "20.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/?mid=bcFGaVyE"
+  },
+  "bo9RNP1r": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2014-11-28",
+    "home": "Darmstadt",
+    "home_goals": 0,
+    "id": "bo9RNP1r",
+    "source": "flashscore",
+    "source_status": "28.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/karlsruher-EB3q7jbk/?mid=bo9RNP1r"
+  },
+  "bocXVpaQ": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2014-10-03",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "bocXVpaQ",
+    "source": "flashscore",
+    "source_status": "03.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/?mid=bocXVpaQ"
+  },
+  "bqdTmJKB": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2014-10-26",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "bqdTmJKB",
+    "source": "flashscore",
+    "source_status": "26.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/?mid=bqdTmJKB"
+  },
+  "bsZw34r6": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2015-02-27",
+    "home": "Darmstadt",
+    "home_goals": 1,
+    "id": "bsZw34r6",
+    "source": "flashscore",
+    "source_status": "27.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/darmstadt-S0hPB9rA/?mid=bsZw34r6"
   },
   "bwajrqPT": {
     "away": "Kaiserslautern",
@@ -4508,6 +6308,102 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/kaiserslautern-naWckLmC/?mid=bwajrqPT"
   },
+  "dEC8mPrJ": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2015-02-27",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "dEC8mPrJ",
+    "source": "flashscore",
+    "source_status": "27.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/kaiserslautern-naWckLmC/?mid=dEC8mPrJ"
+  },
+  "dGNoxyvj": {
+    "away": "Nurnberg",
+    "away_goals": 1,
+    "date": "2015-02-08",
+    "home": "FSV Frankfurt",
+    "home_goals": 2,
+    "id": "dGNoxyvj",
+    "source": "flashscore",
+    "source_status": "08.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/nurnberg-6FDqshzF/?mid=dGNoxyvj"
+  },
+  "dIOkK2I4": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2014-12-16",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "dIOkK2I4",
+    "source": "flashscore",
+    "source_status": "16.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/?mid=dIOkK2I4"
+  },
+  "dInd8p2e": {
+    "away": "Heidenheim",
+    "away_goals": 0,
+    "date": "2014-11-28",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "dInd8p2e",
+    "source": "flashscore",
+    "source_status": "28.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/heidenheim-KWixEVWi/?mid=dInd8p2e"
+  },
+  "dMGxA3x7": {
+    "away": "Darmstadt",
+    "away_goals": 1,
+    "date": "2014-09-27",
+    "home": "Union Berlin",
+    "home_goals": 1,
+    "id": "dMGxA3x7",
+    "source": "flashscore",
+    "source_status": "27.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/union-berlin-pzHW4oaE/?mid=dMGxA3x7"
+  },
+  "dMx8Prxf": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2014-10-05",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "dMx8Prxf",
+    "source": "flashscore",
+    "source_status": "05.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/ingolstadt-ne5QkLtB/?mid=dMx8Prxf"
+  },
+  "dWRUMqHl": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2014-12-08",
+    "home": "Nurnberg",
+    "home_goals": 2,
+    "id": "dWRUMqHl",
+    "source": "flashscore",
+    "source_status": "08.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/nurnberg-6FDqshzF/?mid=dWRUMqHl"
+  },
+  "ddBLe7Ik": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2014-11-23",
+    "home": "Nurnberg",
+    "home_goals": 2,
+    "id": "ddBLe7Ik",
+    "source": "flashscore",
+    "source_status": "23.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/nurnberg-6FDqshzF/?mid=ddBLe7Ik"
+  },
   "dflWAhtp": {
     "away": "Kaiserslautern",
     "away_goals": 0,
@@ -4574,6 +6470,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/summary/stats/?mid=dflWAhtp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/?mid=dflWAhtp"
+  },
+  "dhyYznaD": {
+    "away": "RB Leipzig",
+    "away_goals": 1,
+    "date": "2015-02-23",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "dhyYznaD",
+    "source": "flashscore",
+    "source_status": "23.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/rb-leipzig-KbS1suSm/?mid=dhyYznaD"
   },
   "djtwYOst": {
     "away": "Aue",
@@ -4843,6 +6751,102 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/ingolstadt-ne5QkLtB/?mid=f7FOXz5f"
   },
+  "fDfKZsIi": {
+    "away": "Nurnberg",
+    "away_goals": 1,
+    "date": "2014-12-17",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "fDfKZsIi",
+    "source": "flashscore",
+    "source_status": "17.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/nurnberg-6FDqshzF/?mid=fDfKZsIi"
+  },
+  "fJeRgWUB": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2014-08-24",
+    "home": "Darmstadt",
+    "home_goals": 2,
+    "id": "fJeRgWUB",
+    "source": "flashscore",
+    "source_status": "24.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/darmstadt-S0hPB9rA/?mid=fJeRgWUB"
+  },
+  "fXz08Vq5": {
+    "away": "RB Leipzig",
+    "away_goals": 0,
+    "date": "2014-08-29",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "fXz08Vq5",
+    "source": "flashscore",
+    "source_status": "29.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/rb-leipzig-KbS1suSm/?mid=fXz08Vq5"
+  },
+  "fcKjsgo6": {
+    "away": "Karlsruher SC",
+    "away_goals": 3,
+    "date": "2014-08-08",
+    "home": "FSV Frankfurt",
+    "home_goals": 2,
+    "id": "fcKjsgo6",
+    "source": "flashscore",
+    "source_status": "08.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/karlsruher-EB3q7jbk/?mid=fcKjsgo6"
+  },
+  "fcnfI6DT": {
+    "away": "Nurnberg",
+    "away_goals": 0,
+    "date": "2014-09-21",
+    "home": "Karlsruher SC",
+    "home_goals": 3,
+    "id": "fcnfI6DT",
+    "source": "flashscore",
+    "source_status": "21.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/nurnberg-6FDqshzF/?mid=fcnfI6DT"
+  },
+  "fiaCi1Ln": {
+    "away": "Braunschweig",
+    "away_goals": 2,
+    "date": "2014-10-26",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "fiaCi1Ln",
+    "source": "flashscore",
+    "source_status": "26.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/?mid=fiaCi1Ln"
+  },
+  "fkGMKEiI": {
+    "away": "Darmstadt",
+    "away_goals": 1,
+    "date": "2014-12-14",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "fkGMKEiI",
+    "source": "flashscore",
+    "source_status": "14.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/st-pauli-ILyJuN3g/?mid=fkGMKEiI"
+  },
+  "fmPOWu2A": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2014-12-19",
+    "home": "Karlsruher SC",
+    "home_goals": 4,
+    "id": "fmPOWu2A",
+    "source": "flashscore",
+    "source_status": "19.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/karlsruher-EB3q7jbk/?mid=fmPOWu2A"
+  },
   "fqyttacE": {
     "away": "Ingolstadt",
     "away_goals": 1,
@@ -4909,6 +6913,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/ingolstadt-ne5QkLtB/summary/stats/?mid=fqyttacE",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/ingolstadt-ne5QkLtB/?mid=fqyttacE"
+  },
+  "h4EUhjpI": {
+    "away": "Bochum",
+    "away_goals": 2,
+    "date": "2014-08-31",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "h4EUhjpI",
+    "source": "flashscore",
+    "source_status": "31.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/braunschweig-QqLCC3il/?mid=h4EUhjpI"
+  },
+  "h4WbS5gR": {
+    "away": "Union Berlin",
+    "away_goals": 2,
+    "date": "2014-11-28",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "h4WbS5gR",
+    "source": "flashscore",
+    "source_status": "28.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/?mid=h4WbS5gR"
   },
   "hIZoW2Ch": {
     "away": "Heidenheim",
@@ -4977,6 +7005,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/heidenheim-KWixEVWi/?mid=hIZoW2Ch"
   },
+  "hOSx4VA9": {
+    "away": "Union Berlin",
+    "away_goals": 3,
+    "date": "2014-11-09",
+    "home": "Ingolstadt",
+    "home_goals": 3,
+    "id": "hOSx4VA9",
+    "source": "flashscore",
+    "source_status": "09.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/union-berlin-pzHW4oaE/?mid=hOSx4VA9"
+  },
+  "hS2QOjUo": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2014-09-14",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "hS2QOjUo",
+    "source": "flashscore",
+    "source_status": "14.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/?mid=hS2QOjUo"
+  },
   "hdMdpgX2": {
     "away": "Union Berlin",
     "away_goals": 1,
@@ -5044,6 +7096,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/?mid=hdMdpgX2"
   },
+  "hjZeviVO": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2014-08-24",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "hjZeviVO",
+    "source": "flashscore",
+    "source_status": "24.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/kaiserslautern-naWckLmC/?mid=hjZeviVO"
+  },
   "htYYUDXF": {
     "away": "RB Leipzig",
     "away_goals": 0,
@@ -5110,6 +7174,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/rb-leipzig-KbS1suSm/summary/stats/?mid=htYYUDXF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/rb-leipzig-KbS1suSm/?mid=htYYUDXF"
+  },
+  "jFIXUJWM": {
+    "away": "Aalen",
+    "away_goals": 1,
+    "date": "2014-12-20",
+    "home": "St. Pauli",
+    "home_goals": 3,
+    "id": "jFIXUJWM",
+    "source": "flashscore",
+    "source_status": "20.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/st-pauli-ILyJuN3g/?mid=jFIXUJWM"
+  },
+  "jJhLkuja": {
+    "away": "Heidenheim",
+    "away_goals": 0,
+    "date": "2014-10-26",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "jJhLkuja",
+    "source": "flashscore",
+    "source_status": "26.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/ingolstadt-ne5QkLtB/?mid=jJhLkuja"
+  },
+  "jLcTWQqK": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2014-09-28",
+    "home": "Heidenheim",
+    "home_goals": 5,
+    "id": "jLcTWQqK",
+    "source": "flashscore",
+    "source_status": "28.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/heidenheim-KWixEVWi/?mid=jLcTWQqK"
+  },
+  "jVQuidpR": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2014-08-04",
+    "home": "Kaiserslautern",
+    "home_goals": 3,
+    "id": "jVQuidpR",
+    "source": "flashscore",
+    "source_status": "04.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/?mid=jVQuidpR"
   },
   "jXNTe2gT": {
     "away": "Sandhausen",
@@ -5245,6 +7357,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/?mid=jZ8XVEZ6"
   },
+  "jcHpw26g": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2014-10-20",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "jcHpw26g",
+    "source": "flashscore",
+    "source_status": "20.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/?mid=jcHpw26g"
+  },
+  "jefehmUm": {
+    "away": "Heidenheim",
+    "away_goals": 1,
+    "date": "2015-02-22",
+    "home": "Union Berlin",
+    "home_goals": 3,
+    "id": "jefehmUm",
+    "source": "flashscore",
+    "source_status": "22.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/union-berlin-pzHW4oaE/?mid=jefehmUm"
+  },
+  "jgRYL3Wf": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2014-12-06",
+    "home": "Kaiserslautern",
+    "home_goals": 3,
+    "id": "jgRYL3Wf",
+    "source": "flashscore",
+    "source_status": "06.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/kaiserslautern-naWckLmC/?mid=jgRYL3Wf"
+  },
+  "jizcQINt": {
+    "away": "Aalen",
+    "away_goals": 1,
+    "date": "2014-12-05",
+    "home": "Heidenheim",
+    "home_goals": 0,
+    "id": "jizcQINt",
+    "source": "flashscore",
+    "source_status": "05.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/heidenheim-KWixEVWi/?mid=jizcQINt"
+  },
+  "jqxCO2i0": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2014-10-03",
+    "home": "Aalen",
+    "home_goals": 2,
+    "id": "jqxCO2i0",
+    "source": "flashscore",
+    "source_status": "03.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/munich-1860-byXHwsJa/?mid=jqxCO2i0"
+  },
+  "jun074H1": {
+    "away": "FSV Frankfurt",
+    "away_goals": 2,
+    "date": "2014-11-30",
+    "home": "Munich 1860",
+    "home_goals": 0,
+    "id": "jun074H1",
+    "source": "flashscore",
+    "source_status": "30.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/munich-1860-byXHwsJa/?mid=jun074H1"
+  },
   "jybHGNC5": {
     "away": "Ingolstadt",
     "away_goals": 3,
@@ -5311,6 +7495,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/ingolstadt-ne5QkLtB/summary/stats/?mid=jybHGNC5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/ingolstadt-ne5QkLtB/?mid=jybHGNC5"
+  },
+  "lCFQJY6O": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2014-12-14",
+    "home": "Ingolstadt",
+    "home_goals": 2,
+    "id": "lCFQJY6O",
+    "source": "flashscore",
+    "source_status": "14.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/kaiserslautern-naWckLmC/?mid=lCFQJY6O"
   },
   "lSkfCNwA": {
     "away": "Heidenheim",
@@ -5379,6 +7575,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/heidenheim-KWixEVWi/?mid=lSkfCNwA"
   },
+  "ldiadp87": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2014-09-25",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "ldiadp87",
+    "source": "flashscore",
+    "source_status": "25.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/?mid=ldiadp87"
+  },
+  "lfdZMUbb": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2014-09-14",
+    "home": "Heidenheim",
+    "home_goals": 3,
+    "id": "lfdZMUbb",
+    "source": "flashscore",
+    "source_status": "14.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/union-berlin-pzHW4oaE/?mid=lfdZMUbb"
+  },
+  "ljMo29uM": {
+    "away": "Nurnberg",
+    "away_goals": 1,
+    "date": "2014-11-07",
+    "home": "Sandhausen",
+    "home_goals": 2,
+    "id": "ljMo29uM",
+    "source": "flashscore",
+    "source_status": "07.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/sandhausen-UZxEj1R4/?mid=ljMo29uM"
+  },
   "ltVSQMh3": {
     "away": "Braunschweig",
     "away_goals": 0,
@@ -5446,6 +7678,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/union-berlin-pzHW4oaE/?mid=ltVSQMh3"
   },
+  "ltyLsh7D": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2014-08-03",
+    "home": "Darmstadt",
+    "home_goals": 1,
+    "id": "ltyLsh7D",
+    "source": "flashscore",
+    "source_status": "03.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/sandhausen-UZxEj1R4/?mid=ltyLsh7D"
+  },
   "n1v2ofZg": {
     "away": "Ingolstadt",
     "away_goals": 2,
@@ -5512,6 +7756,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/union-berlin-pzHW4oaE/summary/stats/?mid=n1v2ofZg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/union-berlin-pzHW4oaE/?mid=n1v2ofZg"
+  },
+  "nBVKMtMC": {
+    "away": "Nurnberg",
+    "away_goals": 1,
+    "date": "2014-10-03",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "nBVKMtMC",
+    "source": "flashscore",
+    "source_status": "03.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/nurnberg-6FDqshzF/?mid=nBVKMtMC"
+  },
+  "nLKsKs17": {
+    "away": "Sandhausen",
+    "away_goals": 3,
+    "date": "2014-12-05",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "nLKsKs17",
+    "source": "flashscore",
+    "source_status": "05.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/sandhausen-UZxEj1R4/?mid=nLKsKs17"
+  },
+  "nRDYiAaO": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2014-09-01",
+    "home": "Greuther Furth",
+    "home_goals": 3,
+    "id": "nRDYiAaO",
+    "source": "flashscore",
+    "source_status": "01.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/st-pauli-ILyJuN3g/?mid=nRDYiAaO"
+  },
+  "nXGrqFGg": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2014-08-08",
+    "home": "Aalen",
+    "home_goals": 2,
+    "id": "nXGrqFGg",
+    "source": "flashscore",
+    "source_status": "08.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/st-pauli-ILyJuN3g/?mid=nXGrqFGg"
   },
   "nZHUn7Ab": {
     "away": "RB Leipzig",
@@ -5647,6 +7939,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/?mid=nZw02nAo"
   },
+  "nkvMDQLp": {
+    "away": "Heidenheim",
+    "away_goals": 2,
+    "date": "2014-09-21",
+    "home": "Dusseldorf",
+    "home_goals": 3,
+    "id": "nkvMDQLp",
+    "source": "flashscore",
+    "source_status": "21.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/heidenheim-KWixEVWi/?mid=nkvMDQLp"
+  },
   "nsCGZdzr": {
     "away": "Bochum",
     "away_goals": 1,
@@ -5713,6 +8017,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/munich-1860-byXHwsJa/summary/stats/?mid=nsCGZdzr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/munich-1860-byXHwsJa/?mid=nsCGZdzr"
+  },
+  "nsl2paW9": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2015-02-08",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "nsl2paW9",
+    "source": "flashscore",
+    "source_status": "08.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/karlsruher-EB3q7jbk/?mid=nsl2paW9"
   },
   "p8OyP0NF": {
     "away": "Aue",
@@ -5848,6 +8164,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/munich-1860-byXHwsJa/?mid=pCCKFsSB"
   },
+  "pIiGHlu9": {
+    "away": "Munich 1860",
+    "away_goals": 4,
+    "date": "2014-11-22",
+    "home": "Union Berlin",
+    "home_goals": 1,
+    "id": "pIiGHlu9",
+    "source": "flashscore",
+    "source_status": "22.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/union-berlin-pzHW4oaE/?mid=pIiGHlu9"
+  },
+  "pM7Hdm3q": {
+    "away": "RB Leipzig",
+    "away_goals": 0,
+    "date": "2014-11-08",
+    "home": "Darmstadt",
+    "home_goals": 1,
+    "id": "pM7Hdm3q",
+    "source": "flashscore",
+    "source_status": "08.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/rb-leipzig-KbS1suSm/?mid=pM7Hdm3q"
+  },
+  "pbPU5itc": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2014-11-10",
+    "home": "Munich 1860",
+    "home_goals": 0,
+    "id": "pbPU5itc",
+    "source": "flashscore",
+    "source_status": "10.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/?mid=pbPU5itc"
+  },
   "pfq3A18M": {
     "away": "Union Berlin",
     "away_goals": 3,
@@ -5915,6 +8267,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/union-berlin-pzHW4oaE/?mid=pfq3A18M"
   },
+  "pvTjUROE": {
+    "away": "Dusseldorf",
+    "away_goals": 0,
+    "date": "2014-11-29",
+    "home": "Aalen",
+    "home_goals": 2,
+    "id": "pvTjUROE",
+    "source": "flashscore",
+    "source_status": "29.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dusseldorf-ne1oL3y7/?mid=pvTjUROE"
+  },
   "r1X80Qvb": {
     "away": "Aalen",
     "away_goals": 2,
@@ -5981,6 +8345,66 @@
     "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dusseldorf-ne1oL3y7/summary/stats/?mid=r1X80Qvb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dusseldorf-ne1oL3y7/?mid=r1X80Qvb"
+  },
+  "r9sBrw1M": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2015-02-07",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "r9sBrw1M",
+    "source": "flashscore",
+    "source_status": "07.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/union-berlin-pzHW4oaE/?mid=r9sBrw1M"
+  },
+  "rB0mgEdi": {
+    "away": "Aalen",
+    "away_goals": 1,
+    "date": "2014-11-02",
+    "home": "Braunschweig",
+    "home_goals": 2,
+    "id": "rB0mgEdi",
+    "source": "flashscore",
+    "source_status": "02.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/braunschweig-QqLCC3il/?mid=rB0mgEdi"
+  },
+  "rFE5bfGt": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2014-08-22",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "rFE5bfGt",
+    "source": "flashscore",
+    "source_status": "22.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/?mid=rFE5bfGt"
+  },
+  "rH7AKdfc": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2014-09-19",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "rH7AKdfc",
+    "source": "flashscore",
+    "source_status": "19.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/sandhausen-UZxEj1R4/?mid=rH7AKdfc"
+  },
+  "rJY3QOMm": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2014-10-04",
+    "home": "St. Pauli",
+    "home_goals": 3,
+    "id": "rJY3QOMm",
+    "source": "flashscore",
+    "source_status": "04.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/union-berlin-pzHW4oaE/?mid=rJY3QOMm"
   },
   "rRv6NVPk": {
     "away": "Dusseldorf",
@@ -6250,6 +8674,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/rb-leipzig-KbS1suSm/?mid=rVzj02SO"
   },
+  "rXDxuOys": {
+    "away": "Greuther Furth",
+    "away_goals": 2,
+    "date": "2014-10-18",
+    "home": "Braunschweig",
+    "home_goals": 2,
+    "id": "rXDxuOys",
+    "source": "flashscore",
+    "source_status": "18.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/greuther-furth-CCQGbik8/?mid=rXDxuOys"
+  },
+  "rZQ1H02N": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2014-12-17",
+    "home": "Ingolstadt",
+    "home_goals": 2,
+    "id": "rZQ1H02N",
+    "source": "flashscore",
+    "source_status": "17.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/st-pauli-ILyJuN3g/?mid=rZQ1H02N"
+  },
+  "rgons83d": {
+    "away": "Bochum",
+    "away_goals": 2,
+    "date": "2014-11-07",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "rgons83d",
+    "source": "flashscore",
+    "source_status": "07.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/?mid=rgons83d"
+  },
+  "rixFHfvG": {
+    "away": "Aalen",
+    "away_goals": 1,
+    "date": "2014-09-23",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "rixFHfvG",
+    "source": "flashscore",
+    "source_status": "23.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/greuther-furth-CCQGbik8/?mid=rixFHfvG"
+  },
   "rqvw4aoj": {
     "away": "Ingolstadt",
     "away_goals": 1,
@@ -6384,6 +8856,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/rb-leipzig-KbS1suSm/?mid=t0ZmvwSQ"
   },
+  "t49yabo3": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2015-02-14",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "t49yabo3",
+    "source": "flashscore",
+    "source_status": "14.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/kaiserslautern-naWckLmC/?mid=t49yabo3"
+  },
+  "tAp0nGhr": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2014-08-03",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "tAp0nGhr",
+    "source": "flashscore",
+    "source_status": "03.08.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/union-berlin-pzHW4oaE/?mid=tAp0nGhr"
+  },
+  "tlZ769EH": {
+    "away": "Dusseldorf",
+    "away_goals": 2,
+    "date": "2014-09-15",
+    "home": "Nurnberg",
+    "home_goals": 0,
+    "id": "tlZ769EH",
+    "source": "flashscore",
+    "source_status": "15.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/nurnberg-6FDqshzF/?mid=tlZ769EH"
+  },
+  "tnCILfxC": {
+    "away": "Karlsruher SC",
+    "away_goals": 3,
+    "date": "2014-12-13",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "tnCILfxC",
+    "source": "flashscore",
+    "source_status": "13.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/?mid=tnCILfxC"
+  },
+  "tpoPFS9L": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2014-11-21",
+    "home": "Bochum",
+    "home_goals": 4,
+    "id": "tpoPFS9L",
+    "source": "flashscore",
+    "source_status": "21.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/bochum-8Y2m6ADe/?mid=tpoPFS9L"
+  },
+  "v5I6ppEJ": {
+    "away": "Dusseldorf",
+    "away_goals": 4,
+    "date": "2014-10-05",
+    "home": "Darmstadt",
+    "home_goals": 1,
+    "id": "v5I6ppEJ",
+    "source": "flashscore",
+    "source_status": "05.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/dusseldorf-ne1oL3y7/?mid=v5I6ppEJ"
+  },
   "v9EMlTun": {
     "away": "Dusseldorf",
     "away_goals": 0,
@@ -6450,6 +8994,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/summary/stats/?mid=v9EMlTun",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/?mid=v9EMlTun"
+  },
+  "vF7TsogE": {
+    "away": "St. Pauli",
+    "away_goals": 3,
+    "date": "2014-12-05",
+    "home": "Bochum",
+    "home_goals": 3,
+    "id": "vF7TsogE",
+    "source": "flashscore",
+    "source_status": "05.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/?mid=vF7TsogE"
   },
   "vHr79LNS": {
     "away": "Kaiserslautern",
@@ -6518,6 +9074,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/kaiserslautern-naWckLmC/?mid=vHr79LNS"
   },
+  "vL0QfRXe": {
+    "away": "Darmstadt",
+    "away_goals": 0,
+    "date": "2014-11-21",
+    "home": "Kaiserslautern",
+    "home_goals": 0,
+    "id": "vL0QfRXe",
+    "source": "flashscore",
+    "source_status": "21.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/kaiserslautern-naWckLmC/?mid=vL0QfRXe"
+  },
+  "vPEr07io": {
+    "away": "Aalen",
+    "away_goals": 1,
+    "date": "2014-09-12",
+    "home": "Ingolstadt",
+    "home_goals": 4,
+    "id": "vPEr07io",
+    "source": "flashscore",
+    "source_status": "12.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/ingolstadt-ne5QkLtB/?mid=vPEr07io"
+  },
   "vVNuOKxM": {
     "away": "Greuther Furth",
     "away_goals": 0,
@@ -6584,6 +9164,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/rb-leipzig-KbS1suSm/summary/stats/?mid=vVNuOKxM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/rb-leipzig-KbS1suSm/?mid=vVNuOKxM"
+  },
+  "vwfdihR3": {
+    "away": "Ingolstadt",
+    "away_goals": 0,
+    "date": "2014-10-31",
+    "home": "Dusseldorf",
+    "home_goals": 0,
+    "id": "vwfdihR3",
+    "source": "flashscore",
+    "source_status": "31.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/ingolstadt-ne5QkLtB/?mid=vwfdihR3"
   },
   "vyyfmG4s": {
     "away": "Greuther Furth",
@@ -6718,6 +9310,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/nurnberg-6FDqshzF/summary/stats/?mid=x6ybT0dB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/nurnberg-6FDqshzF/?mid=x6ybT0dB"
+  },
+  "xCd7koE6": {
+    "away": "Darmstadt",
+    "away_goals": 1,
+    "date": "2015-02-20",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "xCd7koE6",
+    "source": "flashscore",
+    "source_status": "20.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/darmstadt-S0hPB9rA/?mid=xCd7koE6"
+  },
+  "xCpsLTp8": {
+    "away": "Nurnberg",
+    "away_goals": 0,
+    "date": "2014-09-24",
+    "home": "Heidenheim",
+    "home_goals": 3,
+    "id": "xCpsLTp8",
+    "source": "flashscore",
+    "source_status": "24.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/nurnberg-6FDqshzF/?mid=xCpsLTp8"
+  },
+  "xGWfA6Xr": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2014-11-23",
+    "home": "RB Leipzig",
+    "home_goals": 4,
+    "id": "xGWfA6Xr",
+    "source": "flashscore",
+    "source_status": "23.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/rb-leipzig-KbS1suSm/st-pauli-ILyJuN3g/?mid=xGWfA6Xr"
   },
   "xOAsp5fH": {
     "away": "Heidenheim",
@@ -6920,6 +9548,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/heidenheim-KWixEVWi/?mid=xSpV4QDg"
   },
+  "xW2pcxGF": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2015-02-16",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "xW2pcxGF",
+    "source": "flashscore",
+    "source_status": "16.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/st-pauli-ILyJuN3g/?mid=xW2pcxGF"
+  },
+  "xWtFscGS": {
+    "away": "Darmstadt",
+    "away_goals": 0,
+    "date": "2015-02-06",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "xWtFscGS",
+    "source": "flashscore",
+    "source_status": "06.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/darmstadt-S0hPB9rA/?mid=xWtFscGS"
+  },
   "xjXErhJC": {
     "away": "St. Pauli",
     "away_goals": 1,
@@ -6986,6 +9638,90 @@
     "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/summary/stats/?mid=xjXErhJC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/?mid=xjXErhJC"
+  },
+  "xjyAq4TP": {
+    "away": "RB Leipzig",
+    "away_goals": 0,
+    "date": "2014-10-17",
+    "home": "Nurnberg",
+    "home_goals": 1,
+    "id": "xjyAq4TP",
+    "source": "flashscore",
+    "source_status": "17.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/rb-leipzig-KbS1suSm/?mid=xjyAq4TP"
+  },
+  "xlEKbkiK": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2015-02-21",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "xlEKbkiK",
+    "source": "flashscore",
+    "source_status": "21.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/?mid=xlEKbkiK"
+  },
+  "xv7EJG93": {
+    "away": "Bochum",
+    "away_goals": 5,
+    "date": "2014-09-20",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "xv7EJG93",
+    "source": "flashscore",
+    "source_status": "20.09.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/fsv-frankfurt-CG1hDqLC/?mid=xv7EJG93"
+  },
+  "xzeXnwzI": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2014-10-24",
+    "home": "RB Leipzig",
+    "home_goals": 2,
+    "id": "xzeXnwzI",
+    "source": "flashscore",
+    "source_status": "24.10.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/rb-leipzig-KbS1suSm/?mid=xzeXnwzI"
+  },
+  "z7Mkyegd": {
+    "away": "RB Leipzig",
+    "away_goals": 0,
+    "date": "2015-02-06",
+    "home": "Aue",
+    "home_goals": 2,
+    "id": "z7Mkyegd",
+    "source": "flashscore",
+    "source_status": "06.02.2015",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/rb-leipzig-KbS1suSm/?mid=z7Mkyegd"
+  },
+  "z7pTEnPR": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2014-11-21",
+    "home": "Heidenheim",
+    "home_goals": 3,
+    "id": "z7pTEnPR",
+    "source": "flashscore",
+    "source_status": "21.11.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/sandhausen-UZxEj1R4/?mid=z7pTEnPR"
+  },
+  "z9NgJMXA": {
+    "away": "Kaiserslautern",
+    "away_goals": 1,
+    "date": "2014-12-17",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "z9NgJMXA",
+    "source": "flashscore",
+    "source_status": "17.12.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/?mid=z9NgJMXA"
   },
   "zsusXrcn": {
     "away": "Braunschweig",
