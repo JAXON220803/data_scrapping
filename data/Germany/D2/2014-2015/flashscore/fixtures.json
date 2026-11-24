@@ -2688,8 +2688,68 @@
     "home": "RB Leipzig",
     "home_goals": 0,
     "id": "ARXvqUYq",
+    "shots": {
+      "AS": 15,
+      "AST": 6,
+      "HS": 17,
+      "HST": 10
+    },
     "source": "flashscore",
     "source_status": "03.11.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "10",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "33",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "21",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/rb-leipzig-KbS1suSm/summary/stats/?mid=ARXvqUYq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/rb-leipzig-KbS1suSm/?mid=ARXvqUYq"
   },
@@ -8774,8 +8834,68 @@
     "home": "Aalen",
     "home_goals": 0,
     "id": "WERt3kQF",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "07.11.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/fsv-frankfurt-CG1hDqLC/summary/stats/?mid=WERt3kQF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/fsv-frankfurt-CG1hDqLC/?mid=WERt3kQF"
   },
@@ -9493,8 +9613,68 @@
     "home": "St. Pauli",
     "home_goals": 0,
     "id": "b1TY4Be3",
+    "shots": {
+      "AS": 15,
+      "AST": 8,
+      "HS": 17,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "08.11.2014",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "21",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/summary/stats/?mid=b1TY4Be3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/st-pauli-ILyJuN3g/?mid=b1TY4Be3"
   },
@@ -12526,8 +12706,68 @@
     "home": "Sandhausen",
     "home_goals": 2,
     "id": "ljMo29uM",
+    "shots": {
+      "AS": 15,
+      "AST": 9,
+      "HS": 16,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "07.11.2014",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "25",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "36",
+        "home": "29",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "25",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/sandhausen-UZxEj1R4/summary/stats/?mid=ljMo29uM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nurnberg-6FDqshzF/sandhausen-UZxEj1R4/?mid=ljMo29uM"
   },
@@ -13585,8 +13825,68 @@
     "home": "Braunschweig",
     "home_goals": 2,
     "id": "rB0mgEdi",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 12,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "02.11.2014",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/braunschweig-QqLCC3il/summary/stats/?mid=rB0mgEdi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/braunschweig-QqLCC3il/?mid=rB0mgEdi"
   },
@@ -14165,8 +14465,68 @@
     "home": "Kaiserslautern",
     "home_goals": 2,
     "id": "rgons83d",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "07.11.2014",
+    "statistics": [
+      {
+        "away": "34%",
+        "home": "66%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "27",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/summary/stats/?mid=rgons83d",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/?mid=rgons83d"
   },
