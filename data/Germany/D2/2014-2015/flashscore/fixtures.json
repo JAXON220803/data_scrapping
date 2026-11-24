@@ -4907,8 +4907,68 @@
     "home": "Union Berlin",
     "home_goals": 0,
     "id": "ITh0jCtA",
+    "shots": {
+      "AS": 12,
+      "AST": 10,
+      "HS": 11,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "31.10.2014",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "29",
+        "home": "29",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Offsides"
+      },
+      {
+        "away": "14",
+        "home": "31",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "27",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/summary/stats/?mid=ITh0jCtA",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/?mid=ITh0jCtA"
   },
@@ -4919,8 +4979,68 @@
     "home": "Darmstadt",
     "home_goals": 3,
     "id": "IX81VA4p",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 16,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "27.10.2014",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "35",
+        "home": "22",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/nurnberg-6FDqshzF/summary/stats/?mid=IX81VA4p",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/darmstadt-S0hPB9rA/nurnberg-6FDqshzF/?mid=IX81VA4p"
   },
@@ -9644,8 +9764,68 @@
     "home": "Sandhausen",
     "home_goals": 1,
     "id": "bqdTmJKB",
+    "shots": {
+      "AS": 11,
+      "AST": 6,
+      "HS": 20,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "26.10.2014",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "17",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/summary/stats/?mid=bqdTmJKB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/?mid=bqdTmJKB"
   },
@@ -10598,8 +10778,68 @@
     "home": "Munich 1860",
     "home_goals": 1,
     "id": "fiaCi1Ln",
+    "shots": {
+      "AS": 6,
+      "AST": 5,
+      "HS": 15,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "26.10.2014",
+    "statistics": [
+      {
+        "away": "37%",
+        "home": "63%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "36",
+        "home": "27",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "17",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/summary/stats/?mid=fiaCi1Ln",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/?mid=fiaCi1Ln"
   },
@@ -11154,8 +11394,68 @@
     "home": "Ingolstadt",
     "home_goals": 1,
     "id": "jJhLkuja",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 22,
+      "HST": 12
+    },
     "source": "flashscore",
     "source_status": "26.10.2014",
+    "statistics": [
+      {
+        "away": "43%",
+        "home": "57%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "22",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "27",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "29",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/ingolstadt-ne5QkLtB/summary/stats/?mid=jJhLkuja",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/heidenheim-KWixEVWi/ingolstadt-ne5QkLtB/?mid=jJhLkuja"
   },
