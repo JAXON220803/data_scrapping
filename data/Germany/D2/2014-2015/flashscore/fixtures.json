@@ -10228,8 +10228,63 @@
     "home": "Sandhausen",
     "home_goals": 2,
     "id": "U1sN6nqs",
+    "shots": {
+      "AS": 15,
+      "AST": 4,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "28.02.2015",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "10",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/sandhausen-UZxEj1R4/summary/stats/?mid=U1sN6nqs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/sandhausen-UZxEj1R4/?mid=U1sN6nqs"
   },

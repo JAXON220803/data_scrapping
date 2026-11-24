@@ -6880,6 +6880,86 @@
     "value": 5
   },
   {
+    "away": "Aalen",
+    "date": "19/07/13",
+    "field": "AS",
+    "fixture_id": "bm6NUNFE",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 16
+  },
+  {
+    "away": "Aalen",
+    "date": "19/07/13",
+    "field": "HS",
+    "fixture_id": "bm6NUNFE",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "Munich 1860",
+    "date": "19/07/13",
+    "field": "AS",
+    "fixture_id": "Kd7JV308",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 21
+  },
+  {
+    "away": "Munich 1860",
+    "date": "19/07/13",
+    "field": "AST",
+    "fixture_id": "Kd7JV308",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
+    "away": "Munich 1860",
+    "date": "19/07/13",
+    "field": "HS",
+    "fixture_id": "Kd7JV308",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 19
+  },
+  {
+    "away": "Munich 1860",
+    "date": "19/07/13",
+    "field": "HST",
+    "fixture_id": "Kd7JV308",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 8
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "20/07/13",
+    "field": "AS",
+    "fixture_id": "SMARTsVK",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 18
+  },
+  {
+    "away": "Kaiserslautern",
+    "date": "20/07/13",
+    "field": "HS",
+    "fixture_id": "SMARTsVK",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 15
+  },
+  {
     "away": "Karlsruhe",
     "date": "02/03/14",
     "field": "AS",
@@ -16158,6 +16238,46 @@
     "source": "flashscore",
     "target": "Germany/D2/2014-2015",
     "value": 5
+  },
+  {
+    "away": "Aalen",
+    "date": "28/02/15",
+    "field": "AS",
+    "fixture_id": "U1sN6nqs",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 15
+  },
+  {
+    "away": "Aalen",
+    "date": "28/02/15",
+    "field": "AST",
+    "fixture_id": "U1sN6nqs",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 4
+  },
+  {
+    "away": "Aalen",
+    "date": "28/02/15",
+    "field": "HS",
+    "fixture_id": "U1sN6nqs",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 13
+  },
+  {
+    "away": "Aalen",
+    "date": "28/02/15",
+    "field": "HST",
+    "fixture_id": "U1sN6nqs",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2014-2015",
+    "value": 4
   },
   {
     "away": "Union Berlin",

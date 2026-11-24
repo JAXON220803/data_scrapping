@@ -1,4 +1,16 @@
 {
+  "02NpjHkt": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2013-08-24",
+    "home": "Aalen",
+    "home_goals": 4,
+    "id": "02NpjHkt",
+    "source": "flashscore",
+    "source_status": "24.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/kaiserslautern-naWckLmC/?mid=02NpjHkt"
+  },
   "0EmoFhak": {
     "away": "SG Dynamo Dresden",
     "away_goals": 0,
@@ -70,6 +82,162 @@
     "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/energie-cottbus-6g44VD52/summary/stats/?mid=0EmoFhak",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/energie-cottbus-6g44VD52/?mid=0EmoFhak"
+  },
+  "0KQDjrsp": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2013-11-09",
+    "home": "Arminia Bielefeld",
+    "home_goals": 0,
+    "id": "0KQDjrsp",
+    "source": "flashscore",
+    "source_status": "09.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/munich-1860-byXHwsJa/?mid=0KQDjrsp"
+  },
+  "0bXYYIFs": {
+    "away": "Karlsruher SC",
+    "away_goals": 2,
+    "date": "2013-10-20",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "0bXYYIFs",
+    "source": "flashscore",
+    "source_status": "20.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/?mid=0bXYYIFs"
+  },
+  "0nXl8efR": {
+    "away": "Aalen",
+    "away_goals": 1,
+    "date": "2013-08-18",
+    "home": "Cottbus",
+    "home_goals": 5,
+    "id": "0nXl8efR",
+    "source": "flashscore",
+    "source_status": "18.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/energie-cottbus-6g44VD52/?mid=0nXl8efR"
+  },
+  "0ph0KJ0l": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2013-10-06",
+    "home": "Munich 1860",
+    "home_goals": 0,
+    "id": "0ph0KJ0l",
+    "source": "flashscore",
+    "source_status": "06.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/munich-1860-byXHwsJa/?mid=0ph0KJ0l"
+  },
+  "0r1XahJ4": {
+    "away": "Aalen",
+    "away_goals": 1,
+    "date": "2013-09-01",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "0r1XahJ4",
+    "source": "flashscore",
+    "source_status": "01.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/karlsruher-EB3q7jbk/?mid=0r1XahJ4"
+  },
+  "0ru2pDJH": {
+    "away": "Cottbus",
+    "away_goals": 2,
+    "date": "2013-09-02",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "0ru2pDJH",
+    "source": "flashscore",
+    "source_status": "02.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/kaiserslautern-naWckLmC/?mid=0ru2pDJH"
+  },
+  "0x8tSPKm": {
+    "away": "FC Koln",
+    "away_goals": 3,
+    "date": "2013-12-22",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "0x8tSPKm",
+    "source": "flashscore",
+    "source_status": "22.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/dusseldorf-ne1oL3y7/?mid=0x8tSPKm"
+  },
+  "23JYhgP3": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2014-02-24",
+    "home": "FC Koln",
+    "home_goals": 1,
+    "id": "23JYhgP3",
+    "source": "flashscore",
+    "source_status": "24.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/greuther-furth-CCQGbik8/?mid=23JYhgP3"
+  },
+  "279pAia2": {
+    "away": "Aalen",
+    "away_goals": 3,
+    "date": "2013-11-29",
+    "home": "Union Berlin",
+    "home_goals": 1,
+    "id": "279pAia2",
+    "source": "flashscore",
+    "source_status": "29.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/union-berlin-pzHW4oaE/?mid=279pAia2"
+  },
+  "2Hb77hvc": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 0,
+    "date": "2014-02-28",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "2Hb77hvc",
+    "source": "flashscore",
+    "source_status": "28.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dusseldorf-ne1oL3y7/?mid=2Hb77hvc"
+  },
+  "2NibuLxE": {
+    "away": "FC Koln",
+    "away_goals": 2,
+    "date": "2013-10-05",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "2NibuLxE",
+    "source": "flashscore",
+    "source_status": "05.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/karlsruher-EB3q7jbk/?mid=2NibuLxE"
+  },
+  "2R5Gp1d3": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2013-07-26",
+    "home": "Kaiserslautern",
+    "home_goals": 3,
+    "id": "2R5Gp1d3",
+    "source": "flashscore",
+    "source_status": "26.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/kaiserslautern-naWckLmC/?mid=2R5Gp1d3"
+  },
+  "2VPECV2A": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 2,
+    "date": "2013-09-13",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "2VPECV2A",
+    "source": "flashscore",
+    "source_status": "13.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/aue-vsXIDreP/?mid=2VPECV2A"
   },
   "2ZHb4dnN": {
     "away": "Karlsruher SC",
@@ -215,6 +383,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/?mid=2aqoYX5R"
   },
+  "2kh0OS1M": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2013-09-30",
+    "home": "Greuther Furth",
+    "home_goals": 4,
+    "id": "2kh0OS1M",
+    "source": "flashscore",
+    "source_status": "30.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/greuther-furth-CCQGbik8/?mid=2kh0OS1M"
+  },
   "2oQ2dSVe": {
     "away": "Paderborn",
     "away_goals": 0,
@@ -358,6 +538,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/karlsruher-EB3q7jbk/summary/stats/?mid=2qZQ0sNs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/karlsruher-EB3q7jbk/?mid=2qZQ0sNs"
+  },
+  "2srbtGub": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2014-02-14",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "2srbtGub",
+    "source": "flashscore",
+    "source_status": "14.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/union-berlin-pzHW4oaE/?mid=2srbtGub"
   },
   "2wWG9x6C": {
     "away": "Cottbus",
@@ -575,6 +767,92 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/sandhausen-UZxEj1R4/?mid=48VCTiEr"
   },
+  "4Ah2E6jl": {
+    "away": "Paderborn",
+    "away_goals": 1,
+    "date": "2013-12-13",
+    "home": "Kaiserslautern",
+    "home_goals": 0,
+    "id": "4Ah2E6jl",
+    "source": "flashscore",
+    "source_status": "13.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/paderborn-G2Op923t/?mid=4Ah2E6jl"
+  },
+  "4KwtAHPE": {
+    "away": "Ingolstadt",
+    "away_goals": 0,
+    "date": "2013-08-18",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "4KwtAHPE",
+    "source": "flashscore",
+    "source_status": "18.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/munich-1860-byXHwsJa/?mid=4KwtAHPE"
+  },
+  "61VWaX17": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2013-08-25",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "61VWaX17",
+    "source": "flashscore",
+    "source_status": "25.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/?mid=61VWaX17"
+  },
+  "6D9VS1pR": {
+    "away": "Aue",
+    "away_goals": 2,
+    "date": "2013-07-19",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "6D9VS1pR",
+    "shots": {
+      "AS": 7,
+      "HS": 16
+    },
+    "source": "flashscore",
+    "source_status": "19.07.2013",
+    "statistics": [
+      {
+        "away": "38%",
+        "home": "62%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/ingolstadt-ne5QkLtB/summary/stats/?mid=6D9VS1pR",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/ingolstadt-ne5QkLtB/?mid=6D9VS1pR"
+  },
   "6DVCX0FG": {
     "away": "Arminia Bielefeld",
     "away_goals": 0,
@@ -646,6 +924,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/arminia-bielefeld-pp38UXK8/summary/stats/?mid=6DVCX0FG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/arminia-bielefeld-pp38UXK8/?mid=6DVCX0FG"
+  },
+  "6H1DBqJ9": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2013-11-24",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "6H1DBqJ9",
+    "source": "flashscore",
+    "source_status": "24.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/st-pauli-ILyJuN3g/?mid=6H1DBqJ9"
+  },
+  "6HPW7081": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2013-07-21",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "6HPW7081",
+    "source": "flashscore",
+    "source_status": "21.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/karlsruher-EB3q7jbk/?mid=6HPW7081"
+  },
+  "6L1T0Y3b": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2013-09-01",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "6L1T0Y3b",
+    "source": "flashscore",
+    "source_status": "01.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/ingolstadt-ne5QkLtB/?mid=6L1T0Y3b"
   },
   "6XRTP9D7": {
     "away": "Cottbus",
@@ -863,6 +1177,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/munich-1860-byXHwsJa/?mid=6ajvJ10N"
   },
+  "6qpGiUQp": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2013-09-13",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "6qpGiUQp",
+    "source": "flashscore",
+    "source_status": "13.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/munich-1860-byXHwsJa/?mid=6qpGiUQp"
+  },
+  "6yQPfFfi": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2014-02-17",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "6yQPfFfi",
+    "source": "flashscore",
+    "source_status": "17.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/kaiserslautern-naWckLmC/?mid=6yQPfFfi"
+  },
   "80laukDf": {
     "away": "Ingolstadt",
     "away_goals": 0,
@@ -934,6 +1272,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/ingolstadt-ne5QkLtB/summary/stats/?mid=80laukDf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/ingolstadt-ne5QkLtB/?mid=80laukDf"
+  },
+  "88b1N1ZI": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2013-12-20",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "88b1N1ZI",
+    "source": "flashscore",
+    "source_status": "20.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/?mid=88b1N1ZI"
+  },
+  "8Ae8IcV0": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2013-10-04",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "8Ae8IcV0",
+    "source": "flashscore",
+    "source_status": "04.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/st-pauli-ILyJuN3g/?mid=8Ae8IcV0"
   },
   "8CIf5xXG": {
     "away": "Cottbus",
@@ -1078,6 +1440,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/summary/stats/?mid=8GhrQcjg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/?mid=8GhrQcjg"
+  },
+  "8OzsXdpf": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2013-10-18",
+    "home": "Cottbus",
+    "home_goals": 0,
+    "id": "8OzsXdpf",
+    "source": "flashscore",
+    "source_status": "18.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/union-berlin-pzHW4oaE/?mid=8OzsXdpf"
+  },
+  "8SfuaRj1": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2013-12-07",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "8SfuaRj1",
+    "source": "flashscore",
+    "source_status": "07.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/union-berlin-pzHW4oaE/?mid=8SfuaRj1"
+  },
+  "8W8c47Aj": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2013-09-23",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "8W8c47Aj",
+    "source": "flashscore",
+    "source_status": "23.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/?mid=8W8c47Aj"
+  },
+  "8lObGD3o": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2013-09-14",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "8lObGD3o",
+    "source": "flashscore",
+    "source_status": "14.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/?mid=8lObGD3o"
   },
   "8rHhJkw9": {
     "away": "Union Berlin",
@@ -1295,6 +1705,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/union-berlin-pzHW4oaE/?mid=A9b4E0is"
   },
+  "ADYIyhfT": {
+    "away": "FC Koln",
+    "away_goals": 1,
+    "date": "2014-02-16",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "ADYIyhfT",
+    "source": "flashscore",
+    "source_status": "16.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/sandhausen-UZxEj1R4/?mid=ADYIyhfT"
+  },
+  "AH86dDD5": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2013-11-03",
+    "home": "Sandhausen",
+    "home_goals": 2,
+    "id": "AH86dDD5",
+    "source": "flashscore",
+    "source_status": "03.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/sandhausen-UZxEj1R4/?mid=AH86dDD5"
+  },
   "ARai6IHA": {
     "away": "Aalen",
     "away_goals": 1,
@@ -1366,6 +1800,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/paderborn-G2Op923t/summary/stats/?mid=ARai6IHA",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/paderborn-G2Op923t/?mid=ARai6IHA"
+  },
+  "ATMtiXgG": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2014-02-21",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "ATMtiXgG",
+    "source": "flashscore",
+    "source_status": "21.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/union-berlin-pzHW4oaE/?mid=ATMtiXgG"
+  },
+  "AeTMA9XM": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2013-09-20",
+    "home": "FC Koln",
+    "home_goals": 0,
+    "id": "AeTMA9XM",
+    "source": "flashscore",
+    "source_status": "20.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/kaiserslautern-naWckLmC/?mid=AeTMA9XM"
+  },
+  "AiwBgBcO": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 1,
+    "date": "2013-11-03",
+    "home": "Karlsruher SC",
+    "home_goals": 3,
+    "id": "AiwBgBcO",
+    "source": "flashscore",
+    "source_status": "03.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/karlsruher-EB3q7jbk/?mid=AiwBgBcO"
+  },
+  "Ak84D5lc": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2013-11-25",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "Ak84D5lc",
+    "source": "flashscore",
+    "source_status": "25.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/munich-1860-byXHwsJa/?mid=Ak84D5lc"
   },
   "AmkS2UhS": {
     "away": "Ingolstadt",
@@ -1655,6 +2137,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/union-berlin-pzHW4oaE/?mid=CC1BPoHu"
   },
+  "CM8K2fZo": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2013-08-31",
+    "home": "Union Berlin",
+    "home_goals": 3,
+    "id": "CM8K2fZo",
+    "source": "flashscore",
+    "source_status": "31.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/union-berlin-pzHW4oaE/?mid=CM8K2fZo"
+  },
+  "CMxxsYDI": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2013-10-27",
+    "home": "Karlsruher SC",
+    "home_goals": 2,
+    "id": "CMxxsYDI",
+    "source": "flashscore",
+    "source_status": "27.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/?mid=CMxxsYDI"
+  },
+  "CQjfnEX7": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2013-08-17",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "CQjfnEX7",
+    "source": "flashscore",
+    "source_status": "17.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/kaiserslautern-naWckLmC/?mid=CQjfnEX7"
+  },
   "CYYKRVre": {
     "away": "Kaiserslautern",
     "away_goals": 3,
@@ -1799,6 +2317,73 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/munich-1860-byXHwsJa/?mid=CYfjsBrr"
   },
+  "CfQS8tge": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 0,
+    "date": "2013-07-21",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "CfQS8tge",
+    "source": "flashscore",
+    "source_status": "21.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/greuther-furth-CCQGbik8/?mid=CfQS8tge"
+  },
+  "CfnbOLhr": {
+    "away": "FC Koln",
+    "away_goals": 1,
+    "date": "2013-07-20",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "CfnbOLhr",
+    "shots": {
+      "AS": 23,
+      "HS": 12
+    },
+    "source": "flashscore",
+    "source_status": "20.07.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "23",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "23",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/dresden-zL1YsOi1/summary/stats/?mid=CfnbOLhr",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/dresden-zL1YsOi1/?mid=CfnbOLhr"
+  },
   "EHaZRJLt": {
     "away": "Munich 1860",
     "away_goals": 2,
@@ -1870,6 +2455,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/munich-1860-byXHwsJa/summary/stats/?mid=EHaZRJLt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/munich-1860-byXHwsJa/?mid=EHaZRJLt"
+  },
+  "EPoVLlbE": {
+    "away": "Greuther Furth",
+    "away_goals": 3,
+    "date": "2013-12-08",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "EPoVLlbE",
+    "source": "flashscore",
+    "source_status": "08.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/?mid=EPoVLlbE"
+  },
+  "ERxjmFZb": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2013-08-25",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "ERxjmFZb",
+    "source": "flashscore",
+    "source_status": "25.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/paderborn-G2Op923t/?mid=ERxjmFZb"
+  },
+  "EswvXB2p": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 0,
+    "date": "2014-02-16",
+    "home": "Paderborn",
+    "home_goals": 4,
+    "id": "EswvXB2p",
+    "source": "flashscore",
+    "source_status": "16.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/paderborn-G2Op923t/?mid=EswvXB2p"
   },
   "EunJ5oRa": {
     "away": "Ingolstadt",
@@ -2015,6 +2636,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/kaiserslautern-naWckLmC/?mid=G29KnXKK"
   },
+  "GCxK2ZHl": {
+    "away": "FSV Frankfurt",
+    "away_goals": 3,
+    "date": "2013-08-18",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 0,
+    "id": "GCxK2ZHl",
+    "source": "flashscore",
+    "source_status": "18.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/fsv-frankfurt-CG1hDqLC/?mid=GCxK2ZHl"
+  },
   "GMT4CvMg": {
     "away": "Sandhausen",
     "away_goals": 1,
@@ -2086,6 +2719,90 @@
     "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/sandhausen-UZxEj1R4/summary/stats/?mid=GMT4CvMg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/sandhausen-UZxEj1R4/?mid=GMT4CvMg"
+  },
+  "GUF069bR": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2013-12-01",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "GUF069bR",
+    "source": "flashscore",
+    "source_status": "01.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/munich-1860-byXHwsJa/?mid=GUF069bR"
+  },
+  "GUw7firI": {
+    "away": "Greuther Furth",
+    "away_goals": 6,
+    "date": "2013-11-02",
+    "home": "Aue",
+    "home_goals": 2,
+    "id": "GUw7firI",
+    "source": "flashscore",
+    "source_status": "02.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/?mid=GUw7firI"
+  },
+  "GYTIBkIG": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2013-09-22",
+    "home": "FSV Frankfurt",
+    "home_goals": 4,
+    "id": "GYTIBkIG",
+    "source": "flashscore",
+    "source_status": "22.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/ingolstadt-ne5QkLtB/?mid=GYTIBkIG"
+  },
+  "GYklRUH3": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2013-09-20",
+    "home": "Karlsruher SC",
+    "home_goals": 2,
+    "id": "GYklRUH3",
+    "source": "flashscore",
+    "source_status": "20.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/karlsruher-EB3q7jbk/?mid=GYklRUH3"
+  },
+  "Gbcolz3e": {
+    "away": "Aalen",
+    "away_goals": 1,
+    "date": "2013-08-11",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "Gbcolz3e",
+    "source": "flashscore",
+    "source_status": "11.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/aue-vsXIDreP/?mid=Gbcolz3e"
+  },
+  "GdYzIQvj": {
+    "away": "FC Koln",
+    "away_goals": 1,
+    "date": "2013-09-27",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "GdYzIQvj",
+    "source": "flashscore",
+    "source_status": "27.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/aalen-Oh2C15j0/?mid=GdYzIQvj"
+  },
+  "GfNcTEqJ": {
+    "away": "Dusseldorf",
+    "away_goals": 2,
+    "date": "2013-10-20",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "GfNcTEqJ",
+    "source": "flashscore",
+    "source_status": "20.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/ingolstadt-ne5QkLtB/?mid=GfNcTEqJ"
   },
   "GlU6eno2": {
     "away": "Aue",
@@ -2220,6 +2937,114 @@
     "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/bochum-8Y2m6ADe/summary/stats/?mid=GpGlj6RC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/bochum-8Y2m6ADe/?mid=GpGlj6RC"
+  },
+  "IJ9uOYPT": {
+    "away": "Aue",
+    "away_goals": 2,
+    "date": "2014-02-07",
+    "home": "Aalen",
+    "home_goals": 2,
+    "id": "IJ9uOYPT",
+    "source": "flashscore",
+    "source_status": "07.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/aue-vsXIDreP/?mid=IJ9uOYPT"
+  },
+  "INqTrfq6": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2013-10-28",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "INqTrfq6",
+    "source": "flashscore",
+    "source_status": "28.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/kaiserslautern-naWckLmC/?mid=INqTrfq6"
+  },
+  "IRJG3F2r": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2013-08-16",
+    "home": "Bochum",
+    "home_goals": 2,
+    "id": "IRJG3F2r",
+    "source": "flashscore",
+    "source_status": "16.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/?mid=IRJG3F2r"
+  },
+  "Ia1thbMJ": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2013-10-19",
+    "home": "Aue",
+    "home_goals": 2,
+    "id": "Ia1thbMJ",
+    "source": "flashscore",
+    "source_status": "19.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/bochum-8Y2m6ADe/?mid=Ia1thbMJ"
+  },
+  "Ic0xAWs5": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2013-11-08",
+    "home": "Ingolstadt",
+    "home_goals": 2,
+    "id": "Ic0xAWs5",
+    "source": "flashscore",
+    "source_status": "08.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/ingolstadt-ne5QkLtB/?mid=Ic0xAWs5"
+  },
+  "IeLIk2dj": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2013-11-23",
+    "home": "Kaiserslautern",
+    "home_goals": 3,
+    "id": "IeLIk2dj",
+    "source": "flashscore",
+    "source_status": "23.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/union-berlin-pzHW4oaE/?mid=IeLIk2dj"
+  },
+  "IiTz7KN7": {
+    "away": "Bochum",
+    "away_goals": 2,
+    "date": "2013-07-21",
+    "home": "Union Berlin",
+    "home_goals": 1,
+    "id": "IiTz7KN7",
+    "source": "flashscore",
+    "source_status": "21.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/union-berlin-pzHW4oaE/?mid=IiTz7KN7"
+  },
+  "Iw2S1T6r": {
+    "away": "Kaiserslautern",
+    "away_goals": 2,
+    "date": "2013-11-30",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 3,
+    "id": "Iw2S1T6r",
+    "source": "flashscore",
+    "source_status": "30.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/kaiserslautern-naWckLmC/?mid=Iw2S1T6r"
+  },
+  "K6zADBm4": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2013-09-15",
+    "home": "Ingolstadt",
+    "home_goals": 0,
+    "id": "K6zADBm4",
+    "source": "flashscore",
+    "source_status": "15.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/union-berlin-pzHW4oaE/?mid=K6zADBm4"
   },
   "KI0AxmcD": {
     "away": "SG Dynamo Dresden",
@@ -2365,6 +3190,80 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/?mid=KMzbc8Gk"
   },
+  "KbQ7VbRu": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2013-12-22",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "KbQ7VbRu",
+    "source": "flashscore",
+    "source_status": "22.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/paderborn-G2Op923t/?mid=KbQ7VbRu"
+  },
+  "Kd7JV308": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2013-07-19",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "Kd7JV308",
+    "shots": {
+      "AS": 21,
+      "AST": 7,
+      "HS": 19,
+      "HST": 8
+    },
+    "source": "flashscore",
+    "source_status": "19.07.2013",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "21",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "21",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/summary/stats/?mid=Kd7JV308",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/?mid=Kd7JV308"
+  },
   "KdT0z3Vc": {
     "away": "Kaiserslautern",
     "away_goals": 2,
@@ -2436,6 +3335,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/summary/stats/?mid=KdT0z3Vc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/karlsruher-EB3q7jbk/?mid=KdT0z3Vc"
+  },
+  "KrlSL3G4": {
+    "away": "FC Koln",
+    "away_goals": 2,
+    "date": "2014-03-01",
+    "home": "Aue",
+    "home_goals": 2,
+    "id": "KrlSL3G4",
+    "source": "flashscore",
+    "source_status": "01.03.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/aue-vsXIDreP/?mid=KrlSL3G4"
+  },
+  "KvUTgZ9c": {
+    "away": "Aalen",
+    "away_goals": 2,
+    "date": "2014-02-23",
+    "home": "Kaiserslautern",
+    "home_goals": 1,
+    "id": "KvUTgZ9c",
+    "source": "flashscore",
+    "source_status": "23.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/kaiserslautern-naWckLmC/?mid=KvUTgZ9c"
   },
   "Kx7v9KXi": {
     "away": "FC Koln",
@@ -2725,6 +3648,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/union-berlin-pzHW4oaE/?mid=MNvg1WZD"
   },
+  "MVbqbo67": {
+    "away": "Ingolstadt",
+    "away_goals": 2,
+    "date": "2013-12-08",
+    "home": "Cottbus",
+    "home_goals": 1,
+    "id": "MVbqbo67",
+    "source": "flashscore",
+    "source_status": "08.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/ingolstadt-ne5QkLtB/?mid=MVbqbo67"
+  },
+  "MZYWI6Pq": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 2,
+    "date": "2013-09-27",
+    "home": "Cottbus",
+    "home_goals": 4,
+    "id": "MZYWI6Pq",
+    "source": "flashscore",
+    "source_status": "27.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/energie-cottbus-6g44VD52/?mid=MZYWI6Pq"
+  },
+  "MZduTjmi": {
+    "away": "Aalen",
+    "away_goals": 2,
+    "date": "2013-09-21",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "MZduTjmi",
+    "source": "flashscore",
+    "source_status": "21.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/bochum-8Y2m6ADe/?mid=MZduTjmi"
+  },
+  "McTArilU": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2013-09-01",
+    "home": "FC Koln",
+    "home_goals": 4,
+    "id": "McTArilU",
+    "source": "flashscore",
+    "source_status": "01.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/aue-vsXIDreP/?mid=McTArilU"
+  },
+  "MeYp9yuL": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2013-08-19",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "MeYp9yuL",
+    "source": "flashscore",
+    "source_status": "19.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/union-berlin-pzHW4oaE/?mid=MeYp9yuL"
+  },
+  "MggdLaor": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2013-10-06",
+    "home": "FSV Frankfurt",
+    "home_goals": 3,
+    "id": "MggdLaor",
+    "source": "flashscore",
+    "source_status": "06.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/fsv-frankfurt-CG1hDqLC/?mid=MggdLaor"
+  },
   "MoNuhSd0": {
     "away": "Sandhausen",
     "away_goals": 0,
@@ -2869,6 +3864,126 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/st-pauli-ILyJuN3g/?mid=Ms7vDTYP"
   },
+  "MyxCZzl2": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2013-07-26",
+    "home": "Arminia Bielefeld",
+    "home_goals": 1,
+    "id": "MyxCZzl2",
+    "source": "flashscore",
+    "source_status": "26.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/union-berlin-pzHW4oaE/?mid=MyxCZzl2"
+  },
+  "O06faFTn": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 3,
+    "date": "2013-11-03",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "O06faFTn",
+    "source": "flashscore",
+    "source_status": "03.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/munich-1860-byXHwsJa/?mid=O06faFTn"
+  },
+  "O0pPqzUa": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2013-10-25",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "O0pPqzUa",
+    "source": "flashscore",
+    "source_status": "25.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/?mid=O0pPqzUa"
+  },
+  "OMw41ae2": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 2,
+    "date": "2013-12-02",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "OMw41ae2",
+    "source": "flashscore",
+    "source_status": "02.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/fsv-frankfurt-CG1hDqLC/?mid=OMw41ae2"
+  },
+  "ObgdP8nG": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2013-09-28",
+    "home": "Dusseldorf",
+    "home_goals": 0,
+    "id": "ObgdP8nG",
+    "source": "flashscore",
+    "source_status": "28.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/?mid=ObgdP8nG"
+  },
+  "OdAyPEAN": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2014-02-07",
+    "home": "Cottbus",
+    "home_goals": 0,
+    "id": "OdAyPEAN",
+    "source": "flashscore",
+    "source_status": "07.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/sandhausen-UZxEj1R4/?mid=OdAyPEAN"
+  },
+  "OdW6vfAA": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 2,
+    "date": "2014-02-15",
+    "home": "FSV Frankfurt",
+    "home_goals": 3,
+    "id": "OdW6vfAA",
+    "source": "flashscore",
+    "source_status": "15.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/fsv-frankfurt-CG1hDqLC/?mid=OdW6vfAA"
+  },
+  "Of3p8ACH": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2013-11-10",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "Of3p8ACH",
+    "source": "flashscore",
+    "source_status": "10.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dresden-zL1YsOi1/?mid=Of3p8ACH"
+  },
+  "OfsFhVCU": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2013-11-10",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "OfsFhVCU",
+    "source": "flashscore",
+    "source_status": "10.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/sandhausen-UZxEj1R4/?mid=OfsFhVCU"
+  },
+  "OhC8CP33": {
+    "away": "FSV Frankfurt",
+    "away_goals": 4,
+    "date": "2013-11-22",
+    "home": "Cottbus",
+    "home_goals": 1,
+    "id": "OhC8CP33",
+    "source": "flashscore",
+    "source_status": "22.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/fsv-frankfurt-CG1hDqLC/?mid=OhC8CP33"
+  },
   "OhKP7GzP": {
     "away": "Arminia Bielefeld",
     "away_goals": 1,
@@ -2956,6 +4071,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/darmstadt-S0hPB9rA/?mid=OjZh4iHb"
   },
+  "OtfPruRF": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2013-07-28",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "OtfPruRF",
+    "source": "flashscore",
+    "source_status": "28.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/munich-1860-byXHwsJa/?mid=OtfPruRF"
+  },
   "OzoqILFT": {
     "away": "Cottbus",
     "away_goals": 0,
@@ -3028,6 +4155,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/union-berlin-pzHW4oaE/?mid=OzoqILFT"
   },
+  "Q35z07ye": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2013-12-07",
+    "home": "FC Koln",
+    "home_goals": 2,
+    "id": "Q35z07ye",
+    "source": "flashscore",
+    "source_status": "07.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/fsv-frankfurt-CG1hDqLC/?mid=Q35z07ye"
+  },
   "QJBcI9hF": {
     "away": "FC Koln",
     "away_goals": 0,
@@ -3099,6 +4238,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/kaiserslautern-naWckLmC/summary/stats/?mid=QJBcI9hF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/kaiserslautern-naWckLmC/?mid=QJBcI9hF"
+  },
+  "QPtBCpL0": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2013-12-16",
+    "home": "Munich 1860",
+    "home_goals": 0,
+    "id": "QPtBCpL0",
+    "source": "flashscore",
+    "source_status": "16.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/?mid=QPtBCpL0"
+  },
+  "QTvxBcA8": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2013-08-17",
+    "home": "FC Koln",
+    "home_goals": 2,
+    "id": "QTvxBcA8",
+    "source": "flashscore",
+    "source_status": "17.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/sandhausen-UZxEj1R4/?mid=QTvxBcA8"
+  },
+  "QaFOr91d": {
+    "away": "Ingolstadt",
+    "away_goals": 2,
+    "date": "2014-02-21",
+    "home": "Arminia Bielefeld",
+    "home_goals": 0,
+    "id": "QaFOr91d",
+    "source": "flashscore",
+    "source_status": "21.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/ingolstadt-ne5QkLtB/?mid=QaFOr91d"
   },
   "QqXADuOp": {
     "away": "Greuther Furth",
@@ -3388,6 +4563,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/fsv-frankfurt-CG1hDqLC/?mid=S41O2qBI"
   },
+  "S87PCYcn": {
+    "away": "Kaiserslautern",
+    "away_goals": 4,
+    "date": "2013-11-08",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "S87PCYcn",
+    "source": "flashscore",
+    "source_status": "08.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/kaiserslautern-naWckLmC/?mid=S87PCYcn"
+  },
   "S8izKsoH": {
     "away": "Paderborn",
     "away_goals": 3,
@@ -3459,6 +4646,61 @@
     "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/paderborn-G2Op923t/summary/stats/?mid=S8izKsoH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/paderborn-G2Op923t/?mid=S8izKsoH"
+  },
+  "SMARTsVK": {
+    "away": "Kaiserslautern",
+    "away_goals": 1,
+    "date": "2013-07-20",
+    "home": "Paderborn",
+    "home_goals": 0,
+    "id": "SMARTsVK",
+    "shots": {
+      "AS": 18,
+      "HS": 15
+    },
+    "source": "flashscore",
+    "source_status": "20.07.2013",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/paderborn-G2Op923t/summary/stats/?mid=SMARTsVK",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/paderborn-G2Op923t/?mid=SMARTsVK"
   },
   "SMW8Yt0A": {
     "away": "Bochum",
@@ -3676,6 +4918,114 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/munich-1860-byXHwsJa/?mid=SOq78mss"
   },
+  "SUGSQztB": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2014-02-10",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "SUGSQztB",
+    "source": "flashscore",
+    "source_status": "10.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/?mid=SUGSQztB"
+  },
+  "SYCBfxQR": {
+    "away": "Cottbus",
+    "away_goals": 2,
+    "date": "2013-08-11",
+    "home": "Sandhausen",
+    "home_goals": 2,
+    "id": "SYCBfxQR",
+    "source": "flashscore",
+    "source_status": "11.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/sandhausen-UZxEj1R4/?mid=SYCBfxQR"
+  },
+  "SYjGodam": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2013-10-26",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "SYjGodam",
+    "source": "flashscore",
+    "source_status": "26.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/fsv-frankfurt-CG1hDqLC/?mid=SYjGodam"
+  },
+  "ShyOw819": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2013-09-27",
+    "home": "Aue",
+    "home_goals": 3,
+    "id": "ShyOw819",
+    "source": "flashscore",
+    "source_status": "27.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/?mid=ShyOw819"
+  },
+  "UHacOsKC": {
+    "away": "Karlsruher SC",
+    "away_goals": 2,
+    "date": "2013-12-20",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "UHacOsKC",
+    "source": "flashscore",
+    "source_status": "20.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/st-pauli-ILyJuN3g/?mid=UHacOsKC"
+  },
+  "UJd4JwGf": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2013-10-04",
+    "home": "Union Berlin",
+    "home_goals": 3,
+    "id": "UJd4JwGf",
+    "source": "flashscore",
+    "source_status": "04.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/union-berlin-pzHW4oaE/?mid=UJd4JwGf"
+  },
+  "UNhldAIT": {
+    "away": "FC Koln",
+    "away_goals": 4,
+    "date": "2013-09-16",
+    "home": "Cottbus",
+    "home_goals": 0,
+    "id": "UNhldAIT",
+    "source": "flashscore",
+    "source_status": "16.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/energie-cottbus-6g44VD52/?mid=UNhldAIT"
+  },
+  "UX3t9jcB": {
+    "away": "FC Koln",
+    "away_goals": 0,
+    "date": "2013-11-10",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "UX3t9jcB",
+    "source": "flashscore",
+    "source_status": "10.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/bochum-8Y2m6ADe/?mid=UX3t9jcB"
+  },
+  "UcmXsEbC": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2013-10-27",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "UcmXsEbC",
+    "source": "flashscore",
+    "source_status": "27.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/energie-cottbus-6g44VD52/?mid=UcmXsEbC"
+  },
   "UeQscaM6": {
     "away": "FSV Frankfurt",
     "away_goals": 1,
@@ -3892,6 +5242,126 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/munich-1860-byXHwsJa/?mid=Umr1aA4Q"
   },
+  "UsawjdYr": {
+    "away": "FC Koln",
+    "away_goals": 1,
+    "date": "2013-08-10",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "UsawjdYr",
+    "source": "flashscore",
+    "source_status": "10.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/paderborn-G2Op923t/?mid=UsawjdYr"
+  },
+  "UuAg5mep": {
+    "away": "Greuther Furth",
+    "away_goals": 4,
+    "date": "2013-09-20",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "UuAg5mep",
+    "source": "flashscore",
+    "source_status": "20.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/?mid=UuAg5mep"
+  },
+  "UwPkVzF6": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2013-10-19",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "UwPkVzF6",
+    "source": "flashscore",
+    "source_status": "19.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/sandhausen-UZxEj1R4/?mid=UwPkVzF6"
+  },
+  "W25piIyQ": {
+    "away": "Paderborn",
+    "away_goals": 6,
+    "date": "2013-10-26",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "W25piIyQ",
+    "source": "flashscore",
+    "source_status": "26.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/paderborn-G2Op923t/?mid=W25piIyQ"
+  },
+  "W6J2dbeF": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2013-08-09",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "W6J2dbeF",
+    "source": "flashscore",
+    "source_status": "09.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/fsv-frankfurt-CG1hDqLC/?mid=W6J2dbeF"
+  },
+  "W6cXtJeS": {
+    "away": "Greuther Furth",
+    "away_goals": 2,
+    "date": "2013-07-26",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "W6cXtJeS",
+    "source": "flashscore",
+    "source_status": "26.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/greuther-furth-CCQGbik8/?mid=W6cXtJeS"
+  },
+  "WIq3LZ4O": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2014-02-28",
+    "home": "Cottbus",
+    "home_goals": 1,
+    "id": "WIq3LZ4O",
+    "source": "flashscore",
+    "source_status": "28.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/kaiserslautern-naWckLmC/?mid=WIq3LZ4O"
+  },
+  "WMZExYvN": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2014-02-15",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "WMZExYvN",
+    "source": "flashscore",
+    "source_status": "15.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/?mid=WMZExYvN"
+  },
+  "WObP8s3S": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2013-11-24",
+    "home": "Karlsruher SC",
+    "home_goals": 3,
+    "id": "WObP8s3S",
+    "source": "flashscore",
+    "source_status": "24.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/karlsruher-EB3q7jbk/?mid=WObP8s3S"
+  },
+  "WQ92cgba": {
+    "away": "Dusseldorf",
+    "away_goals": 0,
+    "date": "2013-11-01",
+    "home": "Aalen",
+    "home_goals": 1,
+    "id": "WQ92cgba",
+    "source": "flashscore",
+    "source_status": "01.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dusseldorf-ne1oL3y7/?mid=WQ92cgba"
+  },
   "WdUSfUCs": {
     "away": "Cottbus",
     "away_goals": 1,
@@ -4035,6 +5505,78 @@
     "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/munich-1860-byXHwsJa/summary/stats/?mid=WdjO3AwM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/munich-1860-byXHwsJa/?mid=WdjO3AwM"
+  },
+  "WrBkkBOS": {
+    "away": "Dusseldorf",
+    "away_goals": 0,
+    "date": "2014-02-23",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "WrBkkBOS",
+    "source": "flashscore",
+    "source_status": "23.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/?mid=WrBkkBOS"
+  },
+  "Y3RO9Mwk": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2013-07-22",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "Y3RO9Mwk",
+    "source": "flashscore",
+    "source_status": "22.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/energie-cottbus-6g44VD52/?mid=Y3RO9Mwk"
+  },
+  "Y5Qe7kqL": {
+    "away": "Sandhausen",
+    "away_goals": 2,
+    "date": "2013-11-30",
+    "home": "Ingolstadt",
+    "home_goals": 0,
+    "id": "Y5Qe7kqL",
+    "source": "flashscore",
+    "source_status": "30.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/sandhausen-UZxEj1R4/?mid=Y5Qe7kqL"
+  },
+  "Y7wfsdQi": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2014-02-09",
+    "home": "Arminia Bielefeld",
+    "home_goals": 2,
+    "id": "Y7wfsdQi",
+    "source": "flashscore",
+    "source_status": "09.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/st-pauli-ILyJuN3g/?mid=Y7wfsdQi"
+  },
+  "Y90qSA2c": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2013-09-22",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 2,
+    "id": "Y90qSA2c",
+    "source": "flashscore",
+    "source_status": "22.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/paderborn-G2Op923t/?mid=Y90qSA2c"
+  },
+  "YFLhleKh": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2013-08-23",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "YFLhleKh",
+    "source": "flashscore",
+    "source_status": "23.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/?mid=YFLhleKh"
   },
   "YJiUyG62": {
     "away": "Dusseldorf",
@@ -4180,6 +5722,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/ingolstadt-ne5QkLtB/?mid=YLQqinC6"
   },
+  "YR1WJSSQ": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2013-12-06",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "YR1WJSSQ",
+    "source": "flashscore",
+    "source_status": "06.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/?mid=YR1WJSSQ"
+  },
   "YRogDWT1": {
     "away": "St. Pauli",
     "away_goals": 3,
@@ -4251,6 +5805,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/summary/stats/?mid=YRogDWT1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sandhausen-UZxEj1R4/st-pauli-ILyJuN3g/?mid=YRogDWT1"
+  },
+  "YV9G3zKu": {
+    "away": "Sandhausen",
+    "away_goals": 2,
+    "date": "2013-08-30",
+    "home": "Munich 1860",
+    "home_goals": 0,
+    "id": "YV9G3zKu",
+    "source": "flashscore",
+    "source_status": "30.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/?mid=YV9G3zKu"
+  },
+  "YVyKvln3": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2013-09-29",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "YVyKvln3",
+    "source": "flashscore",
+    "source_status": "29.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/st-pauli-ILyJuN3g/?mid=YVyKvln3"
+  },
+  "Yk6lQ3k0": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2013-12-21",
+    "home": "FSV Frankfurt",
+    "home_goals": 2,
+    "id": "Yk6lQ3k0",
+    "source": "flashscore",
+    "source_status": "21.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/munich-1860-byXHwsJa/?mid=Yk6lQ3k0"
+  },
+  "YkpJAOkD": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2013-12-13",
+    "home": "Aalen",
+    "home_goals": 0,
+    "id": "YkpJAOkD",
+    "source": "flashscore",
+    "source_status": "13.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/sandhausen-UZxEj1R4/?mid=YkpJAOkD"
   },
   "YohWKNVA": {
     "away": "Ingolstadt",
@@ -4540,6 +6142,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/fsv-frankfurt-CG1hDqLC/?mid=b5oeNezC"
   },
+  "bNnjmfI1": {
+    "away": "Union Berlin",
+    "away_goals": 3,
+    "date": "2013-08-09",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "bNnjmfI1",
+    "source": "flashscore",
+    "source_status": "09.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/union-berlin-pzHW4oaE/?mid=bNnjmfI1"
+  },
   "bREFmD5E": {
     "away": "Karlsruher SC",
     "away_goals": 0,
@@ -4611,6 +6225,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/karlsruher-EB3q7jbk/summary/stats/?mid=bREFmD5E",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/karlsruher-EB3q7jbk/?mid=bREFmD5E"
+  },
+  "bTaJNPoh": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2014-02-28",
+    "home": "Paderborn",
+    "home_goals": 4,
+    "id": "bTaJNPoh",
+    "source": "flashscore",
+    "source_status": "28.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/paderborn-G2Op923t/?mid=bTaJNPoh"
   },
   "bVUodJyD": {
     "away": "Munich 1860",
@@ -4684,6 +6310,92 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/munich-1860-byXHwsJa/?mid=bVUodJyD"
   },
+  "bgLfbKQ2": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2013-08-09",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "bgLfbKQ2",
+    "source": "flashscore",
+    "source_status": "09.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/?mid=bgLfbKQ2"
+  },
+  "bkPBUItn": {
+    "away": "Kaiserslautern",
+    "away_goals": 2,
+    "date": "2013-12-23",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "bkPBUItn",
+    "source": "flashscore",
+    "source_status": "23.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/kaiserslautern-naWckLmC/?mid=bkPBUItn"
+  },
+  "bko7wa7Q": {
+    "away": "St. Pauli",
+    "away_goals": 4,
+    "date": "2013-10-20",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "bko7wa7Q",
+    "source": "flashscore",
+    "source_status": "20.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/st-pauli-ILyJuN3g/?mid=bko7wa7Q"
+  },
+  "bm6NUNFE": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2013-07-19",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "bm6NUNFE",
+    "shots": {
+      "AS": 16,
+      "HS": 11
+    },
+    "source": "flashscore",
+    "source_status": "19.07.2013",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "13",
+        "home": "30",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/sandhausen-UZxEj1R4/summary/stats/?mid=bm6NUNFE",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/sandhausen-UZxEj1R4/?mid=bm6NUNFE"
+  },
   "bmS4ZMp4": {
     "away": "Aalen",
     "away_goals": 0,
@@ -4756,6 +6468,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/arminia-bielefeld-pp38UXK8/?mid=bmS4ZMp4"
   },
+  "bySO1gXf": {
+    "away": "Greuther Furth",
+    "away_goals": 2,
+    "date": "2013-08-16",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "bySO1gXf",
+    "source": "flashscore",
+    "source_status": "16.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/karlsruher-EB3q7jbk/?mid=bySO1gXf"
+  },
   "d6YUa1xl": {
     "away": "Bochum",
     "away_goals": 2,
@@ -4827,6 +6551,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/bochum-8Y2m6ADe/summary/stats/?mid=d6YUa1xl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/bochum-8Y2m6ADe/?mid=d6YUa1xl"
+  },
+  "dAftbWmH": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 1,
+    "date": "2013-09-15",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "dAftbWmH",
+    "source": "flashscore",
+    "source_status": "15.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/?mid=dAftbWmH"
+  },
+  "dnKMlMBd": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2013-11-23",
+    "home": "FC Koln",
+    "home_goals": 0,
+    "id": "dnKMlMBd",
+    "source": "flashscore",
+    "source_status": "23.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/ingolstadt-ne5QkLtB/?mid=dnKMlMBd"
+  },
+  "drCTBhDh": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2013-11-09",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "drCTBhDh",
+    "source": "flashscore",
+    "source_status": "09.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/union-berlin-pzHW4oaE/?mid=drCTBhDh"
   },
   "dtkvRwym": {
     "away": "SG Dynamo Dresden",
@@ -4971,6 +6731,78 @@
     "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/greuther-furth-CCQGbik8/summary/stats/?mid=fDS8Bby0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/greuther-furth-CCQGbik8/?mid=fDS8Bby0"
+  },
+  "fHIKSdBb": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2014-02-08",
+    "home": "Kaiserslautern",
+    "home_goals": 2,
+    "id": "fHIKSdBb",
+    "source": "flashscore",
+    "source_status": "08.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/kaiserslautern-naWckLmC/?mid=fHIKSdBb"
+  },
+  "fHvjrxBo": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2014-02-09",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "fHvjrxBo",
+    "source": "flashscore",
+    "source_status": "09.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/?mid=fHvjrxBo"
+  },
+  "fLWxYxVm": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2013-10-21",
+    "home": "FC Koln",
+    "home_goals": 0,
+    "id": "fLWxYxVm",
+    "source": "flashscore",
+    "source_status": "21.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/munich-1860-byXHwsJa/?mid=fLWxYxVm"
+  },
+  "fPMlky5n": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 1,
+    "date": "2013-08-26",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "fPMlky5n",
+    "source": "flashscore",
+    "source_status": "26.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/st-pauli-ILyJuN3g/?mid=fPMlky5n"
+  },
+  "fPlhQlX9": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2013-09-21",
+    "home": "Arminia Bielefeld",
+    "home_goals": 2,
+    "id": "fPlhQlX9",
+    "source": "flashscore",
+    "source_status": "21.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/sandhausen-UZxEj1R4/?mid=fPlhQlX9"
+  },
+  "faoFB4z7": {
+    "away": "Dusseldorf",
+    "away_goals": 3,
+    "date": "2013-12-14",
+    "home": "Cottbus",
+    "home_goals": 1,
+    "id": "faoFB4z7",
+    "source": "flashscore",
+    "source_status": "14.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/energie-cottbus-6g44VD52/?mid=faoFB4z7"
   },
   "fcOPQkb1": {
     "away": "Paderborn",
@@ -5188,6 +7020,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/paderborn-G2Op923t/?mid=fi3G45t6"
   },
+  "fmXvHpfd": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2013-09-29",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "fmXvHpfd",
+    "source": "flashscore",
+    "source_status": "29.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/sandhausen-UZxEj1R4/?mid=fmXvHpfd"
+  },
+  "fobP1Elh": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2013-08-31",
+    "home": "Bochum",
+    "home_goals": 4,
+    "id": "fobP1Elh",
+    "source": "flashscore",
+    "source_status": "31.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/paderborn-G2Op923t/?mid=fobP1Elh"
+  },
+  "fuwGuUWd": {
+    "away": "Union Berlin",
+    "away_goals": 3,
+    "date": "2013-09-28",
+    "home": "Paderborn",
+    "home_goals": 0,
+    "id": "fuwGuUWd",
+    "source": "flashscore",
+    "source_status": "28.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/union-berlin-pzHW4oaE/?mid=fuwGuUWd"
+  },
+  "fy3SK8DK": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2013-12-06",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "fy3SK8DK",
+    "source": "flashscore",
+    "source_status": "06.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/?mid=fy3SK8DK"
+  },
   "fyFhkQtJ": {
     "away": "Karlsruher SC",
     "away_goals": 2,
@@ -5332,6 +7212,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/fsv-frankfurt-CG1hDqLC/?mid=fymkECEe"
   },
+  "hC07JhYp": {
+    "away": "FSV Frankfurt",
+    "away_goals": 2,
+    "date": "2014-02-07",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "hC07JhYp",
+    "source": "flashscore",
+    "source_status": "07.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/fsv-frankfurt-CG1hDqLC/?mid=hC07JhYp"
+  },
+  "hGbTsatM": {
+    "away": "Paderborn",
+    "away_goals": 0,
+    "date": "2013-07-28",
+    "home": "Cottbus",
+    "home_goals": 4,
+    "id": "hGbTsatM",
+    "source": "flashscore",
+    "source_status": "28.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/paderborn-G2Op923t/?mid=hGbTsatM"
+  },
+  "hIyfnZl5": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 2,
+    "date": "2013-08-23",
+    "home": "Ingolstadt",
+    "home_goals": 3,
+    "id": "hIyfnZl5",
+    "source": "flashscore",
+    "source_status": "23.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/ingolstadt-ne5QkLtB/?mid=hIyfnZl5"
+  },
   "hUBxJtqQ": {
     "away": "Kaiserslautern",
     "away_goals": 1,
@@ -5404,6 +7320,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/?mid=hUBxJtqQ"
   },
+  "hYaL9NmM": {
+    "away": "Dusseldorf",
+    "away_goals": 0,
+    "date": "2013-11-24",
+    "home": "Aue",
+    "home_goals": 3,
+    "id": "hYaL9NmM",
+    "source": "flashscore",
+    "source_status": "24.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dusseldorf-ne1oL3y7/?mid=hYaL9NmM"
+  },
+  "hYyrWVHj": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2014-02-14",
+    "home": "Ingolstadt",
+    "home_goals": 2,
+    "id": "hYyrWVHj",
+    "source": "flashscore",
+    "source_status": "14.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/munich-1860-byXHwsJa/?mid=hYyrWVHj"
+  },
+  "hnHGpVWq": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2014-02-23",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "hnHGpVWq",
+    "source": "flashscore",
+    "source_status": "23.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/st-pauli-ILyJuN3g/?mid=hnHGpVWq"
+  },
+  "j30FO5Wo": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2014-03-01",
+    "home": "Sandhausen",
+    "home_goals": 0,
+    "id": "j30FO5Wo",
+    "source": "flashscore",
+    "source_status": "01.03.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/?mid=j30FO5Wo"
+  },
   "j5Rwbu70": {
     "away": "SG Dynamo Dresden",
     "away_goals": 1,
@@ -5475,6 +7439,66 @@
     "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/paderborn-G2Op923t/summary/stats/?mid=j5Rwbu70",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/paderborn-G2Op923t/?mid=j5Rwbu70"
+  },
+  "j7lbFnyr": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 1,
+    "date": "2013-12-06",
+    "home": "Arminia Bielefeld",
+    "home_goals": 1,
+    "id": "j7lbFnyr",
+    "source": "flashscore",
+    "source_status": "06.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dresden-zL1YsOi1/?mid=j7lbFnyr"
+  },
+  "j9ud3LQk": {
+    "away": "Karlsruher SC",
+    "away_goals": 2,
+    "date": "2013-11-29",
+    "home": "Dusseldorf",
+    "home_goals": 0,
+    "id": "j9ud3LQk",
+    "source": "flashscore",
+    "source_status": "29.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/karlsruher-EB3q7jbk/?mid=j9ud3LQk"
+  },
+  "jDytthTO": {
+    "away": "FC Koln",
+    "away_goals": 1,
+    "date": "2013-10-25",
+    "home": "Arminia Bielefeld",
+    "home_goals": 0,
+    "id": "jDytthTO",
+    "source": "flashscore",
+    "source_status": "25.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/arminia-bielefeld-pp38UXK8/?mid=jDytthTO"
+  },
+  "jZpDHHp7": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2013-10-06",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "jZpDHHp7",
+    "source": "flashscore",
+    "source_status": "06.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/ingolstadt-ne5QkLtB/?mid=jZpDHHp7"
+  },
+  "jmQoWGa0": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 0,
+    "date": "2013-10-18",
+    "home": "Aalen",
+    "home_goals": 3,
+    "id": "jmQoWGa0",
+    "source": "flashscore",
+    "source_status": "18.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/arminia-bielefeld-pp38UXK8/?mid=jmQoWGa0"
   },
   "l0c8DK6m": {
     "away": "Ingolstadt",
@@ -5620,6 +7644,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/union-berlin-pzHW4oaE/?mid=lCBr8vmb"
   },
+  "lI8LDErt": {
+    "away": "Paderborn",
+    "away_goals": 0,
+    "date": "2013-11-08",
+    "home": "Greuther Furth",
+    "home_goals": 3,
+    "id": "lI8LDErt",
+    "source": "flashscore",
+    "source_status": "08.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/paderborn-G2Op923t/?mid=lI8LDErt"
+  },
+  "lK3GGy0D": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2013-10-05",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 2,
+    "id": "lK3GGy0D",
+    "source": "flashscore",
+    "source_status": "05.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/dresden-zL1YsOi1/?mid=lK3GGy0D"
+  },
+  "lKLpji9M": {
+    "away": "Aue",
+    "away_goals": 3,
+    "date": "2014-02-21",
+    "home": "Cottbus",
+    "home_goals": 2,
+    "id": "lKLpji9M",
+    "source": "flashscore",
+    "source_status": "21.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/energie-cottbus-6g44VD52/?mid=lKLpji9M"
+  },
+  "lOw4ycJk": {
+    "away": "Sandhausen",
+    "away_goals": 0,
+    "date": "2013-07-27",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "lOw4ycJk",
+    "source": "flashscore",
+    "source_status": "27.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/?mid=lOw4ycJk"
+  },
+  "lQfH7qLD": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2013-08-25",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "lQfH7qLD",
+    "source": "flashscore",
+    "source_status": "25.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/union-berlin-pzHW4oaE/?mid=lQfH7qLD"
+  },
   "lY0J4jOF": {
     "away": "Cottbus",
     "away_goals": 1,
@@ -5764,6 +7848,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/union-berlin-pzHW4oaE/?mid=lYOXglSm"
   },
+  "lnSQ9TnT": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2013-09-21",
+    "home": "Munich 1860",
+    "home_goals": 3,
+    "id": "lnSQ9TnT",
+    "source": "flashscore",
+    "source_status": "21.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/munich-1860-byXHwsJa/?mid=lnSQ9TnT"
+  },
+  "lrhCnxps": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2013-10-25",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "lrhCnxps",
+    "source": "flashscore",
+    "source_status": "25.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/ingolstadt-ne5QkLtB/?mid=lrhCnxps"
+  },
+  "lvIORGQ4": {
+    "away": "Paderborn",
+    "away_goals": 1,
+    "date": "2014-02-09",
+    "home": "FC Koln",
+    "home_goals": 0,
+    "id": "lvIORGQ4",
+    "source": "flashscore",
+    "source_status": "09.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/paderborn-G2Op923t/?mid=lvIORGQ4"
+  },
   "lzSCAIj6": {
     "away": "Aue",
     "away_goals": 1,
@@ -5835,6 +7955,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/summary/stats/?mid=lzSCAIj6",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/?mid=lzSCAIj6"
+  },
+  "n9GKqknj": {
+    "away": "Sandhausen",
+    "away_goals": 1,
+    "date": "2014-02-22",
+    "home": "Karlsruher SC",
+    "home_goals": 2,
+    "id": "n9GKqknj",
+    "source": "flashscore",
+    "source_status": "22.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/?mid=n9GKqknj"
   },
   "nBqsGYqq": {
     "away": "Karlsruher SC",
@@ -5908,6 +8040,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/?mid=nBqsGYqq"
   },
+  "nD6W0mMl": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2013-12-09",
+    "home": "Kaiserslautern",
+    "home_goals": 0,
+    "id": "nD6W0mMl",
+    "source": "flashscore",
+    "source_status": "09.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/?mid=nD6W0mMl"
+  },
+  "nVR5YRsK": {
+    "away": "Ingolstadt",
+    "away_goals": 0,
+    "date": "2013-12-15",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "nVR5YRsK",
+    "source": "flashscore",
+    "source_status": "15.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/ingolstadt-ne5QkLtB/?mid=nVR5YRsK"
+  },
+  "nZs7DQ5f": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 1,
+    "date": "2013-12-13",
+    "home": "FC Koln",
+    "home_goals": 3,
+    "id": "nZs7DQ5f",
+    "source": "flashscore",
+    "source_status": "13.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/dresden-zL1YsOi1/?mid=nZs7DQ5f"
+  },
+  "ngAhPN46": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 2,
+    "date": "2013-12-21",
+    "home": "Union Berlin",
+    "home_goals": 4,
+    "id": "ngAhPN46",
+    "source": "flashscore",
+    "source_status": "21.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/union-berlin-pzHW4oaE/?mid=ngAhPN46"
+  },
   "nim3v9S0": {
     "away": "Dusseldorf",
     "away_goals": 3,
@@ -5979,6 +8159,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/sandhausen-UZxEj1R4/summary/stats/?mid=nim3v9S0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/sandhausen-UZxEj1R4/?mid=nim3v9S0"
+  },
+  "nuN2FXIi": {
+    "away": "Kaiserslautern",
+    "away_goals": 0,
+    "date": "2013-09-14",
+    "home": "Sandhausen",
+    "home_goals": 1,
+    "id": "nuN2FXIi",
+    "source": "flashscore",
+    "source_status": "14.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/sandhausen-UZxEj1R4/?mid=nuN2FXIi"
+  },
+  "nuybog4B": {
+    "away": "Cottbus",
+    "away_goals": 1,
+    "date": "2013-08-23",
+    "home": "Aue",
+    "home_goals": 2,
+    "id": "nuybog4B",
+    "source": "flashscore",
+    "source_status": "23.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/energie-cottbus-6g44VD52/?mid=nuybog4B"
   },
   "p2LL8dLI": {
     "away": "Dusseldorf",
@@ -6052,6 +8256,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/?mid=p2LL8dLI"
   },
+  "p6BXPfeH": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2014-02-08",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "p6BXPfeH",
+    "source": "flashscore",
+    "source_status": "08.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/union-berlin-pzHW4oaE/?mid=p6BXPfeH"
+  },
+  "p80HA3YF": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2013-11-22",
+    "home": "Sandhausen",
+    "home_goals": 3,
+    "id": "p80HA3YF",
+    "source": "flashscore",
+    "source_status": "22.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/sandhausen-UZxEj1R4/?mid=p80HA3YF"
+  },
+  "pAN6eIAL": {
+    "away": "Arminia Bielefeld",
+    "away_goals": 1,
+    "date": "2013-08-11",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "pAN6eIAL",
+    "source": "flashscore",
+    "source_status": "11.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/st-pauli-ILyJuN3g/?mid=pAN6eIAL"
+  },
+  "pAoLpGEg": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2013-10-27",
+    "home": "Union Berlin",
+    "home_goals": 1,
+    "id": "pAoLpGEg",
+    "source": "flashscore",
+    "source_status": "27.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/?mid=pAoLpGEg"
+  },
+  "pEs5NnHS": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2013-09-29",
+    "home": "Kaiserslautern",
+    "home_goals": 3,
+    "id": "pEs5NnHS",
+    "source": "flashscore",
+    "source_status": "29.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/munich-1860-byXHwsJa/?mid=pEs5NnHS"
+  },
   "pMm7KgKU": {
     "away": "Karlsruher SC",
     "away_goals": 0,
@@ -6123,6 +8387,66 @@
     "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/karlsruher-EB3q7jbk/summary/stats/?mid=pMm7KgKU",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/karlsruher-EB3q7jbk/?mid=pMm7KgKU"
+  },
+  "pWv02utd": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2013-12-01",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "pWv02utd",
+    "source": "flashscore",
+    "source_status": "01.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/greuther-furth-CCQGbik8/?mid=pWv02utd"
+  },
+  "phUzaiHD": {
+    "away": "FC Koln",
+    "away_goals": 0,
+    "date": "2013-08-24",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "phUzaiHD",
+    "source": "flashscore",
+    "source_status": "24.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/greuther-furth-CCQGbik8/?mid=phUzaiHD"
+  },
+  "pjeLqLB9": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2013-07-28",
+    "home": "FC Koln",
+    "home_goals": 1,
+    "id": "pjeLqLB9",
+    "source": "flashscore",
+    "source_status": "28.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/dusseldorf-ne1oL3y7/?mid=pjeLqLB9"
+  },
+  "r1DyT55s": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2013-12-15",
+    "home": "Arminia Bielefeld",
+    "home_goals": 4,
+    "id": "r1DyT55s",
+    "source": "flashscore",
+    "source_status": "15.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/greuther-furth-CCQGbik8/?mid=r1DyT55s"
+  },
+  "r7U6qXYN": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2013-08-30",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "r7U6qXYN",
+    "source": "flashscore",
+    "source_status": "30.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/greuther-furth-CCQGbik8/?mid=r7U6qXYN"
   },
   "ri8zE9JJ": {
     "away": "SG Dynamo Dresden",
@@ -6196,6 +8520,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/kaiserslautern-naWckLmC/?mid=ri8zE9JJ"
   },
+  "row8zHYe": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2013-07-27",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "row8zHYe",
+    "source": "flashscore",
+    "source_status": "27.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/st-pauli-ILyJuN3g/?mid=row8zHYe"
+  },
   "t8cB6Cg3": {
     "away": "Sandhausen",
     "away_goals": 1,
@@ -6267,6 +8603,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/sandhausen-UZxEj1R4/summary/stats/?mid=t8cB6Cg3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/sandhausen-UZxEj1R4/?mid=t8cB6Cg3"
+  },
+  "tEEGTxdh": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2013-12-20",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 0,
+    "id": "tEEGTxdh",
+    "source": "flashscore",
+    "source_status": "20.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/?mid=tEEGTxdh"
+  },
+  "tEj2vuhK": {
+    "away": "Kaiserslautern",
+    "away_goals": 3,
+    "date": "2013-10-04",
+    "home": "Arminia Bielefeld",
+    "home_goals": 0,
+    "id": "tEj2vuhK",
+    "source": "flashscore",
+    "source_status": "04.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/kaiserslautern-naWckLmC/?mid=tEj2vuhK"
+  },
+  "tGy6EiYc": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2013-09-13",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "tGy6EiYc",
+    "source": "flashscore",
+    "source_status": "13.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/paderborn-G2Op923t/?mid=tGy6EiYc"
   },
   "tQG23G1T": {
     "away": "Arminia Bielefeld",
@@ -6700,6 +9072,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/?mid=tWyfbl1q"
   },
+  "tYt2uze4": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2014-02-14",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "tYt2uze4",
+    "source": "flashscore",
+    "source_status": "14.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/karlsruher-EB3q7jbk/?mid=tYt2uze4"
+  },
+  "tb8l9BE8": {
+    "away": "FC Koln",
+    "away_goals": 3,
+    "date": "2013-11-29",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "tb8l9BE8",
+    "source": "flashscore",
+    "source_status": "29.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/st-pauli-ILyJuN3g/?mid=tb8l9BE8"
+  },
+  "tduSxSGF": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2013-10-07",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "tduSxSGF",
+    "source": "flashscore",
+    "source_status": "07.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/?mid=tduSxSGF"
+  },
+  "tfIxhDvA": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2014-02-22",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "tfIxhDvA",
+    "source": "flashscore",
+    "source_status": "22.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/paderborn-G2Op923t/?mid=tfIxhDvA"
+  },
+  "thR9XocQ": {
+    "away": "FSV Frankfurt",
+    "away_goals": 3,
+    "date": "2013-12-15",
+    "home": "Karlsruher SC",
+    "home_goals": 3,
+    "id": "thR9XocQ",
+    "source": "flashscore",
+    "source_status": "15.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/karlsruher-EB3q7jbk/?mid=thR9XocQ"
+  },
   "tn8zA0Io": {
     "away": "Sandhausen",
     "away_goals": 0,
@@ -6772,6 +9204,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/sandhausen-UZxEj1R4/?mid=tn8zA0Io"
   },
+  "txHk0eEt": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2013-11-04",
+    "home": "FC Koln",
+    "home_goals": 4,
+    "id": "txHk0eEt",
+    "source": "flashscore",
+    "source_status": "04.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/union-berlin-pzHW4oaE/?mid=txHk0eEt"
+  },
   "vR7YJMTJ": {
     "away": "Aalen",
     "away_goals": 0,
@@ -6843,6 +9287,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/aalen-Oh2C15j0/summary/stats/?mid=vR7YJMTJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/aalen-Oh2C15j0/?mid=vR7YJMTJ"
+  },
+  "vT6pRqzf": {
+    "away": "Aalen",
+    "away_goals": 0,
+    "date": "2013-12-22",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "vT6pRqzf",
+    "source": "flashscore",
+    "source_status": "22.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/greuther-furth-CCQGbik8/?mid=vT6pRqzf"
+  },
+  "vTUN4y6P": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2013-11-02",
+    "home": "Kaiserslautern",
+    "home_goals": 4,
+    "id": "vTUN4y6P",
+    "source": "flashscore",
+    "source_status": "02.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/st-pauli-ILyJuN3g/?mid=vTUN4y6P"
+  },
+  "vZayaCYA": {
+    "away": "Dusseldorf",
+    "away_goals": 2,
+    "date": "2013-08-30",
+    "home": "Arminia Bielefeld",
+    "home_goals": 4,
+    "id": "vZayaCYA",
+    "source": "flashscore",
+    "source_status": "30.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dusseldorf-ne1oL3y7/?mid=vZayaCYA"
   },
   "vmLhxP0o": {
     "away": "Aue",
@@ -6988,6 +9468,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/kaiserslautern-naWckLmC/?mid=vsUioHuo"
   },
+  "x0zBwEPG": {
+    "away": "Cottbus",
+    "away_goals": 2,
+    "date": "2014-02-16",
+    "home": "Aalen",
+    "home_goals": 2,
+    "id": "x0zBwEPG",
+    "source": "flashscore",
+    "source_status": "16.02.2014",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/energie-cottbus-6g44VD52/?mid=x0zBwEPG"
+  },
+  "x4AbbZrg": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2013-11-01",
+    "home": "Cottbus",
+    "home_goals": 0,
+    "id": "x4AbbZrg",
+    "source": "flashscore",
+    "source_status": "01.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/energie-cottbus-6g44VD52/?mid=x4AbbZrg"
+  },
+  "x4OgUfUC": {
+    "away": "FSV Frankfurt",
+    "away_goals": 2,
+    "date": "2013-10-18",
+    "home": "Paderborn",
+    "home_goals": 4,
+    "id": "x4OgUfUC",
+    "source": "flashscore",
+    "source_status": "18.10.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/paderborn-G2Op923t/?mid=x4OgUfUC"
+  },
+  "x6yh41Bq": {
+    "away": "Bochum",
+    "away_goals": 2,
+    "date": "2013-11-22",
+    "home": "Arminia Bielefeld",
+    "home_goals": 0,
+    "id": "x6yh41Bq",
+    "source": "flashscore",
+    "source_status": "22.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/bochum-8Y2m6ADe/?mid=x6yh41Bq"
+  },
+  "x8bskGmk": {
+    "away": "Karlsruher SC",
+    "away_goals": 2,
+    "date": "2013-08-10",
+    "home": "Ingolstadt",
+    "home_goals": 0,
+    "id": "x8bskGmk",
+    "source": "flashscore",
+    "source_status": "10.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/?mid=x8bskGmk"
+  },
   "xKbNMq1b": {
     "away": "SG Dynamo Dresden",
     "away_goals": 1,
@@ -7131,6 +9671,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/summary/stats/?mid=xMTkewiJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/?mid=xMTkewiJ"
+  },
+  "xSQS0Dn1": {
+    "away": "Paderborn",
+    "away_goals": 3,
+    "date": "2013-08-16",
+    "home": "Arminia Bielefeld",
+    "home_goals": 3,
+    "id": "xSQS0Dn1",
+    "source": "flashscore",
+    "source_status": "16.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/paderborn-G2Op923t/?mid=xSQS0Dn1"
   },
   "xYwdyqGi": {
     "away": "Sandhausen",
@@ -7276,6 +9828,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/greuther-furth-CCQGbik8/?mid=xdpaMFkI"
   },
+  "xlz0xw4q": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 1,
+    "date": "2013-07-29",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "xlz0xw4q",
+    "source": "flashscore",
+    "source_status": "29.07.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/?mid=xlz0xw4q"
+  },
+  "xpKbcvt9": {
+    "away": "Kaiserslautern",
+    "away_goals": 1,
+    "date": "2013-08-12",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "xpKbcvt9",
+    "source": "flashscore",
+    "source_status": "12.08.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/kaiserslautern-naWckLmC/?mid=xpKbcvt9"
+  },
+  "xvu3eXSB": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2013-11-01",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "xvu3eXSB",
+    "source": "flashscore",
+    "source_status": "01.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/paderborn-G2Op923t/?mid=xvu3eXSB"
+  },
+  "z1gpcj3N": {
+    "away": "Bochum",
+    "away_goals": 2,
+    "date": "2013-09-15",
+    "home": "Greuther Furth",
+    "home_goals": 0,
+    "id": "z1gpcj3N",
+    "source": "flashscore",
+    "source_status": "15.09.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/?mid=z1gpcj3N"
+  },
+  "zL7h8VTE": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2013-12-01",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "zL7h8VTE",
+    "source": "flashscore",
+    "source_status": "01.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/paderborn-G2Op923t/?mid=zL7h8VTE"
+  },
   "zRrc0jkK": {
     "away": "Aue",
     "away_goals": 0,
@@ -7419,6 +10031,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/summary/stats/?mid=zVdF5W89",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/?mid=zVdF5W89"
+  },
+  "zZAXACSb": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2013-11-11",
+    "home": "St. Pauli",
+    "home_goals": 3,
+    "id": "zZAXACSb",
+    "source": "flashscore",
+    "source_status": "11.11.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/st-pauli-ILyJuN3g/?mid=zZAXACSb"
+  },
+  "zZnRMUr8": {
+    "away": "Paderborn",
+    "away_goals": 4,
+    "date": "2013-12-08",
+    "home": "Aalen",
+    "home_goals": 2,
+    "id": "zZnRMUr8",
+    "source": "flashscore",
+    "source_status": "08.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/paderborn-G2Op923t/?mid=zZnRMUr8"
+  },
+  "zeO1Z7SD": {
+    "away": "Union Berlin",
+    "away_goals": 4,
+    "date": "2013-12-14",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "zeO1Z7SD",
+    "source": "flashscore",
+    "source_status": "14.12.2013",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/union-berlin-pzHW4oaE/?mid=zeO1Z7SD"
   },
   "zkmF6RBg": {
     "away": "Union Berlin",
