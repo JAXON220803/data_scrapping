@@ -5609,8 +5609,68 @@
     "home": "Paderborn",
     "home_goals": 1,
     "id": "UsawjdYr",
+    "shots": {
+      "AS": 13,
+      "AST": 6,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "10.08.2013",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "31",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "21",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/paderborn-G2Op923t/summary/stats/?mid=UsawjdYr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/paderborn-G2Op923t/?mid=UsawjdYr"
   },
@@ -5657,8 +5717,68 @@
     "home": "FSV Frankfurt",
     "home_goals": 1,
     "id": "W6J2dbeF",
+    "shots": {
+      "AS": 11,
+      "AST": 7,
+      "HS": 16,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "09.08.2013",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "30",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "14",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/fsv-frankfurt-CG1hDqLC/summary/stats/?mid=W6J2dbeF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/fsv-frankfurt-CG1hDqLC/?mid=W6J2dbeF"
   },
@@ -6629,8 +6749,68 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 1,
     "id": "bNnjmfI1",
+    "shots": {
+      "AS": 13,
+      "AST": 7,
+      "HS": 11,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "09.08.2013",
+    "statistics": [
+      {
+        "away": "61%",
+        "home": "39%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "13",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/union-berlin-pzHW4oaE/summary/stats/?mid=bNnjmfI1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/union-berlin-pzHW4oaE/?mid=bNnjmfI1"
   },
@@ -6797,8 +6977,68 @@
     "home": "Dusseldorf",
     "home_goals": 1,
     "id": "bgLfbKQ2",
+    "shots": {
+      "AS": 5,
+      "AST": 3,
+      "HS": 11,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "09.08.2013",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "6",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/summary/stats/?mid=bgLfbKQ2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/?mid=bgLfbKQ2"
   },
@@ -10243,8 +10483,73 @@
     "home": "Ingolstadt",
     "home_goals": 0,
     "id": "x8bskGmk",
+    "shots": {
+      "AS": 15,
+      "AST": 9,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "10.08.2013",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "6",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "14",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/summary/stats/?mid=x8bskGmk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/?mid=x8bskGmk"
   },
@@ -10555,8 +10860,68 @@
     "home": "Bochum",
     "home_goals": 1,
     "id": "xlz0xw4q",
+    "shots": {
+      "AS": 10,
+      "AST": 4,
+      "HS": 16,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "29.07.2013",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "13",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/summary/stats/?mid=xlz0xw4q",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/?mid=xlz0xw4q"
   },

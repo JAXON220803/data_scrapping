@@ -7320,6 +7320,126 @@
     "value": 3
   },
   {
+    "away": "Bochum",
+    "date": "09/08/13",
+    "field": "AS",
+    "fixture_id": "W6J2dbeF",
+    "home": "Frankfurt FSV",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "Bochum",
+    "date": "09/08/13",
+    "field": "AST",
+    "fixture_id": "W6J2dbeF",
+    "home": "Frankfurt FSV",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
+    "away": "Bochum",
+    "date": "09/08/13",
+    "field": "HS",
+    "fixture_id": "W6J2dbeF",
+    "home": "Frankfurt FSV",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 16
+  },
+  {
+    "away": "Bochum",
+    "date": "09/08/13",
+    "field": "HST",
+    "fixture_id": "W6J2dbeF",
+    "home": "Frankfurt FSV",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 9
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "10/08/13",
+    "field": "AS",
+    "fixture_id": "x8bskGmk",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 15
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "10/08/13",
+    "field": "AST",
+    "fixture_id": "x8bskGmk",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 9
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "10/08/13",
+    "field": "HS",
+    "fixture_id": "x8bskGmk",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "10/08/13",
+    "field": "HST",
+    "fixture_id": "x8bskGmk",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 6
+  },
+  {
+    "away": "FC Koln",
+    "date": "10/08/13",
+    "field": "AS",
+    "fixture_id": "UsawjdYr",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "FC Koln",
+    "date": "10/08/13",
+    "field": "AST",
+    "fixture_id": "UsawjdYr",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 6
+  },
+  {
+    "away": "FC Koln",
+    "date": "10/08/13",
+    "field": "HS",
+    "fixture_id": "UsawjdYr",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 14
+  },
+  {
+    "away": "FC Koln",
+    "date": "10/08/13",
+    "field": "HST",
+    "fixture_id": "UsawjdYr",
+    "home": "Paderborn",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
     "away": "Karlsruhe",
     "date": "02/03/14",
     "field": "AS",
