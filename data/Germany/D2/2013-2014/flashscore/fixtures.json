@@ -2540,8 +2540,58 @@
     "home": "FC Koln",
     "home_goals": 0,
     "id": "AeTMA9XM",
+    "shots": {
+      "AS": 14,
+      "AST": 10,
+      "HS": 9,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "20.09.2013",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "17",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/kaiserslautern-naWckLmC/summary/stats/?mid=AeTMA9XM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/kaiserslautern-naWckLmC/?mid=AeTMA9XM"
   },
@@ -3783,8 +3833,68 @@
     "home": "Karlsruher SC",
     "home_goals": 2,
     "id": "GYklRUH3",
+    "shots": {
+      "AS": 18,
+      "AST": 6,
+      "HS": 7,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "20.09.2013",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "12",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "23",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/karlsruher-EB3q7jbk/summary/stats/?mid=GYklRUH3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/karlsruher-EB3q7jbk/?mid=GYklRUH3"
   },
@@ -4246,8 +4356,68 @@
     "home": "Ingolstadt",
     "home_goals": 0,
     "id": "K6zADBm4",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 19,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "15.09.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "19",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "38",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/union-berlin-pzHW4oaE/summary/stats/?mid=K6zADBm4",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/union-berlin-pzHW4oaE/?mid=K6zADBm4"
   },
@@ -6562,8 +6732,68 @@
     "home": "Cottbus",
     "home_goals": 0,
     "id": "UNhldAIT",
+    "shots": {
+      "AS": 15,
+      "AST": 8,
+      "HS": 17,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "16.09.2013",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/energie-cottbus-6g44VD52/summary/stats/?mid=UNhldAIT",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/1-fc-koln-WG9pOTse/energie-cottbus-6g44VD52/?mid=UNhldAIT"
   },
@@ -8664,8 +8894,68 @@
     "home": "Dusseldorf",
     "home_goals": 1,
     "id": "dAftbWmH",
+    "shots": {
+      "AS": 13,
+      "AST": 5,
+      "HS": 13,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "15.09.2013",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "31",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/summary/stats/?mid=dAftbWmH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/?mid=dAftbWmH"
   },
@@ -13126,8 +13416,68 @@
     "home": "Greuther Furth",
     "home_goals": 0,
     "id": "z1gpcj3N",
+    "shots": {
+      "AS": 15,
+      "AST": 4,
+      "HS": 12,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "15.09.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "25",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/summary/stats/?mid=z1gpcj3N",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/?mid=z1gpcj3N"
   },
