@@ -2955,8 +2955,68 @@
     "home": "Aue",
     "home_goals": 0,
     "id": "Gbcolz3e",
+    "shots": {
+      "AS": 17,
+      "AST": 9,
+      "HS": 9,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "11.08.2013",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "30",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "11",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/aue-vsXIDreP/summary/stats/?mid=Gbcolz3e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/aue-vsXIDreP/?mid=Gbcolz3e"
   },
@@ -3149,8 +3209,73 @@
     "home": "Bochum",
     "home_goals": 2,
     "id": "IRJG3F2r",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 25,
+      "HST": 16
+    },
     "source": "flashscore",
     "source_status": "16.08.2013",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "25",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "25",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "16",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "16",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/summary/stats/?mid=IRJG3F2r",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/?mid=IRJG3F2r"
   },
@@ -5297,8 +5422,68 @@
     "home": "Sandhausen",
     "home_goals": 2,
     "id": "SYCBfxQR",
+    "shots": {
+      "AS": 15,
+      "AST": 6,
+      "HS": 13,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "11.08.2013",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "19",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/sandhausen-UZxEj1R4/summary/stats/?mid=SYCBfxQR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/sandhausen-UZxEj1R4/?mid=SYCBfxQR"
   },
@@ -7195,8 +7380,68 @@
     "home": "Karlsruher SC",
     "home_goals": 1,
     "id": "bySO1gXf",
+    "shots": {
+      "AS": 14,
+      "AST": 6,
+      "HS": 15,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "16.08.2013",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "17",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/karlsruher-EB3q7jbk/summary/stats/?mid=bySO1gXf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/karlsruher-EB3q7jbk/?mid=bySO1gXf"
   },
@@ -9127,8 +9372,68 @@
     "home": "St. Pauli",
     "home_goals": 0,
     "id": "pAN6eIAL",
+    "shots": {
+      "AS": 12,
+      "AST": 4,
+      "HS": 20,
+      "HST": 13
+    },
     "source": "flashscore",
     "source_status": "11.08.2013",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "20",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "35",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "21",
+        "home": "26",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "30",
+        "home": "30",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/st-pauli-ILyJuN3g/summary/stats/?mid=pAN6eIAL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/st-pauli-ILyJuN3g/?mid=pAN6eIAL"
   },
@@ -10932,8 +11237,73 @@
     "home": "Greuther Furth",
     "home_goals": 2,
     "id": "xpKbcvt9",
+    "shots": {
+      "AS": 8,
+      "AST": 5,
+      "HS": 10,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "12.08.2013",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Blocked shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "26",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/kaiserslautern-naWckLmC/summary/stats/?mid=xpKbcvt9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/kaiserslautern-naWckLmC/?mid=xpKbcvt9"
   },
