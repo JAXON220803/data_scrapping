@@ -330,8 +330,68 @@
     "home": "Kaiserslautern",
     "home_goals": 2,
     "id": "0ru2pDJH",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 6,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "02.09.2013",
+    "statistics": [
+      {
+        "away": "58%",
+        "home": "42%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "27",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "35",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "27",
+        "home": "11",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/kaiserslautern-naWckLmC/summary/stats/?mid=0ru2pDJH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/kaiserslautern-naWckLmC/?mid=0ru2pDJH"
   },
@@ -474,8 +534,68 @@
     "home": "Aue",
     "home_goals": 0,
     "id": "2VPECV2A",
+    "shots": {
+      "AS": 8,
+      "AST": 6,
+      "HS": 18,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "13.09.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "12",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "27",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "26",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "24",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/aue-vsXIDreP/summary/stats/?mid=2VPECV2A",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/aue-vsXIDreP/?mid=2VPECV2A"
   },
@@ -1664,8 +1784,68 @@
     "home": "Aalen",
     "home_goals": 0,
     "id": "6qpGiUQp",
+    "shots": {
+      "AS": 18,
+      "AST": 8,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "13.09.2013",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "18",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/munich-1860-byXHwsJa/summary/stats/?mid=6qpGiUQp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/munich-1860-byXHwsJa/?mid=6qpGiUQp"
   },
@@ -1964,8 +2144,68 @@
     "home": "St. Pauli",
     "home_goals": 2,
     "id": "8lObGD3o",
+    "shots": {
+      "AS": 15,
+      "AST": 9,
+      "HS": 14,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "14.09.2013",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "20",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "12",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/summary/stats/?mid=8lObGD3o",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/?mid=8lObGD3o"
   },
@@ -10392,8 +10632,68 @@
     "home": "Sandhausen",
     "home_goals": 1,
     "id": "nuN2FXIi",
+    "shots": {
+      "AS": 17,
+      "AST": 11,
+      "HS": 7,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "14.09.2013",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "30",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "25",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/sandhausen-UZxEj1R4/summary/stats/?mid=nuN2FXIi",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/kaiserslautern-naWckLmC/sandhausen-UZxEj1R4/?mid=nuN2FXIi"
   },
@@ -11220,8 +11520,68 @@
     "home": "Paderborn",
     "home_goals": 1,
     "id": "tGy6EiYc",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "13.09.2013",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "30",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "21",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/paderborn-G2Op923t/summary/stats/?mid=tGy6EiYc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/paderborn-G2Op923t/?mid=tGy6EiYc"
   },
