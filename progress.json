@@ -1,24 +1,31 @@
 {
-  "completed_missing_matches": 1681,
-  "filled_cells_percent": 5.5931,
-  "filled_percent": 5.5897,
+  "completed_missing_matches": 1685,
+  "filled_cells_percent": 5.6064,
+  "filled_percent": 5.603,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Daily request budget reached (400/400); resumes next UTC day",
+      "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
       "target": "Germany/D2/2013-2014"
+    },
+    "sofascore": {
+      "reason": "HTTP 403: source denied access",
+      "requests": 1,
+      "retry_at": 1795659798.344534,
+      "status": "Blocked",
+      "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 4212,
-  "provider_records_with_all_shots": 2094,
-  "provider_records_with_statistics": 2098,
-  "recovered_cells": 6728,
+  "provider_records_with_all_shots": 2100,
+  "provider_records_with_statistics": 2104,
+  "recovered_cells": 6744,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 28392,
+  "reference_matches_still_missing_shots": 28388,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1209,24 +1216,24 @@
       }
     },
     {
-      "cells_recovered": 316,
-      "completed_missing_matches": 78,
-      "filled_percent": 25.4902,
+      "cells_recovered": 332,
+      "completed_missing_matches": 82,
+      "filled_percent": 26.7974,
       "id": "Germany/D2/2013-2014",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 228,
+      "remaining_missing_shots": 224,
       "sources": {
         "flashscore": {
-          "all_shot_values": 111,
+          "all_shot_values": 117,
           "fixtures": 308,
           "inventory_complete": true,
           "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 115,
-          "statistics_checked": 116
+          "statistics_available": 121,
+          "statistics_checked": 122
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3827,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-24T09:02:34.274761+00:00"
+  "updated_utc": "2026-11-25T02:28:27.917577+00:00"
 }
