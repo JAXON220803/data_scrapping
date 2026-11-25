@@ -9400,6 +9400,206 @@
     "value": 9
   },
   {
+    "away": "St Pauli",
+    "date": "20/10/13",
+    "field": "AS",
+    "fixture_id": "bko7wa7Q",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 12
+  },
+  {
+    "away": "St Pauli",
+    "date": "20/10/13",
+    "field": "AST",
+    "fixture_id": "bko7wa7Q",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 6
+  },
+  {
+    "away": "St Pauli",
+    "date": "20/10/13",
+    "field": "HS",
+    "fixture_id": "bko7wa7Q",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 23
+  },
+  {
+    "away": "St Pauli",
+    "date": "20/10/13",
+    "field": "HST",
+    "fixture_id": "bko7wa7Q",
+    "home": "Greuther Furth",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 14
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "20/10/13",
+    "field": "AS",
+    "fixture_id": "0bXYYIFs",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "20/10/13",
+    "field": "AST",
+    "fixture_id": "0bXYYIFs",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 3
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "20/10/13",
+    "field": "HS",
+    "fixture_id": "0bXYYIFs",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 31
+  },
+  {
+    "away": "Karlsruhe",
+    "date": "20/10/13",
+    "field": "HST",
+    "fixture_id": "0bXYYIFs",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 18
+  },
+  {
+    "away": "Munich 1860",
+    "date": "21/10/13",
+    "field": "AS",
+    "fixture_id": "fLWxYxVm",
+    "home": "FC Koln",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "Munich 1860",
+    "date": "21/10/13",
+    "field": "AST",
+    "fixture_id": "fLWxYxVm",
+    "home": "FC Koln",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 6
+  },
+  {
+    "away": "Munich 1860",
+    "date": "21/10/13",
+    "field": "HS",
+    "fixture_id": "fLWxYxVm",
+    "home": "FC Koln",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 18
+  },
+  {
+    "away": "Munich 1860",
+    "date": "21/10/13",
+    "field": "HST",
+    "fixture_id": "fLWxYxVm",
+    "home": "FC Koln",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 4
+  },
+  {
+    "away": "FC Koln",
+    "date": "25/10/13",
+    "field": "AS",
+    "fixture_id": "jDytthTO",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 19
+  },
+  {
+    "away": "FC Koln",
+    "date": "25/10/13",
+    "field": "AST",
+    "fixture_id": "jDytthTO",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "FC Koln",
+    "date": "25/10/13",
+    "field": "HS",
+    "fixture_id": "jDytthTO",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 14
+  },
+  {
+    "away": "FC Koln",
+    "date": "25/10/13",
+    "field": "HST",
+    "fixture_id": "jDytthTO",
+    "home": "Bielefeld",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 6
+  },
+  {
+    "away": "Sandhausen",
+    "date": "25/10/13",
+    "field": "AS",
+    "fixture_id": "O0pPqzUa",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 10
+  },
+  {
+    "away": "Sandhausen",
+    "date": "25/10/13",
+    "field": "AST",
+    "fixture_id": "O0pPqzUa",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 3
+  },
+  {
+    "away": "Sandhausen",
+    "date": "25/10/13",
+    "field": "HS",
+    "fixture_id": "O0pPqzUa",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 17
+  },
+  {
+    "away": "Sandhausen",
+    "date": "25/10/13",
+    "field": "HST",
+    "fixture_id": "O0pPqzUa",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 12
+  },
+  {
     "away": "Karlsruhe",
     "date": "02/03/14",
     "field": "AS",
