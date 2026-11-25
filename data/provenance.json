@@ -8920,6 +8920,206 @@
     "value": 3
   },
   {
+    "away": "St Pauli",
+    "date": "29/09/13",
+    "field": "AS",
+    "fixture_id": "YVyKvln3",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 16
+  },
+  {
+    "away": "St Pauli",
+    "date": "29/09/13",
+    "field": "AST",
+    "fixture_id": "YVyKvln3",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "St Pauli",
+    "date": "29/09/13",
+    "field": "HS",
+    "fixture_id": "YVyKvln3",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "St Pauli",
+    "date": "29/09/13",
+    "field": "HST",
+    "fixture_id": "YVyKvln3",
+    "home": "Ingolstadt",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
+    "away": "Munich 1860",
+    "date": "29/09/13",
+    "field": "AS",
+    "fixture_id": "pEs5NnHS",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
+    "away": "Munich 1860",
+    "date": "29/09/13",
+    "field": "AST",
+    "fixture_id": "pEs5NnHS",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 6
+  },
+  {
+    "away": "Munich 1860",
+    "date": "29/09/13",
+    "field": "HS",
+    "fixture_id": "pEs5NnHS",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 35
+  },
+  {
+    "away": "Munich 1860",
+    "date": "29/09/13",
+    "field": "HST",
+    "fixture_id": "pEs5NnHS",
+    "home": "Kaiserslautern",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 20
+  },
+  {
+    "away": "Bochum",
+    "date": "29/09/13",
+    "field": "AS",
+    "fixture_id": "fmXvHpfd",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 10
+  },
+  {
+    "away": "Bochum",
+    "date": "29/09/13",
+    "field": "AST",
+    "fixture_id": "fmXvHpfd",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 5
+  },
+  {
+    "away": "Bochum",
+    "date": "29/09/13",
+    "field": "HS",
+    "fixture_id": "fmXvHpfd",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 15
+  },
+  {
+    "away": "Bochum",
+    "date": "29/09/13",
+    "field": "HST",
+    "fixture_id": "fmXvHpfd",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 10
+  },
+  {
+    "away": "Paderborn",
+    "date": "04/10/13",
+    "field": "AS",
+    "fixture_id": "8Ae8IcV0",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 13
+  },
+  {
+    "away": "Paderborn",
+    "date": "04/10/13",
+    "field": "AST",
+    "fixture_id": "8Ae8IcV0",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 4
+  },
+  {
+    "away": "Paderborn",
+    "date": "04/10/13",
+    "field": "HS",
+    "fixture_id": "8Ae8IcV0",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 11
+  },
+  {
+    "away": "Paderborn",
+    "date": "04/10/13",
+    "field": "HST",
+    "fixture_id": "8Ae8IcV0",
+    "home": "St Pauli",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 5
+  },
+  {
+    "away": "Sandhausen",
+    "date": "04/10/13",
+    "field": "AS",
+    "fixture_id": "UJd4JwGf",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 7
+  },
+  {
+    "away": "Sandhausen",
+    "date": "04/10/13",
+    "field": "AST",
+    "fixture_id": "UJd4JwGf",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 2
+  },
+  {
+    "away": "Sandhausen",
+    "date": "04/10/13",
+    "field": "HS",
+    "fixture_id": "UJd4JwGf",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 16
+  },
+  {
+    "away": "Sandhausen",
+    "date": "04/10/13",
+    "field": "HST",
+    "fixture_id": "UJd4JwGf",
+    "home": "Union Berlin",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 9
+  },
+  {
     "away": "Karlsruhe",
     "date": "02/03/14",
     "field": "AS",
