@@ -6880,8 +6880,68 @@
     "home": "Kaiserslautern",
     "home_goals": 1,
     "id": "KvUTgZ9c",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 24,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "23.02.2014",
+    "statistics": [
+      {
+        "away": "35%",
+        "home": "65%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "0",
+        "home": "13",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "16",
+        "home": "22",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/kaiserslautern-naWckLmC/summary/stats/?mid=KvUTgZ9c",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aalen-Oh2C15j0/kaiserslautern-naWckLmC/?mid=KvUTgZ9c"
   },
@@ -8985,8 +9045,68 @@
     "home": "Arminia Bielefeld",
     "home_goals": 0,
     "id": "QaFOr91d",
+    "shots": {
+      "AS": 12,
+      "AST": 5,
+      "HS": 2,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "21.02.2014",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "2",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "2",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "18",
+        "home": "28",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "7",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/ingolstadt-ne5QkLtB/summary/stats/?mid=QaFOr91d",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/ingolstadt-ne5QkLtB/?mid=QaFOr91d"
   },
@@ -11368,8 +11488,68 @@
     "home": "Bochum",
     "home_goals": 0,
     "id": "WrBkkBOS",
+    "shots": {
+      "AS": 8,
+      "AST": 6,
+      "HS": 16,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "23.02.2014",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "16",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "27",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/summary/stats/?mid=WrBkkBOS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/?mid=WrBkkBOS"
   },
@@ -15930,8 +16110,68 @@
     "home": "Cottbus",
     "home_goals": 2,
     "id": "lKLpji9M",
+    "shots": {
+      "AS": 10,
+      "AST": 8,
+      "HS": 18,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "21.02.2014",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "26",
+        "home": "37",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "18",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/energie-cottbus-6g44VD52/summary/stats/?mid=lKLpji9M",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/energie-cottbus-6g44VD52/?mid=lKLpji9M"
   },
@@ -16518,8 +16758,68 @@
     "home": "Karlsruher SC",
     "home_goals": 2,
     "id": "n9GKqknj",
+    "shots": {
+      "AS": 15,
+      "AST": 7,
+      "HS": 10,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "22.02.2014",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Offsides"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "28",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/summary/stats/?mid=n9GKqknj",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/sandhausen-UZxEj1R4/?mid=n9GKqknj"
   },
@@ -19050,8 +19350,68 @@
     "home": "Munich 1860",
     "home_goals": 2,
     "id": "tfIxhDvA",
+    "shots": {
+      "AS": 11,
+      "AST": 7,
+      "HS": 17,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "22.02.2014",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "22",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "24",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/paderborn-G2Op923t/summary/stats/?mid=tfIxhDvA",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/paderborn-G2Op923t/?mid=tfIxhDvA"
   },
