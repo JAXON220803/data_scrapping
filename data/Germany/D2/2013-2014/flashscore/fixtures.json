@@ -2660,8 +2660,68 @@
     "home": "Munich 1860",
     "home_goals": 2,
     "id": "8SfuaRj1",
+    "shots": {
+      "AS": 5,
+      "AST": 4,
+      "HS": 12,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "07.12.2013",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "28",
+        "home": "29",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "25",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/union-berlin-pzHW4oaE/summary/stats/?mid=8SfuaRj1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/union-berlin-pzHW4oaE/?mid=8SfuaRj1"
   },
@@ -7192,8 +7252,68 @@
     "home": "FSV Frankfurt",
     "home_goals": 1,
     "id": "OMw41ae2",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 18,
+      "HST": 14
+    },
     "source": "flashscore",
     "source_status": "02.12.2013",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "18",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "14",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "32",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "24",
+        "home": "10",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/fsv-frankfurt-CG1hDqLC/summary/stats/?mid=OMw41ae2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/fsv-frankfurt-CG1hDqLC/?mid=OMw41ae2"
   },
@@ -10574,8 +10694,68 @@
     "home": "Karlsruher SC",
     "home_goals": 0,
     "id": "YR1WJSSQ",
+    "shots": {
+      "AS": 12,
+      "AST": 6,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "06.12.2013",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "16",
+        "home": "18",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "12",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/summary/stats/?mid=YR1WJSSQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/?mid=YR1WJSSQ"
   },
@@ -12808,8 +12988,68 @@
     "home": "Aue",
     "home_goals": 0,
     "id": "fy3SK8DK",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "06.12.2013",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "23",
+        "home": "36",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "19",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/summary/stats/?mid=fy3SK8DK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/?mid=fy3SK8DK"
   },
@@ -13372,8 +13612,68 @@
     "home": "Arminia Bielefeld",
     "home_goals": 1,
     "id": "j7lbFnyr",
+    "shots": {
+      "AS": 20,
+      "AST": 14,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "06.12.2013",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "20",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "20",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "1",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "16",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "23",
+        "home": "26",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dresden-zL1YsOi1/summary/stats/?mid=j7lbFnyr",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/arminia-bielefeld-pp38UXK8/dresden-zL1YsOi1/?mid=j7lbFnyr"
   },
@@ -18038,8 +18338,68 @@
     "home": "Paderborn",
     "home_goals": 1,
     "id": "zL7h8VTE",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 11,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "01.12.2013",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "29",
+        "home": "23",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "23",
+        "home": "18",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/paderborn-G2Op923t/summary/stats/?mid=zL7h8VTE",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/paderborn-G2Op923t/?mid=zL7h8VTE"
   },
