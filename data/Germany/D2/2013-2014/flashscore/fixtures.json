@@ -15738,8 +15738,68 @@
     "home": "Sandhausen",
     "home_goals": 0,
     "id": "j30FO5Wo",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 24,
+      "HST": 14
+    },
     "source": "flashscore",
     "source_status": "01.03.2014",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "24",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "14",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Offsides"
+      },
+      {
+        "away": "24",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "19",
+        "home": "15",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/summary/stats/?mid=j30FO5Wo",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/sandhausen-UZxEj1R4/?mid=j30FO5Wo"
   },

@@ -12320,6 +12320,46 @@
     "value": 7
   },
   {
+    "away": "Munich 1860",
+    "date": "01/03/14",
+    "field": "AS",
+    "fixture_id": "j30FO5Wo",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 9
+  },
+  {
+    "away": "Munich 1860",
+    "date": "01/03/14",
+    "field": "AST",
+    "fixture_id": "j30FO5Wo",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 4
+  },
+  {
+    "away": "Munich 1860",
+    "date": "01/03/14",
+    "field": "HS",
+    "fixture_id": "j30FO5Wo",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 24
+  },
+  {
+    "away": "Munich 1860",
+    "date": "01/03/14",
+    "field": "HST",
+    "fixture_id": "j30FO5Wo",
+    "home": "Sandhausen",
+    "source": "flashscore",
+    "target": "Germany/D2/2013-2014",
+    "value": 14
+  },
+  {
     "away": "Karlsruhe",
     "date": "02/03/14",
     "field": "AS",
