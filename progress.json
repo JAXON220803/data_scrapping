@@ -6,7 +6,7 @@
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Run request budget reached (20/20)",
+      "reason": "Daily request budget reached (400/400); resumes next UTC day",
       "requests": 20,
       "status": "paused_by_budget",
       "target": "Germany/D2/2012-2013"
@@ -1193,7 +1193,7 @@
           "phase": "statistics",
           "reason": null,
           "statistics_available": 2,
-          "statistics_checked": 240
+          "statistics_checked": 260
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3820,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-26T07:01:20.352406+00:00"
+  "updated_utc": "2026-11-26T07:07:20.323795+00:00"
 }
