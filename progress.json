@@ -1,32 +1,31 @@
 {
-  "completed_missing_matches": 1764,
-  "filled_cells_percent": 5.8691,
-  "filled_percent": 5.8657,
+  "completed_missing_matches": 1767,
+  "filled_cells_percent": 5.879,
+  "filled_percent": 5.8757,
   "initial_missing_cells": 120292,
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Daily request budget reached (400/400); resumes next UTC day",
-      "requests": 0,
+      "reason": "Run request budget reached (20/20)",
+      "requests": 20,
       "status": "paused_by_budget",
       "target": "Germany/D2/2013-2014"
     },
     "sofascore": {
-      "previous_status": "Blocked",
       "reason": "HTTP 403: source denied access",
-      "requests": 0,
-      "retry_at": 1795659798.344534,
-      "status": "waiting_after_error",
+      "requests": 1,
+      "retry_at": 1795755592.3543549,
+      "status": "Blocked",
       "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
   "provider_fixture_records": 4212,
-  "provider_records_with_all_shots": 2214,
-  "provider_records_with_statistics": 2218,
-  "recovered_cells": 7060,
+  "provider_records_with_all_shots": 2219,
+  "provider_records_with_statistics": 2223,
+  "recovered_cells": 7072,
   "reference_matches": 36942,
-  "reference_matches_still_missing_shots": 28309,
+  "reference_matches_still_missing_shots": 28306,
   "seasons": [
     {
       "cells_recovered": 0,
@@ -1217,24 +1216,24 @@
       }
     },
     {
-      "cells_recovered": 648,
-      "completed_missing_matches": 161,
-      "filled_percent": 52.6144,
+      "cells_recovered": 660,
+      "completed_missing_matches": 164,
+      "filled_percent": 53.5948,
       "id": "Germany/D2/2013-2014",
       "initial_missing_matches": 306,
       "reference_matches": 306,
-      "remaining_missing_shots": 145,
+      "remaining_missing_shots": 142,
       "sources": {
         "flashscore": {
-          "all_shot_values": 231,
+          "all_shot_values": 236,
           "fixtures": 308,
           "inventory_complete": true,
           "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
           "phase": "statistics",
           "reason": null,
-          "statistics_available": 235,
-          "statistics_checked": 236
+          "statistics_available": 240,
+          "statistics_checked": 241
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3828,5 +3827,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-25T22:29:27.782376+00:00"
+  "updated_utc": "2026-11-26T05:05:14.239846+00:00"
 }
