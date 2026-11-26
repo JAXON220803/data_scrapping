@@ -2420,8 +2420,68 @@
     "home": "Sandhausen",
     "home_goals": 1,
     "id": "88b1N1ZI",
+    "shots": {
+      "AS": 14,
+      "AST": 9,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "20.12.2013",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "34",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "14",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/summary/stats/?mid=88b1N1ZI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/sandhausen-UZxEj1R4/?mid=88b1N1ZI"
   },
@@ -8181,8 +8241,68 @@
     "home": "Munich 1860",
     "home_goals": 0,
     "id": "QPtBCpL0",
+    "shots": {
+      "AS": 16,
+      "AST": 4,
+      "HS": 14,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "16.12.2013",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "12",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "27",
+        "home": "22",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "14",
+        "home": "13",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/summary/stats/?mid=QPtBCpL0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/?mid=QPtBCpL0"
   },
@@ -9208,8 +9328,68 @@
     "home": "St. Pauli",
     "home_goals": 0,
     "id": "UHacOsKC",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 21,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "20.12.2013",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "21",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "14",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "3",
+        "home": "0",
+        "name": "Offsides"
+      },
+      {
+        "away": "20",
+        "home": "24",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "21",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/st-pauli-ILyJuN3g/summary/stats/?mid=UHacOsKC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/st-pauli-ILyJuN3g/?mid=UHacOsKC"
   },
@@ -11212,8 +11392,68 @@
     "home": "FSV Frankfurt",
     "home_goals": 2,
     "id": "Yk6lQ3k0",
+    "shots": {
+      "AS": 22,
+      "AST": 11,
+      "HS": 9,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "21.12.2013",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "22",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "22",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Offsides"
+      },
+      {
+        "away": "19",
+        "home": "13",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "20",
+        "home": "7",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/munich-1860-byXHwsJa/summary/stats/?mid=Yk6lQ3k0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/munich-1860-byXHwsJa/?mid=Yk6lQ3k0"
   },
@@ -16686,8 +16926,68 @@
     "home": "SG Dynamo Dresden",
     "home_goals": 0,
     "id": "tEEGTxdh",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "20.12.2013",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Offsides"
+      },
+      {
+        "away": "25",
+        "home": "31",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "22",
+        "home": "16",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/summary/stats/?mid=tEEGTxdh",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/?mid=tEEGTxdh"
   },
@@ -17442,8 +17742,68 @@
     "home": "Karlsruher SC",
     "home_goals": 3,
     "id": "thR9XocQ",
+    "shots": {
+      "AS": 15,
+      "AST": 9,
+      "HS": 9,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "15.12.2013",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "0",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "23",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Offsides"
+      },
+      {
+        "away": "22",
+        "home": "21",
+        "name": "Throw-ins"
+      },
+      {
+        "away": "14",
+        "home": "20",
+        "name": "Fouls"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/karlsruher-EB3q7jbk/summary/stats/?mid=thR9XocQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/karlsruher-EB3q7jbk/?mid=thR9XocQ"
   },
