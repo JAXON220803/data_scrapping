@@ -44,6 +44,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/fsv-frankfurt-CG1hDqLC/?mid=08kz3N05"
   },
+  "0GBZy662": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 3,
+    "date": "2011-08-07",
+    "home": "Braunschweig",
+    "home_goals": 0,
+    "id": "0GBZy662",
+    "source": "flashscore",
+    "source_status": "07.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/eintracht-frankfurt-8vndvXTk/?mid=0GBZy662"
+  },
+  "0GNa6NZ0": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 0,
+    "date": "2011-12-19",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "0GNa6NZ0",
+    "source": "flashscore",
+    "source_status": "19.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/st-pauli-ILyJuN3g/?mid=0GNa6NZ0"
+  },
+  "0frPZC94": {
+    "away": "Duisburg",
+    "away_goals": 2,
+    "date": "2012-02-12",
+    "home": "Hansa Rostock",
+    "home_goals": 4,
+    "id": "0frPZC94",
+    "source": "flashscore",
+    "source_status": "12.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/hansa-rostock-KIHmtCkL/?mid=0frPZC94"
+  },
   "0lHup3eJ": {
     "away": "Eintracht Frankfurt",
     "away_goals": 0,
@@ -58,6 +94,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/karlsruher-EB3q7jbk/?mid=0lHup3eJ"
+  },
+  "0n4AfVX4": {
+    "away": "Alemannia Aachen",
+    "away_goals": 0,
+    "date": "2011-09-09",
+    "home": "Paderborn",
+    "home_goals": 0,
+    "id": "0n4AfVX4",
+    "source": "flashscore",
+    "source_status": "09.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/paderborn-G2Op923t/?mid=0n4AfVX4"
   },
   "0rKv0LpO": {
     "away": "Bochum",
@@ -74,6 +122,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/eintracht-frankfurt-8vndvXTk/?mid=0rKv0LpO"
   },
+  "0v0tYjvH": {
+    "away": "Union Berlin",
+    "away_goals": 2,
+    "date": "2012-02-18",
+    "home": "Bochum",
+    "home_goals": 4,
+    "id": "0v0tYjvH",
+    "source": "flashscore",
+    "source_status": "18.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/union-berlin-pzHW4oaE/?mid=0v0tYjvH"
+  },
   "0vvtk4W5": {
     "away": "Paderborn",
     "away_goals": 0,
@@ -88,6 +148,66 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/paderborn-G2Op923t/?mid=0vvtk4W5"
+  },
+  "21g5O6i9": {
+    "away": "Hansa Rostock",
+    "away_goals": 1,
+    "date": "2011-07-24",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "21g5O6i9",
+    "source": "flashscore",
+    "source_status": "24.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/hansa-rostock-KIHmtCkL/?mid=21g5O6i9"
+  },
+  "253yaQ9p": {
+    "away": "Duisburg",
+    "away_goals": 1,
+    "date": "2011-09-25",
+    "home": "Bochum",
+    "home_goals": 2,
+    "id": "253yaQ9p",
+    "source": "flashscore",
+    "source_status": "25.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/duisburg-2s7huW4R/?mid=253yaQ9p"
+  },
+  "29XZjdRC": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2011-08-28",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "29XZjdRC",
+    "source": "flashscore",
+    "source_status": "28.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/st-pauli-ILyJuN3g/?mid=29XZjdRC"
+  },
+  "2HNxBN8d": {
+    "away": "Paderborn",
+    "away_goals": 1,
+    "date": "2011-10-02",
+    "home": "Duisburg",
+    "home_goals": 0,
+    "id": "2HNxBN8d",
+    "source": "flashscore",
+    "source_status": "02.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/paderborn-G2Op923t/?mid=2HNxBN8d"
+  },
+  "2HXNhOK7": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2011-12-12",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 0,
+    "id": "2HXNhOK7",
+    "source": "flashscore",
+    "source_status": "12.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/greuther-furth-CCQGbik8/?mid=2HXNhOK7"
   },
   "2ZlsM8ce": {
     "away": "Bochum",
@@ -104,6 +224,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/energie-cottbus-6g44VD52/?mid=2ZlsM8ce"
   },
+  "2csOiTHN": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2011-09-12",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 2,
+    "id": "2csOiTHN",
+    "source": "flashscore",
+    "source_status": "12.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/?mid=2csOiTHN"
+  },
   "2uhrW1Fo": {
     "away": "Aue",
     "away_goals": 0,
@@ -118,6 +250,78 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/?mid=2uhrW1Fo"
+  },
+  "4IoQZL3m": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2012-02-05",
+    "home": "Karlsruher SC",
+    "home_goals": 2,
+    "id": "4IoQZL3m",
+    "source": "flashscore",
+    "source_status": "05.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/?mid=4IoQZL3m"
+  },
+  "4QTOtLcl": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2011-08-20",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "4QTOtLcl",
+    "source": "flashscore",
+    "source_status": "20.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/union-berlin-pzHW4oaE/?mid=4QTOtLcl"
+  },
+  "4dIUS1Tl": {
+    "away": "Cottbus",
+    "away_goals": 2,
+    "date": "2011-08-13",
+    "home": "Alemannia Aachen",
+    "home_goals": 0,
+    "id": "4dIUS1Tl",
+    "source": "flashscore",
+    "source_status": "13.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/energie-cottbus-6g44VD52/?mid=4dIUS1Tl"
+  },
+  "4dpKmWw4": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2012-02-17",
+    "home": "Karlsruher SC",
+    "home_goals": 2,
+    "id": "4dpKmWw4",
+    "source": "flashscore",
+    "source_status": "17.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/karlsruher-EB3q7jbk/?mid=4dpKmWw4"
+  },
+  "4hWOuoy2": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2011-12-03",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 2,
+    "id": "4hWOuoy2",
+    "source": "flashscore",
+    "source_status": "03.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/karlsruher-EB3q7jbk/?mid=4hWOuoy2"
+  },
+  "4lzWL2Zm": {
+    "away": "Alemannia Aachen",
+    "away_goals": 1,
+    "date": "2011-12-18",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "4lzWL2Zm",
+    "source": "flashscore",
+    "source_status": "18.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/braunschweig-QqLCC3il/?mid=4lzWL2Zm"
   },
   "4pxarx4F": {
     "away": "SG Dynamo Dresden",
@@ -134,6 +338,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dresden-zL1YsOi1/?mid=4pxarx4F"
   },
+  "675DMgG4": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2011-07-25",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 1,
+    "id": "675DMgG4",
+    "source": "flashscore",
+    "source_status": "25.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/st-pauli-ILyJuN3g/?mid=675DMgG4"
+  },
+  "67ZLPDT6": {
+    "away": "Greuther Furth",
+    "away_goals": 2,
+    "date": "2011-10-22",
+    "home": "Cottbus",
+    "home_goals": 0,
+    "id": "67ZLPDT6",
+    "source": "flashscore",
+    "source_status": "22.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/greuther-furth-CCQGbik8/?mid=67ZLPDT6"
+  },
+  "690J3cNi": {
+    "away": "Duisburg",
+    "away_goals": 2,
+    "date": "2011-11-25",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "690J3cNi",
+    "source": "flashscore",
+    "source_status": "25.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/duisburg-2s7huW4R/?mid=690J3cNi"
+  },
+  "6DtMLJgI": {
+    "away": "Dusseldorf",
+    "away_goals": 5,
+    "date": "2011-10-30",
+    "home": "FSV Frankfurt",
+    "home_goals": 2,
+    "id": "6DtMLJgI",
+    "source": "flashscore",
+    "source_status": "30.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/fsv-frankfurt-CG1hDqLC/?mid=6DtMLJgI"
+  },
+  "6FR0oG7N": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2011-11-18",
+    "home": "Ingolstadt",
+    "home_goals": 0,
+    "id": "6FR0oG7N",
+    "source": "flashscore",
+    "source_status": "18.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/munich-1860-byXHwsJa/?mid=6FR0oG7N"
+  },
   "6HvxjpHa": {
     "away": "Union Berlin",
     "away_goals": 3,
@@ -149,6 +413,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/union-berlin-pzHW4oaE/?mid=6HvxjpHa"
   },
+  "6JPXOtwd": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2011-10-15",
+    "home": "Duisburg",
+    "home_goals": 3,
+    "id": "6JPXOtwd",
+    "source": "flashscore",
+    "source_status": "15.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/ingolstadt-ne5QkLtB/?mid=6JPXOtwd"
+  },
   "6LKz11VH": {
     "away": "Munich 1860",
     "away_goals": 1,
@@ -163,6 +439,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/munich-1860-byXHwsJa/?mid=6LKz11VH"
+  },
+  "6P46eBIb": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2011-09-11",
+    "home": "Union Berlin",
+    "home_goals": 4,
+    "id": "6P46eBIb",
+    "source": "flashscore",
+    "source_status": "11.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/union-berlin-pzHW4oaE/?mid=6P46eBIb"
   },
   "6XMKi6nm": {
     "away": "Bochum",
@@ -194,6 +482,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/hertha-berlin-2y0u8Wrq/?mid=6adT9aJF"
   },
+  "6kvFfpje": {
+    "away": "FSV Frankfurt",
+    "away_goals": 2,
+    "date": "2011-12-04",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 2,
+    "id": "6kvFfpje",
+    "source": "flashscore",
+    "source_status": "04.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/fsv-frankfurt-CG1hDqLC/?mid=6kvFfpje"
+  },
+  "6oG6XdwO": {
+    "away": "Hansa Rostock",
+    "away_goals": 0,
+    "date": "2011-11-06",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "6oG6XdwO",
+    "source": "flashscore",
+    "source_status": "06.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/hansa-rostock-KIHmtCkL/?mid=6oG6XdwO"
+  },
+  "6s00F2Ee": {
+    "away": "Paderborn",
+    "away_goals": 0,
+    "date": "2011-08-05",
+    "home": "Union Berlin",
+    "home_goals": 3,
+    "id": "6s00F2Ee",
+    "source": "flashscore",
+    "source_status": "05.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/union-berlin-pzHW4oaE/?mid=6s00F2Ee"
+  },
+  "820dQSMd": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2011-07-24",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "820dQSMd",
+    "source": "flashscore",
+    "source_status": "24.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/paderborn-G2Op923t/?mid=820dQSMd"
+  },
+  "8A6ktOQJ": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2012-02-04",
+    "home": "Alemannia Aachen",
+    "home_goals": 2,
+    "id": "8A6ktOQJ",
+    "source": "flashscore",
+    "source_status": "04.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/st-pauli-ILyJuN3g/?mid=8A6ktOQJ"
+  },
   "8l7yjgBr": {
     "away": "Duisburg",
     "away_goals": 1,
@@ -209,6 +557,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/union-berlin-pzHW4oaE/?mid=8l7yjgBr"
   },
+  "8rS178HA": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 2,
+    "date": "2011-09-16",
+    "home": "Ingolstadt",
+    "home_goals": 4,
+    "id": "8rS178HA",
+    "source": "flashscore",
+    "source_status": "16.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/ingolstadt-ne5QkLtB/?mid=8rS178HA"
+  },
   "8t7LdMPI": {
     "away": "Bochum",
     "away_goals": 0,
@@ -223,6 +583,66 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/bochum-8Y2m6ADe/?mid=8t7LdMPI"
+  },
+  "8tR7414D": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2011-12-16",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "8tR7414D",
+    "source": "flashscore",
+    "source_status": "16.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/ingolstadt-ne5QkLtB/?mid=8tR7414D"
+  },
+  "8xiFvS0j": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 2,
+    "date": "2012-02-26",
+    "home": "Paderborn",
+    "home_goals": 4,
+    "id": "8xiFvS0j",
+    "source": "flashscore",
+    "source_status": "26.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/paderborn-G2Op923t/?mid=8xiFvS0j"
+  },
+  "A3MpWOpM": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2011-10-03",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "A3MpWOpM",
+    "source": "flashscore",
+    "source_status": "03.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dusseldorf-ne1oL3y7/?mid=A3MpWOpM"
+  },
+  "AJrbI5GM": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 4,
+    "date": "2011-09-26",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "AJrbI5GM",
+    "source": "flashscore",
+    "source_status": "26.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/eintracht-frankfurt-8vndvXTk/?mid=AJrbI5GM"
+  },
+  "ARdDMpML": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2011-08-06",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "ARdDMpML",
+    "source": "flashscore",
+    "source_status": "06.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/greuther-furth-CCQGbik8/?mid=ARdDMpML"
   },
   "AVCYYos1": {
     "away": "Aue",
@@ -254,6 +674,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dusseldorf-ne1oL3y7/?mid=AZOF5PGn"
   },
+  "AcBccXmn": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 3,
+    "date": "2011-09-10",
+    "home": "Cottbus",
+    "home_goals": 3,
+    "id": "AcBccXmn",
+    "source": "flashscore",
+    "source_status": "10.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/energie-cottbus-6g44VD52/?mid=AcBccXmn"
+  },
+  "AciBkh9i": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 2,
+    "date": "2012-02-17",
+    "home": "Paderborn",
+    "home_goals": 2,
+    "id": "AciBkh9i",
+    "source": "flashscore",
+    "source_status": "17.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/paderborn-G2Op923t/?mid=AciBkh9i"
+  },
   "AedGQcqN": {
     "away": "Aue",
     "away_goals": 0,
@@ -268,6 +712,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/eintracht-frankfurt-8vndvXTk/?mid=AedGQcqN"
+  },
+  "AomDNuP5": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2011-10-28",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "AomDNuP5",
+    "source": "flashscore",
+    "source_status": "28.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/union-berlin-pzHW4oaE/?mid=AomDNuP5"
   },
   "C65EGtV4": {
     "away": "Duisburg",
@@ -299,6 +755,114 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/karlsruher-EB3q7jbk/?mid=CEsplOoC"
   },
+  "CK0dGrak": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2011-08-05",
+    "home": "Dusseldorf",
+    "home_goals": 4,
+    "id": "CK0dGrak",
+    "source": "flashscore",
+    "source_status": "05.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/ingolstadt-ne5QkLtB/?mid=CK0dGrak"
+  },
+  "CKIZLmHc": {
+    "away": "Alemannia Aachen",
+    "away_goals": 0,
+    "date": "2011-09-24",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "CKIZLmHc",
+    "source": "flashscore",
+    "source_status": "24.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/union-berlin-pzHW4oaE/?mid=CKIZLmHc"
+  },
+  "CMmSoA8G": {
+    "away": "Bochum",
+    "away_goals": 2,
+    "date": "2012-02-25",
+    "home": "Greuther Furth",
+    "home_goals": 6,
+    "id": "CMmSoA8G",
+    "source": "flashscore",
+    "source_status": "25.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/?mid=CMmSoA8G"
+  },
+  "COG2YxOH": {
+    "away": "Duisburg",
+    "away_goals": 2,
+    "date": "2011-11-06",
+    "home": "Alemannia Aachen",
+    "home_goals": 2,
+    "id": "COG2YxOH",
+    "source": "flashscore",
+    "source_status": "06.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/duisburg-2s7huW4R/?mid=COG2YxOH"
+  },
+  "CdGuwwcD": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2011-08-21",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "CdGuwwcD",
+    "source": "flashscore",
+    "source_status": "21.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/paderborn-G2Op923t/?mid=CdGuwwcD"
+  },
+  "Cjk22PUk": {
+    "away": "Braunschweig",
+    "away_goals": 2,
+    "date": "2011-07-24",
+    "home": "Alemannia Aachen",
+    "home_goals": 0,
+    "id": "Cjk22PUk",
+    "source": "flashscore",
+    "source_status": "24.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/braunschweig-QqLCC3il/?mid=Cjk22PUk"
+  },
+  "CzPhAPkr": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2011-12-09",
+    "home": "Duisburg",
+    "home_goals": 3,
+    "id": "CzPhAPkr",
+    "source": "flashscore",
+    "source_status": "09.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/karlsruher-EB3q7jbk/?mid=CzPhAPkr"
+  },
+  "E3TbTpsE": {
+    "away": "Duisburg",
+    "away_goals": 1,
+    "date": "2011-12-18",
+    "home": "Cottbus",
+    "home_goals": 1,
+    "id": "E3TbTpsE",
+    "source": "flashscore",
+    "source_status": "18.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/energie-cottbus-6g44VD52/?mid=E3TbTpsE"
+  },
+  "E7VW0nDR": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2011-12-02",
+    "home": "Union Berlin",
+    "home_goals": 1,
+    "id": "E7VW0nDR",
+    "source": "flashscore",
+    "source_status": "02.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/union-berlin-pzHW4oaE/?mid=E7VW0nDR"
+  },
   "EF9otUlR": {
     "away": "Duisburg",
     "away_goals": 0,
@@ -313,6 +877,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/duisburg-2s7huW4R/?mid=EF9otUlR"
+  },
+  "EFiBu8op": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2012-02-24",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "EFiBu8op",
+    "source": "flashscore",
+    "source_status": "24.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/union-berlin-pzHW4oaE/?mid=EFiBu8op"
   },
   "EJ7Hc2AC": {
     "away": "Duisburg",
@@ -329,6 +905,21 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/munich-1860-byXHwsJa/?mid=EJ7Hc2AC"
   },
+  "EPxtMP4O": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 1,
+    "date": "2011-07-15",
+    "home": "Cottbus",
+    "home_goals": 2,
+    "id": "EPxtMP4O",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "15.07.2011",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/energie-cottbus-6g44VD52/?mid=EPxtMP4O"
+  },
   "ERacucbG": {
     "away": "Dusseldorf",
     "away_goals": 1,
@@ -344,6 +935,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/?mid=ERacucbG"
   },
+  "EXxUNibJ": {
+    "away": "Paderborn",
+    "away_goals": 1,
+    "date": "2011-10-21",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "EXxUNibJ",
+    "source": "flashscore",
+    "source_status": "21.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/paderborn-G2Op923t/?mid=EXxUNibJ"
+  },
   "EoOrau0U": {
     "away": "Greuther Furth",
     "away_goals": 1,
@@ -358,6 +961,42 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/?mid=EoOrau0U"
+  },
+  "EotHRlHp": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2012-02-19",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "EotHRlHp",
+    "source": "flashscore",
+    "source_status": "19.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/?mid=EotHRlHp"
+  },
+  "G4TyYpG9": {
+    "away": "Bochum",
+    "away_goals": 5,
+    "date": "2011-10-01",
+    "home": "Ingolstadt",
+    "home_goals": 3,
+    "id": "G4TyYpG9",
+    "source": "flashscore",
+    "source_status": "01.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/ingolstadt-ne5QkLtB/?mid=G4TyYpG9"
+  },
+  "G4wNFoSK": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2011-12-10",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "G4wNFoSK",
+    "source": "flashscore",
+    "source_status": "10.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/?mid=G4wNFoSK"
   },
   "GKghnBA7": {
     "away": "Ingolstadt",
@@ -389,6 +1028,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/eintracht-frankfurt-8vndvXTk/?mid=GMftqW48"
   },
+  "GOm9OL9a": {
+    "away": "Munich 1860",
+    "away_goals": 3,
+    "date": "2011-10-30",
+    "home": "Duisburg",
+    "home_goals": 0,
+    "id": "GOm9OL9a",
+    "source": "flashscore",
+    "source_status": "30.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/munich-1860-byXHwsJa/?mid=GOm9OL9a"
+  },
+  "GYvWo4p9": {
+    "away": "Cottbus",
+    "away_goals": 1,
+    "date": "2011-10-16",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "GYvWo4p9",
+    "source": "flashscore",
+    "source_status": "16.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/fsv-frankfurt-CG1hDqLC/?mid=GYvWo4p9"
+  },
+  "GdNgzag5": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 1,
+    "date": "2011-11-04",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "GdNgzag5",
+    "source": "flashscore",
+    "source_status": "04.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/dusseldorf-ne1oL3y7/?mid=GdNgzag5"
+  },
   "GrdnVLUi": {
     "away": "Munich 1860",
     "away_goals": 2,
@@ -403,6 +1078,78 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/paderborn-G2Op923t/?mid=GrdnVLUi"
+  },
+  "Gt1tlIN4": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2011-11-18",
+    "home": "Duisburg",
+    "home_goals": 3,
+    "id": "Gt1tlIN4",
+    "source": "flashscore",
+    "source_status": "18.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/duisburg-2s7huW4R/?mid=Gt1tlIN4"
+  },
+  "GvWiQsum": {
+    "away": "Alemannia Aachen",
+    "away_goals": 0,
+    "date": "2011-10-28",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "GvWiQsum",
+    "source": "flashscore",
+    "source_status": "28.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/bochum-8Y2m6ADe/?mid=GvWiQsum"
+  },
+  "GxkaHvlJ": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2012-02-06",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "GxkaHvlJ",
+    "source": "flashscore",
+    "source_status": "06.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/munich-1860-byXHwsJa/?mid=GxkaHvlJ"
+  },
+  "IJIW1MZD": {
+    "away": "Paderborn",
+    "away_goals": 0,
+    "date": "2011-08-28",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 0,
+    "id": "IJIW1MZD",
+    "source": "flashscore",
+    "source_status": "28.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/paderborn-G2Op923t/?mid=IJIW1MZD"
+  },
+  "ILJAWGhU": {
+    "away": "Ingolstadt",
+    "away_goals": 2,
+    "date": "2011-11-04",
+    "home": "Karlsruher SC",
+    "home_goals": 3,
+    "id": "ILJAWGhU",
+    "source": "flashscore",
+    "source_status": "04.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/?mid=ILJAWGhU"
+  },
+  "ITZnovKd": {
+    "away": "Ingolstadt",
+    "away_goals": 2,
+    "date": "2012-02-24",
+    "home": "Hansa Rostock",
+    "home_goals": 1,
+    "id": "ITZnovKd",
+    "source": "flashscore",
+    "source_status": "24.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/ingolstadt-ne5QkLtB/?mid=ITZnovKd"
   },
   "IaSN33oa": {
     "away": "Duisburg",
@@ -434,6 +1181,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/union-berlin-pzHW4oaE/?mid=IeGtXPBD"
   },
+  "IgZlAAXi": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2011-09-17",
+    "home": "Duisburg",
+    "home_goals": 1,
+    "id": "IgZlAAXi",
+    "source": "flashscore",
+    "source_status": "17.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/union-berlin-pzHW4oaE/?mid=IgZlAAXi"
+  },
   "IiE8aOu0": {
     "away": "Hansa Rostock",
     "away_goals": 1,
@@ -448,6 +1207,69 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/hansa-rostock-KIHmtCkL/?mid=IiE8aOu0"
+  },
+  "IkXTKXpH": {
+    "away": "Cottbus",
+    "away_goals": 2,
+    "date": "2011-07-22",
+    "home": "Duisburg",
+    "home_goals": 1,
+    "id": "IkXTKXpH",
+    "source": "flashscore",
+    "source_status": "22.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/energie-cottbus-6g44VD52/?mid=IkXTKXpH"
+  },
+  "IuxO28rF": {
+    "away": "Dusseldorf",
+    "away_goals": 2,
+    "date": "2011-12-05",
+    "home": "Duisburg",
+    "home_goals": 0,
+    "id": "IuxO28rF",
+    "source": "flashscore",
+    "source_status": "05.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/dusseldorf-ne1oL3y7/?mid=IuxO28rF"
+  },
+  "K2wxN5kI": {
+    "away": "Alemannia Aachen",
+    "away_goals": 0,
+    "date": "2011-07-16",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "K2wxN5kI",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "16.07.2011",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/aue-vsXIDreP/?mid=K2wxN5kI"
+  },
+  "K4UCrmiq": {
+    "away": "Alemannia Aachen",
+    "away_goals": 2,
+    "date": "2011-11-26",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "K4UCrmiq",
+    "source": "flashscore",
+    "source_status": "26.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/karlsruher-EB3q7jbk/?mid=K4UCrmiq"
+  },
+  "K8pMV3HP": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2011-10-21",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "K8pMV3HP",
+    "source": "flashscore",
+    "source_status": "21.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/?mid=K8pMV3HP"
   },
   "KGAPetuP": {
     "away": "SG Dynamo Dresden",
@@ -464,6 +1286,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/karlsruher-EB3q7jbk/?mid=KGAPetuP"
   },
+  "KMTyO0h2": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2011-10-15",
+    "home": "Union Berlin",
+    "home_goals": 2,
+    "id": "KMTyO0h2",
+    "source": "flashscore",
+    "source_status": "15.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/union-berlin-pzHW4oaE/?mid=KMTyO0h2"
+  },
   "KUojKeMj": {
     "away": "Alemannia Aachen",
     "away_goals": 0,
@@ -478,6 +1312,66 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/duisburg-2s7huW4R/?mid=KUojKeMj"
+  },
+  "KYu7d6Lr": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2011-12-02",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "KYu7d6Lr",
+    "source": "flashscore",
+    "source_status": "02.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/st-pauli-ILyJuN3g/?mid=KYu7d6Lr"
+  },
+  "KprVixC6": {
+    "away": "FSV Frankfurt",
+    "away_goals": 4,
+    "date": "2011-08-27",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "KprVixC6",
+    "source": "flashscore",
+    "source_status": "27.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/karlsruher-EB3q7jbk/?mid=KprVixC6"
+  },
+  "Kx40Pnx3": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2011-07-22",
+    "home": "Ingolstadt",
+    "home_goals": 0,
+    "id": "Kx40Pnx3",
+    "source": "flashscore",
+    "source_status": "22.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/ingolstadt-ne5QkLtB/?mid=Kx40Pnx3"
+  },
+  "KxpEH7c8": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2011-12-11",
+    "home": "Alemannia Aachen",
+    "home_goals": 1,
+    "id": "KxpEH7c8",
+    "source": "flashscore",
+    "source_status": "11.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/aue-vsXIDreP/?mid=KxpEH7c8"
+  },
+  "M3qLzgfb": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2012-02-11",
+    "home": "Braunschweig",
+    "home_goals": 0,
+    "id": "M3qLzgfb",
+    "source": "flashscore",
+    "source_status": "11.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/karlsruher-EB3q7jbk/?mid=M3qLzgfb"
   },
   "M9trxzsq": {
     "away": "St. Pauli",
@@ -494,6 +1388,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/?mid=M9trxzsq"
   },
+  "MBL8361T": {
+    "away": "Aue",
+    "away_goals": 3,
+    "date": "2011-09-23",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "MBL8361T",
+    "source": "flashscore",
+    "source_status": "23.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/?mid=MBL8361T"
+  },
   "MHC1Jron": {
     "away": "St. Pauli",
     "away_goals": 0,
@@ -509,6 +1415,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/?mid=MHC1Jron"
   },
+  "MNRIWq2J": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2011-10-23",
+    "home": "Alemannia Aachen",
+    "home_goals": 3,
+    "id": "MNRIWq2J",
+    "source": "flashscore",
+    "source_status": "23.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/ingolstadt-ne5QkLtB/?mid=MNRIWq2J"
+  },
+  "MPOe73Kf": {
+    "away": "Hansa Rostock",
+    "away_goals": 0,
+    "date": "2011-12-09",
+    "home": "Paderborn",
+    "home_goals": 2,
+    "id": "MPOe73Kf",
+    "source": "flashscore",
+    "source_status": "09.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/paderborn-G2Op923t/?mid=MPOe73Kf"
+  },
+  "MTW6ROBQ": {
+    "away": "Bochum",
+    "away_goals": 2,
+    "date": "2011-12-17",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "MTW6ROBQ",
+    "source": "flashscore",
+    "source_status": "17.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/fsv-frankfurt-CG1hDqLC/?mid=MTW6ROBQ"
+  },
+  "MXfFlCOc": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2012-02-19",
+    "home": "Ingolstadt",
+    "home_goals": 0,
+    "id": "MXfFlCOc",
+    "source": "flashscore",
+    "source_status": "19.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/ingolstadt-ne5QkLtB/?mid=MXfFlCOc"
+  },
+  "MaPRhId0": {
+    "away": "Hansa Rostock",
+    "away_goals": 1,
+    "date": "2011-08-26",
+    "home": "Ingolstadt",
+    "home_goals": 3,
+    "id": "MaPRhId0",
+    "source": "flashscore",
+    "source_status": "26.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/ingolstadt-ne5QkLtB/?mid=MaPRhId0"
+  },
   "McIyoqtD": {
     "away": "SG Dynamo Dresden",
     "away_goals": 1,
@@ -523,6 +1489,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/fsv-frankfurt-CG1hDqLC/?mid=McIyoqtD"
+  },
+  "MsUXYQ03": {
+    "away": "FSV Frankfurt",
+    "away_goals": 3,
+    "date": "2011-09-30",
+    "home": "Alemannia Aachen",
+    "home_goals": 1,
+    "id": "MsUXYQ03",
+    "source": "flashscore",
+    "source_status": "30.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/fsv-frankfurt-CG1hDqLC/?mid=MsUXYQ03"
   },
   "MsdqBfm8": {
     "away": "SG Dynamo Dresden",
@@ -554,6 +1532,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/hansa-rostock-KIHmtCkL/?mid=MyBL66mQ"
   },
+  "O6rKh92H": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2011-09-09",
+    "home": "Hansa Rostock",
+    "home_goals": 0,
+    "id": "O6rKh92H",
+    "source": "flashscore",
+    "source_status": "09.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/hansa-rostock-KIHmtCkL/?mid=O6rKh92H"
+  },
   "O8HPjQ1g": {
     "away": "Greuther Furth",
     "away_goals": 4,
@@ -584,6 +1574,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/paderborn-G2Op923t/?mid=OIIXe9lE"
   },
+  "OIxK3lT8": {
+    "away": "Hansa Rostock",
+    "away_goals": 0,
+    "date": "2011-12-03",
+    "home": "Greuther Furth",
+    "home_goals": 3,
+    "id": "OIxK3lT8",
+    "source": "flashscore",
+    "source_status": "03.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/hansa-rostock-KIHmtCkL/?mid=OIxK3lT8"
+  },
+  "OQOYB3gj": {
+    "away": "St. Pauli",
+    "away_goals": 4,
+    "date": "2011-10-01",
+    "home": "Cottbus",
+    "home_goals": 1,
+    "id": "OQOYB3gj",
+    "source": "flashscore",
+    "source_status": "01.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/st-pauli-ILyJuN3g/?mid=OQOYB3gj"
+  },
+  "OSXPLDVA": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2011-07-22",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "OSXPLDVA",
+    "source": "flashscore",
+    "source_status": "22.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/fsv-frankfurt-CG1hDqLC/?mid=OSXPLDVA"
+  },
   "Ob0KPHbT": {
     "away": "Munich 1860",
     "away_goals": 2,
@@ -598,6 +1624,42 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/munich-1860-byXHwsJa/?mid=Ob0KPHbT"
+  },
+  "OfzTPMNk": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2011-10-16",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "OfzTPMNk",
+    "source": "flashscore",
+    "source_status": "16.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/greuther-furth-CCQGbik8/?mid=OfzTPMNk"
+  },
+  "OliHMavC": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2011-10-29",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "OliHMavC",
+    "source": "flashscore",
+    "source_status": "29.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/paderborn-G2Op923t/?mid=OliHMavC"
+  },
+  "OrG8NZ0b": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2011-07-17",
+    "home": "Hansa Rostock",
+    "home_goals": 1,
+    "id": "OrG8NZ0b",
+    "source": "flashscore",
+    "source_status": "17.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/paderborn-G2Op923t/?mid=OrG8NZ0b"
   },
   "OrjwNlrk": {
     "away": "SG Dynamo Dresden",
@@ -614,6 +1676,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dresden-zL1YsOi1/?mid=OrjwNlrk"
   },
+  "OxJYMrKs": {
+    "away": "Munich 1860",
+    "away_goals": 3,
+    "date": "2011-12-17",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "OxJYMrKs",
+    "source": "flashscore",
+    "source_status": "17.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/?mid=OxJYMrKs"
+  },
   "OxTJ4qWh": {
     "away": "Eintracht Frankfurt",
     "away_goals": 4,
@@ -629,6 +1703,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/union-berlin-pzHW4oaE/?mid=OxTJ4qWh"
   },
+  "OzpTORK5": {
+    "away": "Ingolstadt",
+    "away_goals": 0,
+    "date": "2011-07-16",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "OzpTORK5",
+    "source": "flashscore",
+    "source_status": "16.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/st-pauli-ILyJuN3g/?mid=OzpTORK5"
+  },
+  "Q1XKtRLe": {
+    "away": "Union Berlin",
+    "away_goals": 5,
+    "date": "2011-11-25",
+    "home": "Hansa Rostock",
+    "home_goals": 2,
+    "id": "Q1XKtRLe",
+    "source": "flashscore",
+    "source_status": "25.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/union-berlin-pzHW4oaE/?mid=Q1XKtRLe"
+  },
   "Q1mqBogP": {
     "away": "Ingolstadt",
     "away_goals": 1,
@@ -643,6 +1741,42 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/ingolstadt-ne5QkLtB/?mid=Q1mqBogP"
+  },
+  "QB6wRub1": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2011-08-14",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "QB6wRub1",
+    "source": "flashscore",
+    "source_status": "14.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/ingolstadt-ne5QkLtB/?mid=QB6wRub1"
+  },
+  "QJxc8l24": {
+    "away": "Greuther Furth",
+    "away_goals": 0,
+    "date": "2011-09-18",
+    "home": "Alemannia Aachen",
+    "home_goals": 0,
+    "id": "QJxc8l24",
+    "source": "flashscore",
+    "source_status": "18.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/greuther-furth-CCQGbik8/?mid=QJxc8l24"
+  },
+  "QNdZx19n": {
+    "away": "Greuther Furth",
+    "away_goals": 2,
+    "date": "2011-11-05",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "QNdZx19n",
+    "source": "flashscore",
+    "source_status": "05.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/st-pauli-ILyJuN3g/?mid=QNdZx19n"
   },
   "QVOSn5B0": {
     "away": "Duisburg",
@@ -674,6 +1808,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/karlsruher-EB3q7jbk/?mid=QZbLCvFN"
   },
+  "Qi8TjKwn": {
+    "away": "Alemannia Aachen",
+    "away_goals": 3,
+    "date": "2011-11-20",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 4,
+    "id": "Qi8TjKwn",
+    "source": "flashscore",
+    "source_status": "20.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/eintracht-frankfurt-8vndvXTk/?mid=Qi8TjKwn"
+  },
+  "QqMv004Q": {
+    "away": "Cottbus",
+    "away_goals": 0,
+    "date": "2011-08-29",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "QqMv004Q",
+    "source": "flashscore",
+    "source_status": "29.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/energie-cottbus-6g44VD52/?mid=QqMv004Q"
+  },
+  "QuIXvaS0": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2011-08-20",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "QuIXvaS0",
+    "source": "flashscore",
+    "source_status": "20.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/braunschweig-QqLCC3il/?mid=QuIXvaS0"
+  },
+  "S6X2S4dK": {
+    "away": "Paderborn",
+    "away_goals": 3,
+    "date": "2011-12-16",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "S6X2S4dK",
+    "source": "flashscore",
+    "source_status": "16.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/paderborn-G2Op923t/?mid=S6X2S4dK"
+  },
   "S6aE4YrP": {
     "away": "Greuther Furth",
     "away_goals": 0,
@@ -703,6 +1885,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/regensburg-UiCmEP56/?mid=S8cPAu49"
+  },
+  "SALoJo1G": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2011-09-25",
+    "home": "Hansa Rostock",
+    "home_goals": 1,
+    "id": "SALoJo1G",
+    "source": "flashscore",
+    "source_status": "25.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/karlsruher-EB3q7jbk/?mid=SALoJo1G"
   },
   "SAZA651t": {
     "away": "Karlsruher SC",
@@ -734,6 +1928,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dusseldorf-ne1oL3y7/?mid=SAi1fZ2R"
   },
+  "SGzIQgE0": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2011-10-23",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "SGzIQgE0",
+    "source": "flashscore",
+    "source_status": "23.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/union-berlin-pzHW4oaE/?mid=SGzIQgE0"
+  },
   "SIml2Qes": {
     "away": "Ingolstadt",
     "away_goals": 1,
@@ -748,6 +1954,54 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/ingolstadt-ne5QkLtB/?mid=SIml2Qes"
+  },
+  "SOSdndhH": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2011-11-18",
+    "home": "Paderborn",
+    "home_goals": 2,
+    "id": "SOSdndhH",
+    "source": "flashscore",
+    "source_status": "18.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/paderborn-G2Op923t/?mid=SOSdndhH"
+  },
+  "SOlS1yh4": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2011-11-28",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "SOlS1yh4",
+    "source": "flashscore",
+    "source_status": "28.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/?mid=SOlS1yh4"
+  },
+  "SSUHyZvh": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2012-02-10",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "SSUHyZvh",
+    "source": "flashscore",
+    "source_status": "10.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/ingolstadt-ne5QkLtB/?mid=SSUHyZvh"
+  },
+  "SStpLqKU": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2011-07-18",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "SStpLqKU",
+    "source": "flashscore",
+    "source_status": "18.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/dusseldorf-ne1oL3y7/?mid=SStpLqKU"
   },
   "SULW1sGB": {
     "away": "Aue",
@@ -779,6 +2033,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dresden-zL1YsOi1/?mid=SW6BRwUG"
   },
+  "SWI0SFql": {
+    "away": "Duisburg",
+    "away_goals": 0,
+    "date": "2011-10-23",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 3,
+    "id": "SWI0SFql",
+    "source": "flashscore",
+    "source_status": "23.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/eintracht-frankfurt-8vndvXTk/?mid=SWI0SFql"
+  },
+  "SbuBeQzk": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2011-12-02",
+    "home": "Ingolstadt",
+    "home_goals": 0,
+    "id": "SbuBeQzk",
+    "source": "flashscore",
+    "source_status": "02.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/ingolstadt-ne5QkLtB/?mid=SbuBeQzk"
+  },
+  "Sh86eKCs": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2011-08-26",
+    "home": "Duisburg",
+    "home_goals": 3,
+    "id": "Sh86eKCs",
+    "source": "flashscore",
+    "source_status": "26.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/duisburg-2s7huW4R/?mid=Sh86eKCs"
+  },
   "StOGhnXt": {
     "away": "Dusseldorf",
     "away_goals": 1,
@@ -793,6 +2083,42 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/energie-cottbus-6g44VD52/?mid=StOGhnXt"
+  },
+  "SvXuX4VF": {
+    "away": "Greuther Furth",
+    "away_goals": 2,
+    "date": "2011-10-02",
+    "home": "Karlsruher SC",
+    "home_goals": 2,
+    "id": "SvXuX4VF",
+    "source": "flashscore",
+    "source_status": "02.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/karlsruher-EB3q7jbk/?mid=SvXuX4VF"
+  },
+  "SxQNgbsf": {
+    "away": "Dusseldorf",
+    "away_goals": 0,
+    "date": "2011-08-27",
+    "home": "Alemannia Aachen",
+    "home_goals": 0,
+    "id": "SxQNgbsf",
+    "source": "flashscore",
+    "source_status": "27.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/dusseldorf-ne1oL3y7/?mid=SxQNgbsf"
+  },
+  "U3PUCqvp": {
+    "away": "Hansa Rostock",
+    "away_goals": 0,
+    "date": "2011-09-30",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "U3PUCqvp",
+    "source": "flashscore",
+    "source_status": "30.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/hansa-rostock-KIHmtCkL/?mid=U3PUCqvp"
   },
   "U3eplXue": {
     "away": "Munich 1860",
@@ -839,6 +2165,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/greuther-furth-CCQGbik8/?mid=UHlGtGYR"
   },
+  "UPEpnszR": {
+    "away": "Karlsruher SC",
+    "away_goals": 0,
+    "date": "2011-08-21",
+    "home": "Cottbus",
+    "home_goals": 2,
+    "id": "UPEpnszR",
+    "source": "flashscore",
+    "source_status": "21.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/karlsruher-EB3q7jbk/?mid=UPEpnszR"
+  },
+  "Ue3jYN5R": {
+    "away": "Hansa Rostock",
+    "away_goals": 0,
+    "date": "2011-08-14",
+    "home": "Duisburg",
+    "home_goals": 0,
+    "id": "Ue3jYN5R",
+    "source": "flashscore",
+    "source_status": "14.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/hansa-rostock-KIHmtCkL/?mid=Ue3jYN5R"
+  },
+  "UkS35sk7": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2011-12-16",
+    "home": "Greuther Furth",
+    "home_goals": 5,
+    "id": "UkS35sk7",
+    "source": "flashscore",
+    "source_status": "16.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/?mid=UkS35sk7"
+  },
   "UsG9HMFb": {
     "away": "SG Dynamo Dresden",
     "away_goals": 1,
@@ -869,6 +2231,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/hansa-rostock-KIHmtCkL/?mid=W2AhtwqA"
   },
+  "W6CgbDYu": {
+    "away": "Duisburg",
+    "away_goals": 1,
+    "date": "2011-09-09",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "W6CgbDYu",
+    "source": "flashscore",
+    "source_status": "09.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/greuther-furth-CCQGbik8/?mid=W6CgbDYu"
+  },
   "W8POmodf": {
     "away": "Union Berlin",
     "away_goals": 1,
@@ -883,6 +2257,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/union-berlin-pzHW4oaE/?mid=W8POmodf"
+  },
+  "WMMz1tkK": {
+    "away": "Greuther Furth",
+    "away_goals": 4,
+    "date": "2011-08-26",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "WMMz1tkK",
+    "source": "flashscore",
+    "source_status": "26.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/greuther-furth-CCQGbik8/?mid=WMMz1tkK"
   },
   "WO77k7Rs": {
     "away": "Paderborn",
@@ -914,6 +2300,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/munich-1860-byXHwsJa/?mid=WfdDylcr"
   },
+  "WrtS1ScL": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2011-12-04",
+    "home": "Alemannia Aachen",
+    "home_goals": 2,
+    "id": "WrtS1ScL",
+    "source": "flashscore",
+    "source_status": "04.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/munich-1860-byXHwsJa/?mid=WrtS1ScL"
+  },
   "WvEUZRRf": {
     "away": "Dusseldorf",
     "away_goals": 1,
@@ -928,6 +2326,30 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/greuther-furth-CCQGbik8/?mid=WvEUZRRf"
+  },
+  "WvYGs76k": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2011-11-27",
+    "home": "Braunschweig",
+    "home_goals": 4,
+    "id": "WvYGs76k",
+    "source": "flashscore",
+    "source_status": "27.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/braunschweig-QqLCC3il/?mid=WvYGs76k"
+  },
+  "Wx1gVcII": {
+    "away": "Alemannia Aachen",
+    "away_goals": 1,
+    "date": "2012-02-10",
+    "home": "Cottbus",
+    "home_goals": 1,
+    "id": "Wx1gVcII",
+    "source": "flashscore",
+    "source_status": "10.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/energie-cottbus-6g44VD52/?mid=Wx1gVcII"
   },
   "WxteB21j": {
     "away": "Karlsruher SC",
@@ -944,6 +2366,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/regensburg-UiCmEP56/?mid=WxteB21j"
   },
+  "Y1ThmxwB": {
+    "away": "Dusseldorf",
+    "away_goals": 0,
+    "date": "2011-11-19",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "Y1ThmxwB",
+    "source": "flashscore",
+    "source_status": "19.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/union-berlin-pzHW4oaE/?mid=Y1ThmxwB"
+  },
+  "Y5HyvJs7": {
+    "away": "Alemannia Aachen",
+    "away_goals": 0,
+    "date": "2011-08-19",
+    "home": "Hansa Rostock",
+    "home_goals": 0,
+    "id": "Y5HyvJs7",
+    "source": "flashscore",
+    "source_status": "19.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/hansa-rostock-KIHmtCkL/?mid=Y5HyvJs7"
+  },
+  "Y9JdTeUs": {
+    "away": "Alemannia Aachen",
+    "away_goals": 1,
+    "date": "2011-10-16",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "Y9JdTeUs",
+    "source": "flashscore",
+    "source_status": "16.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/dresden-zL1YsOi1/?mid=Y9JdTeUs"
+  },
+  "YFQdP1fg": {
+    "away": "Braunschweig",
+    "away_goals": 3,
+    "date": "2011-10-31",
+    "home": "Greuther Furth",
+    "home_goals": 1,
+    "id": "YFQdP1fg",
+    "source": "flashscore",
+    "source_status": "31.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/greuther-furth-CCQGbik8/?mid=YFQdP1fg"
+  },
+  "YHBykb8b": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2011-11-20",
+    "home": "Greuther Furth",
+    "home_goals": 4,
+    "id": "YHBykb8b",
+    "source": "flashscore",
+    "source_status": "20.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/greuther-furth-CCQGbik8/?mid=YHBykb8b"
+  },
   "YHiksJT3": {
     "away": "Karlsruher SC",
     "away_goals": 1,
@@ -958,6 +2440,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/karlsruher-EB3q7jbk/?mid=YHiksJT3"
+  },
+  "YT9szpyF": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2011-08-15",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 1,
+    "id": "YT9szpyF",
+    "source": "flashscore",
+    "source_status": "15.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/eintracht-frankfurt-8vndvXTk/?mid=YT9szpyF"
   },
   "YTVhn2GO": {
     "away": "Cottbus",
@@ -974,6 +2468,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/st-pauli-ILyJuN3g/?mid=YTVhn2GO"
   },
+  "YXHbZI8B": {
+    "away": "Bochum",
+    "away_goals": 3,
+    "date": "2011-11-05",
+    "home": "Munich 1860",
+    "home_goals": 1,
+    "id": "YXHbZI8B",
+    "source": "flashscore",
+    "source_status": "05.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/munich-1860-byXHwsJa/?mid=YXHbZI8B"
+  },
+  "YZ6rKRoA": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2011-09-23",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "YZ6rKRoA",
+    "source": "flashscore",
+    "source_status": "23.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/fsv-frankfurt-CG1hDqLC/?mid=YZ6rKRoA"
+  },
+  "YcLyl35E": {
+    "away": "Duisburg",
+    "away_goals": 1,
+    "date": "2011-08-22",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "YcLyl35E",
+    "source": "flashscore",
+    "source_status": "22.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/st-pauli-ILyJuN3g/?mid=YcLyl35E"
+  },
+  "YiblWU8T": {
+    "away": "St. Pauli",
+    "away_goals": 1,
+    "date": "2012-02-17",
+    "home": "Duisburg",
+    "home_goals": 0,
+    "id": "YiblWU8T",
+    "source": "flashscore",
+    "source_status": "17.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/st-pauli-ILyJuN3g/?mid=YiblWU8T"
+  },
+  "Ym0syuva": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2011-11-06",
+    "home": "Cottbus",
+    "home_goals": 0,
+    "id": "Ym0syuva",
+    "source": "flashscore",
+    "source_status": "06.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/paderborn-G2Op923t/?mid=Ym0syuva"
+  },
   "YmhceFmL": {
     "away": "Braunschweig",
     "away_goals": 1,
@@ -988,6 +2542,30 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/energie-cottbus-6g44VD52/?mid=YmhceFmL"
+  },
+  "YuYgn7uo": {
+    "away": "Paderborn",
+    "away_goals": 4,
+    "date": "2011-09-18",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "YuYgn7uo",
+    "source": "flashscore",
+    "source_status": "18.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/paderborn-G2Op923t/?mid=YuYgn7uo"
+  },
+  "YybcpzNT": {
+    "away": "St. Pauli",
+    "away_goals": 3,
+    "date": "2011-11-19",
+    "home": "Hansa Rostock",
+    "home_goals": 1,
+    "id": "YybcpzNT",
+    "source": "flashscore",
+    "source_status": "19.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/st-pauli-ILyJuN3g/?mid=YybcpzNT"
   },
   "b1rjKnS7": {
     "away": "Ingolstadt",
@@ -1019,6 +2597,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/?mid=b7oiUupb"
   },
+  "bHEVMT1i": {
+    "away": "Cottbus",
+    "away_goals": 2,
+    "date": "2011-09-24",
+    "home": "Dusseldorf",
+    "home_goals": 4,
+    "id": "bHEVMT1i",
+    "source": "flashscore",
+    "source_status": "24.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/energie-cottbus-6g44VD52/?mid=bHEVMT1i"
+  },
+  "bHdhHOqq": {
+    "away": "Munich 1860",
+    "away_goals": 5,
+    "date": "2011-08-06",
+    "home": "Cottbus",
+    "home_goals": 0,
+    "id": "bHdhHOqq",
+    "source": "flashscore",
+    "source_status": "06.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/munich-1860-byXHwsJa/?mid=bHdhHOqq"
+  },
+  "bP2oXJm6": {
+    "away": "Paderborn",
+    "away_goals": 1,
+    "date": "2012-02-12",
+    "home": "Greuther Furth",
+    "home_goals": 5,
+    "id": "bP2oXJm6",
+    "source": "flashscore",
+    "source_status": "12.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/paderborn-G2Op923t/?mid=bP2oXJm6"
+  },
+  "bTrIGRCE": {
+    "away": "Cottbus",
+    "away_goals": 1,
+    "date": "2011-12-11",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 2,
+    "id": "bTrIGRCE",
+    "source": "flashscore",
+    "source_status": "11.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/energie-cottbus-6g44VD52/?mid=bTrIGRCE"
+  },
   "bVapbH32": {
     "away": "Hansa Rostock",
     "away_goals": 2,
@@ -1033,6 +2659,105 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/hansa-rostock-KIHmtCkL/?mid=bVapbH32"
+  },
+  "buoUYuJg": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2012-02-03",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 3,
+    "id": "buoUYuJg",
+    "source": "flashscore",
+    "source_status": "03.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/greuther-furth-CCQGbik8/?mid=buoUYuJg"
+  },
+  "byJdQyHu": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2011-07-15",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "byJdQyHu",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "15.07.2011",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/union-berlin-pzHW4oaE/?mid=byJdQyHu"
+  },
+  "dKYjpbZ2": {
+    "away": "Duisburg",
+    "away_goals": 0,
+    "date": "2012-02-24",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 2,
+    "id": "dKYjpbZ2",
+    "source": "flashscore",
+    "source_status": "24.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/duisburg-2s7huW4R/?mid=dKYjpbZ2"
+  },
+  "dKtSjmXT": {
+    "away": "Hansa Rostock",
+    "away_goals": 1,
+    "date": "2011-09-16",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 4,
+    "id": "dKtSjmXT",
+    "source": "flashscore",
+    "source_status": "16.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/hansa-rostock-KIHmtCkL/?mid=dKtSjmXT"
+  },
+  "dbgW0e7A": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 1,
+    "date": "2011-11-26",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "dbgW0e7A",
+    "source": "flashscore",
+    "source_status": "26.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/munich-1860-byXHwsJa/?mid=dbgW0e7A"
+  },
+  "dpdTpOaF": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2011-10-14",
+    "home": "Hansa Rostock",
+    "home_goals": 2,
+    "id": "dpdTpOaF",
+    "source": "flashscore",
+    "source_status": "14.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/hansa-rostock-KIHmtCkL/munich-1860-byXHwsJa/?mid=dpdTpOaF"
+  },
+  "f1apXAgN": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2012-02-20",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "f1apXAgN",
+    "source": "flashscore",
+    "source_status": "20.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/braunschweig-QqLCC3il/?mid=f1apXAgN"
+  },
+  "f7MXlqj8": {
+    "away": "Union Berlin",
+    "away_goals": 0,
+    "date": "2011-08-12",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 4,
+    "id": "f7MXlqj8",
+    "source": "flashscore",
+    "source_status": "12.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/union-berlin-pzHW4oaE/?mid=f7MXlqj8"
   },
   "f9oZNUSr": {
     "away": "Hansa Rostock",
@@ -1064,6 +2789,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/greuther-furth-CCQGbik8/?mid=fDgprjKE"
   },
+  "fFfc35Fq": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2011-07-23",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "fFfc35Fq",
+    "source": "flashscore",
+    "source_status": "23.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/munich-1860-byXHwsJa/?mid=fFfc35Fq"
+  },
+  "fN0jJ0J6": {
+    "away": "Hansa Rostock",
+    "away_goals": 1,
+    "date": "2012-02-05",
+    "home": "Bochum",
+    "home_goals": 2,
+    "id": "fN0jJ0J6",
+    "source": "flashscore",
+    "source_status": "05.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/hansa-rostock-KIHmtCkL/?mid=fN0jJ0J6"
+  },
+  "fRCXkvgh": {
+    "away": "Cottbus",
+    "away_goals": 1,
+    "date": "2011-11-21",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "fRCXkvgh",
+    "source": "flashscore",
+    "source_status": "21.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/energie-cottbus-6g44VD52/?mid=fRCXkvgh"
+  },
+  "fVAvoUNM": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2012-02-25",
+    "home": "Cottbus",
+    "home_goals": 2,
+    "id": "fVAvoUNM",
+    "source": "flashscore",
+    "source_status": "25.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/energie-cottbus-6g44VD52/?mid=fVAvoUNM"
+  },
   "fcggdeYE": {
     "away": "Alemannia Aachen",
     "away_goals": 0,
@@ -1078,6 +2851,30 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/greuther-furth-CCQGbik8/?mid=fcggdeYE"
+  },
+  "fexRE5sR": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2011-12-10",
+    "home": "Union Berlin",
+    "home_goals": 4,
+    "id": "fexRE5sR",
+    "source": "flashscore",
+    "source_status": "10.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/union-berlin-pzHW4oaE/?mid=fexRE5sR"
+  },
+  "fq8vL7W3": {
+    "away": "Ingolstadt",
+    "away_goals": 1,
+    "date": "2011-09-23",
+    "home": "Paderborn",
+    "home_goals": 4,
+    "id": "fq8vL7W3",
+    "source": "flashscore",
+    "source_status": "23.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/paderborn-G2Op923t/?mid=fq8vL7W3"
   },
   "fwXlmr1I": {
     "away": "FSV Frankfurt",
@@ -1094,6 +2891,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/fsv-frankfurt-CG1hDqLC/?mid=fwXlmr1I"
   },
+  "h6dF4w8o": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 1,
+    "date": "2011-11-27",
+    "home": "St. Pauli",
+    "home_goals": 3,
+    "id": "h6dF4w8o",
+    "source": "flashscore",
+    "source_status": "27.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/st-pauli-ILyJuN3g/?mid=h6dF4w8o"
+  },
+  "hCqcVr0S": {
+    "away": "Dusseldorf",
+    "away_goals": 3,
+    "date": "2011-10-17",
+    "home": "St. Pauli",
+    "home_goals": 1,
+    "id": "hCqcVr0S",
+    "source": "flashscore",
+    "source_status": "17.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/st-pauli-ILyJuN3g/?mid=hCqcVr0S"
+  },
+  "hM02di3h": {
+    "away": "Karlsruher SC",
+    "away_goals": 2,
+    "date": "2011-09-10",
+    "home": "Dusseldorf",
+    "home_goals": 4,
+    "id": "hM02di3h",
+    "source": "flashscore",
+    "source_status": "10.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/karlsruher-EB3q7jbk/?mid=hM02di3h"
+  },
   "hM0DE0pB": {
     "away": "Union Berlin",
     "away_goals": 0,
@@ -1109,6 +2942,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/union-berlin-pzHW4oaE/?mid=hM0DE0pB"
   },
+  "hrY2HPVS": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2011-09-30",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 3,
+    "id": "hrY2HPVS",
+    "source": "flashscore",
+    "source_status": "30.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/union-berlin-pzHW4oaE/?mid=hrY2HPVS"
+  },
+  "hrrMz2ls": {
+    "away": "Dusseldorf",
+    "away_goals": 1,
+    "date": "2012-02-04",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "hrrMz2ls",
+    "source": "flashscore",
+    "source_status": "04.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/ingolstadt-ne5QkLtB/?mid=hrrMz2ls"
+  },
+  "hxuLQ8Wj": {
+    "away": "Hansa Rostock",
+    "away_goals": 0,
+    "date": "2012-02-19",
+    "home": "Alemannia Aachen",
+    "home_goals": 0,
+    "id": "hxuLQ8Wj",
+    "source": "flashscore",
+    "source_status": "19.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/hansa-rostock-KIHmtCkL/?mid=hxuLQ8Wj"
+  },
+  "hzKPL4yS": {
+    "away": "Karlsruher SC",
+    "away_goals": 2,
+    "date": "2011-08-07",
+    "home": "Aue",
+    "home_goals": 0,
+    "id": "hzKPL4yS",
+    "source": "flashscore",
+    "source_status": "07.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/karlsruher-EB3q7jbk/?mid=hzKPL4yS"
+  },
   "jDdtkDQl": {
     "away": "Bochum",
     "away_goals": 0,
@@ -1123,6 +3004,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/paderborn-G2Op923t/?mid=jDdtkDQl"
+  },
+  "jZFtmNKK": {
+    "away": "Ingolstadt",
+    "away_goals": 0,
+    "date": "2011-08-19",
+    "home": "Greuther Furth",
+    "home_goals": 3,
+    "id": "jZFtmNKK",
+    "source": "flashscore",
+    "source_status": "19.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/ingolstadt-ne5QkLtB/?mid=jZFtmNKK"
   },
   "jiH5I20h": {
     "away": "Hansa Rostock",
@@ -1154,6 +3047,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/energie-cottbus-6g44VD52/?mid=jsYfqIl9"
   },
+  "jsl61qpd": {
+    "away": "Greuther Furth",
+    "away_goals": 4,
+    "date": "2011-07-23",
+    "home": "Union Berlin",
+    "home_goals": 0,
+    "id": "jsl61qpd",
+    "source": "flashscore",
+    "source_status": "23.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/union-berlin-pzHW4oaE/?mid=jsl61qpd"
+  },
   "l02ClRtl": {
     "away": "Bochum",
     "away_goals": 1,
@@ -1168,6 +3073,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/bochum-8Y2m6ADe/?mid=l02ClRtl"
+  },
+  "lETJg451": {
+    "away": "St. Pauli",
+    "away_goals": 0,
+    "date": "2011-12-11",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "lETJg451",
+    "source": "flashscore",
+    "source_status": "11.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ingolstadt-ne5QkLtB/st-pauli-ILyJuN3g/?mid=lETJg451"
   },
   "lGOPz8Cl": {
     "away": "Braunschweig",
@@ -1184,6 +3101,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/braunschweig-QqLCC3il/?mid=lGOPz8Cl"
   },
+  "lYkO2Hxb": {
+    "away": "Ingolstadt",
+    "away_goals": 0,
+    "date": "2011-11-27",
+    "home": "Cottbus",
+    "home_goals": 0,
+    "id": "lYkO2Hxb",
+    "source": "flashscore",
+    "source_status": "27.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/ingolstadt-ne5QkLtB/?mid=lYkO2Hxb"
+  },
+  "lbN05SWG": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2011-09-19",
+    "home": "Karlsruher SC",
+    "home_goals": 0,
+    "id": "lbN05SWG",
+    "source": "flashscore",
+    "source_status": "19.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/st-pauli-ILyJuN3g/?mid=lbN05SWG"
+  },
+  "lxWDxFPo": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 0,
+    "date": "2012-02-11",
+    "home": "Union Berlin",
+    "home_goals": 4,
+    "id": "lxWDxFPo",
+    "source": "flashscore",
+    "source_status": "11.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/union-berlin-pzHW4oaE/?mid=lxWDxFPo"
+  },
+  "n15gurtQ": {
+    "away": "Union Berlin",
+    "away_goals": 2,
+    "date": "2012-02-03",
+    "home": "Paderborn",
+    "home_goals": 3,
+    "id": "n15gurtQ",
+    "source": "flashscore",
+    "source_status": "03.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/paderborn-G2Op923t/union-berlin-pzHW4oaE/?mid=n15gurtQ"
+  },
+  "n19Pi0Ou": {
+    "away": "Union Berlin",
+    "away_goals": 2,
+    "date": "2011-11-04",
+    "home": "Braunschweig",
+    "home_goals": 1,
+    "id": "n19Pi0Ou",
+    "source": "flashscore",
+    "source_status": "04.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/union-berlin-pzHW4oaE/?mid=n19Pi0Ou"
+  },
+  "n51Cs1rr": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2011-08-19",
+    "home": "Dusseldorf",
+    "home_goals": 3,
+    "id": "n51Cs1rr",
+    "source": "flashscore",
+    "source_status": "19.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/munich-1860-byXHwsJa/?mid=n51Cs1rr"
+  },
   "n9R3sdJL": {
     "away": "FSV Frankfurt",
     "away_goals": 3,
@@ -1199,6 +3188,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/fsv-frankfurt-CG1hDqLC/?mid=n9R3sdJL"
   },
+  "nTkJwnGd": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2012-02-26",
+    "home": "FSV Frankfurt",
+    "home_goals": 2,
+    "id": "nTkJwnGd",
+    "source": "flashscore",
+    "source_status": "26.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/karlsruher-EB3q7jbk/?mid=nTkJwnGd"
+  },
+  "nTwg9Unb": {
+    "away": "FSV Frankfurt",
+    "away_goals": 0,
+    "date": "2011-09-18",
+    "home": "Munich 1860",
+    "home_goals": 4,
+    "id": "nTwg9Unb",
+    "source": "flashscore",
+    "source_status": "18.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/munich-1860-byXHwsJa/?mid=nTwg9Unb"
+  },
+  "nXDoZ3jL": {
+    "away": "St. Pauli",
+    "away_goals": 2,
+    "date": "2011-08-12",
+    "home": "Bochum",
+    "home_goals": 1,
+    "id": "nXDoZ3jL",
+    "source": "flashscore",
+    "source_status": "12.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/?mid=nXDoZ3jL"
+  },
+  "nccrLMlf": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 2,
+    "date": "2011-12-18",
+    "home": "Hansa Rostock",
+    "home_goals": 2,
+    "id": "nccrLMlf",
+    "source": "flashscore",
+    "source_status": "18.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/hansa-rostock-KIHmtCkL/?mid=nccrLMlf"
+  },
+  "nkJTuuDf": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 4,
+    "date": "2011-08-21",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "nkJTuuDf",
+    "source": "flashscore",
+    "source_status": "21.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/fsv-frankfurt-CG1hDqLC/?mid=nkJTuuDf"
+  },
   "nq0HDKaH": {
     "away": "Paderborn",
     "away_goals": 0,
@@ -1213,6 +3262,30 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/paderborn-G2Op923t/?mid=nq0HDKaH"
+  },
+  "p4uQKw9O": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 1,
+    "date": "2011-10-30",
+    "home": "Ingolstadt",
+    "home_goals": 1,
+    "id": "p4uQKw9O",
+    "source": "flashscore",
+    "source_status": "30.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/ingolstadt-ne5QkLtB/?mid=p4uQKw9O"
+  },
+  "p4yPQ28q": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 2,
+    "date": "2011-10-14",
+    "home": "Bochum",
+    "home_goals": 0,
+    "id": "p4yPQ28q",
+    "source": "flashscore",
+    "source_status": "14.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/eintracht-frankfurt-8vndvXTk/?mid=p4yPQ28q"
   },
   "pKuh7Ixo": {
     "away": "Eintracht Frankfurt",
@@ -1244,6 +3317,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/hansa-rostock-KIHmtCkL/?mid=pOqaSJEA"
   },
+  "pSwG4UD2": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2011-12-04",
+    "home": "Bochum",
+    "home_goals": 6,
+    "id": "pSwG4UD2",
+    "source": "flashscore",
+    "source_status": "04.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/bochum-8Y2m6ADe/?mid=pSwG4UD2"
+  },
+  "pU2BfvSm": {
+    "away": "Union Berlin",
+    "away_goals": 1,
+    "date": "2011-08-28",
+    "home": "Munich 1860",
+    "home_goals": 3,
+    "id": "pU2BfvSm",
+    "source": "flashscore",
+    "source_status": "28.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/union-berlin-pzHW4oaE/?mid=pU2BfvSm"
+  },
+  "pYb4EMT1": {
+    "away": "Duisburg",
+    "away_goals": 0,
+    "date": "2011-08-07",
+    "home": "FSV Frankfurt",
+    "home_goals": 0,
+    "id": "pYb4EMT1",
+    "source": "flashscore",
+    "source_status": "07.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/fsv-frankfurt-CG1hDqLC/?mid=pYb4EMT1"
+  },
   "pbvnLSC1": {
     "away": "Union Berlin",
     "away_goals": 1,
@@ -1259,6 +3368,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/union-berlin-pzHW4oaE/?mid=pbvnLSC1"
   },
+  "phH4OFoh": {
+    "away": "Munich 1860",
+    "away_goals": 1,
+    "date": "2011-07-17",
+    "home": "Braunschweig",
+    "home_goals": 3,
+    "id": "phH4OFoh",
+    "source": "flashscore",
+    "source_status": "17.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/?mid=phH4OFoh"
+  },
+  "phoDRZbf": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2011-10-23",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "phoDRZbf",
+    "source": "flashscore",
+    "source_status": "23.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/st-pauli-ILyJuN3g/?mid=phoDRZbf"
+  },
   "rBgQBbUT": {
     "away": "Cottbus",
     "away_goals": 0,
@@ -1273,6 +3406,42 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/greuther-furth-CCQGbik8/?mid=rBgQBbUT"
+  },
+  "rFTMDVno": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 1,
+    "date": "2012-02-13",
+    "home": "Dusseldorf",
+    "home_goals": 1,
+    "id": "rFTMDVno",
+    "source": "flashscore",
+    "source_status": "13.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/eintracht-frankfurt-8vndvXTk/?mid=rFTMDVno"
+  },
+  "rJXTYWOA": {
+    "away": "FSV Frankfurt",
+    "away_goals": 1,
+    "date": "2012-02-18",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 6,
+    "id": "rJXTYWOA",
+    "source": "flashscore",
+    "source_status": "18.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/fsv-frankfurt-CG1hDqLC/?mid=rJXTYWOA"
+  },
+  "rLM44nnN": {
+    "away": "Cottbus",
+    "away_goals": 1,
+    "date": "2011-09-17",
+    "home": "Braunschweig",
+    "home_goals": 3,
+    "id": "rLM44nnN",
+    "source": "flashscore",
+    "source_status": "17.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/energie-cottbus-6g44VD52/?mid=rLM44nnN"
   },
   "rPUjzEBe": {
     "away": "Union Berlin",
@@ -1304,6 +3473,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/fsv-frankfurt-CG1hDqLC/?mid=rRDcKOVu"
   },
+  "ra7Uwsft": {
+    "away": "Karlsruher SC",
+    "away_goals": 1,
+    "date": "2011-10-29",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 5,
+    "id": "ra7Uwsft",
+    "source": "flashscore",
+    "source_status": "29.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/karlsruher-EB3q7jbk/?mid=ra7Uwsft"
+  },
+  "reRMgkmB": {
+    "away": "Aue",
+    "away_goals": 1,
+    "date": "2011-09-11",
+    "home": "FSV Frankfurt",
+    "home_goals": 1,
+    "id": "reRMgkmB",
+    "source": "flashscore",
+    "source_status": "11.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/fsv-frankfurt-CG1hDqLC/?mid=reRMgkmB"
+  },
+  "riVTZ6oc": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 4,
+    "date": "2011-10-02",
+    "home": "Munich 1860",
+    "home_goals": 2,
+    "id": "riVTZ6oc",
+    "source": "flashscore",
+    "source_status": "02.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dresden-zL1YsOi1/munich-1860-byXHwsJa/?mid=riVTZ6oc"
+  },
+  "rmHYRLre": {
+    "away": "Greuther Furth",
+    "away_goals": 1,
+    "date": "2011-08-13",
+    "home": "Paderborn",
+    "home_goals": 0,
+    "id": "rmHYRLre",
+    "source": "flashscore",
+    "source_status": "13.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/paderborn-G2Op923t/?mid=rmHYRLre"
+  },
+  "rmqOnjgA": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2012-02-26",
+    "home": "St. Pauli",
+    "home_goals": 0,
+    "id": "rmqOnjgA",
+    "source": "flashscore",
+    "source_status": "26.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/st-pauli-ILyJuN3g/?mid=rmqOnjgA"
+  },
   "roCH7nYJ": {
     "away": "Ingolstadt",
     "away_goals": 1,
@@ -1318,6 +3547,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/ingolstadt-ne5QkLtB/?mid=roCH7nYJ"
+  },
+  "t0WwjGtJ": {
+    "away": "Munich 1860",
+    "away_goals": 2,
+    "date": "2011-09-11",
+    "home": "St. Pauli",
+    "home_goals": 4,
+    "id": "t0WwjGtJ",
+    "source": "flashscore",
+    "source_status": "11.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/munich-1860-byXHwsJa/st-pauli-ILyJuN3g/?mid=t0WwjGtJ"
   },
   "tAmfZXQ1": {
     "away": "Dusseldorf",
@@ -1334,6 +3575,33 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/karlsruher-EB3q7jbk/?mid=tAmfZXQ1"
   },
+  "tCvYNozC": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 3,
+    "date": "2011-07-15",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "tCvYNozC",
+    "shots": {},
+    "source": "flashscore",
+    "source_status": "15.07.2011",
+    "statistics": [],
+    "statistics_status": "unavailable",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/eintracht-frankfurt-8vndvXTk/greuther-furth-CCQGbik8/?mid=tCvYNozC"
+  },
+  "tKdnKt40": {
+    "away": "Braunschweig",
+    "away_goals": 1,
+    "date": "2012-02-05",
+    "home": "Eintracht Frankfurt",
+    "home_goals": 2,
+    "id": "tKdnKt40",
+    "source": "flashscore",
+    "source_status": "05.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/eintracht-frankfurt-8vndvXTk/?mid=tKdnKt40"
+  },
   "tMih1pBm": {
     "away": "Union Berlin",
     "away_goals": 1,
@@ -1348,6 +3616,54 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/st-pauli-ILyJuN3g/union-berlin-pzHW4oaE/?mid=tMih1pBm"
+  },
+  "td2ubpPj": {
+    "away": "Munich 1860",
+    "away_goals": 0,
+    "date": "2011-09-25",
+    "home": "Greuther Furth",
+    "home_goals": 2,
+    "id": "td2ubpPj",
+    "source": "flashscore",
+    "source_status": "25.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/munich-1860-byXHwsJa/?mid=td2ubpPj"
+  },
+  "thh9NQ6F": {
+    "away": "Alemannia Aachen",
+    "away_goals": 1,
+    "date": "2011-08-05",
+    "home": "St. Pauli",
+    "home_goals": 3,
+    "id": "thh9NQ6F",
+    "source": "flashscore",
+    "source_status": "05.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/st-pauli-ILyJuN3g/?mid=thh9NQ6F"
+  },
+  "tjL2rNoP": {
+    "away": "Cottbus",
+    "away_goals": 1,
+    "date": "2011-10-28",
+    "home": "Hansa Rostock",
+    "home_goals": 1,
+    "id": "tjL2rNoP",
+    "source": "flashscore",
+    "source_status": "28.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/energie-cottbus-6g44VD52/hansa-rostock-KIHmtCkL/?mid=tjL2rNoP"
+  },
+  "tl8tYaYa": {
+    "away": "Bochum",
+    "away_goals": 1,
+    "date": "2012-02-12",
+    "home": "St. Pauli",
+    "home_goals": 2,
+    "id": "tl8tYaYa",
+    "source": "flashscore",
+    "source_status": "12.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/st-pauli-ILyJuN3g/?mid=tl8tYaYa"
   },
   "tvmnLy7p": {
     "away": "St. Pauli",
@@ -1364,6 +3680,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/greuther-furth-CCQGbik8/st-pauli-ILyJuN3g/?mid=tvmnLy7p"
   },
+  "v1Zj8q5l": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2011-12-09",
+    "home": "Munich 1860",
+    "home_goals": 3,
+    "id": "v1Zj8q5l",
+    "source": "flashscore",
+    "source_status": "09.12.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/munich-1860-byXHwsJa/?mid=v1Zj8q5l"
+  },
+  "v3zoBjIo": {
+    "away": "Dusseldorf",
+    "away_goals": 4,
+    "date": "2011-09-16",
+    "home": "Aue",
+    "home_goals": 2,
+    "id": "v3zoBjIo",
+    "source": "flashscore",
+    "source_status": "16.09.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dusseldorf-ne1oL3y7/?mid=v3zoBjIo"
+  },
   "v5HxY5d7": {
     "away": "Karlsruher SC",
     "away_goals": 0,
@@ -1378,6 +3718,42 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/karlsruher-EB3q7jbk/?mid=v5HxY5d7"
+  },
+  "v7AwyQL8": {
+    "away": "Bochum",
+    "away_goals": 0,
+    "date": "2011-08-08",
+    "home": "Hansa Rostock",
+    "home_goals": 0,
+    "id": "v7AwyQL8",
+    "source": "flashscore",
+    "source_status": "08.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bochum-8Y2m6ADe/hansa-rostock-KIHmtCkL/?mid=v7AwyQL8"
+  },
+  "v7Gr0FMG": {
+    "away": "Paderborn",
+    "away_goals": 2,
+    "date": "2011-11-25",
+    "home": "FSV Frankfurt",
+    "home_goals": 2,
+    "id": "v7Gr0FMG",
+    "source": "flashscore",
+    "source_status": "25.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/fsv-frankfurt-CG1hDqLC/paderborn-G2Op923t/?mid=v7Gr0FMG"
+  },
+  "vR0wxLOh": {
+    "away": "Eintracht Frankfurt",
+    "away_goals": 2,
+    "date": "2011-11-07",
+    "home": "Aue",
+    "home_goals": 1,
+    "id": "vR0wxLOh",
+    "source": "flashscore",
+    "source_status": "07.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/eintracht-frankfurt-8vndvXTk/?mid=vR0wxLOh"
   },
   "vZSWoPQ6": {
     "away": "Alemannia Aachen",
@@ -1439,6 +3815,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/karlsruher-EB3q7jbk/st-pauli-ILyJuN3g/?mid=xMblcyJ8"
   },
+  "xSH0PeWo": {
+    "away": "Duisburg",
+    "away_goals": 2,
+    "date": "2011-07-17",
+    "home": "Karlsruher SC",
+    "home_goals": 3,
+    "id": "xSH0PeWo",
+    "source": "flashscore",
+    "source_status": "17.07.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/karlsruher-EB3q7jbk/?mid=xSH0PeWo"
+  },
   "xUflmie1": {
     "away": "Eintracht Frankfurt",
     "away_goals": 5,
@@ -1469,6 +3857,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/ingolstadt-ne5QkLtB/?mid=xbpeTaa4"
   },
+  "xf0qplwT": {
+    "away": "Alemannia Aachen",
+    "away_goals": 0,
+    "date": "2012-02-27",
+    "home": "Dusseldorf",
+    "home_goals": 0,
+    "id": "xf0qplwT",
+    "source": "flashscore",
+    "source_status": "27.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/dusseldorf-ne1oL3y7/?mid=xf0qplwT"
+  },
+  "xlXmRNPt": {
+    "away": "SG Dynamo Dresden",
+    "away_goals": 2,
+    "date": "2011-10-22",
+    "home": "Braunschweig",
+    "home_goals": 0,
+    "id": "xlXmRNPt",
+    "source": "flashscore",
+    "source_status": "22.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/dresden-zL1YsOi1/?mid=xlXmRNPt"
+  },
+  "xnAsQaD7": {
+    "away": "Braunschweig",
+    "away_goals": 3,
+    "date": "2011-08-12",
+    "home": "Karlsruher SC",
+    "home_goals": 1,
+    "id": "xnAsQaD7",
+    "source": "flashscore",
+    "source_status": "12.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/karlsruher-EB3q7jbk/?mid=xnAsQaD7"
+  },
+  "xnjeIKYC": {
+    "away": "FSV Frankfurt",
+    "away_goals": 2,
+    "date": "2012-02-03",
+    "home": "Duisburg",
+    "home_goals": 1,
+    "id": "xnjeIKYC",
+    "source": "flashscore",
+    "source_status": "03.02.2012",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/duisburg-2s7huW4R/fsv-frankfurt-CG1hDqLC/?mid=xnjeIKYC"
+  },
+  "xrtSnpV2": {
+    "away": "Braunschweig",
+    "away_goals": 0,
+    "date": "2011-10-14",
+    "home": "Paderborn",
+    "home_goals": 1,
+    "id": "xrtSnpV2",
+    "source": "flashscore",
+    "source_status": "14.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/paderborn-G2Op923t/?mid=xrtSnpV2"
+  },
   "z7fPGOwT": {
     "away": "Dusseldorf",
     "away_goals": 2,
@@ -1483,6 +3931,18 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/hertha-berlin-2y0u8Wrq/?mid=z7fPGOwT"
+  },
+  "zNDQTsEr": {
+    "away": "Aue",
+    "away_goals": 0,
+    "date": "2011-08-14",
+    "home": "Munich 1860",
+    "home_goals": 4,
+    "id": "zNDQTsEr",
+    "source": "flashscore",
+    "source_status": "14.08.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/munich-1860-byXHwsJa/?mid=zNDQTsEr"
   },
   "zPAssAZK": {
     "away": "Paderborn",
@@ -1544,6 +4004,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/st-pauli-ILyJuN3g/?mid=zo0mAE2E"
   },
+  "zopPufVp": {
+    "away": "Aue",
+    "away_goals": 2,
+    "date": "2011-11-20",
+    "home": "SG Dynamo Dresden",
+    "home_goals": 1,
+    "id": "zopPufVp",
+    "source": "flashscore",
+    "source_status": "20.11.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/dresden-zL1YsOi1/?mid=zopPufVp"
+  },
   "zqid04Qg": {
     "away": "Paderborn",
     "away_goals": 2,
@@ -1558,5 +4030,17 @@
     "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/aue-vsXIDreP/paderborn-G2Op923t/?mid=zqid04Qg"
+  },
+  "zsvQOXrD": {
+    "away": "Hansa Rostock",
+    "away_goals": 0,
+    "date": "2011-10-21",
+    "home": "Dusseldorf",
+    "home_goals": 2,
+    "id": "zsvQOXrD",
+    "source": "flashscore",
+    "source_status": "21.10.2011",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/dusseldorf-ne1oL3y7/hansa-rostock-KIHmtCkL/?mid=zsvQOXrD"
   }
 }

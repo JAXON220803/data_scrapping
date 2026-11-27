@@ -9,11 +9,11 @@
       "reason": "Run request budget reached (20/20)",
       "requests": 20,
       "status": "paused_by_budget",
-      "target": "Germany/D2/2012-2013"
+      "target": "Germany/D2/2011-2012"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
-  "provider_fixture_records": 4415,
+  "provider_fixture_records": 4621,
   "provider_records_with_all_shots": 2286,
   "provider_records_with_statistics": 2290,
   "recovered_cells": 7248,
@@ -1153,14 +1153,14 @@
       "sources": {
         "flashscore": {
           "all_shot_values": 0,
-          "fixtures": 104,
-          "inventory_complete": false,
-          "inventory_shortfall": null,
+          "fixtures": 310,
+          "inventory_complete": true,
+          "inventory_shortfall": 0,
           "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "inventory",
+          "phase": "statistics",
           "reason": null,
           "statistics_available": 0,
-          "statistics_checked": 104
+          "statistics_checked": 108
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -1189,11 +1189,11 @@
           "fixtures": 308,
           "inventory_complete": true,
           "inventory_shortfall": 0,
-          "last_error": "Flashscore Show more returned HTTP 200 with empty archive payload (0)",
-          "phase": "statistics",
-          "reason": null,
+          "last_error": null,
+          "phase": "done",
+          "reason": "all_source_fixtures_checked",
           "statistics_available": 2,
-          "statistics_checked": 299
+          "statistics_checked": 308
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3816,9 +3816,9 @@
       }
     }
   ],
-  "source_tasks_done": 11,
+  "source_tasks_done": 12,
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-27T08:34:42.052544+00:00"
+  "updated_utc": "2026-11-27T08:40:51.985434+00:00"
 }
