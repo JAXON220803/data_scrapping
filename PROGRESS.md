@@ -4,7 +4,7 @@
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-27T09:27:51.870764+00:00
+Updated: 2026-11-27T09:33:47.764635+00:00
 
 - Whole league-seasons selected: 115
 - Provider season tasks completed: 12/230
@@ -49,7 +49,7 @@ Updated: 2026-11-27T09:27:51.870764+00:00
 | France/F2/2022-2023 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2025-2026 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | Germany/D2/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 304 | 0.00% |
-| Germany/D2/2011-2012 | 0 / 0 / 0 | 310 / 268 / 0 | 306 | 0.00% |
+| Germany/D2/2011-2012 | 0 / 0 / 0 | 310 / 288 / 0 | 306 | 0.00% |
 | Germany/D2/2012-2013 | 0 / 0 / 0 | 308 / 308 / 2 | 306 | 0.00% |
 | Germany/D2/2013-2014 | 0 / 0 / 0 | 308 / 308 / 303 | 98 | 67.97% |
 | Germany/D2/2014-2015 | 0 / 0 / 0 | 308 / 308 / 308 | 66 | 78.43% |
