@@ -1,4 +1,28 @@
 {
+  "02eQb1Pm": {
+    "away": "Red Star",
+    "away_goals": 0,
+    "date": "2016-09-30",
+    "home": "Lens",
+    "home_goals": 2,
+    "id": "02eQb1Pm",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/red-star-2kM6ufaS/?mid=02eQb1Pm"
+  },
+  "06iAyYRM": {
+    "away": "Reims",
+    "away_goals": 1,
+    "date": "2016-09-16",
+    "home": "Sochaux",
+    "home_goals": 1,
+    "id": "06iAyYRM",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/sochaux-jPojkLXK/?mid=06iAyYRM"
+  },
   "0A5StEoC": {
     "away": "Le Havre",
     "away_goals": 4,
@@ -60,6 +84,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/tours-lrpZ4Lr7/summary/stats/?mid=0A5StEoC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/tours-lrpZ4Lr7/?mid=0A5StEoC"
+  },
+  "0MNBAbOa": {
+    "away": "Tours",
+    "away_goals": 0,
+    "date": "2016-10-14",
+    "home": "Orleans",
+    "home_goals": 0,
+    "id": "0MNBAbOa",
+    "source": "flashscore",
+    "source_status": "14.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/tours-lrpZ4Lr7/?mid=0MNBAbOa"
+  },
+  "0OOFhQ2E": {
+    "away": "Laval",
+    "away_goals": 0,
+    "date": "2016-09-23",
+    "home": "Bourg en Bresse",
+    "home_goals": 0,
+    "id": "0OOFhQ2E",
+    "source": "flashscore",
+    "source_status": "23.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/laval-E1wDrLsJ/?mid=0OOFhQ2E"
+  },
+  "0QBf1uTe": {
+    "away": "Valenciennes",
+    "away_goals": 0,
+    "date": "2016-08-05",
+    "home": "Sochaux",
+    "home_goals": 0,
+    "id": "0QBf1uTe",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/valenciennes-O8dsB372/?mid=0QBf1uTe"
   },
   "0Qo5wuuK": {
     "away": "Troyes",
@@ -185,6 +245,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/red-star-2kM6ufaS/?mid=0U16Iw3f"
   },
+  "0bLxvt6B": {
+    "away": "Orleans",
+    "away_goals": 0,
+    "date": "2016-11-29",
+    "home": "Red Star",
+    "home_goals": 1,
+    "id": "0bLxvt6B",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/red-star-2kM6ufaS/?mid=0bLxvt6B"
+  },
+  "0n72qMP0": {
+    "away": "Tours",
+    "away_goals": 1,
+    "date": "2016-09-23",
+    "home": "Troyes",
+    "home_goals": 3,
+    "id": "0n72qMP0",
+    "source": "flashscore",
+    "source_status": "23.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/tours-lrpZ4Lr7/troyes-fsfAHubD/?mid=0n72qMP0"
+  },
   "0nNujIOP": {
     "away": "Brest",
     "away_goals": 2,
@@ -246,6 +330,248 @@
     "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/brest-Cr4VGaUl/summary/stats/?mid=0nNujIOP",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/brest-Cr4VGaUl/?mid=0nNujIOP"
+  },
+  "0tngNy85": {
+    "away": "Sochaux",
+    "away_goals": 0,
+    "date": "2016-10-21",
+    "home": "Nimes",
+    "home_goals": 0,
+    "id": "0tngNy85",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/sochaux-jPojkLXK/?mid=0tngNy85"
+  },
+  "0xC52GlT": {
+    "away": "Troyes",
+    "away_goals": 0,
+    "date": "2016-12-19",
+    "home": "Reims",
+    "home_goals": 2,
+    "id": "0xC52GlT",
+    "source": "flashscore",
+    "source_status": "19.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/troyes-fsfAHubD/?mid=0xC52GlT"
+  },
+  "0zs2KpGi": {
+    "away": "Tours",
+    "away_goals": 2,
+    "date": "2017-02-17",
+    "home": "Bourg en Bresse",
+    "home_goals": 3,
+    "id": "0zs2KpGi",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/tours-lrpZ4Lr7/?mid=0zs2KpGi"
+  },
+  "25IURA1d": {
+    "away": "Sochaux",
+    "away_goals": 1,
+    "date": "2017-01-16",
+    "home": "Valenciennes",
+    "home_goals": 2,
+    "id": "25IURA1d",
+    "source": "flashscore",
+    "source_status": "16.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/valenciennes-O8dsB372/?mid=25IURA1d"
+  },
+  "27col5CL": {
+    "away": "GFC Ajaccio",
+    "away_goals": 1,
+    "date": "2016-11-18",
+    "home": "Clermont",
+    "home_goals": 3,
+    "id": "27col5CL",
+    "source": "flashscore",
+    "source_status": "18.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/gfc-ajaccio-QZuxDxup/?mid=27col5CL"
+  },
+  "2Jc3tAGk": {
+    "away": "Valenciennes",
+    "away_goals": 0,
+    "date": "2017-01-20",
+    "home": "Reims",
+    "home_goals": 0,
+    "id": "2Jc3tAGk",
+    "source": "flashscore",
+    "source_status": "20.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/valenciennes-O8dsB372/?mid=2Jc3tAGk"
+  },
+  "2LxK24RE": {
+    "away": "Red Star",
+    "away_goals": 1,
+    "date": "2016-11-25",
+    "home": "Bourg en Bresse",
+    "home_goals": 4,
+    "id": "2LxK24RE",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/red-star-2kM6ufaS/?mid=2LxK24RE"
+  },
+  "2VXGqA2n": {
+    "away": "Tours",
+    "away_goals": 1,
+    "date": "2016-09-09",
+    "home": "Amiens",
+    "home_goals": 3,
+    "id": "2VXGqA2n",
+    "source": "flashscore",
+    "source_status": "09.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/tours-lrpZ4Lr7/?mid=2VXGqA2n"
+  },
+  "2eBLl2qj": {
+    "away": "Sochaux",
+    "away_goals": 3,
+    "date": "2016-07-29",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "2eBLl2qj",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 7,
+      "HST": 3
+    },
+    "source": "flashscore",
+    "source_status": "29.07.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/troyes-fsfAHubD/summary/stats/?mid=2eBLl2qj",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/troyes-fsfAHubD/?mid=2eBLl2qj"
+  },
+  "2kIOyM48": {
+    "away": "Bourg en Bresse",
+    "away_goals": 1,
+    "date": "2016-08-19",
+    "home": "AC Ajaccio",
+    "home_goals": 3,
+    "id": "2kIOyM48",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/bourg-peronnas-Ict2iv2P/?mid=2kIOyM48"
+  },
+  "2kdgMt5L": {
+    "away": "Le Havre",
+    "away_goals": 1,
+    "date": "2016-08-12",
+    "home": "GFC Ajaccio",
+    "home_goals": 1,
+    "id": "2kdgMt5L",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/le-havre-CIEe04GT/?mid=2kdgMt5L"
+  },
+  "2qPHr4it": {
+    "away": "Nimes",
+    "away_goals": 0,
+    "date": "2016-11-29",
+    "home": "Auxerre",
+    "home_goals": 2,
+    "id": "2qPHr4it",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/nimes-pOtlc1qr/?mid=2qPHr4it"
+  },
+  "2snivUrc": {
+    "away": "Auxerre",
+    "away_goals": 0,
+    "date": "2016-11-04",
+    "home": "Amiens",
+    "home_goals": 0,
+    "id": "2snivUrc",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/auxerre-MTLr36WA/?mid=2snivUrc"
+  },
+  "2uBX45G4": {
+    "away": "Bourg en Bresse",
+    "away_goals": 0,
+    "date": "2017-02-10",
+    "home": "Le Havre",
+    "home_goals": 3,
+    "id": "2uBX45G4",
+    "source": "flashscore",
+    "source_status": "10.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/le-havre-CIEe04GT/?mid=2uBX45G4"
+  },
+  "2uZwgm0e": {
+    "away": "Niort",
+    "away_goals": 0,
+    "date": "2017-01-27",
+    "home": "Tours",
+    "home_goals": 0,
+    "id": "2uZwgm0e",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/tours-lrpZ4Lr7/?mid=2uZwgm0e"
+  },
+  "2wATMwxj": {
+    "away": "Clermont",
+    "away_goals": 2,
+    "date": "2017-02-24",
+    "home": "Strasbourg",
+    "home_goals": 0,
+    "id": "2wATMwxj",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/strasbourg-nP6UzIU1/?mid=2wATMwxj"
   },
   "2yajYRtJ": {
     "away": "Orleans",
@@ -371,6 +697,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/red-star-2kM6ufaS/?mid=44LLm7t6"
   },
+  "48e98Sar": {
+    "away": "Valenciennes",
+    "away_goals": 0,
+    "date": "2017-02-03",
+    "home": "Laval",
+    "home_goals": 0,
+    "id": "48e98Sar",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/valenciennes-O8dsB372/?mid=48e98Sar"
+  },
+  "4AdDjfvc": {
+    "away": "Orleans",
+    "away_goals": 0,
+    "date": "2017-01-20",
+    "home": "AC Ajaccio",
+    "home_goals": 1,
+    "id": "4AdDjfvc",
+    "source": "flashscore",
+    "source_status": "20.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/orleans-AqswAEFD/?mid=4AdDjfvc"
+  },
+  "4KeK93LF": {
+    "away": "Red Star",
+    "away_goals": 0,
+    "date": "2016-08-05",
+    "home": "Clermont",
+    "home_goals": 0,
+    "id": "4KeK93LF",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/red-star-2kM6ufaS/?mid=4KeK93LF"
+  },
+  "4MMDFVm6": {
+    "away": "Tours",
+    "away_goals": 4,
+    "date": "2016-08-19",
+    "home": "Niort",
+    "home_goals": 1,
+    "id": "4MMDFVm6",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/tours-lrpZ4Lr7/?mid=4MMDFVm6"
+  },
   "4Oq30pQB": {
     "away": "Auxerre",
     "away_goals": 0,
@@ -432,6 +806,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/niort-SW30dLbl/summary/stats/?mid=4Oq30pQB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/niort-SW30dLbl/?mid=4Oq30pQB"
+  },
+  "4Yv0sj1q": {
+    "away": "Amiens",
+    "away_goals": 1,
+    "date": "2017-01-20",
+    "home": "Niort",
+    "home_goals": 2,
+    "id": "4Yv0sj1q",
+    "source": "flashscore",
+    "source_status": "20.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/niort-SW30dLbl/?mid=4Yv0sj1q"
   },
   "4b0CRMOA": {
     "away": "Auxerre",
@@ -557,6 +943,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/strasbourg-nP6UzIU1/?mid=4rClCsPN"
   },
+  "4z2nUU2a": {
+    "away": "Auxerre",
+    "away_goals": 0,
+    "date": "2016-08-26",
+    "home": "Orleans",
+    "home_goals": 0,
+    "id": "4z2nUU2a",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/orleans-AqswAEFD/?mid=4z2nUU2a"
+  },
+  "4zKG3pC8": {
+    "away": "Brest",
+    "away_goals": 0,
+    "date": "2016-11-26",
+    "home": "Amiens",
+    "home_goals": 3,
+    "id": "4zKG3pC8",
+    "source": "flashscore",
+    "source_status": "26.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/brest-Cr4VGaUl/?mid=4zKG3pC8"
+  },
+  "63Cj2LDk": {
+    "away": "Bourg en Bresse",
+    "away_goals": 0,
+    "date": "2016-08-05",
+    "home": "Reims",
+    "home_goals": 1,
+    "id": "63Cj2LDk",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/reims-tItR6sEf/?mid=63Cj2LDk"
+  },
   "6722JJml": {
     "away": "Reims",
     "away_goals": 3,
@@ -618,6 +1040,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/reims-tItR6sEf/summary/stats/?mid=6722JJml",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/reims-tItR6sEf/?mid=6722JJml"
+  },
+  "6JlYczcp": {
+    "away": "Red Star",
+    "away_goals": 0,
+    "date": "2016-12-16",
+    "home": "Sochaux",
+    "home_goals": 2,
+    "id": "6JlYczcp",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/sochaux-jPojkLXK/?mid=6JlYczcp"
   },
   "6TesyqFj": {
     "away": "Bourg en Bresse",
@@ -681,6 +1115,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/strasbourg-nP6UzIU1/?mid=6TesyqFj"
   },
+  "6XiQ4pa7": {
+    "away": "Tours",
+    "away_goals": 1,
+    "date": "2017-02-03",
+    "home": "Reims",
+    "home_goals": 1,
+    "id": "6XiQ4pa7",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/tours-lrpZ4Lr7/?mid=6XiQ4pa7"
+  },
+  "6qh6xECG": {
+    "away": "Laval",
+    "away_goals": 0,
+    "date": "2016-09-16",
+    "home": "Red Star",
+    "home_goals": 1,
+    "id": "6qh6xECG",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/red-star-2kM6ufaS/?mid=6qh6xECG"
+  },
+  "6yr4f1jh": {
+    "away": "AC Ajaccio",
+    "away_goals": 1,
+    "date": "2016-12-09",
+    "home": "GFC Ajaccio",
+    "home_goals": 4,
+    "id": "6yr4f1jh",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/gfc-ajaccio-QZuxDxup/?mid=6yr4f1jh"
+  },
+  "82gUnCwM": {
+    "away": "GFC Ajaccio",
+    "away_goals": 2,
+    "date": "2017-01-20",
+    "home": "Le Havre",
+    "home_goals": 1,
+    "id": "82gUnCwM",
+    "source": "flashscore",
+    "source_status": "20.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/le-havre-CIEe04GT/?mid=82gUnCwM"
+  },
   "8O8KnNl7": {
     "away": "Paris FC",
     "away_goals": 0,
@@ -743,6 +1225,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/paris-fc-0OEHEprs/?mid=8O8KnNl7"
   },
+  "8OrXHtWP": {
+    "away": "Laval",
+    "away_goals": 0,
+    "date": "2016-10-14",
+    "home": "Auxerre",
+    "home_goals": 2,
+    "id": "8OrXHtWP",
+    "source": "flashscore",
+    "source_status": "14.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/laval-E1wDrLsJ/?mid=8OrXHtWP"
+  },
   "8WMRPLAK": {
     "away": "Valenciennes",
     "away_goals": 0,
@@ -804,6 +1298,126 @@
     "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/valenciennes-O8dsB372/summary/stats/?mid=8WMRPLAK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/valenciennes-O8dsB372/?mid=8WMRPLAK"
+  },
+  "8YZPaSii": {
+    "away": "Reims",
+    "away_goals": 1,
+    "date": "2016-08-01",
+    "home": "Amiens",
+    "home_goals": 1,
+    "id": "8YZPaSii",
+    "source": "flashscore",
+    "source_status": "01.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/reims-tItR6sEf/?mid=8YZPaSii"
+  },
+  "8h2BBPj3": {
+    "away": "GFC Ajaccio",
+    "away_goals": 2,
+    "date": "2016-08-05",
+    "home": "Auxerre",
+    "home_goals": 1,
+    "id": "8h2BBPj3",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/gfc-ajaccio-QZuxDxup/?mid=8h2BBPj3"
+  },
+  "8hrPV2e1": {
+    "away": "Red Star",
+    "away_goals": 0,
+    "date": "2016-09-19",
+    "home": "Strasbourg",
+    "home_goals": 0,
+    "id": "8hrPV2e1",
+    "source": "flashscore",
+    "source_status": "19.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/strasbourg-nP6UzIU1/?mid=8hrPV2e1"
+  },
+  "8lSNj4XQ": {
+    "away": "Strasbourg",
+    "away_goals": 0,
+    "date": "2016-09-23",
+    "home": "Clermont",
+    "home_goals": 0,
+    "id": "8lSNj4XQ",
+    "source": "flashscore",
+    "source_status": "23.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/strasbourg-nP6UzIU1/?mid=8lSNj4XQ"
+  },
+  "8nNF9Iw6": {
+    "away": "Nimes",
+    "away_goals": 3,
+    "date": "2016-10-14",
+    "home": "Red Star",
+    "home_goals": 3,
+    "id": "8nNF9Iw6",
+    "source": "flashscore",
+    "source_status": "14.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/red-star-2kM6ufaS/?mid=8nNF9Iw6"
+  },
+  "8pxCZ5cS": {
+    "away": "Clermont",
+    "away_goals": 1,
+    "date": "2016-11-04",
+    "home": "Nimes",
+    "home_goals": 1,
+    "id": "8pxCZ5cS",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/nimes-pOtlc1qr/?mid=8pxCZ5cS"
+  },
+  "8rmSlcKT": {
+    "away": "Laval",
+    "away_goals": 1,
+    "date": "2016-12-09",
+    "home": "Tours",
+    "home_goals": 1,
+    "id": "8rmSlcKT",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/tours-lrpZ4Lr7/?mid=8rmSlcKT"
+  },
+  "8tIO6Roh": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2017-02-10",
+    "home": "Auxerre",
+    "home_goals": 3,
+    "id": "8tIO6Roh",
+    "source": "flashscore",
+    "source_status": "10.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/brest-Cr4VGaUl/?mid=8tIO6Roh"
+  },
+  "8tfGdsOp": {
+    "away": "Orleans",
+    "away_goals": 2,
+    "date": "2017-02-13",
+    "home": "Strasbourg",
+    "home_goals": 3,
+    "id": "8tfGdsOp",
+    "source": "flashscore",
+    "source_status": "13.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/strasbourg-nP6UzIU1/?mid=8tfGdsOp"
+  },
+  "8zcFpsUd": {
+    "away": "Reims",
+    "away_goals": 2,
+    "date": "2017-03-03",
+    "home": "Auxerre",
+    "home_goals": 1,
+    "id": "8zcFpsUd",
+    "source": "flashscore",
+    "source_status": "03.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/reims-tItR6sEf/?mid=8zcFpsUd"
   },
   "A1OTooBI": {
     "away": "Nimes",
@@ -929,6 +1543,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/troyes-fsfAHubD/?mid=A3Fd6Ch2"
   },
+  "A5Eu3qoH": {
+    "away": "Tours",
+    "away_goals": 1,
+    "date": "2017-02-10",
+    "home": "Nimes",
+    "home_goals": 1,
+    "id": "A5Eu3qoH",
+    "source": "flashscore",
+    "source_status": "10.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/tours-lrpZ4Lr7/?mid=A5Eu3qoH"
+  },
+  "A5bH66Uf": {
+    "away": "Troyes",
+    "away_goals": 0,
+    "date": "2017-02-03",
+    "home": "Lens",
+    "home_goals": 0,
+    "id": "A5bH66Uf",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/troyes-fsfAHubD/?mid=A5bH66Uf"
+  },
+  "A5xniRU7": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2017-01-27",
+    "home": "Valenciennes",
+    "home_goals": 0,
+    "id": "A5xniRU7",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/valenciennes-O8dsB372/?mid=A5xniRU7"
+  },
   "A7RwwjSm": {
     "away": "Sochaux",
     "away_goals": 1,
@@ -990,6 +1640,200 @@
     "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/sochaux-jPojkLXK/summary/stats/?mid=A7RwwjSm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/sochaux-jPojkLXK/?mid=A7RwwjSm"
+  },
+  "A9SPtrMh": {
+    "away": "Tours",
+    "away_goals": 0,
+    "date": "2016-11-29",
+    "home": "Clermont",
+    "home_goals": 0,
+    "id": "A9SPtrMh",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/tours-lrpZ4Lr7/?mid=A9SPtrMh"
+  },
+  "A9ledNLu": {
+    "away": "Sochaux",
+    "away_goals": 1,
+    "date": "2016-12-09",
+    "home": "Amiens",
+    "home_goals": 0,
+    "id": "A9ledNLu",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/sochaux-jPojkLXK/?mid=A9ledNLu"
+  },
+  "AHbcvzr4": {
+    "away": "Amiens",
+    "away_goals": 1,
+    "date": "2016-09-27",
+    "home": "GFC Ajaccio",
+    "home_goals": 1,
+    "id": "AHbcvzr4",
+    "source": "flashscore",
+    "source_status": "27.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/gfc-ajaccio-QZuxDxup/?mid=AHbcvzr4"
+  },
+  "ARkGFMUM": {
+    "away": "Strasbourg",
+    "away_goals": 1,
+    "date": "2017-02-17",
+    "home": "Red Star",
+    "home_goals": 1,
+    "id": "ARkGFMUM",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/strasbourg-nP6UzIU1/?mid=ARkGFMUM"
+  },
+  "AeVxEIC1": {
+    "away": "Laval",
+    "away_goals": 0,
+    "date": "2016-08-12",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "AeVxEIC1",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/troyes-fsfAHubD/?mid=AeVxEIC1"
+  },
+  "AiZgpHSp": {
+    "away": "Auxerre",
+    "away_goals": 1,
+    "date": "2016-12-09",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "AiZgpHSp",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/troyes-fsfAHubD/?mid=AiZgpHSp"
+  },
+  "Aq5xks3h": {
+    "away": "Auxerre",
+    "away_goals": 0,
+    "date": "2017-01-13",
+    "home": "GFC Ajaccio",
+    "home_goals": 2,
+    "id": "Aq5xks3h",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/gfc-ajaccio-QZuxDxup/?mid=Aq5xks3h"
+  },
+  "AuVlULqG": {
+    "away": "Valenciennes",
+    "away_goals": 0,
+    "date": "2017-02-25",
+    "home": "Lens",
+    "home_goals": 2,
+    "id": "AuVlULqG",
+    "source": "flashscore",
+    "source_status": "25.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/valenciennes-O8dsB372/?mid=AuVlULqG"
+  },
+  "C05fS8XB": {
+    "away": "Brest",
+    "away_goals": 2,
+    "date": "2016-08-29",
+    "home": "Sochaux",
+    "home_goals": 2,
+    "id": "C05fS8XB",
+    "source": "flashscore",
+    "source_status": "29.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/sochaux-jPojkLXK/?mid=C05fS8XB"
+  },
+  "CAGUFA78": {
+    "away": "Clermont",
+    "away_goals": 1,
+    "date": "2017-02-03",
+    "home": "AC Ajaccio",
+    "home_goals": 2,
+    "id": "CAGUFA78",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/clermont-IRuMRua1/?mid=CAGUFA78"
+  },
+  "CMtVvnHH": {
+    "away": "Bourg en Bresse",
+    "away_goals": 1,
+    "date": "2016-09-09",
+    "home": "Lens",
+    "home_goals": 1,
+    "id": "CMtVvnHH",
+    "source": "flashscore",
+    "source_status": "09.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/lens-IBmris38/?mid=CMtVvnHH"
+  },
+  "CQWtdpiG": {
+    "away": "Lens",
+    "away_goals": 0,
+    "date": "2016-07-29",
+    "home": "Niort",
+    "home_goals": 0,
+    "id": "CQWtdpiG",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 10,
+      "HST": 1
+    },
+    "source": "flashscore",
+    "source_status": "29.07.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/niort-SW30dLbl/summary/stats/?mid=CQWtdpiG",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/niort-SW30dLbl/?mid=CQWtdpiG"
   },
   "CU6UG5Ah": {
     "away": "Tours",
@@ -1053,6 +1897,102 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/tours-lrpZ4Lr7/?mid=CU6UG5Ah"
   },
+  "CUrGR76K": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2017-02-07",
+    "home": "Clermont",
+    "home_goals": 1,
+    "id": "CUrGR76K",
+    "source": "flashscore",
+    "source_status": "07.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/clermont-IRuMRua1/?mid=CUrGR76K"
+  },
+  "CbzSgFsi": {
+    "away": "Auxerre",
+    "away_goals": 0,
+    "date": "2016-09-20",
+    "home": "AC Ajaccio",
+    "home_goals": 2,
+    "id": "CbzSgFsi",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/auxerre-MTLr36WA/?mid=CbzSgFsi"
+  },
+  "CdDx905o": {
+    "away": "Nimes",
+    "away_goals": 2,
+    "date": "2016-12-16",
+    "home": "AC Ajaccio",
+    "home_goals": 1,
+    "id": "CdDx905o",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/nimes-pOtlc1qr/?mid=CdDx905o"
+  },
+  "ChNbJqE0": {
+    "away": "Auxerre",
+    "away_goals": 1,
+    "date": "2017-02-07",
+    "home": "Sochaux",
+    "home_goals": 0,
+    "id": "ChNbJqE0",
+    "source": "flashscore",
+    "source_status": "07.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/sochaux-jPojkLXK/?mid=ChNbJqE0"
+  },
+  "Cluf3XN2": {
+    "away": "Lens",
+    "away_goals": 1,
+    "date": "2017-01-28",
+    "home": "Amiens",
+    "home_goals": 2,
+    "id": "Cluf3XN2",
+    "source": "flashscore",
+    "source_status": "28.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/lens-IBmris38/?mid=Cluf3XN2"
+  },
+  "CnQLD9II": {
+    "away": "Orleans",
+    "away_goals": 0,
+    "date": "2016-08-19",
+    "home": "Sochaux",
+    "home_goals": 0,
+    "id": "CnQLD9II",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/sochaux-jPojkLXK/?mid=CnQLD9II"
+  },
+  "CtXUusK1": {
+    "away": "Tours",
+    "away_goals": 1,
+    "date": "2016-11-18",
+    "home": "Sochaux",
+    "home_goals": 2,
+    "id": "CtXUusK1",
+    "source": "flashscore",
+    "source_status": "18.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/tours-lrpZ4Lr7/?mid=CtXUusK1"
+  },
+  "Cz0LlY89": {
+    "away": "Red Star",
+    "away_goals": 1,
+    "date": "2017-01-23",
+    "home": "Brest",
+    "home_goals": 0,
+    "id": "Cz0LlY89",
+    "source": "flashscore",
+    "source_status": "23.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/red-star-2kM6ufaS/?mid=Cz0LlY89"
+  },
   "E19Gm3Z0": {
     "away": "Orleans",
     "away_goals": 1,
@@ -1114,6 +2054,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/paris-fc-0OEHEprs/summary/stats/?mid=E19Gm3Z0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/paris-fc-0OEHEprs/?mid=E19Gm3Z0"
+  },
+  "E7YOkw5N": {
+    "away": "Lens",
+    "away_goals": 1,
+    "date": "2016-12-10",
+    "home": "Strasbourg",
+    "home_goals": 3,
+    "id": "E7YOkw5N",
+    "source": "flashscore",
+    "source_status": "10.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/strasbourg-nP6UzIU1/?mid=E7YOkw5N"
+  },
+  "E9eEzhsT": {
+    "away": "Nimes",
+    "away_goals": 3,
+    "date": "2016-09-16",
+    "home": "Tours",
+    "home_goals": 1,
+    "id": "E9eEzhsT",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/tours-lrpZ4Lr7/?mid=E9eEzhsT"
+  },
+  "EDytWsF3": {
+    "away": "Bourg en Bresse",
+    "away_goals": 4,
+    "date": "2017-02-24",
+    "home": "Laval",
+    "home_goals": 2,
+    "id": "EDytWsF3",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/laval-E1wDrLsJ/?mid=EDytWsF3"
   },
   "EFS8j9dm": {
     "away": "Laval",
@@ -1177,6 +2153,102 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/laval-E1wDrLsJ/?mid=EFS8j9dm"
   },
+  "EHBTj3Yu": {
+    "away": "Strasbourg",
+    "away_goals": 3,
+    "date": "2017-01-14",
+    "home": "Amiens",
+    "home_goals": 4,
+    "id": "EHBTj3Yu",
+    "source": "flashscore",
+    "source_status": "14.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/strasbourg-nP6UzIU1/?mid=EHBTj3Yu"
+  },
+  "EJIK77Wo": {
+    "away": "GFC Ajaccio",
+    "away_goals": 0,
+    "date": "2017-02-10",
+    "home": "Amiens",
+    "home_goals": 4,
+    "id": "EJIK77Wo",
+    "source": "flashscore",
+    "source_status": "10.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/gfc-ajaccio-QZuxDxup/?mid=EJIK77Wo"
+  },
+  "EP1teJOC": {
+    "away": "Valenciennes",
+    "away_goals": 4,
+    "date": "2016-10-01",
+    "home": "Strasbourg",
+    "home_goals": 2,
+    "id": "EP1teJOC",
+    "source": "flashscore",
+    "source_status": "01.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/valenciennes-O8dsB372/?mid=EP1teJOC"
+  },
+  "ERh9Fp6d": {
+    "away": "Nimes",
+    "away_goals": 3,
+    "date": "2016-10-28",
+    "home": "Valenciennes",
+    "home_goals": 2,
+    "id": "ERh9Fp6d",
+    "source": "flashscore",
+    "source_status": "28.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/valenciennes-O8dsB372/?mid=ERh9Fp6d"
+  },
+  "ETFb0ar2": {
+    "away": "Amiens",
+    "away_goals": 0,
+    "date": "2016-08-06",
+    "home": "Strasbourg",
+    "home_goals": 1,
+    "id": "ETFb0ar2",
+    "source": "flashscore",
+    "source_status": "06.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/strasbourg-nP6UzIU1/?mid=ETFb0ar2"
+  },
+  "ETyUFvrk": {
+    "away": "Brest",
+    "away_goals": 3,
+    "date": "2016-08-12",
+    "home": "Red Star",
+    "home_goals": 0,
+    "id": "ETyUFvrk",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/red-star-2kM6ufaS/?mid=ETyUFvrk"
+  },
+  "EV4jnOur": {
+    "away": "Nimes",
+    "away_goals": 2,
+    "date": "2016-09-23",
+    "home": "GFC Ajaccio",
+    "home_goals": 0,
+    "id": "EV4jnOur",
+    "source": "flashscore",
+    "source_status": "23.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/nimes-pOtlc1qr/?mid=EV4jnOur"
+  },
+  "EVrLWrte": {
+    "away": "Clermont",
+    "away_goals": 1,
+    "date": "2016-09-20",
+    "home": "Reims",
+    "home_goals": 2,
+    "id": "EVrLWrte",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/reims-tItR6sEf/?mid=EVrLWrte"
+  },
   "EXRuXxIm": {
     "away": "Tours",
     "away_goals": 3,
@@ -1238,6 +2310,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/tours-lrpZ4Lr7/summary/stats/?mid=EXRuXxIm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/tours-lrpZ4Lr7/?mid=EXRuXxIm"
+  },
+  "Ead7Hr0A": {
+    "away": "Niort",
+    "away_goals": 0,
+    "date": "2017-02-17",
+    "home": "GFC Ajaccio",
+    "home_goals": 1,
+    "id": "Ead7Hr0A",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/niort-SW30dLbl/?mid=Ead7Hr0A"
   },
   "Ee8OQ1eE": {
     "away": "Sochaux",
@@ -1487,6 +2571,212 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/orleans-AqswAEFD/?mid=G6mztJrS"
   },
+  "GEwMs3kk": {
+    "away": "Troyes",
+    "away_goals": 2,
+    "date": "2016-11-18",
+    "home": "Red Star",
+    "home_goals": 1,
+    "id": "GEwMs3kk",
+    "source": "flashscore",
+    "source_status": "18.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/troyes-fsfAHubD/?mid=GEwMs3kk"
+  },
+  "GGrUOlqA": {
+    "away": "Lens",
+    "away_goals": 2,
+    "date": "2016-10-31",
+    "home": "Brest",
+    "home_goals": 1,
+    "id": "GGrUOlqA",
+    "source": "flashscore",
+    "source_status": "31.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/lens-IBmris38/?mid=GGrUOlqA"
+  },
+  "GSIfd24r": {
+    "away": "Reims",
+    "away_goals": 0,
+    "date": "2016-11-25",
+    "home": "Nimes",
+    "home_goals": 3,
+    "id": "GSIfd24r",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/reims-tItR6sEf/?mid=GSIfd24r"
+  },
+  "GYgsPrL2": {
+    "away": "Niort",
+    "away_goals": 0,
+    "date": "2016-08-12",
+    "home": "Amiens",
+    "home_goals": 2,
+    "id": "GYgsPrL2",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/niort-SW30dLbl/?mid=GYgsPrL2"
+  },
+  "GbwYc6M3": {
+    "away": "Brest",
+    "away_goals": 0,
+    "date": "2016-07-29",
+    "home": "GFC Ajaccio",
+    "home_goals": 0,
+    "id": "GbwYc6M3",
+    "shots": {
+      "AS": 1,
+      "AST": 1,
+      "HS": 9,
+      "HST": 4
+    },
+    "source": "flashscore",
+    "source_status": "29.07.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "37",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/gfc-ajaccio-QZuxDxup/summary/stats/?mid=GbwYc6M3",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/gfc-ajaccio-QZuxDxup/?mid=GbwYc6M3"
+  },
+  "GfmMt8n5": {
+    "away": "Orleans",
+    "away_goals": 1,
+    "date": "2016-09-09",
+    "home": "Laval",
+    "home_goals": 3,
+    "id": "GfmMt8n5",
+    "source": "flashscore",
+    "source_status": "09.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/orleans-AqswAEFD/?mid=GfmMt8n5"
+  },
+  "GhMSztKE": {
+    "away": "Clermont",
+    "away_goals": 1,
+    "date": "2016-08-19",
+    "home": "Auxerre",
+    "home_goals": 0,
+    "id": "GhMSztKE",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/clermont-IRuMRua1/?mid=GhMSztKE"
+  },
+  "GhpsQwOn": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2016-10-21",
+    "home": "Laval",
+    "home_goals": 0,
+    "id": "GhpsQwOn",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/laval-E1wDrLsJ/?mid=GhpsQwOn"
+  },
+  "GjDYLnTS": {
+    "away": "Tours",
+    "away_goals": 1,
+    "date": "2016-10-28",
+    "home": "Red Star",
+    "home_goals": 3,
+    "id": "GjDYLnTS",
+    "source": "flashscore",
+    "source_status": "28.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/tours-lrpZ4Lr7/?mid=GjDYLnTS"
+  },
+  "GjawjRs9": {
+    "away": "Lens",
+    "away_goals": 1,
+    "date": "2016-11-18",
+    "home": "Auxerre",
+    "home_goals": 1,
+    "id": "GjawjRs9",
+    "source": "flashscore",
+    "source_status": "18.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/lens-IBmris38/?mid=GjawjRs9"
+  },
+  "GlAg5I4A": {
+    "away": "Amiens",
+    "away_goals": 2,
+    "date": "2016-12-16",
+    "home": "Laval",
+    "home_goals": 2,
+    "id": "GlAg5I4A",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/laval-E1wDrLsJ/?mid=GlAg5I4A"
+  },
+  "GlKMTWWq": {
+    "away": "Lens",
+    "away_goals": 3,
+    "date": "2017-01-13",
+    "home": "Tours",
+    "home_goals": 2,
+    "id": "GlKMTWWq",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/tours-lrpZ4Lr7/?mid=GlKMTWWq"
+  },
+  "GraD7nFl": {
+    "away": "Red Star",
+    "away_goals": 1,
+    "date": "2017-02-03",
+    "home": "Le Havre",
+    "home_goals": 1,
+    "id": "GraD7nFl",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/red-star-2kM6ufaS/?mid=GraD7nFl"
+  },
   "GvPPnReC": {
     "away": "Lens",
     "away_goals": 2,
@@ -1683,6 +2973,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/niort-SW30dLbl/?mid=I3B7soxN"
   },
+  "I3kCY4Br": {
+    "away": "Troyes",
+    "away_goals": 2,
+    "date": "2016-09-20",
+    "home": "Nimes",
+    "home_goals": 2,
+    "id": "I3kCY4Br",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/troyes-fsfAHubD/?mid=I3kCY4Br"
+  },
   "I7oe26ea": {
     "away": "Brest",
     "away_goals": 2,
@@ -1744,6 +3046,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/lens-IBmris38/summary/stats/?mid=I7oe26ea",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/lens-IBmris38/?mid=I7oe26ea"
+  },
+  "ID0HkEg3": {
+    "away": "Bourg en Bresse",
+    "away_goals": 2,
+    "date": "2017-01-20",
+    "home": "Auxerre",
+    "home_goals": 0,
+    "id": "ID0HkEg3",
+    "source": "flashscore",
+    "source_status": "20.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/bourg-peronnas-Ict2iv2P/?mid=ID0HkEg3"
+  },
+  "IPQHEk3C": {
+    "away": "Red Star",
+    "away_goals": 1,
+    "date": "2016-08-22",
+    "home": "Reims",
+    "home_goals": 2,
+    "id": "IPQHEk3C",
+    "source": "flashscore",
+    "source_status": "22.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/reims-tItR6sEf/?mid=IPQHEk3C"
   },
   "IR97oxXt": {
     "away": "Lens",
@@ -1931,6 +3257,164 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/valenciennes-O8dsB372/?mid=IXUoyUd0"
   },
+  "K0uj9K7j": {
+    "away": "Amiens",
+    "away_goals": 1,
+    "date": "2017-02-17",
+    "home": "Valenciennes",
+    "home_goals": 1,
+    "id": "K0uj9K7j",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/valenciennes-O8dsB372/?mid=K0uj9K7j"
+  },
+  "K22xda96": {
+    "away": "Auxerre",
+    "away_goals": 0,
+    "date": "2016-09-30",
+    "home": "Reims",
+    "home_goals": 3,
+    "id": "K22xda96",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/reims-tItR6sEf/?mid=K22xda96"
+  },
+  "K6xQGKSr": {
+    "away": "AC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-08-12",
+    "home": "Orleans",
+    "home_goals": 2,
+    "id": "K6xQGKSr",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/orleans-AqswAEFD/?mid=K6xQGKSr"
+  },
+  "KEKONJMq": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2017-02-27",
+    "home": "Reims",
+    "home_goals": 1,
+    "id": "KEKONJMq",
+    "source": "flashscore",
+    "source_status": "27.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/reims-tItR6sEf/?mid=KEKONJMq"
+  },
+  "KGLS5o1b": {
+    "away": "Red Star",
+    "away_goals": 1,
+    "date": "2017-02-10",
+    "home": "Laval",
+    "home_goals": 1,
+    "id": "KGLS5o1b",
+    "source": "flashscore",
+    "source_status": "10.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/red-star-2kM6ufaS/?mid=KGLS5o1b"
+  },
+  "KIQ6HNrD": {
+    "away": "Strasbourg",
+    "away_goals": 0,
+    "date": "2017-02-07",
+    "home": "Troyes",
+    "home_goals": 4,
+    "id": "KIQ6HNrD",
+    "source": "flashscore",
+    "source_status": "07.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/troyes-fsfAHubD/?mid=KIQ6HNrD"
+  },
+  "KMGp7vzb": {
+    "away": "Bourg en Bresse",
+    "away_goals": 0,
+    "date": "2016-12-16",
+    "home": "Brest",
+    "home_goals": 0,
+    "id": "KMGp7vzb",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/brest-Cr4VGaUl/?mid=KMGp7vzb"
+  },
+  "KSoTUMA7": {
+    "away": "Bourg en Bresse",
+    "away_goals": 2,
+    "date": "2016-09-20",
+    "home": "Tours",
+    "home_goals": 0,
+    "id": "KSoTUMA7",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/tours-lrpZ4Lr7/?mid=KSoTUMA7"
+  },
+  "KWLGkrUq": {
+    "away": "AC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-07-29",
+    "home": "Tours",
+    "home_goals": 0,
+    "id": "KWLGkrUq",
+    "shots": {
+      "AS": 12,
+      "AST": 3,
+      "HS": 4,
+      "HST": 3
+    },
+    "source": "flashscore",
+    "source_status": "29.07.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/tours-lrpZ4Lr7/summary/stats/?mid=KWLGkrUq",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/tours-lrpZ4Lr7/?mid=KWLGkrUq"
+  },
   "KYdmTZaF": {
     "away": "Amiens",
     "away_goals": 3,
@@ -1992,6 +3476,78 @@
     "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/brest-Cr4VGaUl/summary/stats/?mid=KYdmTZaF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/brest-Cr4VGaUl/?mid=KYdmTZaF"
+  },
+  "KjYtWBkp": {
+    "away": "Niort",
+    "away_goals": 1,
+    "date": "2016-09-16",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "KjYtWBkp",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/troyes-fsfAHubD/?mid=KjYtWBkp"
+  },
+  "KjxxXNac": {
+    "away": "Orleans",
+    "away_goals": 2,
+    "date": "2017-02-24",
+    "home": "Amiens",
+    "home_goals": 0,
+    "id": "KjxxXNac",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/orleans-AqswAEFD/?mid=KjxxXNac"
+  },
+  "KlN3s0fD": {
+    "away": "AC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-09-23",
+    "home": "Sochaux",
+    "home_goals": 1,
+    "id": "KlN3s0fD",
+    "source": "flashscore",
+    "source_status": "23.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/sochaux-jPojkLXK/?mid=KlN3s0fD"
+  },
+  "KnpwwQoU": {
+    "away": "GFC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-09-09",
+    "home": "Reims",
+    "home_goals": 2,
+    "id": "KnpwwQoU",
+    "source": "flashscore",
+    "source_status": "09.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/reims-tItR6sEf/?mid=KnpwwQoU"
+  },
+  "Kxc3IOp4": {
+    "away": "Reims",
+    "away_goals": 1,
+    "date": "2017-02-17",
+    "home": "Clermont",
+    "home_goals": 0,
+    "id": "Kxc3IOp4",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/reims-tItR6sEf/?mid=Kxc3IOp4"
+  },
+  "KzKxElxL": {
+    "away": "Orleans",
+    "away_goals": 2,
+    "date": "2017-02-04",
+    "home": "Auxerre",
+    "home_goals": 0,
+    "id": "KzKxElxL",
+    "source": "flashscore",
+    "source_status": "04.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/orleans-AqswAEFD/?mid=KzKxElxL"
   },
   "M3I0SEWI": {
     "away": "Red Star",
@@ -2055,6 +3611,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/valenciennes-O8dsB372/?mid=M3I0SEWI"
   },
+  "M5JYX3pi": {
+    "away": "Sochaux",
+    "away_goals": 0,
+    "date": "2017-02-24",
+    "home": "AC Ajaccio",
+    "home_goals": 0,
+    "id": "M5JYX3pi",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/sochaux-jPojkLXK/?mid=M5JYX3pi"
+  },
+  "MBCsVAmg": {
+    "away": "Amiens",
+    "away_goals": 3,
+    "date": "2016-08-26",
+    "home": "Nimes",
+    "home_goals": 2,
+    "id": "MBCsVAmg",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/nimes-pOtlc1qr/?mid=MBCsVAmg"
+  },
+  "MD9oxKzO": {
+    "away": "Bourg en Bresse",
+    "away_goals": 1,
+    "date": "2016-11-29",
+    "home": "Sochaux",
+    "home_goals": 1,
+    "id": "MD9oxKzO",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/sochaux-jPojkLXK/?mid=MD9oxKzO"
+  },
+  "MHqZduf0": {
+    "away": "Orleans",
+    "away_goals": 0,
+    "date": "2016-09-30",
+    "home": "Niort",
+    "home_goals": 1,
+    "id": "MHqZduf0",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/orleans-AqswAEFD/?mid=MHqZduf0"
+  },
   "MJ6OsfW5": {
     "away": "Sochaux",
     "away_goals": 1,
@@ -2116,6 +3720,78 @@
     "statistics_url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/sochaux-jPojkLXK/summary/stats/?mid=MJ6OsfW5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/sochaux-jPojkLXK/?mid=MJ6OsfW5"
+  },
+  "MTDUMSDM": {
+    "away": "Troyes",
+    "away_goals": 1,
+    "date": "2016-10-28",
+    "home": "Orleans",
+    "home_goals": 1,
+    "id": "MTDUMSDM",
+    "source": "flashscore",
+    "source_status": "28.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/troyes-fsfAHubD/?mid=MTDUMSDM"
+  },
+  "MVO7Bv9g": {
+    "away": "Le Havre",
+    "away_goals": 3,
+    "date": "2016-10-14",
+    "home": "Clermont",
+    "home_goals": 1,
+    "id": "MVO7Bv9g",
+    "source": "flashscore",
+    "source_status": "14.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/le-havre-CIEe04GT/?mid=MVO7Bv9g"
+  },
+  "MXPBg6m8": {
+    "away": "Le Havre",
+    "away_goals": 1,
+    "date": "2016-09-23",
+    "home": "Auxerre",
+    "home_goals": 0,
+    "id": "MXPBg6m8",
+    "source": "flashscore",
+    "source_status": "23.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/le-havre-CIEe04GT/?mid=MXPBg6m8"
+  },
+  "MXmIslXb": {
+    "away": "Clermont",
+    "away_goals": 2,
+    "date": "2016-09-09",
+    "home": "Brest",
+    "home_goals": 0,
+    "id": "MXmIslXb",
+    "source": "flashscore",
+    "source_status": "09.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/clermont-IRuMRua1/?mid=MXmIslXb"
+  },
+  "McX8GBYa": {
+    "away": "Amiens",
+    "away_goals": 1,
+    "date": "2016-08-20",
+    "home": "Lens",
+    "home_goals": 0,
+    "id": "McX8GBYa",
+    "source": "flashscore",
+    "source_status": "20.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/lens-IBmris38/?mid=McX8GBYa"
+  },
+  "Me8bp2Af": {
+    "away": "Niort",
+    "away_goals": 1,
+    "date": "2016-09-23",
+    "home": "Red Star",
+    "home_goals": 0,
+    "id": "Me8bp2Af",
+    "source": "flashscore",
+    "source_status": "23.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/red-star-2kM6ufaS/?mid=Me8bp2Af"
   },
   "MeOyib9J": {
     "away": "Laval",
@@ -2179,6 +3855,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/laval-E1wDrLsJ/?mid=MeOyib9J"
   },
+  "MeW4Yqfo": {
+    "away": "Troyes",
+    "away_goals": 0,
+    "date": "2016-09-12",
+    "home": "Strasbourg",
+    "home_goals": 2,
+    "id": "MeW4Yqfo",
+    "source": "flashscore",
+    "source_status": "12.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/troyes-fsfAHubD/?mid=MeW4Yqfo"
+  },
+  "Mez2LFxI": {
+    "away": "Auxerre",
+    "away_goals": 1,
+    "date": "2016-10-21",
+    "home": "Strasbourg",
+    "home_goals": 2,
+    "id": "Mez2LFxI",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/strasbourg-nP6UzIU1/?mid=Mez2LFxI"
+  },
+  "MiInT3zd": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2016-11-04",
+    "home": "Tours",
+    "home_goals": 0,
+    "id": "MiInT3zd",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/tours-lrpZ4Lr7/?mid=MiInT3zd"
+  },
+  "MivIrqzq": {
+    "away": "Nimes",
+    "away_goals": 1,
+    "date": "2016-11-18",
+    "home": "Orleans",
+    "home_goals": 2,
+    "id": "MivIrqzq",
+    "source": "flashscore",
+    "source_status": "18.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/orleans-AqswAEFD/?mid=MivIrqzq"
+  },
   "MqA1dvT8": {
     "away": "Troyes",
     "away_goals": 1,
@@ -2240,6 +3964,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/troyes-fsfAHubD/summary/stats/?mid=MqA1dvT8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/troyes-fsfAHubD/?mid=MqA1dvT8"
+  },
+  "MqrbLQ0o": {
+    "away": "AC Ajaccio",
+    "away_goals": 0,
+    "date": "2017-02-17",
+    "home": "Auxerre",
+    "home_goals": 1,
+    "id": "MqrbLQ0o",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/auxerre-MTLr36WA/?mid=MqrbLQ0o"
   },
   "MuWGlmRa": {
     "away": "GFC Ajaccio",
@@ -2427,6 +4163,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/nimes-pOtlc1qr/?mid=MyIbq77A"
   },
+  "MyvUbn7c": {
+    "away": "Strasbourg",
+    "away_goals": 0,
+    "date": "2016-07-29",
+    "home": "Bourg en Bresse",
+    "home_goals": 0,
+    "id": "MyvUbn7c",
+    "source": "flashscore",
+    "source_status": "29.07.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/strasbourg-nP6UzIU1/?mid=MyvUbn7c"
+  },
   "O6uWKB7e": {
     "away": "Nimes",
     "away_goals": 1,
@@ -2550,6 +4298,102 @@
     "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/red-star-2kM6ufaS/summary/stats/?mid=OAVsxAsf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/red-star-2kM6ufaS/?mid=OAVsxAsf"
+  },
+  "OEJQSjnj": {
+    "away": "AC Ajaccio",
+    "away_goals": 2,
+    "date": "2017-01-13",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "OEJQSjnj",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/troyes-fsfAHubD/?mid=OEJQSjnj"
+  },
+  "OGbskocF": {
+    "away": "Niort",
+    "away_goals": 3,
+    "date": "2016-11-21",
+    "home": "Brest",
+    "home_goals": 2,
+    "id": "OGbskocF",
+    "source": "flashscore",
+    "source_status": "21.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/niort-SW30dLbl/?mid=OGbskocF"
+  },
+  "OQgvWjYn": {
+    "away": "Strasbourg",
+    "away_goals": 1,
+    "date": "2016-08-26",
+    "home": "GFC Ajaccio",
+    "home_goals": 1,
+    "id": "OQgvWjYn",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/strasbourg-nP6UzIU1/?mid=OQgvWjYn"
+  },
+  "OYoCvlo2": {
+    "away": "Tours",
+    "away_goals": 2,
+    "date": "2017-02-21",
+    "home": "Strasbourg",
+    "home_goals": 4,
+    "id": "OYoCvlo2",
+    "source": "flashscore",
+    "source_status": "21.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/tours-lrpZ4Lr7/?mid=OYoCvlo2"
+  },
+  "Ob9FivJD": {
+    "away": "Auxerre",
+    "away_goals": 1,
+    "date": "2016-11-25",
+    "home": "Tours",
+    "home_goals": 2,
+    "id": "Ob9FivJD",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/tours-lrpZ4Lr7/?mid=Ob9FivJD"
+  },
+  "ObckNMkF": {
+    "away": "Sochaux",
+    "away_goals": 2,
+    "date": "2016-08-12",
+    "home": "Clermont",
+    "home_goals": 1,
+    "id": "ObckNMkF",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/sochaux-jPojkLXK/?mid=ObckNMkF"
+  },
+  "Odz0x8D9": {
+    "away": "Red Star",
+    "away_goals": 1,
+    "date": "2016-11-04",
+    "home": "GFC Ajaccio",
+    "home_goals": 2,
+    "id": "Odz0x8D9",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/red-star-2kM6ufaS/?mid=Odz0x8D9"
+  },
+  "OlzzfTpk": {
+    "away": "Reims",
+    "away_goals": 1,
+    "date": "2017-01-30",
+    "home": "Red Star",
+    "home_goals": 0,
+    "id": "OlzzfTpk",
+    "source": "flashscore",
+    "source_status": "30.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/reims-tItR6sEf/?mid=OlzzfTpk"
   },
   "OnqFS294": {
     "away": "Reims",
@@ -2675,6 +4519,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/?mid=Op0nZ7RC"
   },
+  "OvZCpjmt": {
+    "away": "Red Star",
+    "away_goals": 2,
+    "date": "2016-09-09",
+    "home": "AC Ajaccio",
+    "home_goals": 1,
+    "id": "OvZCpjmt",
+    "source": "flashscore",
+    "source_status": "09.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/red-star-2kM6ufaS/?mid=OvZCpjmt"
+  },
+  "OzRS0rdR": {
+    "away": "Le Havre",
+    "away_goals": 0,
+    "date": "2016-11-25",
+    "home": "Lens",
+    "home_goals": 1,
+    "id": "OzRS0rdR",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/lens-IBmris38/?mid=OzRS0rdR"
+  },
+  "Q3VbD0vs": {
+    "away": "Amiens",
+    "away_goals": 4,
+    "date": "2016-10-14",
+    "home": "Bourg en Bresse",
+    "home_goals": 2,
+    "id": "Q3VbD0vs",
+    "source": "flashscore",
+    "source_status": "14.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/bourg-peronnas-Ict2iv2P/?mid=Q3VbD0vs"
+  },
   "Q96G9l3P": {
     "away": "Clermont",
     "away_goals": 1,
@@ -2737,6 +4617,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/clermont-IRuMRua1/?mid=Q96G9l3P"
   },
+  "QJ1l0WMD": {
+    "away": "Amiens",
+    "away_goals": 1,
+    "date": "2016-11-29",
+    "home": "AC Ajaccio",
+    "home_goals": 1,
+    "id": "QJ1l0WMD",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/amiens-sc-lKkBAsxF/?mid=QJ1l0WMD"
+  },
+  "QTdosxbo": {
+    "away": "Le Havre",
+    "away_goals": 1,
+    "date": "2016-09-16",
+    "home": "Bourg en Bresse",
+    "home_goals": 2,
+    "id": "QTdosxbo",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/le-havre-CIEe04GT/?mid=QTdosxbo"
+  },
   "QVaeRDUR": {
     "away": "Strasbourg",
     "away_goals": 2,
@@ -2798,6 +4702,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/strasbourg-nP6UzIU1/summary/stats/?mid=QVaeRDUR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/strasbourg-nP6UzIU1/?mid=QVaeRDUR"
+  },
+  "QaHt8KKi": {
+    "away": "Valenciennes",
+    "away_goals": 1,
+    "date": "2016-12-16",
+    "home": "Auxerre",
+    "home_goals": 1,
+    "id": "QaHt8KKi",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/valenciennes-O8dsB372/?mid=QaHt8KKi"
+  },
+  "QeR2I3T6": {
+    "away": "Amiens",
+    "away_goals": 3,
+    "date": "2017-02-07",
+    "home": "Tours",
+    "home_goals": 0,
+    "id": "QeR2I3T6",
+    "source": "flashscore",
+    "source_status": "07.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/tours-lrpZ4Lr7/?mid=QeR2I3T6"
   },
   "QiDpDN9H": {
     "away": "GFC Ajaccio",
@@ -2923,6 +4851,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/tours-lrpZ4Lr7/?mid=QwYBbOfO"
   },
+  "S20BG2FG": {
+    "away": "Lens",
+    "away_goals": 1,
+    "date": "2017-02-20",
+    "home": "Orleans",
+    "home_goals": 2,
+    "id": "S20BG2FG",
+    "source": "flashscore",
+    "source_status": "20.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/orleans-AqswAEFD/?mid=S20BG2FG"
+  },
+  "SCDn31bq": {
+    "away": "Tours",
+    "away_goals": 2,
+    "date": "2016-08-05",
+    "home": "Lens",
+    "home_goals": 2,
+    "id": "SCDn31bq",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/tours-lrpZ4Lr7/?mid=SCDn31bq"
+  },
   "SEIfpmh4": {
     "away": "Valenciennes",
     "away_goals": 0,
@@ -3046,6 +4998,66 @@
     "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/gfc-ajaccio-QZuxDxup/summary/stats/?mid=SIhr58Bt",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/gfc-ajaccio-QZuxDxup/?mid=SIhr58Bt"
+  },
+  "SUIrUqLk": {
+    "away": "Reims",
+    "away_goals": 2,
+    "date": "2016-11-05",
+    "home": "Strasbourg",
+    "home_goals": 1,
+    "id": "SUIrUqLk",
+    "source": "flashscore",
+    "source_status": "05.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/strasbourg-nP6UzIU1/?mid=SUIrUqLk"
+  },
+  "SY8forel": {
+    "away": "Amiens",
+    "away_goals": 2,
+    "date": "2016-09-23",
+    "home": "Orleans",
+    "home_goals": 1,
+    "id": "SY8forel",
+    "source": "flashscore",
+    "source_status": "23.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/orleans-AqswAEFD/?mid=SY8forel"
+  },
+  "Sf2Z27Mj": {
+    "away": "Bourg en Bresse",
+    "away_goals": 0,
+    "date": "2016-10-21",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "Sf2Z27Mj",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/troyes-fsfAHubD/?mid=Sf2Z27Mj"
+  },
+  "Sf88yDAP": {
+    "away": "Niort",
+    "away_goals": 2,
+    "date": "2016-08-26",
+    "home": "Bourg en Bresse",
+    "home_goals": 2,
+    "id": "Sf88yDAP",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/niort-SW30dLbl/?mid=Sf88yDAP"
+  },
+  "Shg2wfcA": {
+    "away": "Strasbourg",
+    "away_goals": 1,
+    "date": "2016-09-16",
+    "home": "Orleans",
+    "home_goals": 3,
+    "id": "Shg2wfcA",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/strasbourg-nP6UzIU1/?mid=Shg2wfcA"
   },
   "SrxZwWCs": {
     "away": "Clermont",
@@ -3233,6 +5245,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/troyes-fsfAHubD/?mid=SxcwxPap"
   },
+  "U137C5yc": {
+    "away": "Troyes",
+    "away_goals": 1,
+    "date": "2016-08-05",
+    "home": "AC Ajaccio",
+    "home_goals": 2,
+    "id": "U137C5yc",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/troyes-fsfAHubD/?mid=U137C5yc"
+  },
+  "U1BO7d8I": {
+    "away": "GFC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-10-14",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "U1BO7d8I",
+    "source": "flashscore",
+    "source_status": "14.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/troyes-fsfAHubD/?mid=U1BO7d8I"
+  },
+  "U3fzXWIt": {
+    "away": "AC Ajaccio",
+    "away_goals": 1,
+    "date": "2016-08-26",
+    "home": "Clermont",
+    "home_goals": 2,
+    "id": "U3fzXWIt",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/clermont-IRuMRua1/?mid=U3fzXWIt"
+  },
   "UDTAZGLe": {
     "away": "Amiens",
     "away_goals": 0,
@@ -3294,6 +5342,102 @@
     "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/troyes-fsfAHubD/summary/stats/?mid=UDTAZGLe",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/troyes-fsfAHubD/?mid=UDTAZGLe"
+  },
+  "UJ4f4N1Q": {
+    "away": "Clermont",
+    "away_goals": 1,
+    "date": "2016-09-30",
+    "home": "Laval",
+    "home_goals": 1,
+    "id": "UJ4f4N1Q",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/laval-E1wDrLsJ/?mid=UJ4f4N1Q"
+  },
+  "UTXgKPbf": {
+    "away": "AC Ajaccio",
+    "away_goals": 0,
+    "date": "2017-02-06",
+    "home": "Red Star",
+    "home_goals": 2,
+    "id": "UTXgKPbf",
+    "source": "flashscore",
+    "source_status": "06.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/red-star-2kM6ufaS/?mid=UTXgKPbf"
+  },
+  "UXqTIMGJ": {
+    "away": "Reims",
+    "away_goals": 0,
+    "date": "2016-10-14",
+    "home": "AC Ajaccio",
+    "home_goals": 1,
+    "id": "UXqTIMGJ",
+    "source": "flashscore",
+    "source_status": "14.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/reims-tItR6sEf/?mid=UXqTIMGJ"
+  },
+  "UatIRjai": {
+    "away": "Laval",
+    "away_goals": 3,
+    "date": "2016-10-28",
+    "home": "AC Ajaccio",
+    "home_goals": 1,
+    "id": "UatIRjai",
+    "source": "flashscore",
+    "source_status": "28.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/laval-E1wDrLsJ/?mid=UatIRjai"
+  },
+  "UcTJipIK": {
+    "away": "Reims",
+    "away_goals": 1,
+    "date": "2016-09-26",
+    "home": "Brest",
+    "home_goals": 2,
+    "id": "UcTJipIK",
+    "source": "flashscore",
+    "source_status": "26.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/reims-tItR6sEf/?mid=UcTJipIK"
+  },
+  "UciQuS1B": {
+    "away": "Valenciennes",
+    "away_goals": 2,
+    "date": "2016-09-10",
+    "home": "Le Havre",
+    "home_goals": 2,
+    "id": "UciQuS1B",
+    "source": "flashscore",
+    "source_status": "10.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/valenciennes-O8dsB372/?mid=UciQuS1B"
+  },
+  "Ugw8znrM": {
+    "away": "AC Ajaccio",
+    "away_goals": 1,
+    "date": "2016-11-07",
+    "home": "Lens",
+    "home_goals": 1,
+    "id": "Ugw8znrM",
+    "source": "flashscore",
+    "source_status": "07.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/lens-IBmris38/?mid=Ugw8znrM"
+  },
+  "UkoOrLb9": {
+    "away": "AC Ajaccio",
+    "away_goals": 2,
+    "date": "2017-03-03",
+    "home": "Brest",
+    "home_goals": 1,
+    "id": "UkoOrLb9",
+    "source": "flashscore",
+    "source_status": "03.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/brest-Cr4VGaUl/?mid=UkoOrLb9"
   },
   "UsixdVYP": {
     "away": "Strasbourg",
@@ -3481,6 +5625,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/tours-lrpZ4Lr7/?mid=WCGh7hwd"
   },
+  "WK2l1NFT": {
+    "away": "Sochaux",
+    "away_goals": 1,
+    "date": "2017-02-11",
+    "home": "Reims",
+    "home_goals": 0,
+    "id": "WK2l1NFT",
+    "source": "flashscore",
+    "source_status": "11.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/sochaux-jPojkLXK/?mid=WK2l1NFT"
+  },
+  "WOGYvMj5": {
+    "away": "Strasbourg",
+    "away_goals": 1,
+    "date": "2016-11-29",
+    "home": "Le Havre",
+    "home_goals": 0,
+    "id": "WOGYvMj5",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/?mid=WOGYvMj5"
+  },
+  "WQaguGSc": {
+    "away": "Lens",
+    "away_goals": 1,
+    "date": "2016-09-16",
+    "home": "Clermont",
+    "home_goals": 1,
+    "id": "WQaguGSc",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/lens-IBmris38/?mid=WQaguGSc"
+  },
+  "WSjMasAs": {
+    "away": "Sochaux",
+    "away_goals": 1,
+    "date": "2016-10-03",
+    "home": "Le Havre",
+    "home_goals": 2,
+    "id": "WSjMasAs",
+    "source": "flashscore",
+    "source_status": "03.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/sochaux-jPojkLXK/?mid=WSjMasAs"
+  },
   "WUDBpdnm": {
     "away": "AC Ajaccio",
     "away_goals": 1,
@@ -3667,6 +5859,42 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/red-star-2kM6ufaS/?mid=WnPon9Ni"
   },
+  "Y3T21BhF": {
+    "away": "Auxerre",
+    "away_goals": 1,
+    "date": "2017-01-27",
+    "home": "Clermont",
+    "home_goals": 0,
+    "id": "Y3T21BhF",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/clermont-IRuMRua1/?mid=Y3T21BhF"
+  },
+  "YDOzhgC3": {
+    "away": "Sochaux",
+    "away_goals": 1,
+    "date": "2016-09-20",
+    "home": "Laval",
+    "home_goals": 1,
+    "id": "YDOzhgC3",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/sochaux-jPojkLXK/?mid=YDOzhgC3"
+  },
+  "YFg3Qn2O": {
+    "away": "Lens",
+    "away_goals": 1,
+    "date": "2016-08-26",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "YFg3Qn2O",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/troyes-fsfAHubD/?mid=YFg3Qn2O"
+  },
   "YHGhB1vU": {
     "away": "Niort",
     "away_goals": 2,
@@ -3729,6 +5957,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/sochaux-jPojkLXK/?mid=YHGhB1vU"
   },
+  "YiBo6qXD": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2016-09-30",
+    "home": "AC Ajaccio",
+    "home_goals": 1,
+    "id": "YiBo6qXD",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/brest-Cr4VGaUl/?mid=YiBo6qXD"
+  },
+  "YmDkyvjU": {
+    "away": "GFC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-11-29",
+    "home": "Valenciennes",
+    "home_goals": 0,
+    "id": "YmDkyvjU",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/valenciennes-O8dsB372/?mid=YmDkyvjU"
+  },
+  "b9PAGsbJ": {
+    "away": "Le Havre",
+    "away_goals": 0,
+    "date": "2017-02-06",
+    "home": "Valenciennes",
+    "home_goals": 0,
+    "id": "b9PAGsbJ",
+    "source": "flashscore",
+    "source_status": "06.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/valenciennes-O8dsB372/?mid=b9PAGsbJ"
+  },
+  "bDFl6bk4": {
+    "away": "Orleans",
+    "away_goals": 0,
+    "date": "2016-12-16",
+    "home": "Clermont",
+    "home_goals": 3,
+    "id": "bDFl6bk4",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/orleans-AqswAEFD/?mid=bDFl6bk4"
+  },
+  "bHkxRJ8t": {
+    "away": "Orleans",
+    "away_goals": 0,
+    "date": "2016-10-21",
+    "home": "GFC Ajaccio",
+    "home_goals": 2,
+    "id": "bHkxRJ8t",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/orleans-AqswAEFD/?mid=bHkxRJ8t"
+  },
   "bJ8vVeV2": {
     "away": "Niort",
     "away_goals": 1,
@@ -3790,6 +6078,126 @@
     "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/niort-SW30dLbl/summary/stats/?mid=bJ8vVeV2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/niort-SW30dLbl/?mid=bJ8vVeV2"
+  },
+  "bRItD8iR": {
+    "away": "Sochaux",
+    "away_goals": 0,
+    "date": "2017-02-04",
+    "home": "Brest",
+    "home_goals": 2,
+    "id": "bRItD8iR",
+    "source": "flashscore",
+    "source_status": "04.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/sochaux-jPojkLXK/?mid=bRItD8iR"
+  },
+  "bRvCSmiE": {
+    "away": "Lens",
+    "away_goals": 0,
+    "date": "2017-02-07",
+    "home": "Bourg en Bresse",
+    "home_goals": 0,
+    "id": "bRvCSmiE",
+    "source": "flashscore",
+    "source_status": "07.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/lens-IBmris38/?mid=bRvCSmiE"
+  },
+  "bsXpVV4j": {
+    "away": "AC Ajaccio",
+    "away_goals": 1,
+    "date": "2016-09-16",
+    "home": "Valenciennes",
+    "home_goals": 1,
+    "id": "bsXpVV4j",
+    "source": "flashscore",
+    "source_status": "16.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/valenciennes-O8dsB372/?mid=bsXpVV4j"
+  },
+  "bseO8NzM": {
+    "away": "Niort",
+    "away_goals": 1,
+    "date": "2016-08-05",
+    "home": "Laval",
+    "home_goals": 1,
+    "id": "bseO8NzM",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/niort-SW30dLbl/?mid=bseO8NzM"
+  },
+  "d07lnumB": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2017-01-13",
+    "home": "Orleans",
+    "home_goals": 0,
+    "id": "d07lnumB",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/orleans-AqswAEFD/?mid=d07lnumB"
+  },
+  "d0V2ywiq": {
+    "away": "Lens",
+    "away_goals": 3,
+    "date": "2017-03-03",
+    "home": "Red Star",
+    "home_goals": 2,
+    "id": "d0V2ywiq",
+    "source": "flashscore",
+    "source_status": "03.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/red-star-2kM6ufaS/?mid=d0V2ywiq"
+  },
+  "d2KnMoUs": {
+    "away": "Niort",
+    "away_goals": 0,
+    "date": "2017-02-07",
+    "home": "Nimes",
+    "home_goals": 3,
+    "id": "d2KnMoUs",
+    "source": "flashscore",
+    "source_status": "07.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/niort-SW30dLbl/?mid=d2KnMoUs"
+  },
+  "d2Ysh7F1": {
+    "away": "Le Havre",
+    "away_goals": 1,
+    "date": "2017-01-27",
+    "home": "Troyes",
+    "home_goals": 2,
+    "id": "d2Ysh7F1",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/troyes-fsfAHubD/?mid=d2Ysh7F1"
+  },
+  "d6OLsO6n": {
+    "away": "Troyes",
+    "away_goals": 1,
+    "date": "2016-11-29",
+    "home": "Brest",
+    "home_goals": 2,
+    "id": "d6OLsO6n",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/troyes-fsfAHubD/?mid=d6OLsO6n"
+  },
+  "d83AVa0P": {
+    "away": "Red Star",
+    "away_goals": 0,
+    "date": "2016-10-24",
+    "home": "Amiens",
+    "home_goals": 0,
+    "id": "d83AVa0P",
+    "source": "flashscore",
+    "source_status": "24.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/red-star-2kM6ufaS/?mid=d83AVa0P"
   },
   "dOTkzlC6": {
     "away": "AC Ajaccio",
@@ -4039,6 +6447,54 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/reims-tItR6sEf/?mid=dfABt5iT"
   },
+  "djzcJDls": {
+    "away": "Valenciennes",
+    "away_goals": 2,
+    "date": "2016-08-19",
+    "home": "Brest",
+    "home_goals": 3,
+    "id": "djzcJDls",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/valenciennes-O8dsB372/?mid=djzcJDls"
+  },
+  "f5xQtN4e": {
+    "away": "Laval",
+    "away_goals": 2,
+    "date": "2016-11-18",
+    "home": "Reims",
+    "home_goals": 0,
+    "id": "f5xQtN4e",
+    "source": "flashscore",
+    "source_status": "18.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/reims-tItR6sEf/?mid=f5xQtN4e"
+  },
+  "fJHbeMJl": {
+    "away": "AC Ajaccio",
+    "away_goals": 1,
+    "date": "2016-11-25",
+    "home": "Niort",
+    "home_goals": 1,
+    "id": "fJHbeMJl",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/niort-SW30dLbl/?mid=fJHbeMJl"
+  },
+  "fPhoO2z9": {
+    "away": "Auxerre",
+    "away_goals": 4,
+    "date": "2016-08-12",
+    "home": "Bourg en Bresse",
+    "home_goals": 2,
+    "id": "fPhoO2z9",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/bourg-peronnas-Ict2iv2P/?mid=fPhoO2z9"
+  },
   "fgCPHoen": {
     "away": "Amiens",
     "away_goals": 0,
@@ -4100,6 +6556,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/auxerre-MTLr36WA/summary/stats/?mid=fgCPHoen",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/auxerre-MTLr36WA/?mid=fgCPHoen"
+  },
+  "fgYKQRLQ": {
+    "away": "Reims",
+    "away_goals": 1,
+    "date": "2017-02-07",
+    "home": "GFC Ajaccio",
+    "home_goals": 1,
+    "id": "fgYKQRLQ",
+    "source": "flashscore",
+    "source_status": "07.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/reims-tItR6sEf/?mid=fgYKQRLQ"
+  },
+  "fkxxcQyA": {
+    "away": "Laval",
+    "away_goals": 0,
+    "date": "2016-07-29",
+    "home": "Nimes",
+    "home_goals": 0,
+    "id": "fkxxcQyA",
+    "source": "flashscore",
+    "source_status": "29.07.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/nimes-pOtlc1qr/?mid=fkxxcQyA"
+  },
+  "fqqoPcwg": {
+    "away": "AC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-10-21",
+    "home": "Le Havre",
+    "home_goals": 2,
+    "id": "fqqoPcwg",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/le-havre-CIEe04GT/?mid=fqqoPcwg"
+  },
+  "fu9c4xKG": {
+    "away": "Tours",
+    "away_goals": 2,
+    "date": "2016-12-16",
+    "home": "Le Havre",
+    "home_goals": 0,
+    "id": "fu9c4xKG",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/tours-lrpZ4Lr7/?mid=fu9c4xKG"
   },
   "h4bbKaYs": {
     "away": "Auxerre",
@@ -4163,6 +6667,66 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/nimes-pOtlc1qr/?mid=h4bbKaYs"
   },
+  "h4zpV1U9": {
+    "away": "Auxerre",
+    "away_goals": 0,
+    "date": "2017-02-24",
+    "home": "Le Havre",
+    "home_goals": 1,
+    "id": "h4zpV1U9",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/le-havre-CIEe04GT/?mid=h4zpV1U9"
+  },
+  "h8AXkNmn": {
+    "away": "Reims",
+    "away_goals": 0,
+    "date": "2017-01-13",
+    "home": "Bourg en Bresse",
+    "home_goals": 1,
+    "id": "h8AXkNmn",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/reims-tItR6sEf/?mid=h8AXkNmn"
+  },
+  "hC40H6yp": {
+    "away": "Le Havre",
+    "away_goals": 0,
+    "date": "2016-10-28",
+    "home": "Reims",
+    "home_goals": 1,
+    "id": "hC40H6yp",
+    "source": "flashscore",
+    "source_status": "28.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/reims-tItR6sEf/?mid=hC40H6yp"
+  },
+  "hG0pfwvJ": {
+    "away": "GFC Ajaccio",
+    "away_goals": 3,
+    "date": "2016-09-30",
+    "home": "Tours",
+    "home_goals": 0,
+    "id": "hG0pfwvJ",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/tours-lrpZ4Lr7/?mid=hG0pfwvJ"
+  },
+  "hKzYEbce": {
+    "away": "Strasbourg",
+    "away_goals": 3,
+    "date": "2016-08-12",
+    "home": "Tours",
+    "home_goals": 1,
+    "id": "hKzYEbce",
+    "source": "flashscore",
+    "source_status": "12.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/tours-lrpZ4Lr7/?mid=hKzYEbce"
+  },
   "hOQqWdXg": {
     "away": "Niort",
     "away_goals": 0,
@@ -4224,6 +6788,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/niort-SW30dLbl/summary/stats/?mid=hOQqWdXg",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/niort-SW30dLbl/?mid=hOQqWdXg"
+  },
+  "hYHUu2ya": {
+    "away": "Lens",
+    "away_goals": 1,
+    "date": "2016-11-29",
+    "home": "Laval",
+    "home_goals": 0,
+    "id": "hYHUu2ya",
+    "source": "flashscore",
+    "source_status": "29.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/lens-IBmris38/?mid=hYHUu2ya"
   },
   "hdQsmk8o": {
     "away": "Tours",
@@ -4287,6 +6863,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/tours-lrpZ4Lr7/?mid=hdQsmk8o"
   },
+  "hhpGiazB": {
+    "away": "Reims",
+    "away_goals": 2,
+    "date": "2016-12-12",
+    "home": "Orleans",
+    "home_goals": 2,
+    "id": "hhpGiazB",
+    "source": "flashscore",
+    "source_status": "12.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/reims-tItR6sEf/?mid=hhpGiazB"
+  },
   "hp2KrzHa": {
     "away": "Clermont",
     "away_goals": 2,
@@ -4348,6 +6936,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/orleans-AqswAEFD/summary/stats/?mid=hp2KrzHa",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/orleans-AqswAEFD/?mid=hp2KrzHa"
+  },
+  "j1FYEUME": {
+    "away": "Nimes",
+    "away_goals": 2,
+    "date": "2017-02-03",
+    "home": "Amiens",
+    "home_goals": 1,
+    "id": "j1FYEUME",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/nimes-pOtlc1qr/?mid=j1FYEUME"
+  },
+  "jDuZw6WN": {
+    "away": "Nimes",
+    "away_goals": 3,
+    "date": "2016-09-09",
+    "home": "Niort",
+    "home_goals": 1,
+    "id": "jDuZw6WN",
+    "source": "flashscore",
+    "source_status": "09.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/niort-SW30dLbl/?mid=jDuZw6WN"
+  },
+  "jHVpe46M": {
+    "away": "Le Havre",
+    "away_goals": 1,
+    "date": "2016-07-29",
+    "home": "Orleans",
+    "home_goals": 0,
+    "id": "jHVpe46M",
+    "source": "flashscore",
+    "source_status": "29.07.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/orleans-AqswAEFD/?mid=jHVpe46M"
+  },
+  "jHiGAq69": {
+    "away": "Orleans",
+    "away_goals": 1,
+    "date": "2016-08-05",
+    "home": "Brest",
+    "home_goals": 2,
+    "id": "jHiGAq69",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/orleans-AqswAEFD/?mid=jHiGAq69"
   },
   "jJE5ebrF": {
     "away": "Auxerre",
@@ -4473,6 +7109,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/nimes-pOtlc1qr/?mid=jL5YFPPb"
   },
+  "jRbPmhOF": {
+    "away": "Troyes",
+    "away_goals": 0,
+    "date": "2017-01-20",
+    "home": "Laval",
+    "home_goals": 1,
+    "id": "jRbPmhOF",
+    "source": "flashscore",
+    "source_status": "20.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/troyes-fsfAHubD/?mid=jRbPmhOF"
+  },
+  "jXVYv1Z7": {
+    "away": "Bourg en Bresse",
+    "away_goals": 3,
+    "date": "2016-11-18",
+    "home": "Valenciennes",
+    "home_goals": 3,
+    "id": "jXVYv1Z7",
+    "source": "flashscore",
+    "source_status": "18.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/valenciennes-O8dsB372/?mid=jXVYv1Z7"
+  },
   "jZp7UOvh": {
     "away": "Valenciennes",
     "away_goals": 2,
@@ -4535,6 +7195,138 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/valenciennes-O8dsB372/?mid=jZp7UOvh"
   },
+  "ji4bRSnI": {
+    "away": "Reims",
+    "away_goals": 1,
+    "date": "2016-08-26",
+    "home": "Tours",
+    "home_goals": 1,
+    "id": "ji4bRSnI",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/tours-lrpZ4Lr7/?mid=ji4bRSnI"
+  },
+  "jkZVhZdc": {
+    "away": "Valenciennes",
+    "away_goals": 0,
+    "date": "2016-09-20",
+    "home": "Amiens",
+    "home_goals": 0,
+    "id": "jkZVhZdc",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/valenciennes-O8dsB372/?mid=jkZVhZdc"
+  },
+  "joB7g0l1": {
+    "away": "Laval",
+    "away_goals": 0,
+    "date": "2016-11-25",
+    "home": "Strasbourg",
+    "home_goals": 1,
+    "id": "joB7g0l1",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/strasbourg-nP6UzIU1/?mid=joB7g0l1"
+  },
+  "juvb2iw9": {
+    "away": "AC Ajaccio",
+    "away_goals": 2,
+    "date": "2017-01-27",
+    "home": "Bourg en Bresse",
+    "home_goals": 3,
+    "id": "juvb2iw9",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/bourg-peronnas-Ict2iv2P/?mid=juvb2iw9"
+  },
+  "jwPPCTXO": {
+    "away": "Nimes",
+    "away_goals": 1,
+    "date": "2016-08-19",
+    "home": "Strasbourg",
+    "home_goals": 1,
+    "id": "jwPPCTXO",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/strasbourg-nP6UzIU1/?mid=jwPPCTXO"
+  },
+  "jwZkL5ql": {
+    "away": "Laval",
+    "away_goals": 1,
+    "date": "2017-02-07",
+    "home": "Orleans",
+    "home_goals": 2,
+    "id": "jwZkL5ql",
+    "source": "flashscore",
+    "source_status": "07.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/orleans-AqswAEFD/?mid=jwZkL5ql"
+  },
+  "l0maesyn": {
+    "away": "Clermont",
+    "away_goals": 1,
+    "date": "2016-12-09",
+    "home": "Bourg en Bresse",
+    "home_goals": 1,
+    "id": "l0maesyn",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/clermont-IRuMRua1/?mid=l0maesyn"
+  },
+  "l2813dZM": {
+    "away": "GFC Ajaccio",
+    "away_goals": 1,
+    "date": "2016-12-17",
+    "home": "Lens",
+    "home_goals": 2,
+    "id": "l2813dZM",
+    "source": "flashscore",
+    "source_status": "17.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/lens-IBmris38/?mid=l2813dZM"
+  },
+  "l43V3m7p": {
+    "away": "Valenciennes",
+    "away_goals": 1,
+    "date": "2016-10-21",
+    "home": "Tours",
+    "home_goals": 4,
+    "id": "l43V3m7p",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/tours-lrpZ4Lr7/valenciennes-O8dsB372/?mid=l43V3m7p"
+  },
+  "l6rkOHha": {
+    "away": "Reims",
+    "away_goals": 1,
+    "date": "2016-10-22",
+    "home": "Lens",
+    "home_goals": 1,
+    "id": "l6rkOHha",
+    "source": "flashscore",
+    "source_status": "22.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/reims-tItR6sEf/?mid=l6rkOHha"
+  },
+  "lIlKEtpT": {
+    "away": "Laval",
+    "away_goals": 1,
+    "date": "2017-02-17",
+    "home": "Sochaux",
+    "home_goals": 1,
+    "id": "lIlKEtpT",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/sochaux-jPojkLXK/?mid=lIlKEtpT"
+  },
   "lOJjoTxb": {
     "away": "GFC Ajaccio",
     "away_goals": 2,
@@ -4596,6 +7388,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/gfc-ajaccio-QZuxDxup/summary/stats/?mid=lOJjoTxb",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/gfc-ajaccio-QZuxDxup/?mid=lOJjoTxb"
+  },
+  "lWThTuaM": {
+    "away": "GFC Ajaccio",
+    "away_goals": 1,
+    "date": "2017-02-24",
+    "home": "Nimes",
+    "home_goals": 1,
+    "id": "lWThTuaM",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/nimes-pOtlc1qr/?mid=lWThTuaM"
+  },
+  "ldDq230N": {
+    "away": "Troyes",
+    "away_goals": 2,
+    "date": "2017-02-10",
+    "home": "Niort",
+    "home_goals": 3,
+    "id": "ldDq230N",
+    "source": "flashscore",
+    "source_status": "10.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/troyes-fsfAHubD/?mid=ldDq230N"
+  },
+  "ldcL5Qq1": {
+    "away": "Bourg en Bresse",
+    "away_goals": 2,
+    "date": "2017-02-03",
+    "home": "Niort",
+    "home_goals": 3,
+    "id": "ldcL5Qq1",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/niort-SW30dLbl/?mid=ldcL5Qq1"
   },
   "lhNXp5QO": {
     "away": "Tours",
@@ -4845,6 +7673,78 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/strasbourg-nP6UzIU1/?mid=llRm8YNk"
   },
+  "lnUtDxS7": {
+    "away": "Reims",
+    "away_goals": 0,
+    "date": "2016-08-13",
+    "home": "Valenciennes",
+    "home_goals": 0,
+    "id": "lnUtDxS7",
+    "source": "flashscore",
+    "source_status": "13.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/valenciennes-O8dsB372/?mid=lnUtDxS7"
+  },
+  "lvKvVP5q": {
+    "away": "Sochaux",
+    "away_goals": 0,
+    "date": "2016-11-04",
+    "home": "Niort",
+    "home_goals": 2,
+    "id": "lvKvVP5q",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/sochaux-jPojkLXK/?mid=lvKvVP5q"
+  },
+  "lz4tl1Ib": {
+    "away": "Le Havre",
+    "away_goals": 0,
+    "date": "2017-01-13",
+    "home": "Nimes",
+    "home_goals": 0,
+    "id": "lz4tl1Ib",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/nimes-pOtlc1qr/?mid=lz4tl1Ib"
+  },
+  "n7X60V7L": {
+    "away": "Laval",
+    "away_goals": 1,
+    "date": "2017-01-27",
+    "home": "GFC Ajaccio",
+    "home_goals": 1,
+    "id": "n7X60V7L",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/laval-E1wDrLsJ/?mid=n7X60V7L"
+  },
+  "nHSviDR9": {
+    "away": "Brest",
+    "away_goals": 1,
+    "date": "2016-09-20",
+    "home": "Le Havre",
+    "home_goals": 1,
+    "id": "nHSviDR9",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/?mid=nHSviDR9"
+  },
+  "nJc7P6HU": {
+    "away": "Laval",
+    "away_goals": 0,
+    "date": "2016-08-26",
+    "home": "Valenciennes",
+    "home_goals": 2,
+    "id": "nJc7P6HU",
+    "source": "flashscore",
+    "source_status": "26.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/valenciennes-O8dsB372/?mid=nJc7P6HU"
+  },
   "nNLVOuQQ": {
     "away": "Laval",
     "away_goals": 0,
@@ -4907,6 +7807,90 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/lens-IBmris38/?mid=nNLVOuQQ"
   },
+  "nReJq1q3": {
+    "away": "Nimes",
+    "away_goals": 1,
+    "date": "2017-03-03",
+    "home": "Bourg en Bresse",
+    "home_goals": 0,
+    "id": "nReJq1q3",
+    "source": "flashscore",
+    "source_status": "03.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/nimes-pOtlc1qr/?mid=nReJq1q3"
+  },
+  "neFk53nK": {
+    "away": "Troyes",
+    "away_goals": 1,
+    "date": "2016-09-30",
+    "home": "Amiens",
+    "home_goals": 0,
+    "id": "neFk53nK",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/troyes-fsfAHubD/?mid=neFk53nK"
+  },
+  "nghYoWhS": {
+    "away": "Nimes",
+    "away_goals": 3,
+    "date": "2017-01-21",
+    "home": "Lens",
+    "home_goals": 1,
+    "id": "nghYoWhS",
+    "source": "flashscore",
+    "source_status": "21.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/nimes-pOtlc1qr/?mid=nghYoWhS"
+  },
+  "nwMJ8xgC": {
+    "away": "Lens",
+    "away_goals": 0,
+    "date": "2016-10-17",
+    "home": "Sochaux",
+    "home_goals": 1,
+    "id": "nwMJ8xgC",
+    "source": "flashscore",
+    "source_status": "17.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/sochaux-jPojkLXK/?mid=nwMJ8xgC"
+  },
+  "p8ABhK37": {
+    "away": "Clermont",
+    "away_goals": 0,
+    "date": "2016-11-25",
+    "home": "Troyes",
+    "home_goals": 1,
+    "id": "p8ABhK37",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/troyes-fsfAHubD/?mid=p8ABhK37"
+  },
+  "pAmxcfCj": {
+    "away": "Niort",
+    "away_goals": 0,
+    "date": "2016-12-16",
+    "home": "Strasbourg",
+    "home_goals": 3,
+    "id": "pAmxcfCj",
+    "source": "flashscore",
+    "source_status": "16.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/strasbourg-nP6UzIU1/?mid=pAmxcfCj"
+  },
+  "pEobL0KR": {
+    "away": "Lens",
+    "away_goals": 2,
+    "date": "2016-08-15",
+    "home": "Nimes",
+    "home_goals": 0,
+    "id": "pEobL0KR",
+    "source": "flashscore",
+    "source_status": "15.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/nimes-pOtlc1qr/?mid=pEobL0KR"
+  },
   "pGtSLihk": {
     "away": "Bourg en Bresse",
     "away_goals": 1,
@@ -4968,6 +7952,42 @@
     "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/red-star-2kM6ufaS/summary/stats/?mid=pGtSLihk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/red-star-2kM6ufaS/?mid=pGtSLihk"
+  },
+  "pOjU34ED": {
+    "away": "GFC Ajaccio",
+    "away_goals": 0,
+    "date": "2017-02-03",
+    "home": "Strasbourg",
+    "home_goals": 2,
+    "id": "pOjU34ED",
+    "source": "flashscore",
+    "source_status": "03.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/strasbourg-nP6UzIU1/?mid=pOjU34ED"
+  },
+  "pSt8gL5b": {
+    "away": "Brest",
+    "away_goals": 2,
+    "date": "2016-12-09",
+    "home": "Nimes",
+    "home_goals": 1,
+    "id": "pSt8gL5b",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/nimes-pOtlc1qr/?mid=pSt8gL5b"
+  },
+  "pWnjmPRR": {
+    "away": "Amiens",
+    "away_goals": 0,
+    "date": "2016-11-19",
+    "home": "Le Havre",
+    "home_goals": 0,
+    "id": "pWnjmPRR",
+    "source": "flashscore",
+    "source_status": "19.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/le-havre-CIEe04GT/?mid=pWnjmPRR"
   },
   "pbNyYI2s": {
     "away": "Bourg en Bresse",
@@ -5093,6 +8113,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/gfc-ajaccio-QZuxDxup/?mid=pdpBTrfb"
   },
+  "ppSO1OtL": {
+    "away": "Sochaux",
+    "away_goals": 1,
+    "date": "2016-11-25",
+    "home": "GFC Ajaccio",
+    "home_goals": 0,
+    "id": "ppSO1OtL",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/sochaux-jPojkLXK/?mid=ppSO1OtL"
+  },
   "pr5xFqu5": {
     "away": "Laval",
     "away_goals": 0,
@@ -5154,6 +8186,78 @@
     "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/summary/stats/?mid=pr5xFqu5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/?mid=pr5xFqu5"
+  },
+  "prm8uUVe": {
+    "away": "Clermont",
+    "away_goals": 3,
+    "date": "2017-01-20",
+    "home": "Sochaux",
+    "home_goals": 3,
+    "id": "prm8uUVe",
+    "source": "flashscore",
+    "source_status": "20.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/sochaux-jPojkLXK/?mid=prm8uUVe"
+  },
+  "pvVlfOLS": {
+    "away": "Auxerre",
+    "away_goals": 0,
+    "date": "2016-07-30",
+    "home": "Red Star",
+    "home_goals": 0,
+    "id": "pvVlfOLS",
+    "source": "flashscore",
+    "source_status": "30.07.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/red-star-2kM6ufaS/?mid=pvVlfOLS"
+  },
+  "r3pMQAEc": {
+    "away": "Niort",
+    "away_goals": 4,
+    "date": "2016-10-29",
+    "home": "Auxerre",
+    "home_goals": 0,
+    "id": "r3pMQAEc",
+    "source": "flashscore",
+    "source_status": "29.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/niort-SW30dLbl/?mid=r3pMQAEc"
+  },
+  "r5FS6GNO": {
+    "away": "Niort",
+    "away_goals": 1,
+    "date": "2016-10-14",
+    "home": "Valenciennes",
+    "home_goals": 3,
+    "id": "r5FS6GNO",
+    "source": "flashscore",
+    "source_status": "14.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/valenciennes-O8dsB372/?mid=r5FS6GNO"
+  },
+  "r5ybMeNB": {
+    "away": "Clermont",
+    "away_goals": 1,
+    "date": "2016-10-21",
+    "home": "Niort",
+    "home_goals": 2,
+    "id": "r5ybMeNB",
+    "source": "flashscore",
+    "source_status": "21.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/niort-SW30dLbl/?mid=r5ybMeNB"
+  },
+  "r7Y4HiJg": {
+    "away": "Troyes",
+    "away_goals": 3,
+    "date": "2016-08-19",
+    "home": "Le Havre",
+    "home_goals": 1,
+    "id": "r7Y4HiJg",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/troyes-fsfAHubD/?mid=r7Y4HiJg"
   },
   "rDJdTfHC": {
     "away": "Amiens",
@@ -5279,6 +8383,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/strasbourg-nP6UzIU1/?mid=rFr7a4uI"
   },
+  "rR0jTlI5": {
+    "away": "Le Havre",
+    "away_goals": 0,
+    "date": "2016-08-27",
+    "home": "Red Star",
+    "home_goals": 0,
+    "id": "rR0jTlI5",
+    "source": "flashscore",
+    "source_status": "27.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/red-star-2kM6ufaS/?mid=rR0jTlI5"
+  },
   "rTNuE3fB": {
     "away": "Bourg en Bresse",
     "away_goals": 0,
@@ -5403,6 +8519,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/troyes-fsfAHubD/?mid=rZfXuY0I"
   },
+  "rc3pmLX4": {
+    "away": "Laval",
+    "away_goals": 2,
+    "date": "2017-01-13",
+    "home": "Niort",
+    "home_goals": 2,
+    "id": "rc3pmLX4",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/niort-SW30dLbl/?mid=rc3pmLX4"
+  },
   "rgBccKD2": {
     "away": "Bourg en Bresse",
     "away_goals": 1,
@@ -5464,6 +8592,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/bourg-peronnas-Ict2iv2P/summary/stats/?mid=rgBccKD2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/bourg-peronnas-Ict2iv2P/?mid=rgBccKD2"
+  },
+  "rgTdSaES": {
+    "away": "Red Star",
+    "away_goals": 3,
+    "date": "2017-02-24",
+    "home": "Niort",
+    "home_goals": 2,
+    "id": "rgTdSaES",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/red-star-2kM6ufaS/?mid=rgTdSaES"
+  },
+  "rgkSsuEF": {
+    "away": "Laval",
+    "away_goals": 1,
+    "date": "2017-03-03",
+    "home": "Clermont",
+    "home_goals": 1,
+    "id": "rgkSsuEF",
+    "source": "flashscore",
+    "source_status": "03.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/laval-E1wDrLsJ/?mid=rgkSsuEF"
   },
   "rkXCkTBg": {
     "away": "Niort",
@@ -5651,6 +8803,114 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/nimes-pOtlc1qr/?mid=rkyAxafQ"
   },
+  "rskErUHh": {
+    "away": "Sochaux",
+    "away_goals": 0,
+    "date": "2016-09-09",
+    "home": "Auxerre",
+    "home_goals": 0,
+    "id": "rskErUHh",
+    "source": "flashscore",
+    "source_status": "09.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/sochaux-jPojkLXK/?mid=rskErUHh"
+  },
+  "rwFQN8bG": {
+    "away": "Amiens",
+    "away_goals": 0,
+    "date": "2016-10-29",
+    "home": "Clermont",
+    "home_goals": 1,
+    "id": "rwFQN8bG",
+    "source": "flashscore",
+    "source_status": "29.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/clermont-IRuMRua1/?mid=rwFQN8bG"
+  },
+  "rwJxe9Vr": {
+    "away": "Sochaux",
+    "away_goals": 0,
+    "date": "2017-01-27",
+    "home": "Orleans",
+    "home_goals": 1,
+    "id": "rwJxe9Vr",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/sochaux-jPojkLXK/?mid=rwJxe9Vr"
+  },
+  "tAtnA0hp": {
+    "away": "Nimes",
+    "away_goals": 0,
+    "date": "2017-02-17",
+    "home": "Troyes",
+    "home_goals": 0,
+    "id": "tAtnA0hp",
+    "source": "flashscore",
+    "source_status": "17.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/troyes-fsfAHubD/?mid=tAtnA0hp"
+  },
+  "tU8XLcid": {
+    "away": "Troyes",
+    "away_goals": 0,
+    "date": "2017-02-24",
+    "home": "Tours",
+    "home_goals": 0,
+    "id": "tU8XLcid",
+    "source": "flashscore",
+    "source_status": "24.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/tours-lrpZ4Lr7/troyes-fsfAHubD/?mid=tU8XLcid"
+  },
+  "tUWAakNR": {
+    "away": "Strasbourg",
+    "away_goals": 2,
+    "date": "2017-01-27",
+    "home": "Nimes",
+    "home_goals": 2,
+    "id": "tUWAakNR",
+    "source": "flashscore",
+    "source_status": "27.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/strasbourg-nP6UzIU1/?mid=tUWAakNR"
+  },
+  "tW9y4PVA": {
+    "away": "Clermont",
+    "away_goals": 1,
+    "date": "2017-02-13",
+    "home": "Lens",
+    "home_goals": 3,
+    "id": "tW9y4PVA",
+    "source": "flashscore",
+    "source_status": "13.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/lens-IBmris38/?mid=tW9y4PVA"
+  },
+  "tYpewlb3": {
+    "away": "Orleans",
+    "away_goals": 0,
+    "date": "2016-11-04",
+    "home": "Bourg en Bresse",
+    "home_goals": 0,
+    "id": "tYpewlb3",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/orleans-AqswAEFD/?mid=tYpewlb3"
+  },
+  "tbOartu7": {
+    "away": "Lens",
+    "away_goals": 2,
+    "date": "2016-09-24",
+    "home": "Valenciennes",
+    "home_goals": 1,
+    "id": "tbOartu7",
+    "source": "flashscore",
+    "source_status": "24.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/valenciennes-O8dsB372/?mid=tbOartu7"
+  },
   "tlXEYzy2": {
     "away": "Strasbourg",
     "away_goals": 1,
@@ -5712,6 +8972,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/valenciennes-O8dsB372/summary/stats/?mid=tlXEYzy2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/valenciennes-O8dsB372/?mid=tlXEYzy2"
+  },
+  "tnAPmMbd": {
+    "away": "Clermont",
+    "away_goals": 0,
+    "date": "2016-07-29",
+    "home": "Valenciennes",
+    "home_goals": 2,
+    "id": "tnAPmMbd",
+    "source": "flashscore",
+    "source_status": "29.07.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/valenciennes-O8dsB372/?mid=tnAPmMbd"
+  },
+  "tnbaJ4Vc": {
+    "away": "Le Havre",
+    "away_goals": 0,
+    "date": "2017-02-18",
+    "home": "Brest",
+    "home_goals": 2,
+    "id": "tnbaJ4Vc",
+    "source": "flashscore",
+    "source_status": "18.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/?mid=tnbaJ4Vc"
+  },
+  "tvSrjXtG": {
+    "away": "Orleans",
+    "away_goals": 2,
+    "date": "2016-09-20",
+    "home": "Lens",
+    "home_goals": 4,
+    "id": "tvSrjXtG",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/lens-IBmris38/orleans-AqswAEFD/?mid=tvSrjXtG"
+  },
+  "v7Z2CKgm": {
+    "away": "Strasbourg",
+    "away_goals": 1,
+    "date": "2016-10-15",
+    "home": "Brest",
+    "home_goals": 2,
+    "id": "v7Z2CKgm",
+    "source": "flashscore",
+    "source_status": "15.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/?mid=v7Z2CKgm"
   },
   "vL0AHcI0": {
     "away": "Le Havre",
@@ -5775,6 +9083,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/strasbourg-nP6UzIU1/?mid=vL0AHcI0"
   },
+  "vPdgoa2H": {
+    "away": "Clermont",
+    "away_goals": 3,
+    "date": "2017-01-13",
+    "home": "Red Star",
+    "home_goals": 1,
+    "id": "vPdgoa2H",
+    "source": "flashscore",
+    "source_status": "13.01.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/red-star-2kM6ufaS/?mid=vPdgoa2H"
+  },
+  "vgfUcLvf": {
+    "away": "Bourg en Bresse",
+    "away_goals": 0,
+    "date": "2016-09-30",
+    "home": "Nimes",
+    "home_goals": 0,
+    "id": "vgfUcLvf",
+    "source": "flashscore",
+    "source_status": "30.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/nimes-pOtlc1qr/?mid=vgfUcLvf"
+  },
   "vgx0O5Vp": {
     "away": "Auxerre",
     "away_goals": 0,
@@ -5836,6 +9168,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/valenciennes-O8dsB372/summary/stats/?mid=vgx0O5Vp",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/valenciennes-O8dsB372/?mid=vgx0O5Vp"
+  },
+  "vkKtw0LH": {
+    "away": "Niort",
+    "away_goals": 0,
+    "date": "2016-11-28",
+    "home": "Reims",
+    "home_goals": 1,
+    "id": "vkKtw0LH",
+    "source": "flashscore",
+    "source_status": "28.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/reims-tItR6sEf/?mid=vkKtw0LH"
+  },
+  "vktChuL4": {
+    "away": "Le Havre",
+    "away_goals": 1,
+    "date": "2016-12-09",
+    "home": "Niort",
+    "home_goals": 1,
+    "id": "vktChuL4",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/niort-SW30dLbl/?mid=vktChuL4"
   },
   "vsxGcrAU": {
     "away": "Orleans",
@@ -5899,6 +9255,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/troyes-fsfAHubD/?mid=vsxGcrAU"
   },
+  "x00Zj7S2": {
+    "away": "Strasbourg",
+    "away_goals": 0,
+    "date": "2016-11-18",
+    "home": "AC Ajaccio",
+    "home_goals": 2,
+    "id": "x00Zj7S2",
+    "source": "flashscore",
+    "source_status": "18.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/strasbourg-nP6UzIU1/?mid=x00Zj7S2"
+  },
+  "x40ktdDi": {
+    "away": "Auxerre",
+    "away_goals": 0,
+    "date": "2016-09-17",
+    "home": "Brest",
+    "home_goals": 1,
+    "id": "x40ktdDi",
+    "source": "flashscore",
+    "source_status": "17.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/brest-Cr4VGaUl/?mid=x40ktdDi"
+  },
   "xA7rUFp9": {
     "away": "Tours",
     "away_goals": 1,
@@ -5960,6 +9340,30 @@
     "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/tours-lrpZ4Lr7/summary/stats/?mid=xA7rUFp9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/tours-lrpZ4Lr7/?mid=xA7rUFp9"
+  },
+  "xGlWtaTL": {
+    "away": "Tours",
+    "away_goals": 2,
+    "date": "2017-03-03",
+    "home": "GFC Ajaccio",
+    "home_goals": 2,
+    "id": "xGlWtaTL",
+    "source": "flashscore",
+    "source_status": "03.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/tours-lrpZ4Lr7/?mid=xGlWtaTL"
+  },
+  "xQqQPUT3": {
+    "away": "GFC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-10-28",
+    "home": "Bourg en Bresse",
+    "home_goals": 1,
+    "id": "xQqQPUT3",
+    "source": "flashscore",
+    "source_status": "28.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/gfc-ajaccio-QZuxDxup/?mid=xQqQPUT3"
   },
   "xWt3V4Po": {
     "away": "Le Havre",
@@ -6023,6 +9427,30 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/le-havre-CIEe04GT/?mid=xWt3V4Po"
   },
+  "xYgS7sjS": {
+    "away": "Nimes",
+    "away_goals": 0,
+    "date": "2016-08-05",
+    "home": "Le Havre",
+    "home_goals": 1,
+    "id": "xYgS7sjS",
+    "source": "flashscore",
+    "source_status": "05.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/nimes-pOtlc1qr/?mid=xYgS7sjS"
+  },
+  "xr73ftZf": {
+    "away": "Valenciennes",
+    "away_goals": 2,
+    "date": "2016-11-25",
+    "home": "Orleans",
+    "home_goals": 0,
+    "id": "xr73ftZf",
+    "source": "flashscore",
+    "source_status": "25.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/valenciennes-O8dsB372/?mid=xr73ftZf"
+  },
   "z59KRst8": {
     "away": "AC Ajaccio",
     "away_goals": 1,
@@ -6084,6 +9512,18 @@
     "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/amiens-sc-lKkBAsxF/summary/stats/?mid=z59KRst8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/amiens-sc-lKkBAsxF/?mid=z59KRst8"
+  },
+  "zHZKjJkH": {
+    "away": "Valenciennes",
+    "away_goals": 2,
+    "date": "2016-12-09",
+    "home": "Red Star",
+    "home_goals": 2,
+    "id": "zHZKjJkH",
+    "source": "flashscore",
+    "source_status": "09.12.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/valenciennes-O8dsB372/?mid=zHZKjJkH"
   },
   "zPT4ikss": {
     "away": "Troyes",
@@ -6208,6 +9648,54 @@
     "statistics_url": "https://www.flashscore.com/match/football/troyes-fsfAHubD/valenciennes-O8dsB372/summary/stats/?mid=zR2K6Lno",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/troyes-fsfAHubD/valenciennes-O8dsB372/?mid=zR2K6Lno"
+  },
+  "zTJG8mHu": {
+    "away": "Valenciennes",
+    "away_goals": 2,
+    "date": "2017-02-10",
+    "home": "AC Ajaccio",
+    "home_goals": 3,
+    "id": "zTJG8mHu",
+    "source": "flashscore",
+    "source_status": "10.02.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/valenciennes-O8dsB372/?mid=zTJG8mHu"
+  },
+  "zXw4ySSF": {
+    "away": "Le Havre",
+    "away_goals": 2,
+    "date": "2016-11-04",
+    "home": "Laval",
+    "home_goals": 0,
+    "id": "zXw4ySSF",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/?mid=zXw4ySSF"
+  },
+  "zeMjSNk2": {
+    "away": "Valenciennes",
+    "away_goals": 0,
+    "date": "2016-11-04",
+    "home": "Troyes",
+    "home_goals": 2,
+    "id": "zeMjSNk2",
+    "source": "flashscore",
+    "source_status": "04.11.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/troyes-fsfAHubD/valenciennes-O8dsB372/?mid=zeMjSNk2"
+  },
+  "ziU6zc6k": {
+    "away": "Le Havre",
+    "away_goals": 1,
+    "date": "2017-03-03",
+    "home": "Sochaux",
+    "home_goals": 0,
+    "id": "ziU6zc6k",
+    "source": "flashscore",
+    "source_status": "03.03.2017",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/sochaux-jPojkLXK/?mid=ziU6zc6k"
   },
   "zmGlVGn0": {
     "away": "Strasbourg",
@@ -6457,6 +9945,18 @@
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/reims-tItR6sEf/?mid=zqdj3ntg"
   },
+  "zsZ0IX3m": {
+    "away": "GFC Ajaccio",
+    "away_goals": 1,
+    "date": "2016-08-19",
+    "home": "Laval",
+    "home_goals": 0,
+    "id": "zsZ0IX3m",
+    "source": "flashscore",
+    "source_status": "19.08.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/laval-E1wDrLsJ/?mid=zsZ0IX3m"
+  },
   "zuM2rRMG": {
     "away": "Orleans",
     "away_goals": 1,
@@ -6518,5 +10018,29 @@
     "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/orleans-AqswAEFD/summary/stats/?mid=zuM2rRMG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/orleans-AqswAEFD/?mid=zuM2rRMG"
+  },
+  "zupHXOQl": {
+    "away": "GFC Ajaccio",
+    "away_goals": 0,
+    "date": "2016-09-20",
+    "home": "Niort",
+    "home_goals": 0,
+    "id": "zupHXOQl",
+    "source": "flashscore",
+    "source_status": "20.09.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/niort-SW30dLbl/?mid=zupHXOQl"
+  },
+  "zyf5GQjj": {
+    "away": "Strasbourg",
+    "away_goals": 2,
+    "date": "2016-10-29",
+    "home": "Sochaux",
+    "home_goals": 1,
+    "id": "zyf5GQjj",
+    "source": "flashscore",
+    "source_status": "29.10.2016",
+    "status": "finished",
+    "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/strasbourg-nP6UzIU1/?mid=zyf5GQjj"
   }
 }

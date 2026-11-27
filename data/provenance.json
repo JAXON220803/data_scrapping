@@ -3520,6 +3520,126 @@
     "value": 6
   },
   {
+    "away": "Lens",
+    "date": "29/07/16",
+    "field": "AS",
+    "fixture_id": "CQWtdpiG",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Lens",
+    "date": "29/07/16",
+    "field": "AST",
+    "fixture_id": "CQWtdpiG",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Lens",
+    "date": "29/07/16",
+    "field": "HS",
+    "fixture_id": "CQWtdpiG",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Lens",
+    "date": "29/07/16",
+    "field": "HST",
+    "fixture_id": "CQWtdpiG",
+    "home": "Niort",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 1
+  },
+  {
+    "away": "Ajaccio",
+    "date": "29/07/16",
+    "field": "AS",
+    "fixture_id": "KWLGkrUq",
+    "home": "Tours",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Ajaccio",
+    "date": "29/07/16",
+    "field": "AST",
+    "fixture_id": "KWLGkrUq",
+    "home": "Tours",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Ajaccio",
+    "date": "29/07/16",
+    "field": "HS",
+    "fixture_id": "KWLGkrUq",
+    "home": "Tours",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Ajaccio",
+    "date": "29/07/16",
+    "field": "HST",
+    "fixture_id": "KWLGkrUq",
+    "home": "Tours",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Sochaux",
+    "date": "29/07/16",
+    "field": "AS",
+    "fixture_id": "2eBLl2qj",
+    "home": "Troyes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 10
+  },
+  {
+    "away": "Sochaux",
+    "date": "29/07/16",
+    "field": "AST",
+    "fixture_id": "2eBLl2qj",
+    "home": "Troyes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Sochaux",
+    "date": "29/07/16",
+    "field": "HS",
+    "fixture_id": "2eBLl2qj",
+    "home": "Troyes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Sochaux",
+    "date": "29/07/16",
+    "field": "HST",
+    "fixture_id": "2eBLl2qj",
+    "home": "Troyes",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
     "away": "Niort",
     "date": "04/03/17",
     "field": "AS",

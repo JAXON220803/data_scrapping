@@ -4071,8 +4071,11 @@
     "home": "St. Pauli",
     "home_goals": 0,
     "id": "rmqOnjgA",
+    "shots": {},
     "source": "flashscore",
     "source_status": "26.02.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/braunschweig-QqLCC3il/st-pauli-ILyJuN3g/?mid=rmqOnjgA"
   },
@@ -4443,8 +4446,11 @@
     "home": "Dusseldorf",
     "home_goals": 0,
     "id": "xf0qplwT",
+    "shots": {},
     "source": "flashscore",
     "source_status": "27.02.2012",
+    "statistics": [],
+    "statistics_status": "unavailable",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/alemannia-aachen-j3PKcB4E/dusseldorf-ne1oL3y7/?mid=xf0qplwT"
   },

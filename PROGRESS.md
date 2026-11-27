@@ -1,17 +1,17 @@
 # Collection progress: in_progress
 
-**Missing matches filled: 6.02% — 1,811 / 30,073**
+**Missing matches filled: 6.03% — 1,814 / 30,073**
 
 A match counts as filled only when all four shot values are present. The denominator is the originally incomplete reference matches, without counting provider duplicates.
 
-Updated: 2026-11-27T09:40:00.022294+00:00
+Updated: 2026-11-27T09:46:04.772573+00:00
 
 - Whole league-seasons selected: 115
-- Provider season tasks completed: 12/230
-- Provider match records downloaded: 4621
-- Provider records with all four shot values: 2286
-- Previously empty reference cells recovered: 7248
-- Reference matches still missing shot values: 28262
+- Provider season tasks completed: 13/230
+- Provider match records downloaded: 4898
+- Provider records with all four shot values: 2290
+- Previously empty reference cells recovered: 7260
+- Reference matches still missing shot values: 28259
 
 | Season | Sofa fixtures / checked / with shots | Flash fixtures / checked / with shots | Remaining gaps | Filled % |
 |---|---:|---:|---:|---:|
@@ -43,13 +43,13 @@ Updated: 2026-11-27T09:40:00.022294+00:00
 | France/F2/2014-2015 | 0 / 0 / 0 | 110 / 110 / 0 | 380 | 0.00% |
 | France/F2/2015-2016 | 0 / 0 / 0 | 380 / 145 / 110 | 292 | 23.16% |
 | France/F1/2016-2017 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
-| France/F2/2016-2017 | 0 / 0 / 0 | 105 / 105 / 105 | 296 | 22.11% |
+| France/F2/2016-2017 | 0 / 0 / 0 | 382 / 109 / 109 | 293 | 22.89% |
 | France/F2/2020-2021 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2021-2022 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2022-2023 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | France/F2/2025-2026 | 0 / 0 / 0 | 0 / 0 / 0 | 1 | 0.00% |
 | Germany/D2/2010-2011 | 0 / 0 / 0 | 0 / 0 / 0 | 304 | 0.00% |
-| Germany/D2/2011-2012 | 0 / 0 / 0 | 310 / 308 / 0 | 306 | 0.00% |
+| Germany/D2/2011-2012 | 0 / 0 / 0 | 310 / 310 / 0 | 306 | 0.00% |
 | Germany/D2/2012-2013 | 0 / 0 / 0 | 308 / 308 / 2 | 306 | 0.00% |
 | Germany/D2/2013-2014 | 0 / 0 / 0 | 308 / 308 / 303 | 98 | 67.97% |
 | Germany/D2/2014-2015 | 0 / 0 / 0 | 308 / 308 / 308 | 66 | 78.43% |
