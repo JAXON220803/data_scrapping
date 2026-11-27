@@ -10,13 +10,6 @@
       "requests": 20,
       "status": "paused_by_budget",
       "target": "Germany/D2/2012-2013"
-    },
-    "sofascore": {
-      "reason": "HTTP 403: source denied access",
-      "requests": 1,
-      "retry_at": 1795854215.4846358,
-      "status": "Blocked",
-      "target": "Netherlands/N1/2016-2017"
     }
   },
   "manifest_signature": "ac1db0160362904e8dc45aba09f96ce7707a36995ea890ffc1a791042e441a3d",
@@ -1200,7 +1193,7 @@
           "phase": "statistics",
           "reason": null,
           "statistics_available": 2,
-          "statistics_checked": 279
+          "statistics_checked": 299
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3827,5 +3820,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-27T08:28:33.546328+00:00"
+  "updated_utc": "2026-11-27T08:34:42.052544+00:00"
 }
