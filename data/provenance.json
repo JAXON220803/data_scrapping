@@ -3840,6 +3840,166 @@
     "value": 8
   },
   {
+    "away": "Troyes",
+    "date": "05/08/16",
+    "field": "AS",
+    "fixture_id": "U137C5yc",
+    "home": "Ajaccio",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Troyes",
+    "date": "05/08/16",
+    "field": "AST",
+    "fixture_id": "U137C5yc",
+    "home": "Ajaccio",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Troyes",
+    "date": "05/08/16",
+    "field": "HS",
+    "fixture_id": "U137C5yc",
+    "home": "Ajaccio",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 12
+  },
+  {
+    "away": "Troyes",
+    "date": "05/08/16",
+    "field": "HST",
+    "fixture_id": "U137C5yc",
+    "home": "Ajaccio",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Red Star",
+    "date": "05/08/16",
+    "field": "AS",
+    "fixture_id": "4KeK93LF",
+    "home": "Clermont",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Red Star",
+    "date": "05/08/16",
+    "field": "AST",
+    "fixture_id": "4KeK93LF",
+    "home": "Clermont",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 2
+  },
+  {
+    "away": "Red Star",
+    "date": "05/08/16",
+    "field": "HS",
+    "fixture_id": "4KeK93LF",
+    "home": "Clermont",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 9
+  },
+  {
+    "away": "Red Star",
+    "date": "05/08/16",
+    "field": "HST",
+    "fixture_id": "4KeK93LF",
+    "home": "Clermont",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Tours",
+    "date": "05/08/16",
+    "field": "AS",
+    "fixture_id": "SCDn31bq",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 7
+  },
+  {
+    "away": "Tours",
+    "date": "05/08/16",
+    "field": "AST",
+    "fixture_id": "SCDn31bq",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 4
+  },
+  {
+    "away": "Tours",
+    "date": "05/08/16",
+    "field": "HS",
+    "fixture_id": "SCDn31bq",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 8
+  },
+  {
+    "away": "Tours",
+    "date": "05/08/16",
+    "field": "HST",
+    "fixture_id": "SCDn31bq",
+    "home": "Lens",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Valenciennes",
+    "date": "05/08/16",
+    "field": "AS",
+    "fixture_id": "0QBf1uTe",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 5
+  },
+  {
+    "away": "Valenciennes",
+    "date": "05/08/16",
+    "field": "AST",
+    "fixture_id": "0QBf1uTe",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
+    "away": "Valenciennes",
+    "date": "05/08/16",
+    "field": "HS",
+    "fixture_id": "0QBf1uTe",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 15
+  },
+  {
+    "away": "Valenciennes",
+    "date": "05/08/16",
+    "field": "HST",
+    "fixture_id": "0QBf1uTe",
+    "home": "Sochaux",
+    "source": "flashscore",
+    "target": "France/F2/2016-2017",
+    "value": 3
+  },
+  {
     "away": "Niort",
     "date": "04/03/17",
     "field": "AS",
