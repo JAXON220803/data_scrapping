@@ -1306,8 +1306,58 @@
     "home": "Amiens",
     "home_goals": 1,
     "id": "8YZPaSii",
+    "shots": {
+      "AS": 5,
+      "AST": 4,
+      "HS": 13,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "01.08.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "19",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/reims-tItR6sEf/summary/stats/?mid=8YZPaSii",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/reims-tItR6sEf/?mid=8YZPaSii"
   },
@@ -4170,8 +4220,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 0,
     "id": "MyvUbn7c",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "29.07.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "35",
+        "home": "36",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/strasbourg-nP6UzIU1/summary/stats/?mid=MyvUbn7c",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/strasbourg-nP6UzIU1/?mid=MyvUbn7c"
   },
@@ -6576,8 +6676,58 @@
     "home": "Nimes",
     "home_goals": 0,
     "id": "fkxxcQyA",
+    "shots": {
+      "AS": 6,
+      "AST": 2,
+      "HS": 13,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "29.07.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "24",
+        "name": "Free kicks"
+      },
+      {
+        "away": "39",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/nimes-pOtlc1qr/summary/stats/?mid=fkxxcQyA",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/nimes-pOtlc1qr/?mid=fkxxcQyA"
   },
@@ -6968,8 +7118,58 @@
     "home": "Orleans",
     "home_goals": 0,
     "id": "jHVpe46M",
+    "shots": {
+      "AS": 10,
+      "AST": 3,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "29.07.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "5",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "32",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/orleans-AqswAEFD/summary/stats/?mid=jHVpe46M",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/orleans-AqswAEFD/?mid=jHVpe46M"
   },
@@ -8206,8 +8406,58 @@
     "home": "Red Star",
     "home_goals": 0,
     "id": "pvVlfOLS",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 2,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "30.07.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "0",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "36",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/red-star-2kM6ufaS/summary/stats/?mid=pvVlfOLS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/red-star-2kM6ufaS/?mid=pvVlfOLS"
   },
@@ -8980,8 +9230,58 @@
     "home": "Valenciennes",
     "home_goals": 2,
     "id": "tnAPmMbd",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 17,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "29.07.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "17",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "26",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/valenciennes-O8dsB372/summary/stats/?mid=tnAPmMbd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/valenciennes-O8dsB372/?mid=tnAPmMbd"
   },
