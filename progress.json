@@ -6,17 +6,16 @@
   "initial_missing_matches": 30073,
   "last_run": {
     "flashscore": {
-      "reason": "Daily request budget reached (400/400); resumes next UTC day",
-      "requests": 0,
+      "reason": "Run request budget reached (20/20)",
+      "requests": 20,
       "status": "paused_by_budget",
       "target": "Germany/D2/2012-2013"
     },
     "sofascore": {
-      "previous_status": "Blocked",
       "reason": "HTTP 403: source denied access",
-      "requests": 0,
-      "retry_at": 1795755592.3543549,
-      "status": "waiting_after_error",
+      "requests": 1,
+      "retry_at": 1795854215.4846358,
+      "status": "Blocked",
       "target": "Netherlands/N1/2016-2017"
     }
   },
@@ -1201,7 +1200,7 @@
           "phase": "statistics",
           "reason": null,
           "statistics_available": 2,
-          "statistics_checked": 260
+          "statistics_checked": 279
         },
         "sofascore": {
           "all_shot_values": 0,
@@ -3828,5 +3827,5 @@
   "source_tasks_total": 230,
   "status": "in_progress",
   "target_seasons": 115,
-  "updated_utc": "2026-11-26T23:49:51.214871+00:00"
+  "updated_utc": "2026-11-27T08:28:33.546328+00:00"
 }
