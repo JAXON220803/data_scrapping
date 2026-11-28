@@ -3646,8 +3646,58 @@
     "home": "Valenciennes",
     "home_goals": 2,
     "id": "ERh9Fp6d",
+    "shots": {
+      "AS": 15,
+      "AST": 7,
+      "HS": 15,
+      "HST": 11
+    },
     "source": "flashscore",
     "source_status": "28.10.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/valenciennes-O8dsB372/summary/stats/?mid=ERh9Fp6d",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/valenciennes-O8dsB372/?mid=ERh9Fp6d"
   },
@@ -4574,8 +4624,58 @@
     "home": "Red Star",
     "home_goals": 3,
     "id": "GjDYLnTS",
+    "shots": {
+      "AS": 12,
+      "AST": 4,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "28.10.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "37",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/tours-lrpZ4Lr7/summary/stats/?mid=GjDYLnTS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/tours-lrpZ4Lr7/?mid=GjDYLnTS"
   },
@@ -6078,8 +6178,58 @@
     "home": "Orleans",
     "home_goals": 1,
     "id": "MTDUMSDM",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "28.10.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "32",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/troyes-fsfAHubD/summary/stats/?mid=MTDUMSDM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/orleans-AqswAEFD/troyes-fsfAHubD/?mid=MTDUMSDM"
   },
@@ -8886,8 +9036,58 @@
     "home": "AC Ajaccio",
     "home_goals": 1,
     "id": "UatIRjai",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 4,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "28.10.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "7",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "34",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/laval-E1wDrLsJ/summary/stats/?mid=UatIRjai",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/laval-E1wDrLsJ/?mid=UatIRjai"
   },
@@ -10194,8 +10394,58 @@
     "home": "Amiens",
     "home_goals": 0,
     "id": "d83AVa0P",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "24.10.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "34",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/red-star-2kM6ufaS/summary/stats/?mid=d83AVa0P",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/red-star-2kM6ufaS/?mid=d83AVa0P"
   },
@@ -11960,8 +12210,58 @@
     "home": "Lens",
     "home_goals": 1,
     "id": "l6rkOHha",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 9,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "22.10.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "22",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/reims-tItR6sEf/summary/stats/?mid=l6rkOHha",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/reims-tItR6sEf/?mid=l6rkOHha"
   },
