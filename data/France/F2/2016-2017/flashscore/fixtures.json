@@ -472,8 +472,58 @@
     "home": "Amiens",
     "home_goals": 3,
     "id": "2VXGqA2n",
+    "shots": {
+      "AS": 10,
+      "AST": 6,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "09.09.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/tours-lrpZ4Lr7/summary/stats/?mid=2VXGqA2n",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/tours-lrpZ4Lr7/?mid=2VXGqA2n"
   },
@@ -2244,8 +2294,58 @@
     "home": "Sochaux",
     "home_goals": 2,
     "id": "C05fS8XB",
+    "shots": {
+      "AS": 8,
+      "AST": 4,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "29.08.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "0",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "42",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/sochaux-jPojkLXK/summary/stats/?mid=C05fS8XB",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/sochaux-jPojkLXK/?mid=C05fS8XB"
   },
@@ -2268,8 +2368,58 @@
     "home": "Lens",
     "home_goals": 1,
     "id": "CMtVvnHH",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "09.09.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/lens-IBmris38/summary/stats/?mid=CMtVvnHH",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/lens-IBmris38/?mid=CMtVvnHH"
   },
@@ -8902,8 +9052,58 @@
     "home": "Tours",
     "home_goals": 1,
     "id": "ji4bRSnI",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 8,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "26.08.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/reims-tItR6sEf/tours-lrpZ4Lr7/summary/stats/?mid=ji4bRSnI",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/tours-lrpZ4Lr7/?mid=ji4bRSnI"
   },
@@ -9540,8 +9740,58 @@
     "home": "Valenciennes",
     "home_goals": 2,
     "id": "nJc7P6HU",
+    "shots": {
+      "AS": 16,
+      "AST": 4,
+      "HS": 11,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "26.08.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "12",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/valenciennes-O8dsB372/summary/stats/?mid=nJc7P6HU",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/valenciennes-O8dsB372/?mid=nJc7P6HU"
   },
@@ -10340,8 +10590,58 @@
     "home": "Red Star",
     "home_goals": 0,
     "id": "rR0jTlI5",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "27.08.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "8",
+        "home": "0",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "14",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/red-star-2kM6ufaS/summary/stats/?mid=rR0jTlI5",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/red-star-2kM6ufaS/?mid=rR0jTlI5"
   },
