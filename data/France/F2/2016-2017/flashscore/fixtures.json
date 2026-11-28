@@ -154,8 +154,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 0,
     "id": "0OOFhQ2E",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 5,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "23.09.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "26",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "45",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/laval-E1wDrLsJ/summary/stats/?mid=0OOFhQ2E",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/laval-E1wDrLsJ/?mid=0OOFhQ2E"
   },
@@ -364,8 +414,58 @@
     "home": "Troyes",
     "home_goals": 3,
     "id": "0n72qMP0",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "23.09.2016",
+    "statistics": [
+      {
+        "away": "41%",
+        "home": "59%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/tours-lrpZ4Lr7/troyes-fsfAHubD/summary/stats/?mid=0n72qMP0",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/tours-lrpZ4Lr7/troyes-fsfAHubD/?mid=0n72qMP0"
   },
@@ -1992,8 +2092,58 @@
     "home": "Clermont",
     "home_goals": 0,
     "id": "8lSNj4XQ",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 12,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "23.09.2016",
+    "statistics": [
+      {
+        "away": "50%",
+        "home": "50%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "28",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/strasbourg-nP6UzIU1/summary/stats/?mid=8lSNj4XQ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/strasbourg-nP6UzIU1/?mid=8lSNj4XQ"
   },
@@ -10828,8 +10978,58 @@
     "home": "Le Havre",
     "home_goals": 1,
     "id": "nHSviDR9",
+    "shots": {
+      "AS": 13,
+      "AST": 2,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "20.09.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "11",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "20",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/summary/stats/?mid=nHSviDR9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/?mid=nHSviDR9"
   },
@@ -12454,8 +12654,58 @@
     "home": "Lens",
     "home_goals": 4,
     "id": "tvSrjXtG",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "20.09.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "26",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/orleans-AqswAEFD/summary/stats/?mid=tvSrjXtG",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/orleans-AqswAEFD/?mid=tvSrjXtG"
   },
@@ -13626,8 +13876,58 @@
     "home": "Niort",
     "home_goals": 0,
     "id": "zupHXOQl",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 9,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "20.09.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/niort-SW30dLbl/summary/stats/?mid=zupHXOQl",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/niort-SW30dLbl/?mid=zupHXOQl"
   },
