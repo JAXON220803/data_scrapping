@@ -3384,8 +3384,58 @@
     "home": "Strasbourg",
     "home_goals": 2,
     "id": "EP1teJOC",
+    "shots": {
+      "AS": 12,
+      "AST": 9,
+      "HS": 4,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "01.10.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/valenciennes-O8dsB372/summary/stats/?mid=EP1teJOC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/valenciennes-O8dsB372/?mid=EP1teJOC"
   },
@@ -8718,8 +8768,58 @@
     "home": "Le Havre",
     "home_goals": 2,
     "id": "WSjMasAs",
+    "shots": {
+      "AS": 7,
+      "AST": 5,
+      "HS": 13,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "03.10.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "23",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/sochaux-jPojkLXK/summary/stats/?mid=WSjMasAs",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/sochaux-jPojkLXK/?mid=WSjMasAs"
   },
@@ -9114,8 +9214,58 @@
     "home": "AC Ajaccio",
     "home_goals": 1,
     "id": "YiBo6qXD",
+    "shots": {
+      "AS": 7,
+      "AST": 7,
+      "HS": 5,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "30.09.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "0",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "14",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/brest-Cr4VGaUl/summary/stats/?mid=YiBo6qXD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/brest-Cr4VGaUl/?mid=YiBo6qXD"
   },
@@ -10110,8 +10260,58 @@
     "home": "Tours",
     "home_goals": 0,
     "id": "hG0pfwvJ",
+    "shots": {
+      "AS": 8,
+      "AST": 6,
+      "HS": 7,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "30.09.2016",
+    "statistics": [
+      {
+        "away": "56%",
+        "home": "44%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "21",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "39",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/tours-lrpZ4Lr7/summary/stats/?mid=hG0pfwvJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/tours-lrpZ4Lr7/?mid=hG0pfwvJ"
   },
@@ -11726,8 +11926,58 @@
     "home": "Amiens",
     "home_goals": 0,
     "id": "neFk53nK",
+    "shots": {
+      "AS": 5,
+      "AST": 1,
+      "HS": 8,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "30.09.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "33",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/troyes-fsfAHubD/summary/stats/?mid=neFk53nK",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/troyes-fsfAHubD/?mid=neFk53nK"
   },
@@ -13402,8 +13652,58 @@
     "home": "Nimes",
     "home_goals": 0,
     "id": "vgfUcLvf",
+    "shots": {
+      "AS": 5,
+      "AST": 1,
+      "HS": 15,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "30.09.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "44",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/nimes-pOtlc1qr/summary/stats/?mid=vgfUcLvf",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/nimes-pOtlc1qr/?mid=vgfUcLvf"
   },
