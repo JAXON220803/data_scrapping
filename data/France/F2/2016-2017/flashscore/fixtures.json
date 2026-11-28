@@ -810,8 +810,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 4,
     "id": "2LxK24RE",
+    "shots": {
+      "AS": 12,
+      "AST": 3,
+      "HS": 12,
+      "HST": 8
+    },
     "source": "flashscore",
     "source_status": "25.11.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/red-star-2kM6ufaS/summary/stats/?mid=2LxK24RE",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/red-star-2kM6ufaS/?mid=2LxK24RE"
   },
@@ -4602,8 +4652,58 @@
     "home": "Nimes",
     "home_goals": 3,
     "id": "GSIfd24r",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 12,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "25.11.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/reims-tItR6sEf/summary/stats/?mid=GSIfd24r",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/reims-tItR6sEf/?mid=GSIfd24r"
   },
@@ -7668,8 +7768,58 @@
     "home": "Brest",
     "home_goals": 2,
     "id": "OGbskocF",
+    "shots": {
+      "AS": 11,
+      "AST": 5,
+      "HS": 12,
+      "HST": 9
+    },
     "source": "flashscore",
     "source_status": "21.11.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "9",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "11",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "45",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/niort-SW30dLbl/summary/stats/?mid=OGbskocF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/niort-SW30dLbl/?mid=OGbskocF"
   },
@@ -7754,8 +7904,58 @@
     "home": "Tours",
     "home_goals": 2,
     "id": "Ob9FivJD",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 8,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "25.11.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "30",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/tours-lrpZ4Lr7/summary/stats/?mid=Ob9FivJD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/tours-lrpZ4Lr7/?mid=Ob9FivJD"
   },
@@ -8088,8 +8288,58 @@
     "home": "Lens",
     "home_goals": 1,
     "id": "OzRS0rdR",
+    "shots": {
+      "AS": 4,
+      "AST": 1,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "25.11.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/lens-IBmris38/summary/stats/?mid=OzRS0rdR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/lens-IBmris38/?mid=OzRS0rdR"
   },
@@ -14034,8 +14284,58 @@
     "home": "Le Havre",
     "home_goals": 0,
     "id": "pWnjmPRR",
+    "shots": {
+      "AS": 12,
+      "AST": 2,
+      "HS": 6,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "19.11.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "12",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "16",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/le-havre-CIEe04GT/summary/stats/?mid=pWnjmPRR",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/le-havre-CIEe04GT/?mid=pWnjmPRR"
   },
