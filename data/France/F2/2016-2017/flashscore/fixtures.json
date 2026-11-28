@@ -736,8 +736,58 @@
     "home": "Clermont",
     "home_goals": 3,
     "id": "27col5CL",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 10,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/gfc-ajaccio-QZuxDxup/summary/stats/?mid=27col5CL",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/gfc-ajaccio-QZuxDxup/?mid=27col5CL"
   },
@@ -3426,8 +3476,58 @@
     "home": "Sochaux",
     "home_goals": 2,
     "id": "CtXUusK1",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 11,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "26",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/tours-lrpZ4Lr7/summary/stats/?mid=CtXUusK1",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/sochaux-jPojkLXK/tours-lrpZ4Lr7/?mid=CtXUusK1"
   },
@@ -8456,8 +8556,58 @@
     "home": "Strasbourg",
     "home_goals": 1,
     "id": "SUIrUqLk",
+    "shots": {
+      "AS": 4,
+      "AST": 3,
+      "HS": 10,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "05.11.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "18",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "41",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/reims-tItR6sEf/strasbourg-nP6UzIU1/summary/stats/?mid=SUIrUqLk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/reims-tItR6sEf/strasbourg-nP6UzIU1/?mid=SUIrUqLk"
   },
@@ -9472,8 +9622,58 @@
     "home": "Lens",
     "home_goals": 1,
     "id": "Ugw8znrM",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 9,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "07.11.2016",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "8",
+        "home": "18",
+        "name": "Free kicks"
+      },
+      {
+        "away": "20",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/lens-IBmris38/summary/stats/?mid=Ugw8znrM",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/lens-IBmris38/?mid=Ugw8znrM"
   },
@@ -16118,8 +16318,58 @@
     "home": "Laval",
     "home_goals": 0,
     "id": "zXw4ySSF",
+    "shots": {
+      "AS": 9,
+      "AST": 5,
+      "HS": 6,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "04.11.2016",
+    "statistics": [
+      {
+        "away": "52%",
+        "home": "48%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "21",
+        "home": "40",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/summary/stats/?mid=zXw4ySSF",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/le-havre-CIEe04GT/?mid=zXw4ySSF"
   },
@@ -16130,8 +16380,58 @@
     "home": "Troyes",
     "home_goals": 2,
     "id": "zeMjSNk2",
+    "shots": {
+      "AS": 3,
+      "AST": 0,
+      "HS": 13,
+      "HST": 5
+    },
     "source": "flashscore",
     "source_status": "04.11.2016",
+    "statistics": [
+      {
+        "away": "49%",
+        "home": "51%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "0",
+        "home": "5",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "8",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "17",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/troyes-fsfAHubD/valenciennes-O8dsB372/summary/stats/?mid=zeMjSNk2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/troyes-fsfAHubD/valenciennes-O8dsB372/?mid=zeMjSNk2"
   },
