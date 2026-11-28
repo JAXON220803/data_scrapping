@@ -3432,8 +3432,58 @@
     "home": "GFC Ajaccio",
     "home_goals": 0,
     "id": "EV4jnOur",
+    "shots": {
+      "AS": 10,
+      "AST": 5,
+      "HS": 14,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "23.09.2016",
+    "statistics": [
+      {
+        "away": "45%",
+        "home": "55%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "10",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "20",
+        "home": "38",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/nimes-pOtlc1qr/summary/stats/?mid=EV4jnOur",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/nimes-pOtlc1qr/?mid=EV4jnOur"
   },
@@ -5158,8 +5208,58 @@
     "home": "Sochaux",
     "home_goals": 1,
     "id": "KlN3s0fD",
+    "shots": {
+      "AS": 8,
+      "AST": 3,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "23.09.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "9",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "33",
+        "home": "37",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/sochaux-jPojkLXK/summary/stats/?mid=KlN3s0fD",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/sochaux-jPojkLXK/?mid=KlN3s0fD"
   },
@@ -5502,8 +5602,58 @@
     "home": "Auxerre",
     "home_goals": 0,
     "id": "MXPBg6m8",
+    "shots": {
+      "AS": 13,
+      "AST": 7,
+      "HS": 5,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "23.09.2016",
+    "statistics": [
+      {
+        "away": "53%",
+        "home": "47%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "13",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "13",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "11",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "21",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/le-havre-CIEe04GT/summary/stats/?mid=MXPBg6m8",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/le-havre-CIEe04GT/?mid=MXPBg6m8"
   },
@@ -5638,8 +5788,58 @@
     "home": "Red Star",
     "home_goals": 0,
     "id": "Me8bp2Af",
+    "shots": {
+      "AS": 9,
+      "AST": 1,
+      "HS": 7,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "23.09.2016",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "10",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "23",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/red-star-2kM6ufaS/summary/stats/?mid=Me8bp2Af",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/red-star-2kM6ufaS/?mid=Me8bp2Af"
   },
@@ -7218,8 +7418,58 @@
     "home": "Orleans",
     "home_goals": 1,
     "id": "SY8forel",
+    "shots": {
+      "AS": 10,
+      "AST": 7,
+      "HS": 9,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "23.09.2016",
+    "statistics": [
+      {
+        "away": "46%",
+        "home": "54%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "9",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "12",
+        "name": "Free kicks"
+      },
+      {
+        "away": "35",
+        "home": "36",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/orleans-AqswAEFD/summary/stats/?mid=SY8forel",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/orleans-AqswAEFD/?mid=SY8forel"
   },
@@ -12506,8 +12756,58 @@
     "home": "Valenciennes",
     "home_goals": 1,
     "id": "tbOartu7",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 15,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "24.09.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "15",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "11",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "6",
+        "home": "5",
+        "name": "Free kicks"
+      },
+      {
+        "away": "22",
+        "home": "31",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/valenciennes-O8dsB372/summary/stats/?mid=tbOartu7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/valenciennes-O8dsB372/?mid=tbOartu7"
   },
