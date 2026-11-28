@@ -4478,8 +4478,58 @@
     "home": "Red Star",
     "home_goals": 1,
     "id": "GEwMs3kk",
+    "shots": {
+      "AS": 6,
+      "AST": 4,
+      "HS": 6,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "54%",
+        "home": "46%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "17",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "35",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/troyes-fsfAHubD/summary/stats/?mid=GEwMs3kk",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/red-star-2kM6ufaS/troyes-fsfAHubD/?mid=GEwMs3kk"
   },
@@ -4936,8 +4986,58 @@
     "home": "Auxerre",
     "home_goals": 1,
     "id": "GjawjRs9",
+    "shots": {
+      "AS": 15,
+      "AST": 5,
+      "HS": 4,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "55%",
+        "home": "45%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "15",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "15",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "10",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "16",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "26",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/lens-IBmris38/summary/stats/?mid=GjawjRs9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/lens-IBmris38/?mid=GjawjRs9"
   },
@@ -7048,8 +7148,58 @@
     "home": "Orleans",
     "home_goals": 2,
     "id": "MivIrqzq",
+    "shots": {
+      "AS": 8,
+      "AST": 2,
+      "HS": 12,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "12",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "19",
+        "home": "9",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/orleans-AqswAEFD/summary/stats/?mid=MivIrqzq",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/orleans-AqswAEFD/?mid=MivIrqzq"
   },
@@ -11216,8 +11366,58 @@
     "home": "Reims",
     "home_goals": 0,
     "id": "f5xQtN4e",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 11,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "40%",
+        "home": "60%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "24",
+        "home": "45",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/reims-tItR6sEf/summary/stats/?mid=f5xQtN4e",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/laval-E1wDrLsJ/reims-tItR6sEf/?mid=f5xQtN4e"
   },
@@ -12328,8 +12528,58 @@
     "home": "Valenciennes",
     "home_goals": 3,
     "id": "jXVYv1Z7",
+    "shots": {
+      "AS": 17,
+      "AST": 8,
+      "HS": 10,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "51%",
+        "home": "49%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "17",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "8",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "22",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/valenciennes-O8dsB372/summary/stats/?mid=jXVYv1Z7",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/valenciennes-O8dsB372/?mid=jXVYv1Z7"
   },
@@ -15762,8 +16012,58 @@
     "home": "AC Ajaccio",
     "home_goals": 2,
     "id": "x00Zj7S2",
+    "shots": {
+      "AS": 5,
+      "AST": 2,
+      "HS": 6,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "18.11.2016",
+    "statistics": [
+      {
+        "away": "44%",
+        "home": "56%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "5",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "13",
+        "home": "15",
+        "name": "Free kicks"
+      },
+      {
+        "away": "36",
+        "home": "47",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/strasbourg-nP6UzIU1/summary/stats/?mid=x00Zj7S2",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/strasbourg-nP6UzIU1/?mid=x00Zj7S2"
   },
