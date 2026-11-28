@@ -1032,8 +1032,58 @@
     "home": "Amiens",
     "home_goals": 0,
     "id": "2snivUrc",
+    "shots": {
+      "AS": 6,
+      "AST": 3,
+      "HS": 14,
+      "HST": 7
+    },
     "source": "flashscore",
     "source_status": "04.11.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "14",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "28",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/auxerre-MTLr36WA/summary/stats/?mid=2snivUrc",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/amiens-sc-lKkBAsxF/auxerre-MTLr36WA/?mid=2snivUrc"
   },
@@ -2416,8 +2466,58 @@
     "home": "Nimes",
     "home_goals": 1,
     "id": "8pxCZ5cS",
+    "shots": {
+      "AS": 9,
+      "AST": 3,
+      "HS": 10,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "04.11.2016",
+    "statistics": [
+      {
+        "away": "57%",
+        "home": "43%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "10",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "1",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "17",
+        "home": "21",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/nimes-pOtlc1qr/summary/stats/?mid=8pxCZ5cS",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/clermont-IRuMRua1/nimes-pOtlc1qr/?mid=8pxCZ5cS"
   },
@@ -6786,8 +6886,58 @@
     "home": "Tours",
     "home_goals": 0,
     "id": "MiInT3zd",
+    "shots": {
+      "AS": 3,
+      "AST": 2,
+      "HS": 6,
+      "HST": 4
+    },
     "source": "flashscore",
     "source_status": "04.11.2016",
+    "statistics": [
+      {
+        "away": "60%",
+        "home": "40%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "4",
+        "name": "Shots on target"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "20",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "38",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/tours-lrpZ4Lr7/summary/stats/?mid=MiInT3zd",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/tours-lrpZ4Lr7/?mid=MiInT3zd"
   },
@@ -7428,8 +7578,58 @@
     "home": "GFC Ajaccio",
     "home_goals": 2,
     "id": "Odz0x8D9",
+    "shots": {
+      "AS": 11,
+      "AST": 6,
+      "HS": 5,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "04.11.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "11",
+        "home": "5",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "2",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "2",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "14",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "19",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/red-star-2kM6ufaS/summary/stats/?mid=Odz0x8D9",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/gfc-ajaccio-QZuxDxup/red-star-2kM6ufaS/?mid=Odz0x8D9"
   },
@@ -12792,8 +12992,58 @@
     "home": "Niort",
     "home_goals": 2,
     "id": "lvKvVP5q",
+    "shots": {
+      "AS": 9,
+      "AST": 4,
+      "HS": 7,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "04.11.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "5",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "9",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "19",
+        "name": "Free kicks"
+      },
+      {
+        "away": "23",
+        "home": "29",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/sochaux-jPojkLXK/summary/stats/?mid=lvKvVP5q",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/sochaux-jPojkLXK/?mid=lvKvVP5q"
   },
@@ -14644,8 +14894,58 @@
     "home": "Bourg en Bresse",
     "home_goals": 0,
     "id": "tYpewlb3",
+    "shots": {
+      "AS": 7,
+      "AST": 4,
+      "HS": 6,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "04.11.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "14",
+        "home": "26",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "30",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/orleans-AqswAEFD/summary/stats/?mid=tYpewlb3",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/bourg-peronnas-Ict2iv2P/orleans-AqswAEFD/?mid=tYpewlb3"
   },
