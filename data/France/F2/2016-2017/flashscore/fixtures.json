@@ -638,8 +638,58 @@
     "home": "Nimes",
     "home_goals": 0,
     "id": "0tngNy85",
+    "shots": {
+      "AS": 5,
+      "AST": 1,
+      "HS": 6,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "21.10.2016",
+    "statistics": [
+      {
+        "away": "47%",
+        "home": "53%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "5",
+        "home": "6",
+        "name": "Total shots"
+      },
+      {
+        "away": "1",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "4",
+        "name": "Shots off target"
+      },
+      {
+        "away": "2",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "22",
+        "home": "20",
+        "name": "Free kicks"
+      },
+      {
+        "away": "40",
+        "home": "27",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/sochaux-jPojkLXK/summary/stats/?mid=0tngNy85",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/nimes-pOtlc1qr/sochaux-jPojkLXK/?mid=0tngNy85"
   },
@@ -4462,8 +4512,58 @@
     "home": "Laval",
     "home_goals": 0,
     "id": "GhpsQwOn",
+    "shots": {
+      "AS": 4,
+      "AST": 2,
+      "HS": 8,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "21.10.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "4",
+        "home": "8",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "2",
+        "home": "5",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "3",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "12",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "29",
+        "home": "20",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/laval-E1wDrLsJ/summary/stats/?mid=GhpsQwOn",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/laval-E1wDrLsJ/?mid=GhpsQwOn"
   },
@@ -8624,8 +8724,58 @@
     "home": "AC Ajaccio",
     "home_goals": 1,
     "id": "UXqTIMGJ",
+    "shots": {
+      "AS": 10,
+      "AST": 2,
+      "HS": 4,
+      "HST": 3
+    },
     "source": "flashscore",
     "source_status": "14.10.2016",
+    "statistics": [
+      {
+        "away": "48%",
+        "home": "52%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "10",
+        "home": "4",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "3",
+        "name": "Shots on target"
+      },
+      {
+        "away": "8",
+        "home": "1",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "9",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "15",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "31",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/reims-tItR6sEf/summary/stats/?mid=UXqTIMGJ",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/ac-ajaccio-2aeoANM8/reims-tItR6sEf/?mid=UXqTIMGJ"
   },
@@ -12300,8 +12450,58 @@
     "home": "Sochaux",
     "home_goals": 1,
     "id": "nwMJ8xgC",
+    "shots": {
+      "AS": 9,
+      "AST": 2,
+      "HS": 7,
+      "HST": 1
+    },
     "source": "flashscore",
     "source_status": "17.10.2016",
+    "statistics": [
+      {
+        "away": "66%",
+        "home": "34%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "7",
+        "name": "Total shots"
+      },
+      {
+        "away": "2",
+        "home": "1",
+        "name": "Shots on target"
+      },
+      {
+        "away": "7",
+        "home": "6",
+        "name": "Shots off target"
+      },
+      {
+        "away": "7",
+        "home": "4",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "8",
+        "name": "Free kicks"
+      },
+      {
+        "away": "25",
+        "home": "24",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/lens-IBmris38/sochaux-jPojkLXK/summary/stats/?mid=nwMJ8xgC",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/lens-IBmris38/sochaux-jPojkLXK/?mid=nwMJ8xgC"
   },
@@ -12780,8 +12980,58 @@
     "home": "Valenciennes",
     "home_goals": 3,
     "id": "r5FS6GNO",
+    "shots": {
+      "AS": 9,
+      "AST": 6,
+      "HS": 13,
+      "HST": 6
+    },
     "source": "flashscore",
     "source_status": "14.10.2016",
+    "statistics": [
+      {
+        "away": "42%",
+        "home": "58%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "9",
+        "home": "13",
+        "name": "Total shots"
+      },
+      {
+        "away": "6",
+        "home": "6",
+        "name": "Shots on target"
+      },
+      {
+        "away": "3",
+        "home": "7",
+        "name": "Shots off target"
+      },
+      {
+        "away": "3",
+        "home": "5",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "16",
+        "home": "11",
+        "name": "Free kicks"
+      },
+      {
+        "away": "30",
+        "home": "25",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/niort-SW30dLbl/valenciennes-O8dsB372/summary/stats/?mid=r5FS6GNO",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/niort-SW30dLbl/valenciennes-O8dsB372/?mid=r5FS6GNO"
   },
@@ -13866,8 +14116,58 @@
     "home": "Brest",
     "home_goals": 2,
     "id": "v7Z2CKgm",
+    "shots": {
+      "AS": 7,
+      "AST": 3,
+      "HS": 11,
+      "HST": 2
+    },
     "source": "flashscore",
     "source_status": "15.10.2016",
+    "statistics": [
+      {
+        "away": "39%",
+        "home": "61%",
+        "name": "Ball possession"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "7",
+        "home": "11",
+        "name": "Total shots"
+      },
+      {
+        "away": "3",
+        "home": "2",
+        "name": "Shots on target"
+      },
+      {
+        "away": "4",
+        "home": "9",
+        "name": "Shots off target"
+      },
+      {
+        "away": "4",
+        "home": "7",
+        "name": "Corner kicks"
+      },
+      {
+        "away": "10",
+        "home": "13",
+        "name": "Free kicks"
+      },
+      {
+        "away": "27",
+        "home": "28",
+        "name": "Throw-ins"
+      }
+    ],
+    "statistics_status": "available",
+    "statistics_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/summary/stats/?mid=v7Z2CKgm",
     "status": "finished",
     "url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/strasbourg-nP6UzIU1/?mid=v7Z2CKgm"
   },
